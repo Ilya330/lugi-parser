@@ -28,8 +28,10 @@ DROP_JSON = os.environ.get("DROP_JSON", os.path.join(HERE, "drop.json"))
 OUT = os.environ.get("FEED_OUT", os.path.join(HERE, "docs", "feed.xml"))
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/120 Safari/537.36"
 
-# Какое поле дроп-данных кладём в <vendorprice> (опт). Переключение цены — здесь.
-FEED_OPT_FIELD = os.environ.get("FEED_OPT_FIELD", "price_drop")
+# Приоритет полей для <vendorprice> (опт): берём ПЕРВОЕ непустое.
+# По умолчанию сначала акционная дроп-цена, при её отсутствии — обычная дроп-цена.
+FEED_OPT_FIELDS = [s.strip() for s in os.environ.get(
+    "FEED_OPT_FIELDS", "discount_price_drop,price_drop").split(",") if s.strip()]
 # Дополнительно класть акционную дроп-цену отдельным тегом.
 INCLUDE_DISCOUNT = os.environ.get("INCLUDE_DISCOUNT", "1") == "1"
 
@@ -71,7 +73,8 @@ def main():
     xml = download(FEED_URL)
     print(f"  получено {len(xml.encode('utf-8'))} байт", file=sys.stderr)
 
-    stats = {"offers": 0, "matched": 0, "no_code": 0, "no_price": 0, "unmatched": 0}
+    stats = {"offers": 0, "matched": 0, "no_code": 0, "no_price": 0,
+             "unmatched": 0, "from_discount": 0, "from_drop": 0}
 
     def process_offer(m):
         block = m.group(0)
@@ -85,10 +88,20 @@ def main():
         if not rec:
             stats["unmatched"] += 1
             return block
-        opt = num(rec.get(FEED_OPT_FIELD))
+        opt = None
+        used_field = None
+        for fld in FEED_OPT_FIELDS:
+            opt = num(rec.get(fld))
+            if opt is not None:
+                used_field = fld
+                break
         if opt is None:
             stats["no_price"] += 1
             return block
+        if used_field == "discount_price_drop":
+            stats["from_discount"] += 1
+        else:
+            stats["from_drop"] += 1
         inject = f"\n<vendorprice>{opt}</vendorprice>"
         if INCLUDE_DISCOUNT:
             disc = num(rec.get("discount_price_drop"))
@@ -105,8 +118,9 @@ def main():
         f.write(out)
 
     print(
-        "Итого: offers={offers} matched={matched} unmatched={unmatched} "
-        "no_code={no_code} no_price={no_price}".format(**stats),
+        "Итого: offers={offers} matched={matched} (из них акц.={from_discount} "
+        "обычн.дроп={from_drop}) unmatched={unmatched} no_code={no_code} "
+        "no_price={no_price}".format(**stats),
         file=sys.stderr,
     )
     print(f"Записан фид: {OUT} ({len(out.encode('utf-8'))} байт)", file=sys.stderr)

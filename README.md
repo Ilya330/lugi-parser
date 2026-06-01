@@ -43,11 +43,13 @@ SPREADSHEET_ID=<id> python3 to_sheets.py
 |---|---|---|
 | `MANAGER_ID` | `2` | менеджер в прайс-листе |
 | `GROUP_NAME` | `products-drop` | тип цен (`products-drop-pro`, `products-wholesale` …) |
-| `FEED_OPT_FIELD` | `price_drop` | какое поле дроп-данных кладём в `<vendorprice>` |
+| `FEED_OPT_FIELDS` | `discount_price_drop,price_drop` | приоритет полей для `<vendorprice>`: берётся первое непустое |
 | `INCLUDE_DISCOUNT` | `1` | дополнительно класть `<price_drop_discount>` |
 | `SPREADSHEET_ID` | — | id Google Таблицы (без него выгрузка пропускается) |
 
-**Сменить опт-цену в фиде** на акционную: `FEED_OPT_FIELD=discount_price_drop`.
+**Опт-цена в `<vendorprice>`:** по умолчанию сначала акционная дроп-цена
+(`discount_price_drop`), а если её нет — обычная дроп-цена (`price_drop`). Поменять порядок
+или оставить только одну цену: например `FEED_OPT_FIELDS=price_drop` (только обычная дроп).
 
 ## Google Таблица (разовая настройка)
 
