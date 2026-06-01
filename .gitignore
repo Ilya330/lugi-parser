@@ -1,0 +1,8 @@
+# Секрет — никогда не коммитим (в GitHub Actions берётся из secrets.GOOGLE_SA_JSON)
+service_account.json
+
+# Промежуточные артефакты
+drop.json
+*.pyc
+__pycache__/
+.DS_Store

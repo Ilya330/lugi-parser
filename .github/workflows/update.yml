@@ -1,0 +1,55 @@
+name: Update Lugi feed
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # 4 раза в сутки (00:00, 06:00, 12:00, 18:00 UTC)
+  workflow_dispatch: {}      # ручной запуск из вкладки Actions
+
+permissions:
+  contents: write            # коммитим docs/feed.xml
+
+concurrency:
+  group: update-feed
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Restore service account key
+        env:
+          GOOGLE_SA_JSON: ${{ secrets.GOOGLE_SA_JSON }}
+        run: |
+          if [ -n "$GOOGLE_SA_JSON" ]; then
+            printf '%s' "$GOOGLE_SA_JSON" > service_account.json
+            echo "service_account.json восстановлен"
+          else
+            echo "Секрет GOOGLE_SA_JSON не задан — выгрузка в таблицу будет пропущена"
+          fi
+
+      - name: Run pipeline
+        env:
+          SPREADSHEET_ID: ${{ secrets.SPREADSHEET_ID }}
+        run: python run.py
+
+      - name: Commit feed
+        run: |
+          rm -f service_account.json
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/feed.xml
+          if git diff --cached --quiet; then
+            echo "Изменений в фиде нет"
+          else
+            git commit -m "chore: обновление фида $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
