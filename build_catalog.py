@@ -56,8 +56,8 @@ def catalog_from_feed():
         params = [[html.unescape(n).strip(), html.unescape(v).strip()]
                   for n, v in re.findall(r'<param name="(.*?)">(.*?)</param>', b, re.DOTALL)]
         out[code.upper()] = {
-            "name": _tag(b, "name_ua") or _tag(b, "name"),
-            "description": _tag(b, "description_ua") or _tag(b, "description"),
+            "name": _tag(b, "name") or _tag(b, "name_ua"),
+            "description": _tag(b, "description") or _tag(b, "description_ua"),
             "pictures": [p.strip() for p in pics if p.strip()],
             "params": params,
             "vendor": _tag(b, "vendor"),

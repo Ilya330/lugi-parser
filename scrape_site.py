@@ -23,6 +23,10 @@ SITE = "https://lugi.com.ua"
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/120 Safari/537.36"
 WORKERS = int(os.environ.get("WORKERS", "8"))
 DELAY = float(os.environ.get("DELAY", "0.1"))
+# Язык сайта: ru -> поиск/карточки на русском (/ru/...). uk -> украинский.
+LANG = os.environ.get("SITE_LANG", "ru")
+SEARCH_URL = (f"{SITE}/ru/search/?search=" if LANG == "ru"
+              else f"{SITE}/search/?search=")
 
 # Маркер начала блока «Схожі товари» — всё после него (связанные товары) игнорируем.
 RELATED_MARKER = "Схожі товари"
@@ -65,11 +69,14 @@ def get(url, retries=3):
 
 
 def _product_href(block):
-    """Ссылка на карточку внутри блока результата (домен + одиночный slug)."""
+    """Ссылка на карточку внутри блока результата. uk: /<slug>/, ru: /ru/ru-<slug>/."""
     for href in re.findall(r'href="(https://lugi\.com\.ua/[^"#]+)"', block):
         if re.search(r'(route=|/index\.php|/image/|/search|/specials)', href):
             continue
         path = href[len(SITE):].strip("/")
+        # отбрасываем префикс языка, ожидаем одиночный slug карточки
+        if path.startswith("ru/"):
+            path = path[3:]
         if path and "/" not in path:
             return href
     return None
@@ -78,7 +85,7 @@ def _product_href(block):
 def find_product_url(sku):
     """Ищем товар по артикулу. Возвращаем URL карточки строго при совпадении
     product-model с артикулом; иначе None (товара нет на сайте)."""
-    url = f"{SITE}/search/?search=" + urllib.parse.quote(sku)
+    url = SEARCH_URL + urllib.parse.quote(sku)
     h = get(url)
     # Разбиваем на блоки результатов. Если их нет — товар не найден.
     blocks = re.split(r'(?=product-layout product-grid)', h)
