@@ -82,7 +82,7 @@ def main():
         print(f"Новых к до-скрейпу: {len(to_scrape)}", file=sys.stderr)
         found = scrape_site.scrape_many(to_scrape)
         for k, d in found.items():
-            d["params"] = []
+            d.setdefault("params", [])
             d["source"] = "site"
             catalog[k] = d
         missing = [k for k in to_scrape if k not in found]

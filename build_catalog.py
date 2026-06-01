@@ -95,7 +95,7 @@ def main():
     if gap:
         scraped = scrape_site.scrape_many(gap)
         for k, d in scraped.items():
-            d["params"] = []
+            d.setdefault("params", [])
             d["source"] = "site"
             catalog[k] = d
         print(f"Скрейп успешно: {len(scraped)} из {len(gap)} "

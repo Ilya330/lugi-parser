@@ -26,12 +26,15 @@ SPREADSHEET_ID = os.environ.get("SPREADSHEET_ID", "")
 SPREADSHEET_NAME = os.environ.get("SPREADSHEET_NAME", "Lugi товари")
 DROP_JSON = os.environ.get("DROP_JSON", os.path.join(HERE, "drop.json"))
 FEED_OUT = os.environ.get("FEED_OUT", os.path.join(HERE, "docs", "feed.xml"))
+NOT_ON_SITE = os.environ.get("NOT_ON_SITE_JSON", os.path.join(HERE, "not_on_site.json"))
 
 CELL_LIMIT = 50000
 DROP_HEADERS = ["Артикул", "Назва товару", "Зображення", "Категорія",
                 "Кількість", "Ціна РРЦ", "Ціна Дроп", "Ціна Дроп зі знижкою"]
 TOVAR_HEADERS = ["Артикул", "Назва товару", "Опис", "Зображення", "Категорія",
                  "Кількість", "Ціна РРЦ", "Ціна опт", "Посилання"]
+NOSITE_HEADERS = ["Артикул", "Назва товару", "Категорія", "Кількість", "Ціна РРЦ",
+                  "Ціна Дроп", "Ціна Дроп зі знижкою", "Зображення", "Пошук на сайті"]
 
 
 def build_drop_rows():
@@ -48,6 +51,31 @@ def build_drop_rows():
             rec.get("price_rrc") or "",
             rec.get("price_drop") or "",
             rec.get("discount_price_drop") or "",
+        ])
+    return rows
+
+
+def build_nosite_rows():
+    """Товары в наличии, которых НЕ нашлось на сайте (для ручной проверки)."""
+    if not os.path.exists(NOT_ON_SITE):
+        return []
+    skus = json.load(open(NOT_ON_SITE, encoding="utf-8"))
+    drop = json.load(open(DROP_JSON, encoding="utf-8"))
+    rows = []
+    for sku in skus:
+        rec = drop.get(sku)
+        if not rec:
+            continue
+        rows.append([
+            rec.get("vendor_code") or sku,
+            rec.get("product_name") or "",
+            rec.get("category") or "",
+            rec.get("quantity") or "",
+            rec.get("price_rrc") or "",
+            rec.get("price_drop") or "",
+            rec.get("discount_price_drop") or "",
+            rec.get("photo_url") or "",
+            "https://lugi.com.ua/search/?search=" + (rec.get("vendor_code") or sku),
         ])
     return rows
 
@@ -122,6 +150,7 @@ def main():
 
     drop_rows = build_drop_rows()
     tovar_rows = build_tovar_rows()
+    nosite_rows = build_nosite_rows()
 
     scopes = ["https://www.googleapis.com/auth/spreadsheets"]
     creds = Credentials.from_service_account_file(SA_JSON, scopes=scopes)
@@ -136,6 +165,7 @@ def main():
     sh = gc.open_by_key(SPREADSHEET_ID)
     write_sheet(sh, gspread, "Дроп", DROP_HEADERS, drop_rows)
     write_sheet(sh, gspread, "Товари", TOVAR_HEADERS, tovar_rows)
+    write_sheet(sh, gspread, "Немає на сайті", NOSITE_HEADERS, nosite_rows)
     print(f"Готово. Таблица: {sh.url}", file=sys.stderr)
 
 

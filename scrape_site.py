@@ -132,7 +132,21 @@ def parse_card(h):
             seen.add(img)
             pics.append(img)
 
-    return {"name": name, "description": desc, "pictures": pics}
+    # Характеристики: таблица div#tab-specification (блоки short-attribute).
+    params = []
+    spec = re.search(r'id="tab-specification"(.*)', main, re.DOTALL)
+    region = spec.group(1) if spec else main
+    for blk in re.findall(r'<div class="short-attribute">(.*?)</div>', region, re.DOTALL):
+        nm = re.search(r'attr-name"[^>]*>\s*<span>(.*?)</span>', blk, re.DOTALL)
+        vt = re.search(r'attr-text"[^>]*>\s*<span>(.*?)</span>', blk, re.DOTALL)
+        if not (nm and vt):
+            continue
+        n = re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]+>', '', nm.group(1)))).strip()
+        v = re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]+>', '', vt.group(1)))).strip()
+        if n and v:
+            params.append([n, v])
+
+    return {"name": name, "description": desc, "pictures": pics, "params": params}
 
 
 def scrape_sku(sku):
