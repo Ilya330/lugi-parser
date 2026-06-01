@@ -41,14 +41,14 @@ jobs:
           SPREADSHEET_ID: ${{ secrets.SPREADSHEET_ID }}
         run: python run.py
 
-      - name: Commit feed
+      - name: Commit feed & cache
         run: |
           rm -f service_account.json
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/feed.xml
+          git add docs/feed.xml catalog.json not_on_site.json
           if git diff --cached --quiet; then
-            echo "Изменений в фиде нет"
+            echo "Изменений нет"
           else
             git commit -m "chore: обновление фида $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
