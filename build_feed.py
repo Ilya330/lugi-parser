@@ -97,26 +97,22 @@ def main():
                         for v in targets.values() if (v.get("category") or "").strip()})
     cat_id = {name: i + 1 for i, name in enumerate(cat_names)}
 
-    # Сборка офферов.
+    # Сборка офферов. В фид попадают ТОЛЬКО товары с полными данными (есть на сайте/в фиде).
+    # Товары без карточки (нет на сайте) в фид НЕ включаем — они только в листе таблицы.
     offers = []
-    stats = {"feed": 0, "site": 0, "drop_fallback": 0}
+    stats = {"feed": 0, "site": 0, "skipped_no_card": 0}
     for sku, d in targets.items():
         info = catalog.get(sku)
-        if info:
-            name = info.get("name") or d.get("product_name") or ""
-            desc = info.get("description") or ""
-            pics = info.get("pictures") or []
-            params = info.get("params") or []
-            vendor = info.get("vendor") or ""
-            url = info.get("url") or ""
-            stats[info.get("source", "feed")] = stats.get(info.get("source", "feed"), 0) + 1
-        else:
-            # Fallback на базовую инфу из дроп-листа (дропшип без карточки).
-            name = d.get("product_name") or ""
-            desc = ""
-            pics = [d["photo_url"]] if d.get("photo_url") else []
-            params, vendor, url = [], "", ""
-            stats["drop_fallback"] += 1
+        if not info:
+            stats["skipped_no_card"] += 1
+            continue
+        name = info.get("name") or d.get("product_name") or ""
+        desc = info.get("description") or ""
+        pics = info.get("pictures") or []
+        params = info.get("params") or []
+        vendor = info.get("vendor") or ""
+        url = info.get("url") or ""
+        stats[info.get("source", "feed")] = stats.get(info.get("source", "feed"), 0) + 1
 
         rrc = num(d.get("price_rrc"))
         opt = opt_price(d)
@@ -168,8 +164,8 @@ def main():
         f.write(doc)
 
     print(f"Офферов в фиде: {len(offers)} (из фида={stats['feed']} "
-          f"скрейп-сайт={stats['site']} fallback-drop={stats['drop_fallback']})",
-          file=sys.stderr)
+          f"скрейп-сайт={stats['site']}); пропущено без карточки на сайте="
+          f"{stats['skipped_no_card']}", file=sys.stderr)
     print(f"Категорий: {len(cat_names)} | Записан: {OUT} "
           f"({len(doc.encode('utf-8'))} байт)", file=sys.stderr)
 

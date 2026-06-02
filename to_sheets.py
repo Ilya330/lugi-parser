@@ -163,9 +163,15 @@ def main():
         sys.exit(1)
 
     sh = gc.open_by_key(SPREADSHEET_ID)
+    # Удаляем старый лист с прежним названием, если остался.
+    try:
+        sh.del_worksheet(sh.worksheet("Немає на сайті"))
+    except gspread.WorksheetNotFound:
+        pass
+
     write_sheet(sh, gspread, "Дроп", DROP_HEADERS, drop_rows)
     write_sheet(sh, gspread, "Товари", TOVAR_HEADERS, tovar_rows)
-    write_sheet(sh, gspread, "Немає на сайті", NOSITE_HEADERS, nosite_rows)
+    write_sheet(sh, gspread, "Немає в наявності", NOSITE_HEADERS, nosite_rows)
     print(f"Готово. Таблица: {sh.url}", file=sys.stderr)
 
 
