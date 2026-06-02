@@ -22,7 +22,6 @@ import html as html_mod
 import json
 import os
 import sys
-import zlib
 
 import scrape_site
 
@@ -124,7 +123,7 @@ def main():
         qty = str(d.get("quantity", "")).strip()
         cname = (d.get("category") or "").strip()
 
-        parts = [f'<offer id="{zlib.crc32(sku.encode())}" available="true">']
+        parts = [f'<offer id="{esc(sku)}" available="true">']
         parts.append(f"<name>{esc(name)}</name>")
         if url:
             parts.append(f"<url>{esc(url)}</url>")
