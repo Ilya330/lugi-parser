@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-22 20:36">
+<yml_catalog date="2026-06-23 02:17">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -361,7 +361,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_9.jpg</picture>
 <vendor>Lugi</vendor>
 <description><![CDATA[Подкладка влагозащитная имеет размеры 195х143 см, что делает ее удобной для использования под палатками или другими походными аксессуарами. Она обеспечивает дополнительную защиту от влаги, предотвращая попадание влаги с земли на внутреннюю поверхность палатки или другого снаряжения.  Основные характеристики:    Размеры: 195х143х0.3 см; Материал: утеплитель с фольгированным покрытием; Количество шаров: 1; Наличие чехла: есть.   Материал подкладки изготовлен из водонепроницаемых материалов, эффективно защищающих от влаги и сырости. Это позволяет создать комфортные условия для отдыха на природе, даже во влажную погоду.  Подкладка является легкой и компактной, что позволяет без труда транспортировать ее в сложенном виде. Она также удобна для использования на любых природных поверхностях, добавляя защиту от грязи и влаги.]]></description>
-<quantity_in_stock>772</quantity_in_stock>
+<quantity_in_stock>771</quantity_in_stock>
 <vendorCode>SJ-0029-1</vendorCode>
 <param name="Комплектующие для палаток">Подкладка</param>
 <param name="Цвет">Серебристый</param>
@@ -748,7 +748,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7047/palatka_2_3_mesnaya_200x150x120_sm_turisticheskaya_palatka_kemping_rybalka_priroda_otdyh_3.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Двухместная однослойная туристическая палатка - отличный вариант для походов и кемпинга. Простому механизму установки палатку можно собрать за несколько минут.  Палатка изготовлена из полиэстера 190T, что обеспечивает хорошую водонепроницаемость. Вход продублирован москитной сеткой, позволяющей регулировать температуру внутри палатки. Каркас изготовлен из фибергласса &ndash; прочного и долговечного материала, не подверженного деформации и коррозии.   Характеристики:    Материал палатки: полиэстер 190T Материал каркаса: фибергласс Сезонность: трехсезонная Емкость: 2-3 человека Размеры: 200*150*120 см Размеры в сложенном виде: 60*15*10 см Комплектация: 2 дуги для палатки, 4 грунтовых колышка   Палатка имеет сумку-чехол с удобными ручками, что позволяет с легкостью организовать ее хранение и транспортировку.   Обратите внимание!    Перед каждым использованием проверяйте целостность палатки и элементов конструкции для обеспечения собственной безопасности. Устанавливайте палатку на ровном участке без камней, ветвей и острых предметов, которые могут повредить ткань. Устанавливайте палатку на безопасном расстоянии от костра. Во избежание дискомфорта во время сна, для установки выбирайте максимально плоский участок, покрытый травой или песком. Если местность холмистая, ложитесь ногами вниз по склону. Если во время кемпинга собирается дождь, выкапывайте дренажную канаву вокруг палатки для отвода воды. Канава должна располагаться максимально близко к внешнему краю палатки. Для дополнительной влагозащиты используйте футпринт.    Уход за палаткой    Очистка палатки от загрязнений после использования &ndash; важный аспект, напрямую влияющий на срок и качество ее службы. Чтобы сохранить снаряжение: Тщательно очистите дно и нижнюю часть палатки от песка и загрязнений. Чтобы избежать появления плесени, не складывайте палатку до полного высыхания или просушите ткань при первом случае. Не используйте моющие средства, чтобы избежать потерь водонепроницаемых свойств. Не стирайте палатку в стиральной машине. Храните палатку в сухом месте.]]></description>
-<quantity_in_stock>418</quantity_in_stock>
+<quantity_in_stock>417</quantity_in_stock>
 <vendorCode>SJ-0005</vendorCode>
 <param name="Высота">120</param>
 <param name="Тип изделия">Палатка</param>
@@ -2021,7 +2021,7 @@
 	<li>Металлический каркас и столешница</li>
 	<li>Максимальная нагрузка: 20 кг</li>
 </ul>]]></description>
-<quantity_in_stock>209</quantity_in_stock>
+<quantity_in_stock>208</quantity_in_stock>
 <vendorCode>SJ-0015-1</vendorCode>
 <param name="Гарантийный срок">14 дней</param>
 <param name="Вес">2 кг</param>
@@ -2714,31 +2714,6 @@
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="SJ-0015-120" available="true">
-<name>Стол для пикника складной 120×55×50 см уличный раскладной стол кемпинговый для отдыха на природе пикника SJ-0015-120</name>
-<price>1259</price>
-<vendorprice>828</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>70</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_6.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Раскладной уличный стол &ndash; это практичное решение для отдыха на природе, дачи или пикника. Благодаря прочной стальной конструкции он выдерживает нагрузку и обеспечивает стабильность на различных поверхностях. В разложенном виде размер 120&times;55&times;50 см позволяет комфортно разместить посуду, продукты и все необходимое для отдыха на свежем воздухе. Легкий вес 3.5 кг и компактные габариты в сложенном состоянии (70&times;25&times;20 см) делают стол удобным для транспортировки и хранения. Он быстро складывается и раскладывается, не занимает много места и станет незаменимым аксессуаром для кемпинга, рыбалки или путешествий. Это сочетание мобильности, надежности и комфорта для вашего активного отдыха.  Преимущества:   Компактность: В разобранном виде стол занимает минимум места, что позволяет перевозить его в багажнике любого автомобиля. Быстрая сборка: Процесс установки занимает не больше минуты - достаточно разложить каркас и зафиксировать на нем рулонную столешницу. Габариты: Длина столешницы 120 см позволяет комфортно разместиться компании из 4-6 человек.   Характеристики:   Материал: сталь Размер в разложенном состоянии: 120*55*50 см Размер в сложенном состоянии: 70*25*20 см Вес: 3,5 кг]]></description>
-<quantity_in_stock>181</quantity_in_stock>
-<vendorCode>SJ-0015-120</vendorCode>
-<param name="Высота">500</param>
-<param name="Вес">3.5</param>
-<param name="Материал каркаса (опор)">Сталь</param>
-<param name="Ширина">550</param>
-<param name="Цвет">Черный</param>
-<param name="Длина">1200</param>
-<param name="Форма стола">Прямоугольный</param>
-</offer>
 <offer id="HP-19-4-L-B" available="true">
 <name>Корзина сервировочная для картофеля фри и снеков 13×11×7 см Черная HP-19-4-L-B</name>
 <price>309</price>
@@ -2812,6 +2787,31 @@
 <param name="Количество в упаковке">4</param>
 <param name="Цвет">Прозрачный</param>
 <param name="Длина">200</param>
+</offer>
+<offer id="SJ-0015-120" available="true">
+<name>Стол для пикника складной 120×55×50 см уличный раскладной стол кемпинговый для отдыха на природе пикника SJ-0015-120</name>
+<price>1259</price>
+<vendorprice>828</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>70</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_6.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Раскладной уличный стол &ndash; это практичное решение для отдыха на природе, дачи или пикника. Благодаря прочной стальной конструкции он выдерживает нагрузку и обеспечивает стабильность на различных поверхностях. В разложенном виде размер 120&times;55&times;50 см позволяет комфортно разместить посуду, продукты и все необходимое для отдыха на свежем воздухе. Легкий вес 3.5 кг и компактные габариты в сложенном состоянии (70&times;25&times;20 см) делают стол удобным для транспортировки и хранения. Он быстро складывается и раскладывается, не занимает много места и станет незаменимым аксессуаром для кемпинга, рыбалки или путешествий. Это сочетание мобильности, надежности и комфорта для вашего активного отдыха.  Преимущества:   Компактность: В разобранном виде стол занимает минимум места, что позволяет перевозить его в багажнике любого автомобиля. Быстрая сборка: Процесс установки занимает не больше минуты - достаточно разложить каркас и зафиксировать на нем рулонную столешницу. Габариты: Длина столешницы 120 см позволяет комфортно разместиться компании из 4-6 человек.   Характеристики:   Материал: сталь Размер в разложенном состоянии: 120*55*50 см Размер в сложенном состоянии: 70*25*20 см Вес: 3,5 кг]]></description>
+<quantity_in_stock>180</quantity_in_stock>
+<vendorCode>SJ-0015-120</vendorCode>
+<param name="Высота">500</param>
+<param name="Вес">3.5</param>
+<param name="Материал каркаса (опор)">Сталь</param>
+<param name="Ширина">550</param>
+<param name="Цвет">Черный</param>
+<param name="Длина">1200</param>
+<param name="Форма стола">Прямоугольный</param>
 </offer>
 <offer id="SJ-0014B" available="true">
 <name>Кресло раскладное туристическое 50х80х80 см с подстаканником Черное SJ-0014B</name>
@@ -17666,27 +17666,6 @@
 <param name="Тип емкости">Кружка</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-5-56" available="true">
-<name>Сетевой фильтр-удлинитель 8 розеток 4xUSB-A 2xUSB-C 5м черный HP-5-56</name>
-<price>829</price>
-<vendorprice>613</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>73</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7008/setevoy_filtr_udlinitel_8_rozetok_4xusb_a_2xusb_c_5m_knopka_otklyucheniya_chernyy_udlinitel_elektricheskoy_zaryadki.png</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 8 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 8 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 27 &times; 11 &times; 4 см]]></description>
-<quantity_in_stock>264</quantity_in_stock>
-<vendorCode>HP-5-56</vendorCode>
-<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
-<param name="Длина шнура">5</param>
-<param name="Количество выходных розеток">6</param>
-<param name="Выключатель">Да</param>
-<param name="Входная вилка">ЕURO</param>
-<param name="Выходная розетка">Евро</param>
-<param name="Длина провода">5</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Черный</param>
-</offer>
 <offer id="SK1729BST" available="true">
 <name>Блендер ручной погружной из нержавейки Sokany универсальный металлический 800 Вт смузи мейкер мощный SK1729BST</name>
 <price>1629</price>
@@ -17846,6 +17825,27 @@
 <vendorCode>HP-36327-3</vendorCode>
 <param name="Материал">ПВХ</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-5-56" available="true">
+<name>Сетевой фильтр-удлинитель 8 розеток 4xUSB-A 2xUSB-C 5м черный HP-5-56</name>
+<price>829</price>
+<vendorprice>613</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>73</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7008/setevoy_filtr_udlinitel_8_rozetok_4xusb_a_2xusb_c_5m_knopka_otklyucheniya_chernyy_udlinitel_elektricheskoy_zaryadki.png</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 8 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 8 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 27 &times; 11 &times; 4 см]]></description>
+<quantity_in_stock>263</quantity_in_stock>
+<vendorCode>HP-5-56</vendorCode>
+<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+<param name="Длина шнура">5</param>
+<param name="Количество выходных розеток">6</param>
+<param name="Выключатель">Да</param>
+<param name="Входная вилка">ЕURO</param>
+<param name="Выходная розетка">Евро</param>
+<param name="Длина провода">5</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Черный</param>
 </offer>
 <offer id="1733065ML" available="true">
 <name>Гирлянда штора 3х0,9 м снежинка звезда на 145 LED лампочек светодиодная 10 шт 1733065ML</name>
@@ -66595,37 +66595,6 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Форма">Конус</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-S-3NDGR" available="true">
-<name>Детская игровая палатка 180×95×80 см палатка детская уличная на молнии Зеленый динозавр HP-S-3NDGR</name>
-<price>1089</price>
-<vendorprice>794</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>30</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000/HP-S-3NDGR/HPS3_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000/HP-S-3NDGR/HPS3_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000/HP-S-3NDGR/HPS3_9.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000/HP-S-3NDGR/HPS3_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000/HP-S-3NDGR/HPS3_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000/HP-S-3NDGR/HPS3_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000/HP-S-3NDGR/HPS3_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000/HP-S-3NDGR/HPS3_6.jpg</picture>
-<vendor>Lugi</vendor>
-<description><![CDATA[Подарите ребенку незабываемые игры в детской игровой палатке в форме забавного динозавра! Благодаря просторному размеру и оригинальному дизайну эта палатка станет настоящим хитом среди маленьких исследователей и любителей приключений.  Основные характеристики     игровой палатки   Размер в сложенном виде: 55×55×5 см; Размер в разложенном виде: 180×95×80 см; Внутренние размеры: 170×90×80 см; Материал: 100% полиэстер; Вход: на молнии.   Особенности игровой детской игровой палатки   Выполнена в форме добродушного динозавра с большими глазами, зубками и лапками. Яркий зеленый цвет привлекает внимание и делает игру еще увлекательнее. Просторный вход с застежкой-молнией. Три стороны изготовлены из сетчатого материала для хорошей вентиляции. Устойчивая конструкция из легкого, но прочного каркаса. Материал – 100% полиэстер, устойчивый к влаге и легко очищается.   Lетская палатка для дома "Динозавр" — это не просто палатка для игр, а целый мир фантазий, в котором ребенок сможет весело проводить время, придумывать новые игры и чувствовать себя настоящим охотником за приключениями!]]></description>
-<quantity_in_stock>28</quantity_in_stock>
-<vendorCode>HP-S-3NDGR</vendorCode>
-<param name="Тип">Палатка</param>
-<param name="Материал">Текстиль</param>
-<param name="Высота">800</param>
-<param name="Вес">0.6</param>
-<param name="Ширина">950</param>
-<param name="Сборно-разборная конструкция">Да</param>
-<param name="Цвет">Зелёный</param>
-<param name="Длина">1800</param>
-<param name="Размещение">В помещении/на улице</param>
-<param name="Возрастная группа">От 1 года</param>
-<param name="Пол">Унисекс</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="MD-16-1B" available="true">
 <name>Столовый сервиз фарфоровый Elama 16 предметов на 4 персоны</name>
 <url>https://lugi.com.ua/ru/stolovij-serv-z-16-predmet-v-md-16-1b/</url>
@@ -68594,6 +68563,37 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Цвет корпуса">Синий</param>
 <param name="Гарантия">14 дней</param>
 <param name="Чехол для хранения и транспортировки">Нет</param>
+</offer>
+<offer id="HP-S-3NDGR" available="true">
+<name>Детская игровая палатка 180×95×80 см палатка детская уличная на молнии Зеленый динозавр HP-S-3NDGR</name>
+<price>1089</price>
+<vendorprice>794</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>30</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000/HP-S-3NDGR/HPS3_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000/HP-S-3NDGR/HPS3_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000/HP-S-3NDGR/HPS3_9.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000/HP-S-3NDGR/HPS3_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000/HP-S-3NDGR/HPS3_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000/HP-S-3NDGR/HPS3_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000/HP-S-3NDGR/HPS3_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000/HP-S-3NDGR/HPS3_6.jpg</picture>
+<vendor>Lugi</vendor>
+<description><![CDATA[Подарите ребенку незабываемые игры в детской игровой палатке в форме забавного динозавра! Благодаря просторному размеру и оригинальному дизайну эта палатка станет настоящим хитом среди маленьких исследователей и любителей приключений.  Основные характеристики     игровой палатки   Размер в сложенном виде: 55×55×5 см; Размер в разложенном виде: 180×95×80 см; Внутренние размеры: 170×90×80 см; Материал: 100% полиэстер; Вход: на молнии.   Особенности игровой детской игровой палатки   Выполнена в форме добродушного динозавра с большими глазами, зубками и лапками. Яркий зеленый цвет привлекает внимание и делает игру еще увлекательнее. Просторный вход с застежкой-молнией. Три стороны изготовлены из сетчатого материала для хорошей вентиляции. Устойчивая конструкция из легкого, но прочного каркаса. Материал – 100% полиэстер, устойчивый к влаге и легко очищается.   Lетская палатка для дома "Динозавр" — это не просто палатка для игр, а целый мир фантазий, в котором ребенок сможет весело проводить время, придумывать новые игры и чувствовать себя настоящим охотником за приключениями!]]></description>
+<quantity_in_stock>26</quantity_in_stock>
+<vendorCode>HP-S-3NDGR</vendorCode>
+<param name="Тип">Палатка</param>
+<param name="Материал">Текстиль</param>
+<param name="Высота">800</param>
+<param name="Вес">0.6</param>
+<param name="Ширина">950</param>
+<param name="Сборно-разборная конструкция">Да</param>
+<param name="Цвет">Зелёный</param>
+<param name="Длина">1800</param>
+<param name="Размещение">В помещении/на улице</param>
+<param name="Возрастная группа">От 1 года</param>
+<param name="Пол">Унисекс</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-19-115" available="true">
 <name>Набор бокалов для шампанского 6 штук по 160 (мл) Серый HP-19-115</name>
