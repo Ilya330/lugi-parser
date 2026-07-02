@@ -167,29 +167,43 @@ def scrape_sku(sku):
 
 
 def scrape_many(skus, log_every=100):
-    """Многопоточно. Возвращает {SKU_UPPER: data} только для найденных."""
-    out = {}
+    """Многопоточно. Возвращает (found, not_found):
+    found     — {SKU_UPPER: data} успешно спарсенные;
+    not_found — set(SKU_UPPER) ТОЧНО отсутствующих на сайте (поиск без результата).
+    Упавшие по сетевой ошибке НЕ попадают ни туда, ни туда (повтор в следующий раз)."""
+    found = {}
+    not_found = set()
     done = [0]
+    errors = [0]
 
     def work(sku):
         import time
+        errored = False
         try:
             d = scrape_sku(sku)
-        except Exception as e:  # noqa: BLE001
+        except Exception:  # noqa: BLE001
             d = None
-            print(f"  ! {sku}: {e}", file=sys.stderr)
+            errored = True
         time.sleep(DELAY)
-        return sku, d
+        return sku, d, errored
 
     with cf.ThreadPoolExecutor(max_workers=WORKERS) as ex:
-        for sku, d in ex.map(work, skus):
+        for sku, d, errored in ex.map(work, skus):
             done[0] += 1
+            key = sku.strip().upper()
             if d and d.get("name"):
-                out[sku.strip().upper()] = d
+                found[key] = d
+            elif errored:
+                errors[0] += 1
+            else:
+                not_found.add(key)
             if done[0] % log_every == 0:
-                print(f"  скрейп {done[0]}/{len(skus)} … найдено {len(out)}",
+                print(f"  скрейп {done[0]}/{len(skus)} … найдено {len(found)}, "
+                      f"нет на сайте {len(not_found)}, ошибок {errors[0]}",
                       file=sys.stderr)
-    return out
+    if errors[0]:
+        print(f"  сетевых ошибок (будут повторены позже): {errors[0]}", file=sys.stderr)
+    return found, not_found
 
 
 if __name__ == "__main__":

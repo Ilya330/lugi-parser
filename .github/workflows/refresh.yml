@@ -1,0 +1,54 @@
+name: Weekly full refresh
+
+on:
+  schedule:
+    - cron: "0 3 * * 0"    # каждое воскресенье в 03:00 UTC (пересбор каталога)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-feed        # общая с update.yml — чтобы прогоны не пересекались
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Restore service account key
+        env:
+          GOOGLE_SA_JSON: ${{ secrets.GOOGLE_SA_JSON }}
+        run: |
+          if [ -n "$GOOGLE_SA_JSON" ]; then
+            printf '%s' "$GOOGLE_SA_JSON" > service_account.json
+          fi
+
+      - name: Full refresh (rescrape catalog)
+        env:
+          SPREADSHEET_ID: ${{ secrets.SPREADSHEET_ID }}
+          STEP_CATALOG: "1"
+          REFRESH: "1"
+        run: python run.py
+
+      - name: Commit feed & cache
+        run: |
+          rm -f service_account.json
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/feed.xml catalog.json not_on_site.json
+          if git diff --cached --quiet; then
+            echo "Изменений нет"
+          else
+            git commit -m "chore: еженедельный рефреш каталога $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

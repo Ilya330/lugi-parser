@@ -26,6 +26,7 @@ FEED_URL = os.environ.get(
     "https://feed.lugi.com.ua/index.php?route=extension/feed/unixml/ukr_ru_new")
 DROP_JSON = os.environ.get("DROP_JSON", os.path.join(HERE, "drop.json"))
 CATALOG = os.environ.get("CATALOG_JSON", os.path.join(HERE, "catalog.json"))
+NOT_ON_SITE = os.environ.get("NOT_ON_SITE_JSON", os.path.join(HERE, "not_on_site.json"))
 ONLY_INSTOCK = os.environ.get("ONLY_INSTOCK", "1") == "1"
 
 OFFER_RE = re.compile(r"<offer\b.*?</offer>", re.DOTALL)
@@ -66,47 +67,74 @@ def catalog_from_feed():
     return out
 
 
+def instock(v):
+    return str(v.get("quantity", "0")).strip() not in ("", "0")
+
+
 def main():
     drop = json.load(open(DROP_JSON, encoding="utf-8"))
 
-    catalog = {}
-    if os.path.exists(CATALOG):
-        catalog = json.load(open(CATALOG, encoding="utf-8"))
-        print(f"Загружен существующий catalog.json: {len(catalog)}", file=sys.stderr)
+    # REFRESH=1 — чистый пересбор: актуальный фид + пере-скрейп ВСЕХ нужных карточек
+    # (обновляет фото/описания/характеристики, перепроверяет «нет на сайте»),
+    # без накопления устаревших записей. При сетевой ошибке страхуемся старыми данными.
+    # Иначе — инкрементально: добавляем только новое, существующее не трогаем.
+    refresh = os.environ.get("REFRESH", "0") == "1"
 
-    # 1) Сид из фида (не перезаписываем уже скрейпленные site-записи без нужды).
+    old = json.load(open(CATALOG, encoding="utf-8")) if os.path.exists(CATALOG) else {}
+    not_on_site = set(json.load(open(NOT_ON_SITE, encoding="utf-8"))) \
+        if os.path.exists(NOT_ON_SITE) else set()
+
     feed_cat = catalog_from_feed()
-    added_feed = 0
-    for k, v in feed_cat.items():
-        if k not in catalog:
-            catalog[k] = v
-            added_feed += 1
-    print(f"Из фида: {len(feed_cat)} (новых добавлено {added_feed})", file=sys.stderr)
+    print(f"Из фида: {len(feed_cat)}", file=sys.stderr)
 
-    # 2) Какие SKU дроп-листа ещё без полной инфы.
-    def instock(v):
-        return str(v.get("quantity", "0")).strip() not in ("", "0")
+    if refresh:
+        print("РЕЖИМ REFRESH: чистый пересбор каталога", file=sys.stderr)
+        # Каталог = свежий фид + заново скрейпленные site-товары.
+        catalog = dict(feed_cat)
+        # Скрейпим все in-stock SKU, которых нет в фиде (site + перепроверка not_on_site).
+        to_scrape = sorted(k for k, v in drop.items()
+                           if k not in feed_cat
+                           and (instock(v) if ONLY_INSTOCK else True))
+        not_on_site = set()  # пересоберём заново
+    else:
+        # Инкрементально: сохраняем всё старое, обновляем фид, добавляем только новое.
+        catalog = dict(old)
+        catalog.update(feed_cat)
+        to_scrape = [k for k, v in drop.items()
+                     if k not in catalog and k not in not_on_site
+                     and (instock(v) if ONLY_INSTOCK else True)]
 
-    gap = [k for k, v in drop.items()
-           if k not in catalog and (instock(v) if ONLY_INSTOCK else True)]
-    print(f"К скрейпу с сайта: {len(gap)} SKU "
-          f"(ONLY_INSTOCK={ONLY_INSTOCK})", file=sys.stderr)
+    print(f"К скрейпу с сайта: {len(to_scrape)} SKU (REFRESH={refresh})", file=sys.stderr)
 
-    if gap:
-        scraped = scrape_site.scrape_many(gap)
-        for k, d in scraped.items():
+    if to_scrape:
+        found, clean_not_found = scrape_site.scrape_many(to_scrape)
+        for k, d in found.items():
             d.setdefault("params", [])
             d["source"] = "site"
             catalog[k] = d
-        print(f"Скрейп успешно: {len(scraped)} из {len(gap)} "
-              f"(не найдено {len(gap) - len(scraped)})", file=sys.stderr)
+            not_on_site.discard(k)
+        # Точно отсутствующие на сайте -> skip-лист.
+        not_on_site |= clean_not_found
+        # Упавшие по сетевой ошибке (ни найдены, ни точно-нет): страхуемся старыми
+        # данными из прежнего каталога, чтобы не потерять товар из-за сбоя.
+        errored = set(to_scrape) - set(found) - clean_not_found
+        rescued = 0
+        for k in errored:
+            if k in old and old[k].get("source") == "site":
+                catalog[k] = old[k]
+                rescued += 1
+        print(f"Скрейп: найдено {len(found)}, нет на сайте {len(clean_not_found)}, "
+              f"сетевых сбоев {len(errored)} (из них спасено старыми данными {rescued})",
+              file=sys.stderr)
 
     json.dump(catalog, open(CATALOG, "w", encoding="utf-8"), ensure_ascii=False)
+    json.dump(sorted(not_on_site), open(NOT_ON_SITE, "w", encoding="utf-8"),
+              ensure_ascii=False)
     srcs = {}
     for v in catalog.values():
         srcs[v.get("source")] = srcs.get(v.get("source"), 0) + 1
-    print(f"Итог catalog.json: {len(catalog)} (по источникам {srcs}) -> {CATALOG}",
-          file=sys.stderr)
+    print(f"Итог catalog.json: {len(catalog)} (по источникам {srcs}); "
+          f"not_on_site: {len(not_on_site)} -> {CATALOG}", file=sys.stderr)
 
 
 if __name__ == "__main__":

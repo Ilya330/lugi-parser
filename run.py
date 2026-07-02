@@ -21,9 +21,16 @@ def on(name, default="1"):
 
 def main():
     if on("STEP_FETCH"):
-        print(">>> Шаг 1/3: сбор дроп-цен", file=sys.stderr)
+        print(">>> Шаг 1: сбор дроп-цен", file=sys.stderr)
         import fetch_drop
         fetch_drop.main()
+
+    # Опционально: пересбор каталога (еженедельный рефреш). STEP_CATALOG=1 [+ REFRESH=1].
+    if on("STEP_CATALOG", "0"):
+        print(">>> Шаг 1.5: пересбор каталога (REFRESH=%s)"
+              % os.environ.get("REFRESH", "0"), file=sys.stderr)
+        import build_catalog
+        build_catalog.main()
 
     if on("STEP_FEED"):
         print(">>> Шаг 2/3: сборка XML-фида", file=sys.stderr)

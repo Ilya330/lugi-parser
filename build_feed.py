@@ -79,17 +79,17 @@ def main():
     to_scrape = [k for k in targets if k not in catalog and k not in not_on_site]
     if to_scrape and LAZY_SCRAPE:
         print(f"Новых к до-скрейпу: {len(to_scrape)}", file=sys.stderr)
-        found = scrape_site.scrape_many(to_scrape)
+        found, not_found = scrape_site.scrape_many(to_scrape)
         for k, d in found.items():
             d.setdefault("params", [])
             d["source"] = "site"
             catalog[k] = d
-        missing = [k for k in to_scrape if k not in found]
-        not_on_site |= set(missing)
+        # В skip-лист — только ТОЧНО отсутствующие; сетевые сбои повторятся в след. прогон.
+        not_on_site |= not_found
         json.dump(catalog, open(CATALOG, "w", encoding="utf-8"), ensure_ascii=False)
         json.dump(sorted(not_on_site), open(NOT_ON_SITE, "w", encoding="utf-8"),
                   ensure_ascii=False)
-        print(f"  до-скрейплено {len(found)}, без карточки {len(missing)}",
+        print(f"  до-скрейплено {len(found)}, нет на сайте {len(not_found)}",
               file=sys.stderr)
 
     # Категории (синтетические id из названий drop).
