@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-04 18:59">
+<yml_catalog date="2026-07-05 02:09">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -273,7 +273,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3775/konteyner_dlya_hraneniya_zeleni_v_holodilnike_25_6_sm_emkost_dlya_zeleni_belyy_6.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Контейнер для хранения зелени изготовлен из пластика, что обеспечивает надежную защиту продуктов от внешних воздействий. Пластиковая конструкция является легкой и прочной, что позволяет удобно транспортировать контейнер и хранить его в холодильнике или на кухне.   Основные характеристики:    Диаметр: 6 см; Высота: 26 см; Объем: 110 мл; Материал: пластмасса.   Контейнер специально разработан для сохранения свежести зелени, что помогает продлить ее срок хранения. Он имеет герметичную крышку, которая предотвращает попадание влаги и запахов, что позволяет хранить продукты дольше.  Благодаря простой и практичной конструкции контейнер занимает минимум места и является идеальным для организации хранения зелени, овощей и других продуктов в быту. Легко моется и подходит для многократного использования.]]></description>
-<quantity_in_stock>1152</quantity_in_stock>
+<quantity_in_stock>1151</quantity_in_stock>
 <vendorCode>HP-DS2-2</vendorCode>
 <param name="Тип">Емкость</param>
 <param name="Материал">Пластик</param>
@@ -307,7 +307,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_9.jpg</picture>
 <vendor>Lugi</vendor>
 <description><![CDATA[Подкладка влагозащитная имеет размеры 195х195 см метра, что делает ее удобной для использования под палатками или другими походными аксессуарами. Она обеспечивает дополнительную защиту от влаги, предотвращая попадание влаги с земли на внутреннюю поверхность палатки или другого снаряжения.  Основные характеристики:    Размеры: 195х195х0.3 см; Материал: утеплитель с фольгированным покрытием; Количество шаров: 1; Наличие чехла: есть.   Материал подкладки изготовлен из водонепроницаемых материалов, эффективно защищающих от влаги и сырости. Это позволяет создать комфортные условия для отдыха на природе, даже во влажную погоду.  Подкладка является легкой и компактной, что позволяет без труда транспортировать ее в сложенном виде. Она также удобна для использования на любых природных поверхностях, добавляя защиту от грязи и влаги.]]></description>
-<quantity_in_stock>931</quantity_in_stock>
+<quantity_in_stock>930</quantity_in_stock>
 <vendorCode>SJ-0029-2</vendorCode>
 <param name="Материал">Алюминизированный полиетилен</param>
 <param name="Комплектующие для палаток">Подкладка</param>
@@ -3198,31 +3198,6 @@
 <param name="Материал плафона, подвесок">Пластик</param>
 <param name="Материал каркаса">пластик</param>
 </offer>
-<offer id="SJ-0015-120" available="true">
-<name>Стол для пикника складной 120×55×50 см уличный раскладной стол кемпинговый для отдыха на природе пикника SJ-0015-120</name>
-<price>1259</price>
-<vendorprice>828</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>70</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_6.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Раскладной уличный стол &ndash; это практичное решение для отдыха на природе, дачи или пикника. Благодаря прочной стальной конструкции он выдерживает нагрузку и обеспечивает стабильность на различных поверхностях. В разложенном виде размер 120&times;55&times;50 см позволяет комфортно разместить посуду, продукты и все необходимое для отдыха на свежем воздухе. Легкий вес 3.5 кг и компактные габариты в сложенном состоянии (70&times;25&times;20 см) делают стол удобным для транспортировки и хранения. Он быстро складывается и раскладывается, не занимает много места и станет незаменимым аксессуаром для кемпинга, рыбалки или путешествий. Это сочетание мобильности, надежности и комфорта для вашего активного отдыха.  Преимущества:   Компактность: В разобранном виде стол занимает минимум места, что позволяет перевозить его в багажнике любого автомобиля. Быстрая сборка: Процесс установки занимает не больше минуты - достаточно разложить каркас и зафиксировать на нем рулонную столешницу. Габариты: Длина столешницы 120 см позволяет комфортно разместиться компании из 4-6 человек.   Характеристики:   Материал: сталь Размер в разложенном состоянии: 120*55*50 см Размер в сложенном состоянии: 70*25*20 см Вес: 3,5 кг]]></description>
-<quantity_in_stock>147</quantity_in_stock>
-<vendorCode>SJ-0015-120</vendorCode>
-<param name="Высота">500</param>
-<param name="Вес">3.5</param>
-<param name="Материал каркаса (опор)">Сталь</param>
-<param name="Ширина">550</param>
-<param name="Цвет">Черный</param>
-<param name="Длина">1200</param>
-<param name="Форма стола">Прямоугольный</param>
-</offer>
 <offer id="LU-027" available="true">
 <name>Надувной матрас 190*130*3 см походный туристический самонадувающийся бежевый LU-027</name>
 <price>3039</price>
@@ -3327,6 +3302,31 @@
 <param name="Степень защиты IP">65</param>
 <param name="Цвет свечения">Белый</param>
 <param name="Тип лампы">Светодиодная</param>
+</offer>
+<offer id="SJ-0015-120" available="true">
+<name>Стол для пикника складной 120×55×50 см уличный раскладной стол кемпинговый для отдыха на природе пикника SJ-0015-120</name>
+<price>1259</price>
+<vendorprice>828</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>70</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_6.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Раскладной уличный стол &ndash; это практичное решение для отдыха на природе, дачи или пикника. Благодаря прочной стальной конструкции он выдерживает нагрузку и обеспечивает стабильность на различных поверхностях. В разложенном виде размер 120&times;55&times;50 см позволяет комфортно разместить посуду, продукты и все необходимое для отдыха на свежем воздухе. Легкий вес 3.5 кг и компактные габариты в сложенном состоянии (70&times;25&times;20 см) делают стол удобным для транспортировки и хранения. Он быстро складывается и раскладывается, не занимает много места и станет незаменимым аксессуаром для кемпинга, рыбалки или путешествий. Это сочетание мобильности, надежности и комфорта для вашего активного отдыха.  Преимущества:   Компактность: В разобранном виде стол занимает минимум места, что позволяет перевозить его в багажнике любого автомобиля. Быстрая сборка: Процесс установки занимает не больше минуты - достаточно разложить каркас и зафиксировать на нем рулонную столешницу. Габариты: Длина столешницы 120 см позволяет комфортно разместиться компании из 4-6 человек.   Характеристики:   Материал: сталь Размер в разложенном состоянии: 120*55*50 см Размер в сложенном состоянии: 70*25*20 см Вес: 3,5 кг]]></description>
+<quantity_in_stock>146</quantity_in_stock>
+<vendorCode>SJ-0015-120</vendorCode>
+<param name="Высота">500</param>
+<param name="Вес">3.5</param>
+<param name="Материал каркаса (опор)">Сталь</param>
+<param name="Ширина">550</param>
+<param name="Цвет">Черный</param>
+<param name="Длина">1200</param>
+<param name="Форма стола">Прямоугольный</param>
 </offer>
 <offer id="HP-SY-1" available="true">
 <name>Кресло раскладное туристическое 50×51×64 см кресло складное для пикника на природу Бежевое HP-SY-1</name>
@@ -4164,41 +4164,6 @@
 <param name="Упаковка">Чехол</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="SJ-0015-1" available="true">
-<name>Стол для пикника складной 53*50*50 см</name>
-<url>https://lugi.com.ua/ru/stol_dlya_piknika_skladnoj_53_50_50_sm/</url>
-<price>729</price>
-<vendorprice>479</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>70</categoryId>
-<picture>https://lugi.com.ua/image/cache/external/4097fe7230a3b86dd54c05406d4ccf9e-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/2d2aac4a5044d60c6860b96bad037e37-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/28342a7f56165a3f4668b5d8073e6eed-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/6a3f6f5fc23b1159a40fe6d199913b3d-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/032d1dded06ca87757f85e3060f0fc20-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/855cc813b2747f107cfadbf2e7be7226-600x600.webp</picture>
-<description><![CDATA[Стол для пикника состоит из металлического каркаса и столешницы. Его конструкция позволяет легко раскладывать и складывать, что обеспечивает удобство в транспортировке и хранении. Стол идеально подходит для использования на природе или в условиях ограниченного пространства.<br />
-<br />
-В разложенном виде стол имеет размеры 53*50*50 см, что позволяет разместить несколько предметов для еды или отдыха. В сложенном виде его размеры уменьшаются до 20*15*51 см, что значительно облегчает транспортировку и хранение.<br />
-<br />
-Максимальная нагрузка стола составляет 20 кг, что позволяет использовать его для легкой мебели или пикировочных аксессуаров во время отдыха на природе.<br />
-<br />
-<strong>Характеристики:</strong>
-<ul>
-	<li>Размеры в разложенном виде: 53*50*50 см</li>
-	<li>Размеры в сложенном виде: 20*15*51 см</li>
-	<li>Металлический каркас и столешница</li>
-	<li>Максимальная нагрузка: 20 кг</li>
-</ul>]]></description>
-<quantity_in_stock>120</quantity_in_stock>
-<vendorCode>SJ-0015-1</vendorCode>
-<param name="Гарантийный срок">14 дней</param>
-<param name="Вес">2 кг</param>
-<param name="Размер в сложенном виде">20*15*51 см</param>
-<param name="Размер в разложенном виде">53*50*50 см</param>
-<param name="Материал каркаса">Металл</param>
-<param name="Цвет">Черный</param>
-</offer>
 <offer id="LU-027B" available="true">
 <name>Надувной матрас 190*130*3 см походный туристический Черный LU-027B</name>
 <price>3039</price>
@@ -4230,6 +4195,41 @@
 <param name="Длина спального места">1900</param>
 <param name="Ширина спального места">1300</param>
 <param name="Наличие съемного чехла">Есть</param>
+</offer>
+<offer id="SJ-0015-1" available="true">
+<name>Стол для пикника складной 53*50*50 см</name>
+<url>https://lugi.com.ua/ru/stol_dlya_piknika_skladnoj_53_50_50_sm/</url>
+<price>729</price>
+<vendorprice>479</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>70</categoryId>
+<picture>https://lugi.com.ua/image/cache/external/4097fe7230a3b86dd54c05406d4ccf9e-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/2d2aac4a5044d60c6860b96bad037e37-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/28342a7f56165a3f4668b5d8073e6eed-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/6a3f6f5fc23b1159a40fe6d199913b3d-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/032d1dded06ca87757f85e3060f0fc20-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/855cc813b2747f107cfadbf2e7be7226-600x600.webp</picture>
+<description><![CDATA[Стол для пикника состоит из металлического каркаса и столешницы. Его конструкция позволяет легко раскладывать и складывать, что обеспечивает удобство в транспортировке и хранении. Стол идеально подходит для использования на природе или в условиях ограниченного пространства.<br />
+<br />
+В разложенном виде стол имеет размеры 53*50*50 см, что позволяет разместить несколько предметов для еды или отдыха. В сложенном виде его размеры уменьшаются до 20*15*51 см, что значительно облегчает транспортировку и хранение.<br />
+<br />
+Максимальная нагрузка стола составляет 20 кг, что позволяет использовать его для легкой мебели или пикировочных аксессуаров во время отдыха на природе.<br />
+<br />
+<strong>Характеристики:</strong>
+<ul>
+	<li>Размеры в разложенном виде: 53*50*50 см</li>
+	<li>Размеры в сложенном виде: 20*15*51 см</li>
+	<li>Металлический каркас и столешница</li>
+	<li>Максимальная нагрузка: 20 кг</li>
+</ul>]]></description>
+<quantity_in_stock>117</quantity_in_stock>
+<vendorCode>SJ-0015-1</vendorCode>
+<param name="Гарантийный срок">14 дней</param>
+<param name="Вес">2 кг</param>
+<param name="Размер в сложенном виде">20*15*51 см</param>
+<param name="Размер в разложенном виде">53*50*50 см</param>
+<param name="Материал каркаса">Металл</param>
+<param name="Цвет">Черный</param>
 </offer>
 <offer id="HP-SY-1B" available="true">
 <name>Кресло раскладное туристическое 52×53×77 см Бежевое HP-SY-1B</name>
@@ -7080,7 +7080,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4551/termosumka_na_16_litrov_sumka_holodilnik_dlya_piva_holodilnik_pohodnyy_dlya_prirody_dlya_piknika_rybalki_2.jpg</picture>
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4551/termosumka_na_16_litrov_sumka_holodilnik_dlya_piva_holodilnik_pohodnyy_dlya_prirody_dlya_piknika_rybalki_3.jpg</picture>
 <description><![CDATA[Термосумка станет вашим надежным помощником в поездках на природу, на пляж, в дорогу или на дачу. Благодаря своим теплоизоляционным свойствам она сохраняет продукты и напитки прохладными. Компактная, легкая и практичная &mdash; она идеально подойдет для ежедневного использования. Характеристики    сумки-холодильника:   Размер: 33&times;18&times;27 см; Материал: полиэстер+EPE+PEVA; Застежка: молния; Корпус: мягкий; Тип застежки: молния; Дополнительно: передний карман-сетка, ручки.   Особенности    термосумки:   Внутренний слой из фольги облегчает уход и защищает от протекания; Компактная, легко складывается и не занимает много места; Удобные боковые ремешки для комфортной переноски; Передний сетчатый карман &mdash; для аксессуаров, салфеток или столовых приборов; Отлично подходит для транспортировки замороженных или охлаждённых продуктов; Прочный, герметичный и водоотталкивающий материал.   Сумка-термос &mdash; это практичный аксессуар для всех, кто ценит комфорт в путешествиях и отдыхе. Легко очищается, удобно переносится и обеспечивает надежное хранение продуктов в нужной температуре. Идеальный выбор для семейных выездов, пикников, длительных поездок или хранения ланча на работе.]]></description>
-<quantity_in_stock>70</quantity_in_stock>
+<quantity_in_stock>69</quantity_in_stock>
 <vendorCode>HP-14-2</vendorCode>
 <param name="Материал">Полиэстер</param>
 <param name="Высота">27</param>
@@ -7134,22 +7134,6 @@
 <param name="Количество в упаковке">4</param>
 <param name="Цвет">Прозрачный</param>
 <param name="Длина">200</param>
-</offer>
-<offer id="HP-L-15" available="true">
-<name>Уличный светильник подвесной 1 LED с датчиком движения фонарь туристический для палатки HP-L-15</name>
-<price>369</price>
-<vendorprice>244</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>117</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6854/ulichnyy_svetilnik_podvesnoy_vintage_1_led_s_datchikom_dvizheniya_fonar_turisticheskiy_dlya_palatki.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6854/ulichnyy_svetilnik_podvesnoy_vintage_1_led_s_datchikom_dvizheniya_fonar_turisticheskiy_dlya_palatki_1.png</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Универсальный компактный светильник с солнечной панелью подходит как настольный, настенный или переносной источник света. Комбинация яркого LED-&laquo;лампового&raquo; свечения и экономичного аккумулятора обеспечивает длительную автономную работу. Три режима работы с датчиком движения дают гибкость использования: только при движении, движение + слабый фон и постоянное освещение.   Режимы/функции:    Только детектор (включение только при движении, без фонового света). Движение + тёмный фон (постоянный слабый фон + яркое включение при движении). Режим постоянного света (управление только освещённостью). Датчик: PIR‑датчик движения (автоматическое включение по движению).    Преимущества:    Многофункциональность: три режима работы для различных сценариев (охрана, подсветка, декоративное освещение). Длительная автономная работа благодаря аккумулятору 18650 1200 mah. Эстетичное тёплое свечение благодаря LED с нитью накаливания. Питание от солнечной панели &mdash; экономично и экологично. Надёжные материалы и ударопрочный рассеиватель.    Характеристики:    Солнечная панель: 5,5 V / 80 mA, поликристаллический кремний Время работы: 8&ndash;10 часов при полном заряде (в зависимости от режима работы) Источник света: 1 Filament LED Аккумулятор: 3,7 V 18650, 1200 mA*h (Li-ion) Материалы: ABS + PC (корпус ABS, рассеиватель/линза PC)    Рекомендации по установке и эксплуатации:    Устанавливайте солнечную панель в месте с прямым солнечным светом для оптимального заряда. Перед первым использованием зарядите на солнце 1&ndash;2 дня. При выборе режима учтите требуемую экономию энергии: режим &laquo;движение + фон&raquo; даёт баланс между безопасностью и экономией. Для длительной работы в холодное время года рекомендуется располагать панель под максимально освещаемым углом - эффективность аккумулятора может снижаться на морозе.]]></description>
-<quantity_in_stock>67</quantity_in_stock>
-<vendorCode>HP-L-15</vendorCode>
-<param name="Материал корпуса">ABS + PC</param>
-<param name="Тип питания">Солнечная батарея|Аккумулятор</param>
-<param name="Тип лампы">Filament LED</param>
 </offer>
 <offer id="HP-19-50" available="true">
 <name>Кружка стеклянная с крышкой и трубочкой 750 (мл) Серый HP-19-50</name>
@@ -7322,6 +7306,22 @@
 <param name="Тип емкости">Кружка</param>
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-L-15" available="true">
+<name>Уличный светильник подвесной 1 LED с датчиком движения фонарь туристический для палатки HP-L-15</name>
+<price>369</price>
+<vendorprice>244</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>117</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6854/ulichnyy_svetilnik_podvesnoy_vintage_1_led_s_datchikom_dvizheniya_fonar_turisticheskiy_dlya_palatki.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6854/ulichnyy_svetilnik_podvesnoy_vintage_1_led_s_datchikom_dvizheniya_fonar_turisticheskiy_dlya_palatki_1.png</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Универсальный компактный светильник с солнечной панелью подходит как настольный, настенный или переносной источник света. Комбинация яркого LED-&laquo;лампового&raquo; свечения и экономичного аккумулятора обеспечивает длительную автономную работу. Три режима работы с датчиком движения дают гибкость использования: только при движении, движение + слабый фон и постоянное освещение.   Режимы/функции:    Только детектор (включение только при движении, без фонового света). Движение + тёмный фон (постоянный слабый фон + яркое включение при движении). Режим постоянного света (управление только освещённостью). Датчик: PIR‑датчик движения (автоматическое включение по движению).    Преимущества:    Многофункциональность: три режима работы для различных сценариев (охрана, подсветка, декоративное освещение). Длительная автономная работа благодаря аккумулятору 18650 1200 mah. Эстетичное тёплое свечение благодаря LED с нитью накаливания. Питание от солнечной панели &mdash; экономично и экологично. Надёжные материалы и ударопрочный рассеиватель.    Характеристики:    Солнечная панель: 5,5 V / 80 mA, поликристаллический кремний Время работы: 8&ndash;10 часов при полном заряде (в зависимости от режима работы) Источник света: 1 Filament LED Аккумулятор: 3,7 V 18650, 1200 mA*h (Li-ion) Материалы: ABS + PC (корпус ABS, рассеиватель/линза PC)    Рекомендации по установке и эксплуатации:    Устанавливайте солнечную панель в месте с прямым солнечным светом для оптимального заряда. Перед первым использованием зарядите на солнце 1&ndash;2 дня. При выборе режима учтите требуемую экономию энергии: режим &laquo;движение + фон&raquo; даёт баланс между безопасностью и экономией. Для длительной работы в холодное время года рекомендуется располагать панель под максимально освещаемым углом - эффективность аккумулятора может снижаться на морозе.]]></description>
+<quantity_in_stock>65</quantity_in_stock>
+<vendorCode>HP-L-15</vendorCode>
+<param name="Материал корпуса">ABS + PC</param>
+<param name="Тип питания">Солнечная батарея|Аккумулятор</param>
+<param name="Тип лампы">Filament LED</param>
 </offer>
 <offer id="HP-14-17" available="true">
 <name>Термосумка холодильник 16 (л) для еды, напитков, пива холодильная сумка для рыбалки и пикника Голубой HP-14-17</name>
@@ -8376,24 +8376,6 @@
 <param name="Цвет">Розовый</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-34-99" available="true">
-<name>Набор стеклянных трубочек 6 штук с щеточкой для очистки экологичные соломинки для коктейлей напитков HP-34-99</name>
-<price>109</price>
-<vendorprice>68</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>50</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7205/nabor_steklyannyh_trubochek_6_shtuk_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7205/nabor_steklyannyh_trubochek_6_shtuk_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7205/nabor_steklyannyh_trubochek_6_shtuk_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Набор стеклянных трубочек для напитков - экологичная и эстетичная альтернатива одноразовым пластиковым или бумажным соломинкам. Трубочки изготовлены из качественного стекла, не меняют вкус напитков, подходят для горячих и холодных жидкостей.  Трубочки имеют классическую изогнутую форму, в комплект входит щеточка для чистки.   Характеристики:    Материал: стекло Длина: 20 см Диаметр: 7 мм Вес набора: 200 г]]></description>
-<quantity_in_stock>42</quantity_in_stock>
-<vendorCode>HP-34-99</vendorCode>
-<param name="Материал">Боросиликатное стекло</param>
-<param name="Количество в упаковке">6</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Длина">200</param>
-</offer>
 <offer id="HPZSB120013V" available="true">
 <name>Набор многоразовых бутылок 3 в 1 Дракоша 0.3л 0.7л 2л Фиолетовый HPZSB120013V</name>
 <price>409</price>
@@ -8411,6 +8393,24 @@
 <param name="Объем">0.3 л,0.7 л,2 л</param>
 <param name="Цвет">Фиолетовый</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-34-99" available="true">
+<name>Набор стеклянных трубочек 6 штук с щеточкой для очистки экологичные соломинки для коктейлей напитков HP-34-99</name>
+<price>109</price>
+<vendorprice>68</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>50</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7205/nabor_steklyannyh_trubochek_6_shtuk_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7205/nabor_steklyannyh_trubochek_6_shtuk_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7205/nabor_steklyannyh_trubochek_6_shtuk_s_shchetochkoy_dlya_ochistki_ekologichnye_solominki_dlya_kokteyley_napitkov_2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Набор стеклянных трубочек для напитков - экологичная и эстетичная альтернатива одноразовым пластиковым или бумажным соломинкам. Трубочки изготовлены из качественного стекла, не меняют вкус напитков, подходят для горячих и холодных жидкостей.  Трубочки имеют классическую изогнутую форму, в комплект входит щеточка для чистки.   Характеристики:    Материал: стекло Длина: 20 см Диаметр: 7 мм Вес набора: 200 г]]></description>
+<quantity_in_stock>41</quantity_in_stock>
+<vendorCode>HP-34-99</vendorCode>
+<param name="Материал">Боросиликатное стекло</param>
+<param name="Количество в упаковке">6</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Длина">200</param>
 </offer>
 <offer id="HP-JW-11" available="true">
 <name>Зонт кемпинговый 200 см голубой прочный HP-JW-11</name>
@@ -9840,28 +9840,6 @@
 <param name="Материал каркаса">Металл</param>
 <param name="Цвет">Бежевый</param>
 </offer>
-<offer id="HP-17-60" available="true">
-<name>Набор кружек для пива Beer Stein стеклянных 2 штуки по 530 мл HP-17-60</name>
-<price>199</price>
-<vendorprice>135</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>45</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7160/nabor_kruzhek_dlya_piva_beer_stein_steklyannyh_2_shtuki_po_530_ml_kruzhki_dlya_piva_steklo_s_ruchkami_prochnaya_posuda.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7160/nabor_kruzhek_dlya_piva_beer_stein_steklyannyh_2_shtuki_po_530_ml_kruzhki_dlya_piva_steklo_s_ruchkami_prochnaya_posuda_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7160/nabor_kruzhek_dlya_piva_beer_stein_steklyannyh_2_shtuki_po_530_ml_kruzhki_dlya_piva_steklo_s_ruchkami_prochnaya_posuda_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7160/nabor_kruzhek_dlya_piva_beer_stein_steklyannyh_2_shtuki_po_530_ml_kruzhki_dlya_piva_steklo_s_ruchkami_prochnaya_posuda_3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Набор из двух стеклянных кружек для пива Beer Stein объемом 530 мл каждый подходит для подачи светлого, темного и нефильтрованного пива. Цилиндрическая форма со стенками, оформленными широкими вертикальными гранями, создает четкий рельеф и меняет восприятие напитка за счет преломления света. Прозрачное стекло позволяет оценить цвет и насыщенность, что важно для различных сортов пива.  Конструкция кружки предусматривает большую прочную ручку, которая обеспечивает надежное удержание даже при полном наполнении. Толстое стекло в нижней части вместе с широкой основой повышает устойчивость на поверхности и уменьшает риск случайного переворачивания. Такое сочетание формы и материала обеспечивает удобство в повседневном использовании.  Размеры и объем позволяют использовать кружки для разных напитков, не ограничиваясь только пивом. Они подходят для использования дома, в заведениях или во время отдыха на природе. Благодаря простой геометрии кружки легко сочетаются с другой посудой и не занимают много места при хранении.   Характеристики:    Количество: 2 штуки Объем: 530 мл Высота: 15,2 см Верхний диаметр: 8,3 см Нижний диаметр: 7,7 см Материал: стекло]]></description>
-<quantity_in_stock>10</quantity_in_stock>
-<vendorCode>HP-17-60</vendorCode>
-<param name="Материал">Стекло</param>
-<param name="Высота">15.2</param>
-<param name="Верхний диаметр">8.3</param>
-<param name="Назначение">Для пива</param>
-<param name="Количество в наборе">2</param>
-<param name="Объем">0.53</param>
-<param name="Цвет">Прозрачный</param>
-</offer>
 <offer id="SJ-0019B" available="true">
 <name>Кресло для рыбалки раскладное туристическое складное для отдыха на природу SJ-0019B</name>
 <price>2079</price>
@@ -9885,6 +9863,28 @@
 <param name="Материал сиденья">Oxford 600D</param>
 <param name="Материал спинки">Oxford 600D</param>
 <param name="Цвет">Зелёный</param>
+</offer>
+<offer id="HP-17-60" available="true">
+<name>Набор кружек для пива Beer Stein стеклянных 2 штуки по 530 мл HP-17-60</name>
+<price>199</price>
+<vendorprice>135</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>45</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7160/nabor_kruzhek_dlya_piva_beer_stein_steklyannyh_2_shtuki_po_530_ml_kruzhki_dlya_piva_steklo_s_ruchkami_prochnaya_posuda.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7160/nabor_kruzhek_dlya_piva_beer_stein_steklyannyh_2_shtuki_po_530_ml_kruzhki_dlya_piva_steklo_s_ruchkami_prochnaya_posuda_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7160/nabor_kruzhek_dlya_piva_beer_stein_steklyannyh_2_shtuki_po_530_ml_kruzhki_dlya_piva_steklo_s_ruchkami_prochnaya_posuda_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7160/nabor_kruzhek_dlya_piva_beer_stein_steklyannyh_2_shtuki_po_530_ml_kruzhki_dlya_piva_steklo_s_ruchkami_prochnaya_posuda_3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Набор из двух стеклянных кружек для пива Beer Stein объемом 530 мл каждый подходит для подачи светлого, темного и нефильтрованного пива. Цилиндрическая форма со стенками, оформленными широкими вертикальными гранями, создает четкий рельеф и меняет восприятие напитка за счет преломления света. Прозрачное стекло позволяет оценить цвет и насыщенность, что важно для различных сортов пива.  Конструкция кружки предусматривает большую прочную ручку, которая обеспечивает надежное удержание даже при полном наполнении. Толстое стекло в нижней части вместе с широкой основой повышает устойчивость на поверхности и уменьшает риск случайного переворачивания. Такое сочетание формы и материала обеспечивает удобство в повседневном использовании.  Размеры и объем позволяют использовать кружки для разных напитков, не ограничиваясь только пивом. Они подходят для использования дома, в заведениях или во время отдыха на природе. Благодаря простой геометрии кружки легко сочетаются с другой посудой и не занимают много места при хранении.   Характеристики:    Количество: 2 штуки Объем: 530 мл Высота: 15,2 см Верхний диаметр: 8,3 см Нижний диаметр: 7,7 см Материал: стекло]]></description>
+<quantity_in_stock>8</quantity_in_stock>
+<vendorCode>HP-17-60</vendorCode>
+<param name="Материал">Стекло</param>
+<param name="Высота">15.2</param>
+<param name="Верхний диаметр">8.3</param>
+<param name="Назначение">Для пива</param>
+<param name="Количество в наборе">2</param>
+<param name="Объем">0.53</param>
+<param name="Цвет">Прозрачный</param>
 </offer>
 <offer id="JY-8060G" available="true">
 <name>Стол для пикника раскладной 80*60*69,5 см Серый Lugi JY-8060G</name>
@@ -10608,7 +10608,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/124/100L10MWW-3%281%29.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Гирлянда на батарейках роса идеально подходит для окон, дверей, стен, картин, елок, фотозоны. Гирлянда оснащена 100 яркими светодиодами, которые обеспечивают превосходное освещение.   Основные характеристики гирлянды роса   гирлянда роса 10 метров; 100 led светодиодов; класс защиты IP65.   Особенностью этой гирлянды является ее питание от трех батареек типа АА, что обеспечивает максимальную мобильность и удобство в эксплуатации. Не нужно искать электрическую розетку или подключать ее к сети - просто вставьте батарейки, и гирлянда готова к использованию.  Купить гирлянду капли росы можно с доставкой по всей Украине. Гирлянда подлежит возврату только в том случае, когда ее исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>1515</quantity_in_stock>
+<quantity_in_stock>1512</quantity_in_stock>
 <vendorCode>100L10MWW</vendorCode>
 <param name="Вес">100 г</param>
 <param name="Количество режимов свечения">8</param>
@@ -10926,29 +10926,6 @@
 <param name="Форма лампочки">Классическая</param>
 <param name="Цветовая гамма">Желтый</param>
 </offer>
-<offer id="HP-11-23" available="true">
-<name>Пакеты для вакууматора 30*500 см в рулоне HP-11-23</name>
-<price>159</price>
-<vendorprice>106</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>14</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5738/pakety_dlya_vakuumatora_30_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5738/pakety_dlya_vakuumatora_30_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Вакуумные пакеты 30*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования.  Основные характеристики пакетов для вакууматора:  размер: 30*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен.  Преимущества:  Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки.  Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.]]></description>
-<quantity_in_stock>1112</quantity_in_stock>
-<vendorCode>HP-11-23</vendorCode>
-<param name="Тип">Пакет</param>
-<param name="Материал">Полиэтилен</param>
-<param name="Вес">200</param>
-<param name="Ширина">500</param>
-<param name="Применение">Универсальное</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Длина">30</param>
-<param name="Наличие индикатора">Нет</param>
-<param name="Комплектация насосом">Нет</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="1000L100MWY" available="true">
 <name>Гирлянда роса на пульте 100 метров на 1000 led светодиодов капля белый провод  желтый 1000L100MWY</name>
 <price>1179</price>
@@ -10987,6 +10964,29 @@
 <param name="Форма лампочки">Классическая</param>
 <param name="Форма сечения">Круглая</param>
 <param name="Цветовая гамма">Желтый</param>
+</offer>
+<offer id="HP-11-23" available="true">
+<name>Пакеты для вакууматора 30*500 см в рулоне HP-11-23</name>
+<price>159</price>
+<vendorprice>106</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>14</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5738/pakety_dlya_vakuumatora_30_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5738/pakety_dlya_vakuumatora_30_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Вакуумные пакеты 30*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования.  Основные характеристики пакетов для вакууматора:  размер: 30*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен.  Преимущества:  Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки.  Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.]]></description>
+<quantity_in_stock>1108</quantity_in_stock>
+<vendorCode>HP-11-23</vendorCode>
+<param name="Тип">Пакет</param>
+<param name="Материал">Полиэтилен</param>
+<param name="Вес">200</param>
+<param name="Ширина">500</param>
+<param name="Применение">Универсальное</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Длина">30</param>
+<param name="Наличие индикатора">Нет</param>
+<param name="Комплектация насосом">Нет</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="ZWM33192LEDY" available="true">
 <name>Новогодняя гирлянда штора 3х3 м 192 LED комнатная белый провод Жёлтый ZWM33192LEDY</name>
@@ -32801,32 +32801,6 @@
 <param name="Цвет">Зелёный</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-14-35P" available="true">
-<name>Бутылка для воды спортивная 1.6 л пластиковая с трубочкой с ремешком 22 см Розовая HP-14-35P</name>
-<price>499</price>
-<vendorprice>363</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-14-35/1435_2_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-14-35/1435_2_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-14-35/1435_2_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-14-35/1435_2_4.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Спортивная бутылка для воды объемом 1.6 л – идеальный аксессуар для активных людей, которые ценят удобство и практичность. Изготовленная из поликарбоната, эта бутылка обладает высокой прочностью, стойкостью к механическим повреждениям и выносливостью к резким температурным изменениям. Ее объем позволяет иметь достаточно воды под рукой в ​​течение всего дня, что делает ее незаменимой во время тренировок, прогулок или на работе.  Основные характеристики:   Материал бутылки: поликарбонат; Объем: 1.6 л; Высота: 22 см; Диаметр: td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;} 8 см.   Бутылка оснащена трубочкой, позволяющей удобно пить без необходимости открывать крышку, что особенно удобно во время спортивных занятий или в дороге. Крышка на защелке с фиксатором обеспечивает герметичность и надежно предотвращает утечку жидкости, что позволяет носить бутылку в сумке без опасений. Легкая в использовании и уходе, эта бутылка станет отличным выбором для тех, кто ведет активный образ жизни и хочет иметь удобный доступ к воде в любой момент.]]></description>
-<quantity_in_stock>89</quantity_in_stock>
-<vendorCode>HP-14-35P</vendorCode>
-<param name="Тип">Бутылка для напитков</param>
-<param name="Материал">Поликарбонат</param>
-<param name="Высота">22</param>
-<param name="Вес">300</param>
-<param name="Диаметр">8</param>
-<param name="Особенности">Моется в посудомоечной машине|Ударопрочная</param>
-<param name="Объем">1.6</param>
-<param name="Цвет">Розовый</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-14-35V" available="true">
 <name>Бутылка для воды спортивная 1.6 л с трубочкой с ремешком 22 см Фиолетовая HP-14-35V</name>
 <price>499</price>
@@ -33091,25 +33065,6 @@
 <param name="Длина">210</param>
 <param name="Поверхность">Глянцевая</param>
 </offer>
-<offer id="510-24-H-600M" available="true">
-<name>Полотенце для кухни вафельное 40*60 см из хлопка мятный Colorful Home 510-24-H-600M</name>
-<price>89</price>
-<vendorprice>67</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7383/polotentse_dlya_kuhni_vafelnoe_40_60_sm_iz_hlopka_myatnyy.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7383/polotentse_dlya_kuhni_vafelnoe_40_60_sm_iz_hlopka_myatnyy_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7383/polotentse_dlya_kuhni_vafelnoe_40_60_sm_iz_hlopka_myatnyy_2.png</picture>
-<vendor>Colorful Home</vendor>
-<description><![CDATA[Вафельное кухонное полотенце размером 40*60 см из хлопка — это практичное и удобное текстильное изделие для повседневного использования на кухне. Благодаря вафельной структуре ткань хорошо впитывает влагу, быстро высыхает и подходит для вытирания посуды, рук или кухонных поверхностей. Преимущества ткани Хлопковая вафельная ткань отличается натуральностью, хорошей воздухопроницаемостью и высокой впитывающей способностью. Материал легкий, быстро сохнет и остается практичным в повседневном использовании. Размер 40*60 см — удобный формат для использования на кухне. Правила ухода  Рекомендуется стирка при температуре до 40°C. Не использовать агрессивные отбеливатели. Глажка разрешена при средней температуре. Сушить естественным способом или при низких температурах.]]></description>
-<quantity_in_stock>89</quantity_in_stock>
-<vendorCode>510-24-H-600M</vendorCode>
-<param name="Тип">Полотенце</param>
-<param name="Ширина">40</param>
-<param name="Тип ткани">Хлопок</param>
-<param name="Длина">60</param>
-<param name="Форма">Прямоугольная</param>
-</offer>
 <offer id="HP9900BR" available="true">
 <name>Салфетница на стол из эко-кожи 25 х 15.5 х 5 см Коричневый HP9900BR</name>
 <price>709</price>
@@ -33179,6 +33134,32 @@
 <param name="Материал крышки">Пластик</param>
 <param name="Цвет">Белый</param>
 <param name="Нижний диаметр">8 см</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-14-35P" available="true">
+<name>Бутылка для воды спортивная 1.6 л пластиковая с трубочкой с ремешком 22 см Розовая HP-14-35P</name>
+<price>499</price>
+<vendorprice>363</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>95</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-14-35/1435_2_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-14-35/1435_2_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-14-35/1435_2_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-14-35/1435_2_4.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Спортивная бутылка для воды объемом 1.6 л – идеальный аксессуар для активных людей, которые ценят удобство и практичность. Изготовленная из поликарбоната, эта бутылка обладает высокой прочностью, стойкостью к механическим повреждениям и выносливостью к резким температурным изменениям. Ее объем позволяет иметь достаточно воды под рукой в ​​течение всего дня, что делает ее незаменимой во время тренировок, прогулок или на работе.  Основные характеристики:   Материал бутылки: поликарбонат; Объем: 1.6 л; Высота: 22 см; Диаметр: td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;} 8 см.   Бутылка оснащена трубочкой, позволяющей удобно пить без необходимости открывать крышку, что особенно удобно во время спортивных занятий или в дороге. Крышка на защелке с фиксатором обеспечивает герметичность и надежно предотвращает утечку жидкости, что позволяет носить бутылку в сумке без опасений. Легкая в использовании и уходе, эта бутылка станет отличным выбором для тех, кто ведет активный образ жизни и хочет иметь удобный доступ к воде в любой момент.]]></description>
+<quantity_in_stock>88</quantity_in_stock>
+<vendorCode>HP-14-35P</vendorCode>
+<param name="Тип">Бутылка для напитков</param>
+<param name="Материал">Поликарбонат</param>
+<param name="Высота">22</param>
+<param name="Вес">300</param>
+<param name="Диаметр">8</param>
+<param name="Особенности">Моется в посудомоечной машине|Ударопрочная</param>
+<param name="Объем">1.6</param>
+<param name="Цвет">Розовый</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-B1" available="true">
@@ -33324,6 +33305,25 @@
 <param name="Материал">Стекло</param>
 <param name="Объем">75 мл</param>
 <param name="Цвет">Коричневый</param>
+</offer>
+<offer id="510-24-H-600M" available="true">
+<name>Полотенце для кухни вафельное 40*60 см из хлопка мятный Colorful Home 510-24-H-600M</name>
+<price>89</price>
+<vendorprice>67</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>116</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7383/polotentse_dlya_kuhni_vafelnoe_40_60_sm_iz_hlopka_myatnyy.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7383/polotentse_dlya_kuhni_vafelnoe_40_60_sm_iz_hlopka_myatnyy_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7383/polotentse_dlya_kuhni_vafelnoe_40_60_sm_iz_hlopka_myatnyy_2.png</picture>
+<vendor>Colorful Home</vendor>
+<description><![CDATA[Вафельное кухонное полотенце размером 40*60 см из хлопка — это практичное и удобное текстильное изделие для повседневного использования на кухне. Благодаря вафельной структуре ткань хорошо впитывает влагу, быстро высыхает и подходит для вытирания посуды, рук или кухонных поверхностей. Преимущества ткани Хлопковая вафельная ткань отличается натуральностью, хорошей воздухопроницаемостью и высокой впитывающей способностью. Материал легкий, быстро сохнет и остается практичным в повседневном использовании. Размер 40*60 см — удобный формат для использования на кухне. Правила ухода  Рекомендуется стирка при температуре до 40°C. Не использовать агрессивные отбеливатели. Глажка разрешена при средней температуре. Сушить естественным способом или при низких температурах.]]></description>
+<quantity_in_stock>88</quantity_in_stock>
+<vendorCode>510-24-H-600M</vendorCode>
+<param name="Тип">Полотенце</param>
+<param name="Ширина">40</param>
+<param name="Тип ткани">Хлопок</param>
+<param name="Длина">60</param>
+<param name="Форма">Прямоугольная</param>
 </offer>
 <offer id="HP-14-32TU" available="true">
 <name>Бутылка для воды многоразовая 700 мл бутылочка с трубочкой HP-14-32TU</name>
@@ -35249,26 +35249,6 @@
 <param name="Материал">микрофибра</param>
 <param name="Размеры (см)">35*75</param>
 </offer>
-<offer id="510-24-H-600P" available="true">
-<name>Полотенце для кухни вафельное 40*60 см из хлопка розовый Colorful Home 510-24-H-600P</name>
-<price>89</price>
-<vendorprice>67</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>116</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7382/polotentse_dlya_kuhni_vafelnoe_40_60_sm_iz_hlopka_rozovyy.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7382/polotentse_dlya_kuhni_vafelnoe_40_60_sm_iz_hlopka_rozovyy_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7382/polotentse_dlya_kuhni_vafelnoe_40_60_sm_iz_hlopka_rozovyy_2.png</picture>
-<vendor>Colorful Home</vendor>
-<description><![CDATA[Вафельное кухонное полотенце размером 40*60 см из хлопка — это практичное и удобное текстильное изделие для повседневного использования на кухне. Благодаря вафельной структуре ткань хорошо впитывает влагу, быстро высыхает и подходит для вытирания посуды, рук или кухонных поверхностей. Преимущества ткани Хлопковая вафельная ткань отличается натуральностью, хорошей воздухопроницаемостью и высокой впитывающей способностью. Материал легкий, быстро сохнет и остается практичным в повседневном использовании. Размер 40*60 см — удобный формат для использования на кухне. Правила ухода  Рекомендуется стирка при температуре до 40°C. Не использовать агрессивные отбеливатели. Глажка разрешена при средней температуре. Сушить естественным способом или при низких температурах.]]></description>
-<quantity_in_stock>82</quantity_in_stock>
-<vendorCode>510-24-H-600P</vendorCode>
-<param name="Тип">Полотенце</param>
-<param name="Ширина">40</param>
-<param name="Тип ткани">Хлопок</param>
-<param name="Цвет">Розовый</param>
-<param name="Длина">60</param>
-<param name="Форма">Прямоугольная</param>
-</offer>
 <offer id="HP17304W" available="true">
 <name>Термос Relax с поилкой с металлической колбой 520 мл Белый HP17304W</name>
 <price>1109</price>
@@ -35451,23 +35431,23 @@
 <param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="510-24-H-600G" available="true">
-<name>Полотенце для кухни вафельное 40*60 см из хлопка серый Colorful Home 510-24-H-600G</name>
+<offer id="510-24-H-600P" available="true">
+<name>Полотенце для кухни вафельное 40*60 см из хлопка розовый Colorful Home 510-24-H-600P</name>
 <price>89</price>
 <vendorprice>67</vendorprice>
 <currencyId>UAH</currencyId>
 <categoryId>116</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7381/polotentse_dlya_kuhni_vafelnoe_40_60_sm_iz_hlopka_seryy.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7381/polotentse_dlya_kuhni_vafelnoe_40_60_sm_iz_hlopka_seryy_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7381/polotentse_dlya_kuhni_vafelnoe_40_60_sm_iz_hlopka_seryy_2.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7382/polotentse_dlya_kuhni_vafelnoe_40_60_sm_iz_hlopka_rozovyy.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7382/polotentse_dlya_kuhni_vafelnoe_40_60_sm_iz_hlopka_rozovyy_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7382/polotentse_dlya_kuhni_vafelnoe_40_60_sm_iz_hlopka_rozovyy_2.png</picture>
 <vendor>Colorful Home</vendor>
 <description><![CDATA[Вафельное кухонное полотенце размером 40*60 см из хлопка — это практичное и удобное текстильное изделие для повседневного использования на кухне. Благодаря вафельной структуре ткань хорошо впитывает влагу, быстро высыхает и подходит для вытирания посуды, рук или кухонных поверхностей. Преимущества ткани Хлопковая вафельная ткань отличается натуральностью, хорошей воздухопроницаемостью и высокой впитывающей способностью. Материал легкий, быстро сохнет и остается практичным в повседневном использовании. Размер 40*60 см — удобный формат для использования на кухне. Правила ухода  Рекомендуется стирка при температуре до 40°C. Не использовать агрессивные отбеливатели. Глажка разрешена при средней температуре. Сушить естественным способом или при низких температурах.]]></description>
 <quantity_in_stock>81</quantity_in_stock>
-<vendorCode>510-24-H-600G</vendorCode>
+<vendorCode>510-24-H-600P</vendorCode>
 <param name="Тип">Полотенце</param>
 <param name="Ширина">40</param>
 <param name="Тип ткани">Хлопок</param>
-<param name="Цвет">Серый</param>
+<param name="Цвет">Розовый</param>
 <param name="Длина">60</param>
 <param name="Форма">Прямоугольная</param>
 </offer>
@@ -35812,6 +35792,26 @@
 <param name="Тип посуды">Сотейник</param>
 <param name="Материал ручек">Дерево</param>
 <param name="Форма">Круглая</param>
+</offer>
+<offer id="510-24-H-600G" available="true">
+<name>Полотенце для кухни вафельное 40*60 см из хлопка серый Colorful Home 510-24-H-600G</name>
+<price>89</price>
+<vendorprice>67</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>116</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7381/polotentse_dlya_kuhni_vafelnoe_40_60_sm_iz_hlopka_seryy.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7381/polotentse_dlya_kuhni_vafelnoe_40_60_sm_iz_hlopka_seryy_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7381/polotentse_dlya_kuhni_vafelnoe_40_60_sm_iz_hlopka_seryy_2.png</picture>
+<vendor>Colorful Home</vendor>
+<description><![CDATA[Вафельное кухонное полотенце размером 40*60 см из хлопка — это практичное и удобное текстильное изделие для повседневного использования на кухне. Благодаря вафельной структуре ткань хорошо впитывает влагу, быстро высыхает и подходит для вытирания посуды, рук или кухонных поверхностей. Преимущества ткани Хлопковая вафельная ткань отличается натуральностью, хорошей воздухопроницаемостью и высокой впитывающей способностью. Материал легкий, быстро сохнет и остается практичным в повседневном использовании. Размер 40*60 см — удобный формат для использования на кухне. Правила ухода  Рекомендуется стирка при температуре до 40°C. Не использовать агрессивные отбеливатели. Глажка разрешена при средней температуре. Сушить естественным способом или при низких температурах.]]></description>
+<quantity_in_stock>80</quantity_in_stock>
+<vendorCode>510-24-H-600G</vendorCode>
+<param name="Тип">Полотенце</param>
+<param name="Ширина">40</param>
+<param name="Тип ткани">Хлопок</param>
+<param name="Цвет">Серый</param>
+<param name="Длина">60</param>
+<param name="Форма">Прямоугольная</param>
 </offer>
 <offer id="HP176094" available="true">
 <name>Проектор портативный для дома с встроенным динамиком HP176094</name>
@@ -36926,38 +36926,6 @@
 <param name="Подарочная упаковка">Нет</param>
 <param name="Упаковка">Блистер</param>
 </offer>
-<offer id="HPBH17201W" available="true">
-<name>Увлажнитель воздуха Bear 220ml для детской комнаты белый HPBH17201W</name>
-<price>179</price>
-<vendorprice>129</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>41</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17201/uvlazhnitel_vozduha_dlya_detskoy_komnaty_mishka_220_ml_belyy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17201/6%282%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17201/2%282%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17201/17.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17201/3%283%29.jpg</picture>
-<vendor>Happy Life</vendor>
-<description><![CDATA[Увлажнитель воздуха для детской комнаты в виде милого мишки создаст комфортную и заботливую атмосферу для вашего малыша. Этот портативный увлажнитель легко подключается к любому USB-порту, что делает его удобным для использования дома, в автомобиле или даже в путешествиях.  С его вместимостью 220 мл увлажнитель обеспечивает достаточное количество влаги для комфортного пребывания в помещении. Благодаря интегрированному ароматическому диффузору, вы можете добавить любимый аромат воздуха вашей детской комнаты, создавая спокойную и расслабляющую атмосферу перед сном или во время игр.  Встроенная подсветка делает увлажнитель еще более привлекательным для детей. Мягкий свет мягко освещает комнату, создавая уютную обстановку и помогая ребенку чувствовать себя спокойно и безопасно. Этот увлажнитель обладает тихой работой, что делает его идеальным для использования во время сна.   Основные характеристики:     Вместимость воды: 220 мл, обеспечивает продолжительное увлажнение. Рассчитан на площадь 15 кв.м, подходит для небольших помещений. LED-подсветка для создания уюта и визуального восприятия. Автовыключение при недостаточном количестве воды, обеспечивая безопасность использования. Производительность: 30 мл/час, поддерживает оптимальный уровень влажности. Время работы: 10 часов, обеспечивает долгий период использования. Мощность: 2W, энергоэффективный и экологичный. Управление: простое и удобное. Питание: от USB (кабель в комплекте) или от сети 220В (блок питания не входит в комплект).]]></description>
-<quantity_in_stock>76</quantity_in_stock>
-<vendorCode>HPBH17201W</vendorCode>
-<param name="Тип">Увлажнитель</param>
-<param name="Высота">11 мм</param>
-<param name="Автоотключение при отсутствии воды">Да</param>
-<param name="Ароматизация">Да</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Ночной режим работы">Да</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Объем резервуара для воды">0.22 л</param>
-<param name="Цвет">Белый</param>
-<param name="Индикатор работы">Да</param>
-<param name="Рекомендуемый объем помещения">15 кв.м</param>
-<param name="Состояние">Новое</param>
-<param name="Применение прибора">Для детской комнаты|Для дома, квартиры</param>
-<param name="Тип установки">Настольный</param>
-<param name="Гарантия">14 дней</param>
-<param name="Потребляємая мощность">2 Вт</param>
-</offer>
 <offer id="HPKP6049B" available="true">
 <name>Увлажнитель воздуха Holdmay Aroma Diffuser 140ml Черный HPKP6049B</name>
 <price>1139</price>
@@ -37282,6 +37250,38 @@
 <param name="Цвет">Серый</param>
 <param name="Длина">70</param>
 <param name="Форма">Прямоугольная</param>
+</offer>
+<offer id="HPBH17201W" available="true">
+<name>Увлажнитель воздуха Bear 220ml для детской комнаты белый HPBH17201W</name>
+<price>179</price>
+<vendorprice>129</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>41</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17201/uvlazhnitel_vozduha_dlya_detskoy_komnaty_mishka_220_ml_belyy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17201/6%282%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17201/2%282%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17201/17.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17201/3%283%29.jpg</picture>
+<vendor>Happy Life</vendor>
+<description><![CDATA[Увлажнитель воздуха для детской комнаты в виде милого мишки создаст комфортную и заботливую атмосферу для вашего малыша. Этот портативный увлажнитель легко подключается к любому USB-порту, что делает его удобным для использования дома, в автомобиле или даже в путешествиях.  С его вместимостью 220 мл увлажнитель обеспечивает достаточное количество влаги для комфортного пребывания в помещении. Благодаря интегрированному ароматическому диффузору, вы можете добавить любимый аромат воздуха вашей детской комнаты, создавая спокойную и расслабляющую атмосферу перед сном или во время игр.  Встроенная подсветка делает увлажнитель еще более привлекательным для детей. Мягкий свет мягко освещает комнату, создавая уютную обстановку и помогая ребенку чувствовать себя спокойно и безопасно. Этот увлажнитель обладает тихой работой, что делает его идеальным для использования во время сна.   Основные характеристики:     Вместимость воды: 220 мл, обеспечивает продолжительное увлажнение. Рассчитан на площадь 15 кв.м, подходит для небольших помещений. LED-подсветка для создания уюта и визуального восприятия. Автовыключение при недостаточном количестве воды, обеспечивая безопасность использования. Производительность: 30 мл/час, поддерживает оптимальный уровень влажности. Время работы: 10 часов, обеспечивает долгий период использования. Мощность: 2W, энергоэффективный и экологичный. Управление: простое и удобное. Питание: от USB (кабель в комплекте) или от сети 220В (блок питания не входит в комплект).]]></description>
+<quantity_in_stock>75</quantity_in_stock>
+<vendorCode>HPBH17201W</vendorCode>
+<param name="Тип">Увлажнитель</param>
+<param name="Высота">11 мм</param>
+<param name="Автоотключение при отсутствии воды">Да</param>
+<param name="Ароматизация">Да</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Ночной режим работы">Да</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Объем резервуара для воды">0.22 л</param>
+<param name="Цвет">Белый</param>
+<param name="Индикатор работы">Да</param>
+<param name="Рекомендуемый объем помещения">15 кв.м</param>
+<param name="Состояние">Новое</param>
+<param name="Применение прибора">Для детской комнаты|Для дома, квартиры</param>
+<param name="Тип установки">Настольный</param>
+<param name="Гарантия">14 дней</param>
+<param name="Потребляємая мощность">2 Вт</param>
 </offer>
 <offer id="SK13017B" available="true">
 <name>Робот-пылесос Sokany SK13017B черный</name>
@@ -37801,27 +37801,6 @@
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-8-59" available="true">
-<name>Картофелемялка для пюре 26 (см) толкушка для картошки из нержавейки с деревянной ручкой HP-8-59</name>
-<price>429</price>
-<vendorprice>314</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>81</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4534/kartofelemyalka_dlya_pyure_26_sm_tolkushka_dlya_kartoshki_iz_nerzhaveyki_s_derevyannoy_ruchkoy.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4534/kartofelemyalka_dlya_pyure_26_sm_tolkushka_dlya_kartoshki_iz_nerzhaveyki_s_derevyannoy_ruchkoy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4534/kartofelemyalka_dlya_pyure_26_sm_tolkushka_dlya_kartoshki_iz_nerzhaveyki_s_derevyannoy_ruchkoy_2.jpg</picture>
-<vendor>Ding Lanfang</vendor>
-<description><![CDATA[Картофелемялка для пюре &mdash; незаменимый кухонный инструмент для быстрого и удобного приготовления пюре из картофеля, моркови, кабачков, гарбузов и других овощей. Рабочая часть аксессуара изготовлена из прочной пищевой нержавеющей стали, устойчивой к деформации, коррозии и высоким температурам. Она эффективно разминает овощи, не повреждая посуду и обеспечивая однородную консистенцию пюре.  Удобная деревянная ручка приятно лежит в руке, не скользит и не нагревается при использовании, что делает работу более комфортной и безопасной.  Основные характеристики толкушки для пюре:   Длина:       26 см; Диаметр решетки: 9 см; Материал рабочей части: нержавеющая сталь; Материал ручки: дерево.   Толкушка для картофеля с деревянной ручкой &mdash; это практичный и долговечный аксессуар, который упростит процесс приготовления любимых блюд и станет полезным помощником на любой кухне.]]></description>
-<quantity_in_stock>74</quantity_in_stock>
-<vendorCode>HP-8-59</vendorCode>
-<param name="Ширина">9</param>
-<param name="Количество в наборе">1</param>
-<param name="Материал ручки">дерево</param>
-<param name="Цвет">Коричневый</param>
-<param name="Длина">26</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-35015-34V" available="true">
 <name>Щетка с совком для пола и твердых поверхностей, прочный пластиковый набор с плотным прилеганием Фиолетовая HP-35015-34V</name>
 <price>99</price>
@@ -38123,6 +38102,27 @@
 <param name="Форма лампочки">Классическая</param>
 <param name="Форма сечения">Круглая</param>
 <param name="Цветовая гамма">RGB</param>
+</offer>
+<offer id="HP-8-59" available="true">
+<name>Картофелемялка для пюре 26 (см) толкушка для картошки из нержавейки с деревянной ручкой HP-8-59</name>
+<price>429</price>
+<vendorprice>314</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>81</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4534/kartofelemyalka_dlya_pyure_26_sm_tolkushka_dlya_kartoshki_iz_nerzhaveyki_s_derevyannoy_ruchkoy.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4534/kartofelemyalka_dlya_pyure_26_sm_tolkushka_dlya_kartoshki_iz_nerzhaveyki_s_derevyannoy_ruchkoy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4534/kartofelemyalka_dlya_pyure_26_sm_tolkushka_dlya_kartoshki_iz_nerzhaveyki_s_derevyannoy_ruchkoy_2.jpg</picture>
+<vendor>Ding Lanfang</vendor>
+<description><![CDATA[Картофелемялка для пюре &mdash; незаменимый кухонный инструмент для быстрого и удобного приготовления пюре из картофеля, моркови, кабачков, гарбузов и других овощей. Рабочая часть аксессуара изготовлена из прочной пищевой нержавеющей стали, устойчивой к деформации, коррозии и высоким температурам. Она эффективно разминает овощи, не повреждая посуду и обеспечивая однородную консистенцию пюре.  Удобная деревянная ручка приятно лежит в руке, не скользит и не нагревается при использовании, что делает работу более комфортной и безопасной.  Основные характеристики толкушки для пюре:   Длина:       26 см; Диаметр решетки: 9 см; Материал рабочей части: нержавеющая сталь; Материал ручки: дерево.   Толкушка для картофеля с деревянной ручкой &mdash; это практичный и долговечный аксессуар, который упростит процесс приготовления любимых блюд и станет полезным помощником на любой кухне.]]></description>
+<quantity_in_stock>73</quantity_in_stock>
+<vendorCode>HP-8-59</vendorCode>
+<param name="Ширина">9</param>
+<param name="Количество в наборе">1</param>
+<param name="Материал ручки">дерево</param>
+<param name="Цвет">Коричневый</param>
+<param name="Длина">26</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-23-7BE" available="true">
 <name>Классический зонт-трость полуавтомат из полиэстера 7 спиц диаметр 99 см Бежевый HP-23-7BE</name>
@@ -39228,46 +39228,6 @@
 <param name="Толщина дна">5 мм</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="SK-3071R" available="true">
-<name>Отпариватель ручной 1200 Вт Оранжевый Sokany SK-3071R</name>
-<price>1329</price>
-<vendorprice>969</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>21</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3526/dorozhnyy_utyug_s_parogeneratorom_professionalnyy_1200_vt_parootparivatel_dlya_odezhdy_i_shtor_oranzhevyy_sokany.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3526/dorozhnyy_utyug_s_parogeneratorom_sokany_1200_vt_otparivatel_ruchnoy_dlya_odezhdy_i_shtor_oranzhevyy_lugi_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3526/dorozhnyy_utyug_s_parogeneratorom_sokany_1200_vt_otparivatel_ruchnoy_dlya_odezhdy_i_shtor_oranzhevyy_lugi_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3526/dorozhnyy_utyug_s_parogeneratorom_sokany_1200_vt_otparivatel_ruchnoy_dlya_odezhdy_i_shtor_oranzhevyy_lugi_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3526/dorozhnyy_utyug_s_parogeneratorom_sokany_1200_vt_otparivatel_ruchnoy_dlya_odezhdy_i_shtor_oranzhevyy_lugi_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3526/dorozhnyy_utyug_s_parogeneratorom_sokany_1200_vt_otparivatel_ruchnoy_dlya_odezhdy_i_shtor_oranzhevyy_lugi_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3526/dorozhnyy_utyug_s_parogeneratorom_sokany_1200_vt_otparivatel_ruchnoy_dlya_odezhdy_i_shtor_oranzhevyy_lugi_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3526/dorozhnyy_utyug_s_parogeneratorom_sokany_1200_vt_otparivatel_ruchnoy_dlya_odezhdy_i_shtor_oranzhevyy_lugi_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3526/dorozhnyy_utyug_s_parogeneratorom_sokany_1200_vt_otparivatel_ruchnoy_dlya_odezhdy_i_shtor_oranzhevyy_lugi_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3526/dorozhnyy_utyug_s_parogeneratorom_sokany_1200_vt_otparivatel_ruchnoy_dlya_odezhdy_i_shtor_oranzhevyy_lugi_9.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Дорожный утюг SK-3071 &ndash; компактный и эффективный прибор, который станет незаменимым помощником во время путешествий. С мощностью 1200 Вт она быстро нагревается, что позволяет легко и быстро выглаживать одежду в любых условиях. Благодаря компактному дизайну, утюг занимает минимум места в сумке или чемодане, при этом обеспечивая высокую производительность и удобство в использовании.  Основные характеристики:   Размер 20х8х10 см; Мощность: 1200 Вт; Объем резервуара для воды: 125 мл; Вертикальное отпаривание; Паровой удар; Материал корпуса: пластик; Материал подошвы: керамика.   Резервуар для воды объемом 125 мл позволяет работать с утюгом долгое время без необходимости доливать воду, что делает процесс глажки более удобным. Материал подошвы &ndash; металлокерамика, обеспечивающая равномерное распределение тепла и легкое скольжение по тканям, предотвращая их повреждение. Это позволяет добиться идеальных результатов без лишних усилий, даже на деликатных тканях.  Утюг оборудован всеми необходимыми функциями для удобной эксплуатации, включая паровой удар и регулировку температуры. Она станет отличным выбором для тех, кто часто путешествует или нуждается в компактном, но мощном гладильном устройстве.]]></description>
-<quantity_in_stock>70</quantity_in_stock>
-<vendorCode>SK-3071R</vendorCode>
-<param name="Высота">10 см</param>
-<param name="Возможность долива воды">Да</param>
-<param name="Гарантийный срок">3 мес</param>
-<param name="Вес">0.8 кг</param>
-<param name="Потребляемая мощность">1200 Вт</param>
-<param name="Длина сетевого шнура">1.3 м</param>
-<param name="Защита от перегрева">Да</param>
-<param name="Ширина">8 см</param>
-<param name="Кнопка вкл./выкл.">Да</param>
-<param name="Материал подошвы утюга">Металлокерамика</param>
-<param name="Индикатор работы">Да</param>
-<param name="Материал парового утюжка">нержавеющая сталь</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Оранжевый</param>
-<param name="Противокапельная система">Да</param>
-<param name="Объем котла (бака для воды)">0.125 л</param>
-<param name="Парковка">горизонтальная</param>
-<param name="Регулировка силы пара">Да</param>
-<param name="Тип управления">Механическое</param>
-</offer>
 <offer id="HP-1336" available="true">
 <name>Набор банок для сыпучих продуктов 4 штуки 350 мл стеклянные на металлической подставке HP-1336</name>
 <price>1249</price>
@@ -39474,26 +39434,6 @@
 <param name="Цвет">Голубой</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-42-18" available="true">
-<name>Коврик для сушки посуды 40*30 см диатомитовый HP-42-18</name>
-<price>99</price>
-<vendorprice>81</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>47</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6469/diatomitovyy_kovrik_na_kuhnyu_dlya_sushki_posudy_30_40_sm_moyushchiysya_vlagovpityvayushchiy_kovrik_na_stoleshnitsu_dlya_posudy_siniy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6469/diatomitovyy_kovrik_na_kuhnyu_dlya_sushki_posudy_30_40_sm_moyushchiysya_vlagovpityvayushchiy_kovrik_na_stoleshnitsu_dlya_posudy_siniy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6469/diatomitovyy_kovrik_na_kuhnyu_dlya_sushki_posudy_30_40_sm_moyushchiysya_vlagovpityvayushchiy_kovrik_na_stoleshnitsu_dlya_posudy_siniy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6469/diatomitovyy_kovrik_na_kuhnyu_dlya_sushki_posudy_30_40_sm_moyushchiysya_vlagovpityvayushchiy_kovrik_na_stoleshnitsu_dlya_posudy_siniy_3.jpg</picture>
-<description><![CDATA[Коврик для сушки посуды размером 40*30 см выполнен из диатомитового камня — натурального материала с высокой способностью впитывать влагу. При весе всего 200 г он остаётся устойчивым на поверхности, а его структура способствует быстрому высыханию посуды без скопления воды. Благодаря природной пористости диатомита влага мгновенно впитывается и быстро испаряется. Это помогает избежать водяных разводов, пятен и излишней сырости на кухонных поверхностях. Компактный формат делает коврик удобным решением для небольших кухонь, зоны возле мойки и ограниченного рабочего пространства.  Уход за ковриком не требует усилий — достаточно протереть его влажной тканью или ополоснуть под водой. Материал устойчив к износу, не деформируется со временем и благодаря своим природным свойствам способствует поддержанию чистоты и гигиены на кухне.  Характеристики дренажного коврика для сушки посуды:   Размер: 40*30 см; Вес: 200 г; Материал: диатомит; Влагопоглощающие свойства.   Преимущества коврика на кухню для посуды:   эффективное впитывание влаги и защита поверхности; устойчивость на столе — предотвращает скольжение; долговечный материал — сохраняет форму и внешний вид; легкий уход — быстро очищается и сохнет; универсальность — подходит для сушки и сервировки посуды.   Такой коврик станет надежным и практичным помощником на кухне, сочетая комфорт, безопасность и чистоту.]]></description>
-<quantity_in_stock>70</quantity_in_stock>
-<vendorCode>HP-42-18</vendorCode>
-<param name="Вес">200</param>
-<param name="Ширина">30</param>
-<param name="Цвет">Синий</param>
-<param name="Длина">40</param>
-<param name="Тип сушки">Настольная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-35015-59" available="true">
 <name>Швабра с ведром 14 л для мытья полов с отжимом плоская насадка из микрофибры  HP-35015-59</name>
 <price>1299</price>
@@ -39584,6 +39524,46 @@
 <param name="Форма">Квадратная</param>
 <param name="Гарантия">14 дней</param>
 <param name="Толщина стенки">1 мм</param>
+</offer>
+<offer id="SK-3071R" available="true">
+<name>Отпариватель ручной 1200 Вт Оранжевый Sokany SK-3071R</name>
+<price>1329</price>
+<vendorprice>969</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>21</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3526/dorozhnyy_utyug_s_parogeneratorom_professionalnyy_1200_vt_parootparivatel_dlya_odezhdy_i_shtor_oranzhevyy_sokany.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3526/dorozhnyy_utyug_s_parogeneratorom_sokany_1200_vt_otparivatel_ruchnoy_dlya_odezhdy_i_shtor_oranzhevyy_lugi_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3526/dorozhnyy_utyug_s_parogeneratorom_sokany_1200_vt_otparivatel_ruchnoy_dlya_odezhdy_i_shtor_oranzhevyy_lugi_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3526/dorozhnyy_utyug_s_parogeneratorom_sokany_1200_vt_otparivatel_ruchnoy_dlya_odezhdy_i_shtor_oranzhevyy_lugi_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3526/dorozhnyy_utyug_s_parogeneratorom_sokany_1200_vt_otparivatel_ruchnoy_dlya_odezhdy_i_shtor_oranzhevyy_lugi_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3526/dorozhnyy_utyug_s_parogeneratorom_sokany_1200_vt_otparivatel_ruchnoy_dlya_odezhdy_i_shtor_oranzhevyy_lugi_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3526/dorozhnyy_utyug_s_parogeneratorom_sokany_1200_vt_otparivatel_ruchnoy_dlya_odezhdy_i_shtor_oranzhevyy_lugi_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3526/dorozhnyy_utyug_s_parogeneratorom_sokany_1200_vt_otparivatel_ruchnoy_dlya_odezhdy_i_shtor_oranzhevyy_lugi_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3526/dorozhnyy_utyug_s_parogeneratorom_sokany_1200_vt_otparivatel_ruchnoy_dlya_odezhdy_i_shtor_oranzhevyy_lugi_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/3526/dorozhnyy_utyug_s_parogeneratorom_sokany_1200_vt_otparivatel_ruchnoy_dlya_odezhdy_i_shtor_oranzhevyy_lugi_9.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Дорожный утюг SK-3071 &ndash; компактный и эффективный прибор, который станет незаменимым помощником во время путешествий. С мощностью 1200 Вт она быстро нагревается, что позволяет легко и быстро выглаживать одежду в любых условиях. Благодаря компактному дизайну, утюг занимает минимум места в сумке или чемодане, при этом обеспечивая высокую производительность и удобство в использовании.  Основные характеристики:   Размер 20х8х10 см; Мощность: 1200 Вт; Объем резервуара для воды: 125 мл; Вертикальное отпаривание; Паровой удар; Материал корпуса: пластик; Материал подошвы: керамика.   Резервуар для воды объемом 125 мл позволяет работать с утюгом долгое время без необходимости доливать воду, что делает процесс глажки более удобным. Материал подошвы &ndash; металлокерамика, обеспечивающая равномерное распределение тепла и легкое скольжение по тканям, предотвращая их повреждение. Это позволяет добиться идеальных результатов без лишних усилий, даже на деликатных тканях.  Утюг оборудован всеми необходимыми функциями для удобной эксплуатации, включая паровой удар и регулировку температуры. Она станет отличным выбором для тех, кто часто путешествует или нуждается в компактном, но мощном гладильном устройстве.]]></description>
+<quantity_in_stock>69</quantity_in_stock>
+<vendorCode>SK-3071R</vendorCode>
+<param name="Высота">10 см</param>
+<param name="Возможность долива воды">Да</param>
+<param name="Гарантийный срок">3 мес</param>
+<param name="Вес">0.8 кг</param>
+<param name="Потребляемая мощность">1200 Вт</param>
+<param name="Длина сетевого шнура">1.3 м</param>
+<param name="Защита от перегрева">Да</param>
+<param name="Ширина">8 см</param>
+<param name="Кнопка вкл./выкл.">Да</param>
+<param name="Материал подошвы утюга">Металлокерамика</param>
+<param name="Индикатор работы">Да</param>
+<param name="Материал парового утюжка">нержавеющая сталь</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Оранжевый</param>
+<param name="Противокапельная система">Да</param>
+<param name="Объем котла (бака для воды)">0.125 л</param>
+<param name="Парковка">горизонтальная</param>
+<param name="Регулировка силы пара">Да</param>
+<param name="Тип управления">Механическое</param>
 </offer>
 <offer id="HP-YH-58" available="true">
 <name>Блюдо сервировочное для закусок с соусником 21х19х3 см стеклянное HP-YH-58</name>
@@ -39795,6 +39775,26 @@
 <param name="Цвет">Черный</param>
 <param name="Длина">58</param>
 <param name="Форма">Квадратная</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-42-18" available="true">
+<name>Коврик для сушки посуды 40*30 см диатомитовый HP-42-18</name>
+<price>99</price>
+<vendorprice>81</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>47</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6469/diatomitovyy_kovrik_na_kuhnyu_dlya_sushki_posudy_30_40_sm_moyushchiysya_vlagovpityvayushchiy_kovrik_na_stoleshnitsu_dlya_posudy_siniy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6469/diatomitovyy_kovrik_na_kuhnyu_dlya_sushki_posudy_30_40_sm_moyushchiysya_vlagovpityvayushchiy_kovrik_na_stoleshnitsu_dlya_posudy_siniy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6469/diatomitovyy_kovrik_na_kuhnyu_dlya_sushki_posudy_30_40_sm_moyushchiysya_vlagovpityvayushchiy_kovrik_na_stoleshnitsu_dlya_posudy_siniy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6469/diatomitovyy_kovrik_na_kuhnyu_dlya_sushki_posudy_30_40_sm_moyushchiysya_vlagovpityvayushchiy_kovrik_na_stoleshnitsu_dlya_posudy_siniy_3.jpg</picture>
+<description><![CDATA[Коврик для сушки посуды размером 40*30 см выполнен из диатомитового камня — натурального материала с высокой способностью впитывать влагу. При весе всего 200 г он остаётся устойчивым на поверхности, а его структура способствует быстрому высыханию посуды без скопления воды. Благодаря природной пористости диатомита влага мгновенно впитывается и быстро испаряется. Это помогает избежать водяных разводов, пятен и излишней сырости на кухонных поверхностях. Компактный формат делает коврик удобным решением для небольших кухонь, зоны возле мойки и ограниченного рабочего пространства.  Уход за ковриком не требует усилий — достаточно протереть его влажной тканью или ополоснуть под водой. Материал устойчив к износу, не деформируется со временем и благодаря своим природным свойствам способствует поддержанию чистоты и гигиены на кухне.  Характеристики дренажного коврика для сушки посуды:   Размер: 40*30 см; Вес: 200 г; Материал: диатомит; Влагопоглощающие свойства.   Преимущества коврика на кухню для посуды:   эффективное впитывание влаги и защита поверхности; устойчивость на столе — предотвращает скольжение; долговечный материал — сохраняет форму и внешний вид; легкий уход — быстро очищается и сохнет; универсальность — подходит для сушки и сервировки посуды.   Такой коврик станет надежным и практичным помощником на кухне, сочетая комфорт, безопасность и чистоту.]]></description>
+<quantity_in_stock>69</quantity_in_stock>
+<vendorCode>HP-42-18</vendorCode>
+<param name="Вес">200</param>
+<param name="Ширина">30</param>
+<param name="Цвет">Синий</param>
+<param name="Длина">40</param>
+<param name="Тип сушки">Настольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="520-7" available="true">
@@ -57300,32 +57300,6 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Тип профессиональной кофемашины">Автоматическая</param>
 <param name="Тип управления">Механическое</param>
 </offer>
-<offer id="SK1772W" available="true">
-<name>Капучинатор Sokany аккумуляторный Белый SK1772W</name>
-<price>409</price>
-<vendorprice>298</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>43</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/314/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_1772_belyy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/314/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_1772_belyy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/314/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_1772_belyy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/314/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_1772_belyy_3.png</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Sokany SK-1772 - это бесшумный аккумуляторный капучинатор, который поможет легко и быстро приготовить кофе с пышной молочной пенкой. Благодаря мощности 20 Вт и венчику из нержавеющей стали можно за считанные секунды взбить молоко в густую пену для капучино, латте или других кофейных напитков. Капучинатор оборудован аккумулятором емкостью 1200 мАч, что обеспечивает до 30 минут автономной работы. Он также имеет 3 режима скорости, что позволяет регулировать плотность пены.   Технические характеристики:.  Мощность: 20 Вт Частота: 50/60 Гц Емкость аккумулятора: 1200 мАч Время зарядки: 6 часа]]></description>
-<quantity_in_stock>37</quantity_in_stock>
-<vendorCode>SK1772W</vendorCode>
-<param name="Материал корпуса">Пластик</param>
-<param name="Питание">Сеть 220В</param>
-<param name="Количество насадок">2</param>
-<param name="Количество скоростей">3</param>
-<param name="Цвет">Белый</param>
-<param name="Аккумулятор">1200 мАч</param>
-<param name="Режим Турбо">Да</param>
-<param name="Гарантия">6 мес</param>
-<param name="Тип миксера">Ручной</param>
-<param name="Время зарядки">6 ч</param>
-<param name="Потребляємая мощность">20 Вт</param>
-</offer>
 <offer id="SK923" available="true">
 <name>Профессиональная лампа для маникюра 48 Вт Sokany SK923</name>
 <price>489</price>
@@ -58138,6 +58112,32 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Форма лампочки">Классическая</param>
 <param name="Форма сечения">Круглая</param>
 <param name="Цветовая гамма">Желтый</param>
+</offer>
+<offer id="SK1772W" available="true">
+<name>Капучинатор Sokany аккумуляторный Белый SK1772W</name>
+<price>409</price>
+<vendorprice>298</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>43</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/314/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_1772_belyy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/314/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_1772_belyy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/314/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_1772_belyy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/314/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_1772_belyy_3.png</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Sokany SK-1772 - это бесшумный аккумуляторный капучинатор, который поможет легко и быстро приготовить кофе с пышной молочной пенкой. Благодаря мощности 20 Вт и венчику из нержавеющей стали можно за считанные секунды взбить молоко в густую пену для капучино, латте или других кофейных напитков. Капучинатор оборудован аккумулятором емкостью 1200 мАч, что обеспечивает до 30 минут автономной работы. Он также имеет 3 режима скорости, что позволяет регулировать плотность пены.   Технические характеристики:.  Мощность: 20 Вт Частота: 50/60 Гц Емкость аккумулятора: 1200 мАч Время зарядки: 6 часа]]></description>
+<quantity_in_stock>36</quantity_in_stock>
+<vendorCode>SK1772W</vendorCode>
+<param name="Материал корпуса">Пластик</param>
+<param name="Питание">Сеть 220В</param>
+<param name="Количество насадок">2</param>
+<param name="Количество скоростей">3</param>
+<param name="Цвет">Белый</param>
+<param name="Аккумулятор">1200 мАч</param>
+<param name="Режим Турбо">Да</param>
+<param name="Гарантия">6 мес</param>
+<param name="Тип миксера">Ручной</param>
+<param name="Время зарядки">6 ч</param>
+<param name="Потребляємая мощность">20 Вт</param>
 </offer>
 <offer id="SK13016W" available="true">
 <name>Робот-пылесос Sokany SK13016W Белый</name>
@@ -62449,24 +62449,6 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Длина">140</param>
 <param name="Комплектация">Один предмет</param>
 </offer>
-<offer id="515-17-60V" available="true">
-<name>Салфетки в рулоне Лимончик 20 штук 25×25 см из микрофибры Colorful Home 515-17-60V</name>
-<price>259</price>
-<vendorprice>207</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>58</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7339/salfetki_v_rulone_limonchik_20_shtuk_25_25_sm_iz_mikrofibry.jpg</picture>
-<vendor>Colorful Home</vendor>
-<description><![CDATA[Салфетки в рулоне по 20 штук, 25×25 см, из микрофибры — удобный и практичный вариант для повседневного использования дома или в быту. Мягкая микрофибра хорошо впитывает влагу, быстро высыхает и подходит для многократного использования. Формат в рулоне обеспечивает компактное хранение и легкое отрывание каждой салфетки. Преимущества ткани  Мягкая и приятная на ощупь микрофибра Хорошо впитывает влагу Быстро высыхает Подходит для многократного использования  Износостойкий материал Размер  25×25 см 20 штук в рулоне  Правила ухода  Стирать при температуре до 30°C Не использовать отбеливатели и агрессивные моющие средства Не гладить  Сушить естественным способом]]></description>
-<quantity_in_stock>32</quantity_in_stock>
-<vendorCode>515-17-60V</vendorCode>
-<param name="Тип">Салфетка</param>
-<param name="Материал">Микрофибра</param>
-<param name="Основное назначение">Универсальное</param>
-<param name="Ширина">25</param>
-<param name="Количество в упаковке">20</param>
-<param name="Длина">25</param>
-</offer>
 <offer id="SKLF9976" available="true">
 <name>Машинка для стрижки Sokany аккумуляторная с 4 насадками и USB серебро SKLF9976</name>
 <price>2159</price>
@@ -63166,6 +63148,24 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Цвет">Серый</param>
 <param name="Длина">140</param>
 <param name="Комплектация">Один предмет</param>
+</offer>
+<offer id="515-17-60V" available="true">
+<name>Салфетки в рулоне Лимончик 20 штук 25×25 см из микрофибры Colorful Home 515-17-60V</name>
+<price>259</price>
+<vendorprice>207</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>58</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7339/salfetki_v_rulone_limonchik_20_shtuk_25_25_sm_iz_mikrofibry.jpg</picture>
+<vendor>Colorful Home</vendor>
+<description><![CDATA[Салфетки в рулоне по 20 штук, 25×25 см, из микрофибры — удобный и практичный вариант для повседневного использования дома или в быту. Мягкая микрофибра хорошо впитывает влагу, быстро высыхает и подходит для многократного использования. Формат в рулоне обеспечивает компактное хранение и легкое отрывание каждой салфетки. Преимущества ткани  Мягкая и приятная на ощупь микрофибра Хорошо впитывает влагу Быстро высыхает Подходит для многократного использования  Износостойкий материал Размер  25×25 см 20 штук в рулоне  Правила ухода  Стирать при температуре до 30°C Не использовать отбеливатели и агрессивные моющие средства Не гладить  Сушить естественным способом]]></description>
+<quantity_in_stock>31</quantity_in_stock>
+<vendorCode>515-17-60V</vendorCode>
+<param name="Тип">Салфетка</param>
+<param name="Материал">Микрофибра</param>
+<param name="Основное назначение">Универсальное</param>
+<param name="Ширина">25</param>
+<param name="Количество в упаковке">20</param>
+<param name="Длина">25</param>
 </offer>
 <offer id="SK-908" available="true">
 <name>Мультипекарь Sokany SK-908 6 в 1  750 Вт</name>
@@ -69409,32 +69409,6 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-4-16" available="true">
-<name>Подсвечник стеклянный на 5 свечей 56.5 см подсвечник декоративный прозрачный на ножке HP-4-16</name>
-<price>2669</price>
-<vendorprice>1941</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>112</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0000000000000/HP-4-16/416_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000000000000/HP-4-16/416_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000000000000/HP-4-16/416_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53723/4088/podsvechnik_steklyannyy_na_5_svechey_20_56_5_sm_podsvechnik_dekorativnyy_prozrachnyy_na_nozhke_3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Современный и элегантный подсвечник станет эффектным элементом декора в любом интерьере.  Прозрачные цилиндрические держатели для свечей расположены на разной высоте, создавая объёмную композицию и визуальную динамику. Зеркальное основание добавляет блеска и подчёркивает чистоту линий. Такой подсвечник станет ярким акцентом на праздничном столе или зоне отдыха.  Основные характеристики подсвечника на ножке:   Материал: стекло; Высота: 56.5 см; Диаметр: 20 см; Глубина подсвечника: 5.8 см; Диаметр под свечу: 6 см.   Особенности стеклянного подсвечника на 5 свечей:   Три стеклянных держателя разной высоты Современный минималистичный дизайн; Подходит для классических или электронных свечей; Прочное и устойчивое основание; Универсальное применение &ndash; интерьер, мероприятия, фотозоны; Легко вписывается в стиль лофт, модерн, сканди.   Этот стеклянный подсвечник на пять свечей &mdash; воплощение элегантности и современного стиля. Он не только наполнит пространство мягким светом, но и станет выразительным элементом декора, подчёркивающим ваш вкус и любовь к изысканным деталям. Идеальное сочетание простоты форм и утончённости &mdash; для дома, мероприятий и особых случаев.]]></description>
-<quantity_in_stock>24</quantity_in_stock>
-<vendorCode>HP-4-16</vendorCode>
-<param name="Высота подсвечника">56.5 см</param>
-<param name="Диаметр подсвечника">20 см</param>
-<param name="Вес подсвечника">3.5 кг</param>
-<param name="Количество мест для свечей">5</param>
-<param name="Материал изготовления">Стекло</param>
-<param name="Диаметр рекомендуемой свечи">6 см</param>
-<param name="Тип подсвечника">напольный</param>
-<param name="Тип рекомендуемой свечи">длинная свеча цилиндрической формы|пеньковая свеча</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-4-33M" available="true">
 <name>Подсвечник стеклянный на ножке с золотой окантовкой 13.3 см прозрачный HP-4-33M</name>
 <price>269</price>
@@ -71292,6 +71266,32 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Цвет">Серый</param>
 <param name="Глубина вазы">14</param>
 <param name="Диаметр основания">6</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-4-16" available="true">
+<name>Подсвечник стеклянный на 5 свечей 56.5 см подсвечник декоративный прозрачный на ножке HP-4-16</name>
+<price>2669</price>
+<vendorprice>1941</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>112</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0000000000000/HP-4-16/416_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000000000000/HP-4-16/416_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000000000000/HP-4-16/416_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53723/4088/podsvechnik_steklyannyy_na_5_svechey_20_56_5_sm_podsvechnik_dekorativnyy_prozrachnyy_na_nozhke_3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Современный и элегантный подсвечник станет эффектным элементом декора в любом интерьере.  Прозрачные цилиндрические держатели для свечей расположены на разной высоте, создавая объёмную композицию и визуальную динамику. Зеркальное основание добавляет блеска и подчёркивает чистоту линий. Такой подсвечник станет ярким акцентом на праздничном столе или зоне отдыха.  Основные характеристики подсвечника на ножке:   Материал: стекло; Высота: 56.5 см; Диаметр: 20 см; Глубина подсвечника: 5.8 см; Диаметр под свечу: 6 см.   Особенности стеклянного подсвечника на 5 свечей:   Три стеклянных держателя разной высоты Современный минималистичный дизайн; Подходит для классических или электронных свечей; Прочное и устойчивое основание; Универсальное применение &ndash; интерьер, мероприятия, фотозоны; Легко вписывается в стиль лофт, модерн, сканди.   Этот стеклянный подсвечник на пять свечей &mdash; воплощение элегантности и современного стиля. Он не только наполнит пространство мягким светом, но и станет выразительным элементом декора, подчёркивающим ваш вкус и любовь к изысканным деталям. Идеальное сочетание простоты форм и утончённости &mdash; для дома, мероприятий и особых случаев.]]></description>
+<quantity_in_stock>22</quantity_in_stock>
+<vendorCode>HP-4-16</vendorCode>
+<param name="Высота подсвечника">56.5 см</param>
+<param name="Диаметр подсвечника">20 см</param>
+<param name="Вес подсвечника">3.5 кг</param>
+<param name="Количество мест для свечей">5</param>
+<param name="Материал изготовления">Стекло</param>
+<param name="Диаметр рекомендуемой свечи">6 см</param>
+<param name="Тип подсвечника">напольный</param>
+<param name="Тип рекомендуемой свечи">длинная свеча цилиндрической формы|пеньковая свеча</param>
+<param name="Цвет">Прозрачный</param>
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
@@ -74750,28 +74750,6 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Гарантия">14 дней</param>
 <param name="Толщина стенки">3 мм</param>
 </offer>
-<offer id="HP17299BL" available="true">
-<name>Бутылка для воды 460 мл стеклянная с пластиковой крышкой синяя HP17299BL</name>
-<price>809</price>
-<vendorprice>588</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/111/HP17299BL/HP17299BL-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/1776/butylka_dlya_vody_steklyannaya_prozrachnaya_s_plastikovoy_kryshkoy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/1776/butylka_dlya_vody_steklyannaya_prozrachnaya_s_plastikovoy_kryshkoy_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/111/HP17299BL/HP17299BL-2.jpg</picture>
-<vendor>Happy Life</vendor>
-<description><![CDATA[Стеклянная бутылка для воды Cille 460 мл станет вашим незаменимым спутником в течение дня. Ее прозрачный дизайн с гравировкой логотипа Cille делает эту бутылку стильным дополнением к вашему образу жизни. Ее стильный дизайн и экологичность делают ее отличным выбором для тех, кто ценит качество и практичность.   Изготовленная из толстого стекла, бутылка Cille 460 мл прочная и устойчивая к повреждениям. Прозрачный дизайн подчеркивает чистоту воды и делает бутылку стильным дополнением к вашему образу. Удобная ручка обеспечивает комфортную транспортировку, а герметичная крышка предотвращает протекание.   Бутылка Cille 460 мл подходит для ежедневного использования, занятий спортом, путешествий и станет отличным подарком для ваших близких.   Особенности:     Материал: толстое стекло Объем: 460 мл Декор: гравировка логотипа Cille]]></description>
-<quantity_in_stock>19</quantity_in_stock>
-<vendorCode>HP17299BL</vendorCode>
-<param name="Материал">Стекло</param>
-<param name="Высота">22 см</param>
-<param name="Особенности">Ударопрочная</param>
-<param name="Объем">460 мл</param>
-<param name="Цвет">Синий</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP7204BR" available="true">
 <name>Чашка фарфоровая с бамбуковой крышкой и ручкой 400 мл Коричневая HP7204BR</name>
 <price>209</price>
@@ -76188,6 +76166,28 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Форма">Круглая</param>
 <param name="Гарантия">14 дней</param>
 </offer>
+<offer id="HP17299BL" available="true">
+<name>Бутылка для воды 460 мл стеклянная с пластиковой крышкой синяя HP17299BL</name>
+<price>809</price>
+<vendorprice>588</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>95</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/111/HP17299BL/HP17299BL-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/1776/butylka_dlya_vody_steklyannaya_prozrachnaya_s_plastikovoy_kryshkoy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/1776/butylka_dlya_vody_steklyannaya_prozrachnaya_s_plastikovoy_kryshkoy_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/111/HP17299BL/HP17299BL-2.jpg</picture>
+<vendor>Happy Life</vendor>
+<description><![CDATA[Стеклянная бутылка для воды Cille 460 мл станет вашим незаменимым спутником в течение дня. Ее прозрачный дизайн с гравировкой логотипа Cille делает эту бутылку стильным дополнением к вашему образу жизни. Ее стильный дизайн и экологичность делают ее отличным выбором для тех, кто ценит качество и практичность.   Изготовленная из толстого стекла, бутылка Cille 460 мл прочная и устойчивая к повреждениям. Прозрачный дизайн подчеркивает чистоту воды и делает бутылку стильным дополнением к вашему образу. Удобная ручка обеспечивает комфортную транспортировку, а герметичная крышка предотвращает протекание.   Бутылка Cille 460 мл подходит для ежедневного использования, занятий спортом, путешествий и станет отличным подарком для ваших близких.   Особенности:     Материал: толстое стекло Объем: 460 мл Декор: гравировка логотипа Cille]]></description>
+<quantity_in_stock>18</quantity_in_stock>
+<vendorCode>HP17299BL</vendorCode>
+<param name="Материал">Стекло</param>
+<param name="Высота">22 см</param>
+<param name="Особенности">Ударопрочная</param>
+<param name="Объем">460 мл</param>
+<param name="Цвет">Синий</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Гарантия">14 дней</param>
+</offer>
 <offer id="HP-4-409" available="true">
 <name>Набор посуды из 5 предметов, алюминий, толстое дно MGC HP-4-409</name>
 <price>11839</price>
@@ -76815,35 +76815,6 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Отделение для зубочисток">Нет</param>
 <param name="Подходит для мытья в посудомоечной машине">Нет</param>
 <param name="Форма">Прямоугольная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
-<offer id="HP-35015-48G" available="true">
-<name>Комплект аксессуаров для туалета с подставкой 13×5.5×42 (см) Серый HP-35015-48G</name>
-<price>409</price>
-<vendorprice>303</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>143</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_6.jpg</picture>
-<vendor>Household</vendor>
-<description><![CDATA[Настенный набор для ухода за туалетом состоит из щетки с длинной ручкой и компактного держателя с круглым отверстием для хранения. Ручка щетки имеет петлю на верхнем конце, что позволяет ее подвесить отдельно или использовать для удобного захвата. Рабочая часть щетки снабжена щетиной средней жесткости, расположенной плотно для эффективной очистки внутренних поверхностей унитаза.  Держатель имеет отверстия в нижней части, что способствует вентиляции и ускоренному высыханию щетки после использования. Конструкция позволяет щетке стоять вертикально, не прикасаясь к стенкам, что уменьшает контакт с остатками влаги. Монтаж производится на вертикальную поверхность, что экономит пространство и обеспечивает легкий доступ к инструменту.  Основные характеристики настенного силиконового ершика для чистки унитаза:    Размер: 13&times;5.5&times;42 см; Материал: пластик; Способ установки: настенный, напольный.   Особенности     настенного силиконового ершика для туалета с щеткой:    В комплект входят силиконовый ершик с подставкой и щетка, обеспечивая полный уход за санузлом. Силиконовая щетина легко удаляет загрязнения и эффективно справляется с засорами, не повреждая поверхность унитаза. Подставка удерживает ершик в вертикальном положении, поддерживая чистоту и гигиеничность. Ершик и щетка оснащены эргономичными ручками для удобного захвата и безопасного использования. Компактная конструкция позволяет разместить набор рядом с унитазом, экономя пространство. Силикон легко очищается и быстро высыхает, предотвращая появление неприятного запаха и бактерий. Набор подходит для повседневного использования в домашних и общественных санузлах.   Набор подходит для использования в санузлах с ограниченным пространством или в местах, где важна организованность и гигиена. Благодаря простой форме и функциональности он может быть интегрирован в бытовые или коммерческие интерьеры без необходимости в дополнительных аксессуарах. Универсальность конструкции позволяет использовать его как в домашних условиях, так и в гостиничных или офисных санитарных зонах.]]></description>
-<quantity_in_stock>18</quantity_in_stock>
-<vendorCode>HP-35015-48G</vendorCode>
-<param name="Тип ершика">Универсально</param>
-<param name="Вес">400 г</param>
-<param name="Материал подставки">Пластик</param>
-<param name="Ширина подставки">55 см</param>
-<param name="Длина подставки">13 см</param>
-<param name="Материал ручки">Пластик</param>
-<param name="Цвет">Серый</param>
-<param name="Общая высота">42 см</param>
-<param name="Тематика декора, рисунка">Без декора</param>
-<param name="Наличие крышки">Нет</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-23-11M" available="true">
@@ -78099,6 +78070,35 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Отделение для зубочисток">Нет</param>
 <param name="Подходит для мытья в посудомоечной машине">Нет</param>
 <param name="Форма">Квадратная</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-35015-48G" available="true">
+<name>Комплект аксессуаров для туалета с подставкой 13×5.5×42 (см) Серый HP-35015-48G</name>
+<price>409</price>
+<vendorprice>303</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>143</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_6.jpg</picture>
+<vendor>Household</vendor>
+<description><![CDATA[Настенный набор для ухода за туалетом состоит из щетки с длинной ручкой и компактного держателя с круглым отверстием для хранения. Ручка щетки имеет петлю на верхнем конце, что позволяет ее подвесить отдельно или использовать для удобного захвата. Рабочая часть щетки снабжена щетиной средней жесткости, расположенной плотно для эффективной очистки внутренних поверхностей унитаза.  Держатель имеет отверстия в нижней части, что способствует вентиляции и ускоренному высыханию щетки после использования. Конструкция позволяет щетке стоять вертикально, не прикасаясь к стенкам, что уменьшает контакт с остатками влаги. Монтаж производится на вертикальную поверхность, что экономит пространство и обеспечивает легкий доступ к инструменту.  Основные характеристики настенного силиконового ершика для чистки унитаза:    Размер: 13&times;5.5&times;42 см; Материал: пластик; Способ установки: настенный, напольный.   Особенности     настенного силиконового ершика для туалета с щеткой:    В комплект входят силиконовый ершик с подставкой и щетка, обеспечивая полный уход за санузлом. Силиконовая щетина легко удаляет загрязнения и эффективно справляется с засорами, не повреждая поверхность унитаза. Подставка удерживает ершик в вертикальном положении, поддерживая чистоту и гигиеничность. Ершик и щетка оснащены эргономичными ручками для удобного захвата и безопасного использования. Компактная конструкция позволяет разместить набор рядом с унитазом, экономя пространство. Силикон легко очищается и быстро высыхает, предотвращая появление неприятного запаха и бактерий. Набор подходит для повседневного использования в домашних и общественных санузлах.   Набор подходит для использования в санузлах с ограниченным пространством или в местах, где важна организованность и гигиена. Благодаря простой форме и функциональности он может быть интегрирован в бытовые или коммерческие интерьеры без необходимости в дополнительных аксессуарах. Универсальность конструкции позволяет использовать его как в домашних условиях, так и в гостиничных или офисных санитарных зонах.]]></description>
+<quantity_in_stock>17</quantity_in_stock>
+<vendorCode>HP-35015-48G</vendorCode>
+<param name="Тип ершика">Универсально</param>
+<param name="Вес">400 г</param>
+<param name="Материал подставки">Пластик</param>
+<param name="Ширина подставки">55 см</param>
+<param name="Длина подставки">13 см</param>
+<param name="Материал ручки">Пластик</param>
+<param name="Цвет">Серый</param>
+<param name="Общая высота">42 см</param>
+<param name="Тематика декора, рисунка">Без декора</param>
+<param name="Наличие крышки">Нет</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-3Y-6-312" available="true">
