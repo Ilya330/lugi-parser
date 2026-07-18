@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-17 18:54">
+<yml_catalog date="2026-07-18 01:32">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -2031,7 +2031,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6799/gazovaya_gorelka_2800_vt_hp_ds3_9_taganok_gazovyy_turisticheskiy_krasnyy_8.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Самое популярное решение для путешественников, рыбаков и любителей быстрых пикников. Главная особенность этой модели &mdash; складная ветрозащита из нержавеющей стали, которая позволяет эффективно готовить даже при сильном ветре, не тратя лишний газ.  Преимущества:   Ветрозащита &laquo;лепестки&raquo;: Стальные лепестки раскрываются под диаметр посуды, создавая закрытую камеру сгорания. Это значительно повышает КПД и защищает пламя от задувания. Оптимальная мощность: 2800 Вт в таком компактном корпусе позволяют вскипятить литр воды за 3&ndash;5 минут. Пьезоподжиг: горелка запускается нажатием одной кнопки на корпусе. Точная регулировка: Удобный поворотный клапан позволяет выставить идеальное пламя от режима &laquo;турбо&raquo; до медленного тления.   Конструкция и использование:   Складные ножки: Обеспечивают устойчивость на любой поверхности, будь то камни, песок или трава. Компактная сборка: В собранном виде &laquo;лепестки&raquo; плотно прилегают к корпусу, превращая горелку в небольшой пакет, который поместится в любой рюкзак. Тип топлива: Рассчитана на работу с самыми доступными цанговыми (&laquo;дихлофосными&raquo;) баллонами. Баллон просто вставляется в боковой разъем и фиксируется поворотом.]]></description>
-<quantity_in_stock>248</quantity_in_stock>
+<quantity_in_stock>247</quantity_in_stock>
 <vendorCode>HP-DS3-9</vendorCode>
 <param name="Высота">120</param>
 <param name="Гарантийный срок">3</param>
@@ -5936,7 +5936,7 @@
 <categoryId>150</categoryId>
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4555/akkumulyator_holoda_25_14_5_2_sm_hladogen_gelevyy_dlya_termosumki_holodilnika_nakopitel_holoda_belyy.png</picture>
 <description><![CDATA[Если вы часто берёте с собой еду или напитки в дорогу, на пикник, в путешествие или просто хотите быть уверены в стабильной температуре внутри термосумки — аккумулятор холода станет незаменимым помощником. Он помогает надолго сохранить продукты свежими даже в жаркую погоду и обеспечивает дополнительную безопасность при отключении электроэнергии, поддерживая температуру в холодильнике.  Основные характеристики    аккумулятора холода для термосумки:   Размер: 25×14.5×2 см; Материал корпуса: ударопрочный пластик; Наполнитель: гелеобразный хладагент.   Особенности    гелевого хладогена для сумки холодильника:   Универсальное применение — для термосумок, контейнеров, термобоксов, а также в бытовом холодильнике; Специальная текстура корпуса — защищает от деформации и вздутия при заморозке; Герметичный и прочный — устойчив к механическим повреждениям; Многоразовое использование — замораживается снова и снова без потери эффективности.   Советы по использованию:   Располагайте аккумуляторы сверху и по бокам от продуктов; Используйте несколько аккумуляторов одного типа для равномерного охлаждения.       Охладитель в термосумку  — это простое и эффективное решение для всех, кто ценит свежесть и безопасность продуктов в дороге или дома. Благодаря надежным материалам, продуманной конструкции и многоразовому использованию он станет полезным аксессуаром в повседневной жизни, особенно в тёплое время года. Отличный выбор для поездок, пикников, кемпинга или резервного охлаждения в быту.]]></description>
-<quantity_in_stock>133</quantity_in_stock>
+<quantity_in_stock>132</quantity_in_stock>
 <vendorCode>HP-14-4W</vendorCode>
 <param name="Вес">400</param>
 <param name="Цвет">Белый</param>
@@ -8922,31 +8922,6 @@
 <param name="Цвет свечения">Белый</param>
 <param name="Тип лампы">Энергосберегающая</param>
 </offer>
-<offer id="HP455RESH" available="true">
-<name>Решетка для мангала 24*24 см профессиональная HP455RESH</name>
-<price>539</price>
-<vendorprice>379</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>125</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/HP-455RESH/455_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/HP-455RESH/reshetka_dlya_grilya_i_barbekyu_grill_ploskaya_24_24_sm.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/HP-455RESH/455_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/HP-455RESH/455_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/HP-455RESH/455_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/HP-455RESH/455_1.jpg</picture>
-<vendor>TS Kitchen</vendor>
-<description><![CDATA[Решетка для гриля  24*24 см  Решетка для гриля 24*24 см является профессиональным оборудованием, идеально подходящим для мангала, гриля и барбекю. Изготовлена из высококачественной нержавеющей стали, она предназначена для жарки мяса, сосисок, стейков и шашлыков. Продуманный дизайн и оптимальные размеры делают ее универсальным выбором для приготовления пищи как на мангале, так и на открытом огне.  Характеристики:   Размер решетки: 24*24 см  Материал: нержавеющая сталь, устойчивая к ржавчине и деформации Ручка: бакелитовая, не нагревается   Преимущества и уход:Решетка обеспечивает равномерное прогревание пищи и легкость в очистке после использования. Бакелитовая ручка не нагревается, что гарантирует безопасность и комфорт во время использования. Эта решетка из нержавеющей стали сочетает качество и долговечность, а также обеспечивает максимальное удобство.]]></description>
-<quantity_in_stock>94</quantity_in_stock>
-<vendorCode>HP455RESH</vendorCode>
-<param name="Материал">Нержавеющая сталь</param>
-<param name="Назначение решетки">Универсальная</param>
-<param name="Вес">2 кг</param>
-<param name="Длина рабочей поверхности">24 см</param>
-<param name="Ширина рабочей поверхности">24 см</param>
-<param name="Состояние">Новое</param>
-<param name="Форма">Прямоугольная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-35015-43" available="true">
 <name>Швабра для влажной уборки с металлической ручкой и круглой насадкой из микрофибры для дома, офиса HP-35015-43</name>
 <price>229</price>
@@ -9035,6 +9010,31 @@
 <param name="Материал корпуса">ABS-пластик</param>
 <param name="Тип питания">Солнечная батарея|Аккумулятор</param>
 <param name="Тип лампы">1 LED + 1 UV-LED</param>
+</offer>
+<offer id="HP455RESH" available="true">
+<name>Решетка для мангала 24*24 см профессиональная HP455RESH</name>
+<price>539</price>
+<vendorprice>379</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>125</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/HP-455RESH/455_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/HP-455RESH/reshetka_dlya_grilya_i_barbekyu_grill_ploskaya_24_24_sm.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/HP-455RESH/455_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/HP-455RESH/455_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/HP-455RESH/455_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/HP-455RESH/455_1.jpg</picture>
+<vendor>TS Kitchen</vendor>
+<description><![CDATA[Решетка для гриля  24*24 см  Решетка для гриля 24*24 см является профессиональным оборудованием, идеально подходящим для мангала, гриля и барбекю. Изготовлена из высококачественной нержавеющей стали, она предназначена для жарки мяса, сосисок, стейков и шашлыков. Продуманный дизайн и оптимальные размеры делают ее универсальным выбором для приготовления пищи как на мангале, так и на открытом огне.  Характеристики:   Размер решетки: 24*24 см  Материал: нержавеющая сталь, устойчивая к ржавчине и деформации Ручка: бакелитовая, не нагревается   Преимущества и уход:Решетка обеспечивает равномерное прогревание пищи и легкость в очистке после использования. Бакелитовая ручка не нагревается, что гарантирует безопасность и комфорт во время использования. Эта решетка из нержавеющей стали сочетает качество и долговечность, а также обеспечивает максимальное удобство.]]></description>
+<quantity_in_stock>93</quantity_in_stock>
+<vendorCode>HP455RESH</vendorCode>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Назначение решетки">Универсальная</param>
+<param name="Вес">2 кг</param>
+<param name="Длина рабочей поверхности">24 см</param>
+<param name="Ширина рабочей поверхности">24 см</param>
+<param name="Состояние">Новое</param>
+<param name="Форма">Прямоугольная</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-8-7" available="true">
 <name>Терка шестигранная ручная для овощей и фруктов 14×12×24 (см) HP-8-7</name>
@@ -9814,38 +9814,6 @@
 <param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="LU-027B" available="true">
-<name>Надувной матрас 190*130*3 см походный туристический Черный LU-027B</name>
-<price>3039</price>
-<vendorprice>2016</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>75</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/68190/6625/naduvnoy_matras_190h130sm_pohodnyy_turisticheskiy_camping_kovrik_samonaduvayushchiysya_dlya_palatki_kempinga_otdyha_sna_chernyy.png</picture>
-<vendor>Lugi</vendor>
-<description><![CDATA[Туристический надувной матрас для кемпинга &ndash; это идеальное решение для комфортного отдыха в походах. Простая, но продуманная конструкция обеспечивают максимальный комфорт во время сна. Благодаря системе самонадувания, он быстро раскладывается и готов к использованию за считанные минуты. Подголовник же накачивается вручную, обеспечивая дополнительный уровень комфорта.  Матрас выполнен из прочного полиэстера, устойчивого к износу и воздействию погодных условий. Его размеры &mdash; 190&times;130&times;3 см &mdash; гарантируют достаточно места для двоих, а толщина 3 см создаёт надежную защиту от холодного и неровного грунта.  Основные характеристики    матраса для палатки:   Размер в сложенном состоянии:    22&times;22&times;65 см; Размер  в разложенном состоянии:       190&times;130&times;3 см; Высота подголовника:19 см; Материал матраса: полиэстер; Толщина: 3 см; Механизм надувания: самонадувной (накачивать только подголовник); Наличие чехла: есть.   Основные преимущества самонадувного туристического матраса:   Быстрое и простое раскладывание благодаря системе самонадувания; Подголовник с ручной накачкой для дополнительного комфорта; Вместительные размеры &mdash; комфортно размещает двух человек; Толщина 3 см обеспечивает защиту от холода и неровностей поверхности; Прочный и износостойкий материал выдерживает любые условия; Компактный размер в сложенном виде для удобной транспортировки; Лёгкий вес &mdash; удобно брать с собой в поездки и походы; В комплект входит чехол для хранения и переноски; Не требует отдельного насоса &mdash; экономит время и силы.   Материалы, из которых изготовлен    походный матрас для палатки, обеспечивают ему длительную службу даже при активном использовании в кемпинге, во время походов или других outdoor-активностей. Кемпинговый матрас легко складывается для транспортировки и хранения, занимая минимум места.]]></description>
-<quantity_in_stock>89</quantity_in_stock>
-<vendorCode>LU-027B</vendorCode>
-<param name="Материал">Полиэстер</param>
-<param name="Высота">30</param>
-<param name="Вес">2.4</param>
-<param name="Ширина">1300</param>
-<param name="Цвет">Черный</param>
-<param name="Длина">1900</param>
-<param name="Подушка-подголовник">Да</param>
-<param name="Количество воздушных камер">1</param>
-<param name="Комплектация насосом">Нет</param>
-<param name="Гарантия">14 дней</param>
-<param name="Ремонтный комплект">Нет</param>
-<param name="Чехол для хранения и транспортировки">Да</param>
-<param name="Заплатка-самоклейка">Нет</param>
-<param name="Комплектация">С подголовьем</param>
-<param name="Сумка для хранения и транспортировки">Нет</param>
-<param name="Количество мест матраса">двухместный</param>
-<param name="Раскладное спальное место">Да</param>
-<param name="Длина спального места">1900</param>
-<param name="Ширина спального места">1300</param>
-<param name="Наличие съемного чехла">Есть</param>
-</offer>
 <offer id="HP-16978-13" available="true">
 <name>Набор столовых ложек 6 штук из нержавеющей стали 21 см ложки столовые приборы для сервировки стола HP-16978-13</name>
 <price>419</price>
@@ -9891,6 +9859,38 @@
 <param name="Состояние">Новое</param>
 <param name="Упаковка">Чехол</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="LU-027B" available="true">
+<name>Надувной матрас 190*130*3 см походный туристический Черный LU-027B</name>
+<price>3039</price>
+<vendorprice>2016</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>75</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/68190/6625/naduvnoy_matras_190h130sm_pohodnyy_turisticheskiy_camping_kovrik_samonaduvayushchiysya_dlya_palatki_kempinga_otdyha_sna_chernyy.png</picture>
+<vendor>Lugi</vendor>
+<description><![CDATA[Туристический надувной матрас для кемпинга &ndash; это идеальное решение для комфортного отдыха в походах. Простая, но продуманная конструкция обеспечивают максимальный комфорт во время сна. Благодаря системе самонадувания, он быстро раскладывается и готов к использованию за считанные минуты. Подголовник же накачивается вручную, обеспечивая дополнительный уровень комфорта.  Матрас выполнен из прочного полиэстера, устойчивого к износу и воздействию погодных условий. Его размеры &mdash; 190&times;130&times;3 см &mdash; гарантируют достаточно места для двоих, а толщина 3 см создаёт надежную защиту от холодного и неровного грунта.  Основные характеристики    матраса для палатки:   Размер в сложенном состоянии:    22&times;22&times;65 см; Размер  в разложенном состоянии:       190&times;130&times;3 см; Высота подголовника:19 см; Материал матраса: полиэстер; Толщина: 3 см; Механизм надувания: самонадувной (накачивать только подголовник); Наличие чехла: есть.   Основные преимущества самонадувного туристического матраса:   Быстрое и простое раскладывание благодаря системе самонадувания; Подголовник с ручной накачкой для дополнительного комфорта; Вместительные размеры &mdash; комфортно размещает двух человек; Толщина 3 см обеспечивает защиту от холода и неровностей поверхности; Прочный и износостойкий материал выдерживает любые условия; Компактный размер в сложенном виде для удобной транспортировки; Лёгкий вес &mdash; удобно брать с собой в поездки и походы; В комплект входит чехол для хранения и переноски; Не требует отдельного насоса &mdash; экономит время и силы.   Материалы, из которых изготовлен    походный матрас для палатки, обеспечивают ему длительную службу даже при активном использовании в кемпинге, во время походов или других outdoor-активностей. Кемпинговый матрас легко складывается для транспортировки и хранения, занимая минимум места.]]></description>
+<quantity_in_stock>88</quantity_in_stock>
+<vendorCode>LU-027B</vendorCode>
+<param name="Материал">Полиэстер</param>
+<param name="Высота">30</param>
+<param name="Вес">2.4</param>
+<param name="Ширина">1300</param>
+<param name="Цвет">Черный</param>
+<param name="Длина">1900</param>
+<param name="Подушка-подголовник">Да</param>
+<param name="Количество воздушных камер">1</param>
+<param name="Комплектация насосом">Нет</param>
+<param name="Гарантия">14 дней</param>
+<param name="Ремонтный комплект">Нет</param>
+<param name="Чехол для хранения и транспортировки">Да</param>
+<param name="Заплатка-самоклейка">Нет</param>
+<param name="Комплектация">С подголовьем</param>
+<param name="Сумка для хранения и транспортировки">Нет</param>
+<param name="Количество мест матраса">двухместный</param>
+<param name="Раскладное спальное место">Да</param>
+<param name="Длина спального места">1900</param>
+<param name="Ширина спального места">1300</param>
+<param name="Наличие съемного чехла">Есть</param>
 </offer>
 <offer id="HP-DS3-8" available="true">
 <name>Обогреватель-плита туристическая газовая HP-DS3-8 1300 Вт черная газовая плита настольная</name>
@@ -9944,31 +9944,6 @@
 <param name="Материал">Стекло</param>
 <param name="Объем">75 мл</param>
 <param name="Цвет">Коричневый</param>
-</offer>
-<offer id="SJ-0015-120" available="true">
-<name>Стол для пикника складной 120×55×50 см уличный раскладной стол кемпинговый для отдыха на природе пикника SJ-0015-120</name>
-<price>1259</price>
-<vendorprice>828</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>75</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_6.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Раскладной уличный стол &ndash; это практичное решение для отдыха на природе, дачи или пикника. Благодаря прочной стальной конструкции он выдерживает нагрузку и обеспечивает стабильность на различных поверхностях. В разложенном виде размер 120&times;55&times;50 см позволяет комфортно разместить посуду, продукты и все необходимое для отдыха на свежем воздухе. Легкий вес 3.5 кг и компактные габариты в сложенном состоянии (70&times;25&times;20 см) делают стол удобным для транспортировки и хранения. Он быстро складывается и раскладывается, не занимает много места и станет незаменимым аксессуаром для кемпинга, рыбалки или путешествий. Это сочетание мобильности, надежности и комфорта для вашего активного отдыха.  Преимущества:   Компактность: В разобранном виде стол занимает минимум места, что позволяет перевозить его в багажнике любого автомобиля. Быстрая сборка: Процесс установки занимает не больше минуты - достаточно разложить каркас и зафиксировать на нем рулонную столешницу. Габариты: Длина столешницы 120 см позволяет комфортно разместиться компании из 4-6 человек.   Характеристики:   Материал: сталь Размер в разложенном состоянии: 120*55*50 см Размер в сложенном состоянии: 70*25*20 см Вес: 3,5 кг]]></description>
-<quantity_in_stock>88</quantity_in_stock>
-<vendorCode>SJ-0015-120</vendorCode>
-<param name="Высота">500</param>
-<param name="Вес">3.5</param>
-<param name="Материал каркаса (опор)">Сталь</param>
-<param name="Ширина">550</param>
-<param name="Цвет">Черный</param>
-<param name="Длина">1200</param>
-<param name="Форма стола">Прямоугольный</param>
 </offer>
 <offer id="HP-14-32TU" available="true">
 <name>Бутылка для воды многоразовая 700 мл бутылочка с трубочкой HP-14-32TU</name>
@@ -10100,6 +10075,31 @@
 <param name="Подарочная упаковка">Нет</param>
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="SJ-0015-120" available="true">
+<name>Стол для пикника складной 120×55×50 см уличный раскладной стол кемпинговый для отдыха на природе пикника SJ-0015-120</name>
+<price>1259</price>
+<vendorprice>828</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>75</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7227/stol_dlya_piknika_skladnoy_70_25_20_sm_ulichnyy_raskladnoy_stol_kempingovyy_dlya_otdyha_na_prirode_piknika_6.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Раскладной уличный стол &ndash; это практичное решение для отдыха на природе, дачи или пикника. Благодаря прочной стальной конструкции он выдерживает нагрузку и обеспечивает стабильность на различных поверхностях. В разложенном виде размер 120&times;55&times;50 см позволяет комфортно разместить посуду, продукты и все необходимое для отдыха на свежем воздухе. Легкий вес 3.5 кг и компактные габариты в сложенном состоянии (70&times;25&times;20 см) делают стол удобным для транспортировки и хранения. Он быстро складывается и раскладывается, не занимает много места и станет незаменимым аксессуаром для кемпинга, рыбалки или путешествий. Это сочетание мобильности, надежности и комфорта для вашего активного отдыха.  Преимущества:   Компактность: В разобранном виде стол занимает минимум места, что позволяет перевозить его в багажнике любого автомобиля. Быстрая сборка: Процесс установки занимает не больше минуты - достаточно разложить каркас и зафиксировать на нем рулонную столешницу. Габариты: Длина столешницы 120 см позволяет комфортно разместиться компании из 4-6 человек.   Характеристики:   Материал: сталь Размер в разложенном состоянии: 120*55*50 см Размер в сложенном состоянии: 70*25*20 см Вес: 3,5 кг]]></description>
+<quantity_in_stock>87</quantity_in_stock>
+<vendorCode>SJ-0015-120</vendorCode>
+<param name="Высота">500</param>
+<param name="Вес">3.5</param>
+<param name="Материал каркаса (опор)">Сталь</param>
+<param name="Ширина">550</param>
+<param name="Цвет">Черный</param>
+<param name="Длина">1200</param>
+<param name="Форма стола">Прямоугольный</param>
 </offer>
 <offer id="JY-9060G" available="true">
 <name>Комплект туристической стол + 2 лавочки складная мебель Серый Lugi JY-9060G</name>
@@ -14107,33 +14107,6 @@
 <param name="Упаковка">Блистер</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-35015-18" available="true">
-<name>Швабра с ведром для мытья пола с отжимом, плоская насадка из микрофибры, набор для уборки дома HP-35015-18</name>
-<price>1639</price>
-<vendorprice>1016</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>155</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/ZWM32144LED/HP-35015-18-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4713/shvabra_s_vedrom_dlya_mytya_pola_s_otzhimom_ploskaya_nasadka_iz_mikrofibry_nabor_dlya_uborki_doma_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4713/shvabra_s_vedrom_dlya_mytya_pola_s_otzhimom_ploskaya_nasadka_iz_mikrofibry_nabor_dlya_uborki_doma_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4713/shvabra_s_vedrom_dlya_mytya_pola_s_otzhimom_ploskaya_nasadka_iz_mikrofibry_nabor_dlya_uborki_doma_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4713/shvabra_s_vedrom_dlya_mytya_pola_s_otzhimom_ploskaya_nasadka_iz_mikrofibry_nabor_dlya_uborki_doma_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4713/shvabra_s_vedrom_dlya_mytya_pola_s_otzhimom_ploskaya_nasadka_iz_mikrofibry_nabor_dlya_uborki_doma_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4713/shvabra_s_vedrom_dlya_mytya_pola_s_otzhimom_ploskaya_nasadka_iz_mikrofibry_nabor_dlya_uborki_doma_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4713/shvabra_s_vedrom_dlya_mytya_pola_s_otzhimom_ploskaya_nasadka_iz_mikrofibry_nabor_dlya_uborki_doma_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4713/shvabra_s_vedrom_dlya_mytya_pola_s_otzhimom_ploskaya_nasadka_iz_mikrofibry_nabor_dlya_uborki_doma_9.jpg</picture>
-<vendor>Household</vendor>
-<description><![CDATA[Набор для уборки состоит из плоской швабры и двухсекционного ведра с механизмом для отжима. Швабра оснащена прямоугольной платформой с четырьмя противоскользящими вставками сверху, которые обеспечивают устойчивость при хранении. Ручка изготовлена из нержавеющей стали, дополнена пластиковым кольцом для соединения секций и удобной серой накладкой для надежного захвата. Платформа совместима с насадками из микрофибры, которые фиксируются с помощью липучек или держателей.  Ведро выполнено из прочного пластика и имеет две отдельные камеры &mdash; для мытья и отжима. Внутри каждой камеры предусмотрены вертикальные ребра для очистки насадки и отверстия для слива воды. Боковые серые ручки снабжены оранжевыми фиксаторами, что позволяет комфортно переносить ведро даже при наполнении. Основание ведра оснащено стабилизирующими ножками, предотвращающими скольжение на гладкой поверхности. Встроенный механизм обеспечивает отжим без прямого контакта рук с водой.  Характеристика набора для уборки дома:   Габариты товара: 35&times;13&times;50 см Габариты насадки: 40&times;12 см Материал ведра: пластик Объём ведра: 12 л Функция отжима: есть Максимальная длина ручки швабры: 130 см Минимальная длина ручки швабры: 88 см Материал ручки швабры: нержавеющая сталь Прорезиненная ручка: да   Основные преимущества набора для уборки пола:   плоская швабра с прочной платформой; насадки из микрофибры с надежным креплением; ведро с двумя секциями для мытья и отжима; вертикальные ребра и сливные отверстия для удобства; ручки с фиксаторами для безопасного переноса; устойчивое основание с ножками; гигиеничный отжим без контакта с руками; подходит для разных типов напольных покрытий.   Набор подходит для регулярной влажной уборки в жилых и коммерческих помещениях. Благодаря раздельным камерам и плоской платформе швабры можно легко очищать углы, узкие пространства и большие площади. Компактные размеры позволяют удобно хранить комплект в шкафу или кладовой.]]></description>
-<quantity_in_stock>57</quantity_in_stock>
-<vendorCode>HP-35015-18</vendorCode>
-<param name="Материал">Сталь</param>
-<param name="Длина ручки">130</param>
-<param name="Материал насадки">Микрофибра</param>
-<param name="Материал ручки">Нержавеющая сталь</param>
-<param name="Длина насадки">12</param>
-<param name="Ширина насадки">40</param>
-<param name="Объем ведра">12</param>
-</offer>
 <offer id="HP-JW-4" available="true">
 <name>Зонт кемпинговый 150 см зеленый прочный надежная защита от дождя солнца HP-JW-4</name>
 <price>1369</price>
@@ -14178,6 +14151,33 @@
 <param name="Высота (см)">14</param>
 <param name="Объем емкости">0.3</param>
 <param name="Нижний диаметр">6</param>
+</offer>
+<offer id="HP-35015-18" available="true">
+<name>Швабра с ведром для мытья пола с отжимом, плоская насадка из микрофибры, набор для уборки дома HP-35015-18</name>
+<price>1639</price>
+<vendorprice>1016</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>155</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/ZWM32144LED/HP-35015-18-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4713/shvabra_s_vedrom_dlya_mytya_pola_s_otzhimom_ploskaya_nasadka_iz_mikrofibry_nabor_dlya_uborki_doma_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4713/shvabra_s_vedrom_dlya_mytya_pola_s_otzhimom_ploskaya_nasadka_iz_mikrofibry_nabor_dlya_uborki_doma_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4713/shvabra_s_vedrom_dlya_mytya_pola_s_otzhimom_ploskaya_nasadka_iz_mikrofibry_nabor_dlya_uborki_doma_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4713/shvabra_s_vedrom_dlya_mytya_pola_s_otzhimom_ploskaya_nasadka_iz_mikrofibry_nabor_dlya_uborki_doma_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4713/shvabra_s_vedrom_dlya_mytya_pola_s_otzhimom_ploskaya_nasadka_iz_mikrofibry_nabor_dlya_uborki_doma_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4713/shvabra_s_vedrom_dlya_mytya_pola_s_otzhimom_ploskaya_nasadka_iz_mikrofibry_nabor_dlya_uborki_doma_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4713/shvabra_s_vedrom_dlya_mytya_pola_s_otzhimom_ploskaya_nasadka_iz_mikrofibry_nabor_dlya_uborki_doma_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4713/shvabra_s_vedrom_dlya_mytya_pola_s_otzhimom_ploskaya_nasadka_iz_mikrofibry_nabor_dlya_uborki_doma_9.jpg</picture>
+<vendor>Household</vendor>
+<description><![CDATA[Набор для уборки состоит из плоской швабры и двухсекционного ведра с механизмом для отжима. Швабра оснащена прямоугольной платформой с четырьмя противоскользящими вставками сверху, которые обеспечивают устойчивость при хранении. Ручка изготовлена из нержавеющей стали, дополнена пластиковым кольцом для соединения секций и удобной серой накладкой для надежного захвата. Платформа совместима с насадками из микрофибры, которые фиксируются с помощью липучек или держателей.  Ведро выполнено из прочного пластика и имеет две отдельные камеры &mdash; для мытья и отжима. Внутри каждой камеры предусмотрены вертикальные ребра для очистки насадки и отверстия для слива воды. Боковые серые ручки снабжены оранжевыми фиксаторами, что позволяет комфортно переносить ведро даже при наполнении. Основание ведра оснащено стабилизирующими ножками, предотвращающими скольжение на гладкой поверхности. Встроенный механизм обеспечивает отжим без прямого контакта рук с водой.  Характеристика набора для уборки дома:   Габариты товара: 35&times;13&times;50 см Габариты насадки: 40&times;12 см Материал ведра: пластик Объём ведра: 12 л Функция отжима: есть Максимальная длина ручки швабры: 130 см Минимальная длина ручки швабры: 88 см Материал ручки швабры: нержавеющая сталь Прорезиненная ручка: да   Основные преимущества набора для уборки пола:   плоская швабра с прочной платформой; насадки из микрофибры с надежным креплением; ведро с двумя секциями для мытья и отжима; вертикальные ребра и сливные отверстия для удобства; ручки с фиксаторами для безопасного переноса; устойчивое основание с ножками; гигиеничный отжим без контакта с руками; подходит для разных типов напольных покрытий.   Набор подходит для регулярной влажной уборки в жилых и коммерческих помещениях. Благодаря раздельным камерам и плоской платформе швабры можно легко очищать углы, узкие пространства и большие площади. Компактные размеры позволяют удобно хранить комплект в шкафу или кладовой.]]></description>
+<quantity_in_stock>56</quantity_in_stock>
+<vendorCode>HP-35015-18</vendorCode>
+<param name="Материал">Сталь</param>
+<param name="Длина ручки">130</param>
+<param name="Материал насадки">Микрофибра</param>
+<param name="Материал ручки">Нержавеющая сталь</param>
+<param name="Длина насадки">12</param>
+<param name="Ширина насадки">40</param>
+<param name="Объем ведра">12</param>
 </offer>
 <offer id="HP-42-11P" available="true">
 <name>Влаговпитывающий коврик для раковины под кран из полиэстера 37,5*13 см HP-42-11P</name>
@@ -16583,40 +16583,6 @@
 <param name="Цвет корпуса">Черный</param>
 <param name="Форма">Прямоугольная</param>
 </offer>
-<offer id="BQ-1" available="true">
-<name>Угольный гриль двусторонний портативный с решеткой 38х25х35 см черный BQ-1</name>
-<price>1849</price>
-<vendorprice>1211</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>26</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_9.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Портативный угольный гриль двустороннего типа представляет собой компактное и функциональное решение для приготовления разнообразных блюд на открытом воздухе. Благодаря небольшим габаритам его удобно транспортировать на пикник, дачу или в любое место для отдыха на природе. Эта модель сочетает в себе возможности традиционного барбекю, гриля и коптильни, что позволяет готовить множество вариантов блюд на натуральном древесном угле. Ключевая особенность конструкции заключается в двустороннем исполнении: при открытой крышке рабочая поверхность значительно увеличивается, позволяя одновременно готовить несколько порций мяса, рыбы или овощей. Когда крышка закрыта, создаётся эффект равномерного распределения жара внутри, что идеально подходит для запекания или копчения продуктов. Особенности угольного гриля:  Двусторонняя конструкция — позволяет увеличить рабочую площадь при открытии крышки; Многофункциональность — сочетает функции барбекю, гриля и коптильни; Комплект из 2 съёмных решёток — легко устанавливаются и снимаются для чистки; Удобная система фиксации — замок с накидной петлёй надёжно закрепляет крышку при транспортировке; Большая ручка для переноски — обеспечивает комфорт при перемещении; Устойчивые ножки — гарантируют стабильное положение на разных поверхностях.  Характеристики гриля, аксессуаров для барбекю и приготовления на открытом воздухе:  Тип: Гриль, барбекю; Конструкция: двусторонняя; Формат: портативный; Функции: барбекю, гриль, коптильня; Количество решёток: 2 съёмные; Наличие крышки: да; Фиксация крышки: замок с накидной петлёй; Ручка для переноски: да; Установка: на ножках; Цвет: Чёрный.  Компактный формат и продуманная функциональная конструкция делают эту модель практичным выбором для любителей отдыха на природе. Гриль легко чистится после использования, а его портативность позволяет брать его с собой в любые поездки.]]></description>
-<quantity_in_stock>46</quantity_in_stock>
-<vendorCode>BQ-1</vendorCode>
-<param name="Тип">Гриль, барбекю</param>
-<param name="Высота">35</param>
-<param name="Тип топлива">Древесный уголь</param>
-<param name="Конструкция">Портативный</param>
-<param name="Ширина">25.9</param>
-<param name="Длина рабочей поверхности">35</param>
-<param name="Ширина рабочей поверхности">22</param>
-<param name="Материал решетки">Нержавеющая сталь</param>
-<param name="Материал корпуса">Металл</param>
-<param name="Цвет">Черный</param>
-<param name="Длина">38</param>
-<param name="Состояние">Новое</param>
-<param name="Форма">Прямоугольная</param>
-</offer>
 <offer id="HP-5-73" available="true">
 <name>Уличный LED фонарь на солнечных батареях 200х55мм прожектор светодиодный уличный 60 LED 100 Вт с солнечной панелью HP-5-73</name>
 <price>1769</price>
@@ -16900,6 +16866,40 @@
 <param name="Подходит для мытья в посудомоечной машине">Нет</param>
 <param name="Вилка десертная">2</param>
 </offer>
+<offer id="BQ-1" available="true">
+<name>Угольный гриль двусторонний портативный с решеткой 38х25х35 см черный BQ-1</name>
+<price>1849</price>
+<vendorprice>1211</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>26</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6970/ugolnyy_gril_dvustoronniy_portativnyy_s_reshetkoy_38h25h35_sm_chernyy_universalnyy_dlya_piknika_pohodnyy_raskladnoy_9.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Портативный угольный гриль двустороннего типа представляет собой компактное и функциональное решение для приготовления разнообразных блюд на открытом воздухе. Благодаря небольшим габаритам его удобно транспортировать на пикник, дачу или в любое место для отдыха на природе. Эта модель сочетает в себе возможности традиционного барбекю, гриля и коптильни, что позволяет готовить множество вариантов блюд на натуральном древесном угле. Ключевая особенность конструкции заключается в двустороннем исполнении: при открытой крышке рабочая поверхность значительно увеличивается, позволяя одновременно готовить несколько порций мяса, рыбы или овощей. Когда крышка закрыта, создаётся эффект равномерного распределения жара внутри, что идеально подходит для запекания или копчения продуктов. Особенности угольного гриля:  Двусторонняя конструкция — позволяет увеличить рабочую площадь при открытии крышки; Многофункциональность — сочетает функции барбекю, гриля и коптильни; Комплект из 2 съёмных решёток — легко устанавливаются и снимаются для чистки; Удобная система фиксации — замок с накидной петлёй надёжно закрепляет крышку при транспортировке; Большая ручка для переноски — обеспечивает комфорт при перемещении; Устойчивые ножки — гарантируют стабильное положение на разных поверхностях.  Характеристики гриля, аксессуаров для барбекю и приготовления на открытом воздухе:  Тип: Гриль, барбекю; Конструкция: двусторонняя; Формат: портативный; Функции: барбекю, гриль, коптильня; Количество решёток: 2 съёмные; Наличие крышки: да; Фиксация крышки: замок с накидной петлёй; Ручка для переноски: да; Установка: на ножках; Цвет: Чёрный.  Компактный формат и продуманная функциональная конструкция делают эту модель практичным выбором для любителей отдыха на природе. Гриль легко чистится после использования, а его портативность позволяет брать его с собой в любые поездки.]]></description>
+<quantity_in_stock>45</quantity_in_stock>
+<vendorCode>BQ-1</vendorCode>
+<param name="Тип">Гриль, барбекю</param>
+<param name="Высота">35</param>
+<param name="Тип топлива">Древесный уголь</param>
+<param name="Конструкция">Портативный</param>
+<param name="Ширина">25.9</param>
+<param name="Длина рабочей поверхности">35</param>
+<param name="Ширина рабочей поверхности">22</param>
+<param name="Материал решетки">Нержавеющая сталь</param>
+<param name="Материал корпуса">Металл</param>
+<param name="Цвет">Черный</param>
+<param name="Длина">38</param>
+<param name="Состояние">Новое</param>
+<param name="Форма">Прямоугольная</param>
+</offer>
 <offer id="HP-17-21" available="true">
 <name>Набор стаканов для напитков Crystal Spiral 3 штуки по 470 мл HP-17-21</name>
 <price>179</price>
@@ -16944,29 +16944,6 @@
 <param name="Объем">200</param>
 <param name="Цвет">Прозрачный</param>
 <param name="Тип посуды">Креманка</param>
-</offer>
-<offer id="HP1600" available="true">
-<name>Вращающийся стакан для виски 300 мл с бамбуковой подставкой HP1600</name>
-<price>359</price>
-<vendorprice>187</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>135</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/000001/HP1600/hp1600_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000001/HP1600/HP1600.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Стакан для виски - это элегантный аксессуар для настоящих ценителей виски. Изготовленный из прозрачного стекла с фасетованной текстурой, он не только имеет современный геометрический дизайн, но и обеспечивает удобство захвата. Объем стакана составляет 300 мл, а его круглая подставка из натурального бамбука добавляет изысканности и устойчивости. Особенность этого стакана - способность вращаться вокруг своей оси на подставке, что позволяет удобно крутить его одной рукой. Вращение способствует аэрации напитка, раскрывая его букет и добавляя удовольствие от потребления виски. Стакан станет оригинальным дополнением к домашнему бару или замечательным подарком для любителя виски.  Характеристики:   Объем: 300 мл Размер: 85×85×90 мм Верхний диаметр: 80 мм Нижний диаметр: 85 мм Материал: Прозрачное стекло, бамбук   Преимущества:   Геометрический дизайн обеспечивает удобный захват и комфорт в руке. Вращение на подставке способствует аэрации напитка, раскрывая его аромат. Стильная круглая подставка из натурального бамбука добавляет изысканности.   Уход:  Стакан можно мыть вручную или в посудомоечной машине. Рекомендуется использовать неабразивные моющие средства для сохранения его вида и долговечности.]]></description>
-<quantity_in_stock>44</quantity_in_stock>
-<vendorCode>HP1600</vendorCode>
-<param name="Материал">Стекло</param>
-<param name="Высота">9 см</param>
-<param name="Верхний диаметр">8 см</param>
-<param name="Подходит для горячих напитков">нет</param>
-<param name="Объем">300 мл</param>
-<param name="Тип стакана">С подстаканником</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Нижний диаметр">8.5 см</param>
-<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="JY-12061G" available="true">
 <name>Раскладной стол + 4 стула кемпинговый набор для пикника, рыбалки, отдыха, туризма Серый JY-12061G</name>
@@ -17202,6 +17179,29 @@
 <param name="Цвет">Прозрачный</param>
 <param name="Тип посуды">Креманка</param>
 </offer>
+<offer id="HP1600" available="true">
+<name>Вращающийся стакан для виски 300 мл с бамбуковой подставкой HP1600</name>
+<price>359</price>
+<vendorprice>187</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>135</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/000001/HP1600/hp1600_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000001/HP1600/HP1600.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Стакан для виски - это элегантный аксессуар для настоящих ценителей виски. Изготовленный из прозрачного стекла с фасетованной текстурой, он не только имеет современный геометрический дизайн, но и обеспечивает удобство захвата. Объем стакана составляет 300 мл, а его круглая подставка из натурального бамбука добавляет изысканности и устойчивости. Особенность этого стакана - способность вращаться вокруг своей оси на подставке, что позволяет удобно крутить его одной рукой. Вращение способствует аэрации напитка, раскрывая его букет и добавляя удовольствие от потребления виски. Стакан станет оригинальным дополнением к домашнему бару или замечательным подарком для любителя виски.  Характеристики:   Объем: 300 мл Размер: 85×85×90 мм Верхний диаметр: 80 мм Нижний диаметр: 85 мм Материал: Прозрачное стекло, бамбук   Преимущества:   Геометрический дизайн обеспечивает удобный захват и комфорт в руке. Вращение на подставке способствует аэрации напитка, раскрывая его аромат. Стильная круглая подставка из натурального бамбука добавляет изысканности.   Уход:  Стакан можно мыть вручную или в посудомоечной машине. Рекомендуется использовать неабразивные моющие средства для сохранения его вида и долговечности.]]></description>
+<quantity_in_stock>43</quantity_in_stock>
+<vendorCode>HP1600</vendorCode>
+<param name="Материал">Стекло</param>
+<param name="Высота">9 см</param>
+<param name="Верхний диаметр">8 см</param>
+<param name="Подходит для горячих напитков">нет</param>
+<param name="Объем">300 мл</param>
+<param name="Тип стакана">С подстаканником</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Нижний диаметр">8.5 см</param>
+<param name="Гарантия">14 дней</param>
+</offer>
 <offer id="HPZSB120014V" available="true">
 <name>Набор бутылок 3 в 1 Панда с поилкой и ручкой 0.3 (л) 0.7 (л) 2 (л) Фиолетовый HPZSB120014V</name>
 <price>409</price>
@@ -17275,41 +17275,6 @@
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Упаковка">Блистер</param>
 <param name="Гарантия">14 дней</param>
-</offer>
-<offer id="SJ-0015-1" available="true">
-<name>Стол для пикника складной 53*50*50 см</name>
-<url>https://lugi.com.ua/ru/stol_dlya_piknika_skladnoj_53_50_50_sm/</url>
-<price>729</price>
-<vendorprice>479</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>75</categoryId>
-<picture>https://lugi.com.ua/image/cache/external/4097fe7230a3b86dd54c05406d4ccf9e-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/2d2aac4a5044d60c6860b96bad037e37-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/28342a7f56165a3f4668b5d8073e6eed-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/6a3f6f5fc23b1159a40fe6d199913b3d-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/032d1dded06ca87757f85e3060f0fc20-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/855cc813b2747f107cfadbf2e7be7226-600x600.webp</picture>
-<description><![CDATA[Стол для пикника состоит из металлического каркаса и столешницы. Его конструкция позволяет легко раскладывать и складывать, что обеспечивает удобство в транспортировке и хранении. Стол идеально подходит для использования на природе или в условиях ограниченного пространства.<br />
-<br />
-В разложенном виде стол имеет размеры 53*50*50 см, что позволяет разместить несколько предметов для еды или отдыха. В сложенном виде его размеры уменьшаются до 20*15*51 см, что значительно облегчает транспортировку и хранение.<br />
-<br />
-Максимальная нагрузка стола составляет 20 кг, что позволяет использовать его для легкой мебели или пикировочных аксессуаров во время отдыха на природе.<br />
-<br />
-<strong>Характеристики:</strong>
-<ul>
-	<li>Размеры в разложенном виде: 53*50*50 см</li>
-	<li>Размеры в сложенном виде: 20*15*51 см</li>
-	<li>Металлический каркас и столешница</li>
-	<li>Максимальная нагрузка: 20 кг</li>
-</ul>]]></description>
-<quantity_in_stock>43</quantity_in_stock>
-<vendorCode>SJ-0015-1</vendorCode>
-<param name="Гарантийный срок">14 дней</param>
-<param name="Вес">2 кг</param>
-<param name="Размер в сложенном виде">20*15*51 см</param>
-<param name="Размер в разложенном виде">53*50*50 см</param>
-<param name="Материал каркаса">Металл</param>
-<param name="Цвет">Черный</param>
 </offer>
 <offer id="HP-14-16" available="true">
 <name>Термосумка холодильник 8 (л) для еды, напитков, пива холодильная сумка для рыбалки и пикника Голубой HP-14-16</name>
@@ -17511,6 +17476,41 @@
 <param name="Вилка десертная">3</param>
 <param name="Упаковка">Коробка</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="SJ-0015-1" available="true">
+<name>Стол для пикника складной 53*50*50 см</name>
+<url>https://lugi.com.ua/ru/stol_dlya_piknika_skladnoj_53_50_50_sm/</url>
+<price>729</price>
+<vendorprice>479</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>75</categoryId>
+<picture>https://lugi.com.ua/image/cache/external/4097fe7230a3b86dd54c05406d4ccf9e-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/2d2aac4a5044d60c6860b96bad037e37-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/28342a7f56165a3f4668b5d8073e6eed-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/6a3f6f5fc23b1159a40fe6d199913b3d-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/032d1dded06ca87757f85e3060f0fc20-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/855cc813b2747f107cfadbf2e7be7226-600x600.webp</picture>
+<description><![CDATA[Стол для пикника состоит из металлического каркаса и столешницы. Его конструкция позволяет легко раскладывать и складывать, что обеспечивает удобство в транспортировке и хранении. Стол идеально подходит для использования на природе или в условиях ограниченного пространства.<br />
+<br />
+В разложенном виде стол имеет размеры 53*50*50 см, что позволяет разместить несколько предметов для еды или отдыха. В сложенном виде его размеры уменьшаются до 20*15*51 см, что значительно облегчает транспортировку и хранение.<br />
+<br />
+Максимальная нагрузка стола составляет 20 кг, что позволяет использовать его для легкой мебели или пикировочных аксессуаров во время отдыха на природе.<br />
+<br />
+<strong>Характеристики:</strong>
+<ul>
+	<li>Размеры в разложенном виде: 53*50*50 см</li>
+	<li>Размеры в сложенном виде: 20*15*51 см</li>
+	<li>Металлический каркас и столешница</li>
+	<li>Максимальная нагрузка: 20 кг</li>
+</ul>]]></description>
+<quantity_in_stock>42</quantity_in_stock>
+<vendorCode>SJ-0015-1</vendorCode>
+<param name="Гарантийный срок">14 дней</param>
+<param name="Вес">2 кг</param>
+<param name="Размер в сложенном виде">20*15*51 см</param>
+<param name="Размер в разложенном виде">53*50*50 см</param>
+<param name="Материал каркаса">Металл</param>
+<param name="Цвет">Черный</param>
 </offer>
 <offer id="HP-8-74" available="true">
 <name>Многофункциональная овощерезка 39×14×13 см HP-8-74</name>
@@ -23585,32 +23585,6 @@
 <param name="Быстрый пар">Да</param>
 <param name="Подогрев чашек">Да</param>
 </offer>
-<offer id="HP-19-145" available="true">
-<name>Набор пивных бокалов 2 шт 310 мл из стекла HP-19-145</name>
-<price>229</price>
-<vendorprice>152</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>47</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4270/nabor_pivnyh_bokalov_2_sht_310_ml_pivnye_bokaly_podarochnye_iz_stekla_pivnoy_bokal_na_podarok.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4270/nabor_pivnyh_bokalov_2_sht_310_ml_pivnye_bokaly_podarochnye_iz_stekla_pivnoy_bokal_na_podarok_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4270/nabor_pivnyh_bokalov_2_sht_310_ml_pivnye_bokaly_podarochnye_iz_stekla_pivnoy_bokal_na_podarok_2.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4270/nabor_pivnyh_bokalov_2_sht_310_ml_pivnye_bokaly_podarochnye_iz_stekla_pivnoy_bokal_na_podarok_3.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4270/nabor_pivnyh_bokalov_2_sht_310_ml_pivnye_bokaly_podarochnye_iz_stekla_pivnoy_bokal_na_podarok_4.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4270/nabor_pivnyh_bokalov_2_sht_310_ml_pivnye_bokaly_podarochnye_iz_stekla_pivnoy_bokal_na_podarok_5.png</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Набор пивных бокалов изготовлен из высококачественного прозрачного стекла. Имеет граненую поверхность и толстое дно, что обеспечивает дополнительную устойчивость и удобное держание в руке. Классическая форма акцентирует на функциональности изделия.  Основные характеристики:   Материал: стекло; Объем: 310 мл; Верхний диаметр: 7 см; Нижний диаметр: 7.5 см; Высота: 12 см.   Граненые грани создают эффект преломления света, что подчеркивает цвет и пену напитка. Благодаря утолщенному дну бокал дольше сохраняет температуру напитка, что особенно уместно для подачи светлого или темного пива.  Бокалы сочетают практичность и лаконичный дизайн, поэтому подходит как для повседневного использования, так и для подачи напитков во время встреч в компании. Стекло легко моется, не впитывает запахов и устойчиво к царапинам.]]></description>
-<quantity_in_stock>22</quantity_in_stock>
-<vendorCode>HP-19-145</vendorCode>
-<param name="Материал">Стекло</param>
-<param name="Высота">12 см</param>
-<param name="Верхний диаметр">7 см</param>
-<param name="Назначение">Для пива</param>
-<param name="Объем">310 мл</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Тематика декора, рисунка">Без декора</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-34-34Y" available="true">
 <name>Набор 4 стеклянных трубочек с ёршиком для чистки HP-34-34Y</name>
 <price>349</price>
@@ -24122,6 +24096,32 @@
 <param name="Цвет">Голубой</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Состояние">Новое</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-19-145" available="true">
+<name>Набор пивных бокалов 2 шт 310 мл из стекла HP-19-145</name>
+<price>229</price>
+<vendorprice>152</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>47</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4270/nabor_pivnyh_bokalov_2_sht_310_ml_pivnye_bokaly_podarochnye_iz_stekla_pivnoy_bokal_na_podarok.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4270/nabor_pivnyh_bokalov_2_sht_310_ml_pivnye_bokaly_podarochnye_iz_stekla_pivnoy_bokal_na_podarok_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4270/nabor_pivnyh_bokalov_2_sht_310_ml_pivnye_bokaly_podarochnye_iz_stekla_pivnoy_bokal_na_podarok_2.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4270/nabor_pivnyh_bokalov_2_sht_310_ml_pivnye_bokaly_podarochnye_iz_stekla_pivnoy_bokal_na_podarok_3.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4270/nabor_pivnyh_bokalov_2_sht_310_ml_pivnye_bokaly_podarochnye_iz_stekla_pivnoy_bokal_na_podarok_4.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4270/nabor_pivnyh_bokalov_2_sht_310_ml_pivnye_bokaly_podarochnye_iz_stekla_pivnoy_bokal_na_podarok_5.png</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Набор пивных бокалов изготовлен из высококачественного прозрачного стекла. Имеет граненую поверхность и толстое дно, что обеспечивает дополнительную устойчивость и удобное держание в руке. Классическая форма акцентирует на функциональности изделия.  Основные характеристики:   Материал: стекло; Объем: 310 мл; Верхний диаметр: 7 см; Нижний диаметр: 7.5 см; Высота: 12 см.   Граненые грани создают эффект преломления света, что подчеркивает цвет и пену напитка. Благодаря утолщенному дну бокал дольше сохраняет температуру напитка, что особенно уместно для подачи светлого или темного пива.  Бокалы сочетают практичность и лаконичный дизайн, поэтому подходит как для повседневного использования, так и для подачи напитков во время встреч в компании. Стекло легко моется, не впитывает запахов и устойчиво к царапинам.]]></description>
+<quantity_in_stock>21</quantity_in_stock>
+<vendorCode>HP-19-145</vendorCode>
+<param name="Материал">Стекло</param>
+<param name="Высота">12 см</param>
+<param name="Верхний диаметр">7 см</param>
+<param name="Назначение">Для пива</param>
+<param name="Объем">310 мл</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Тематика декора, рисунка">Без декора</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="SK-116" available="true">
@@ -28120,41 +28120,6 @@
 <param name="Увеличенная воронка для залива воды">Да</param>
 <param name="Функция разбрызгивания">Да</param>
 </offer>
-<offer id="SK-08013" available="true">
-<name>Пицца мейкер электрическая 1000 Вт с антипригарным покрытием и двойным нагревом Sokany SK-08013</name>
-<price>1499</price>
-<vendorprice>872</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>15</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4341/pitstsa_meyker_sokany_elektricheskaya_pech_dlya_pitstsy_1000_vt_s_antiprigarnym_pokrytiem_i_dvoynym_nagrevom.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4341/pitstsa_meyker_sokany_elektricheskaya_pech_dlya_pitstsy_1000_vt_s_antiprigarnym_pokrytiem_i_dvoynym_nagrevom_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4341/pitstsa_meyker_sokany_elektricheskaya_pech_dlya_pitstsy_1000_vt_s_antiprigarnym_pokrytiem_i_dvoynym_nagrevom_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4341/pitstsa_meyker_sokany_elektricheskaya_pech_dlya_pitstsy_1000_vt_s_antiprigarnym_pokrytiem_i_dvoynym_nagrevom_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4341/pitstsa_meyker_sokany_elektricheskaya_pech_dlya_pitstsy_1000_vt_s_antiprigarnym_pokrytiem_i_dvoynym_nagrevom_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4341/pitstsa_meyker_sokany_elektricheskaya_pech_dlya_pitstsy_1000_vt_s_antiprigarnym_pokrytiem_i_dvoynym_nagrevom_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4341/pitstsa_meyker_sokany_elektricheskaya_pech_dlya_pitstsy_1000_vt_s_antiprigarnym_pokrytiem_i_dvoynym_nagrevom_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4341/pitstsa_meyker_sokany_elektricheskaya_pech_dlya_pitstsy_1000_vt_s_antiprigarnym_pokrytiem_i_dvoynym_nagrevom_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4341/pitstsa_meyker_sokany_elektricheskaya_pech_dlya_pitstsy_1000_vt_s_antiprigarnym_pokrytiem_i_dvoynym_nagrevom_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4341/pitstsa_meyker_sokany_elektricheskaya_pech_dlya_pitstsy_1000_vt_s_antiprigarnym_pokrytiem_i_dvoynym_nagrevom_9.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Готовьте пиццу как в итальянской пиццерии прямо у себя дома с электрической печью для пиццы SOKANY. Стильный и компактный пицца мейкер с антипригарной поверхностью и двойным нагревом обеспечит идеальное приготовление за считанные минуты. Отличный подарок для семьи и друзей, а также незаменимая вещь на любой кухне для любителей горячей пиццы, выпечки и тостов.  Характеристики пицца-мейкера SOKANY   тип: электрическая печь для пиццы; мощность: 1000 Вт; диаметр: 24 см; высота: 8 см; диаметр пластины: 21 см; длина шнура питания: 0.65 м; тип нагрева: двухсторонний (верх и низ); материал покрытия: антипригарный, лёгкий в уходе; форма: круглая, с разметкой на порции; цвет корпуса: красный глянцевый; управление: механическое (включение/нагрев); подходит для: пиццы, выпечки, тостов, подогрева готовых блюд; в комплекте: печь для пиццы, упаковка, инструкция.   Преимущества электрической печи для пиццы   Равномерный нагрев &mdash; верхний и нижний нагревательные элементы обеспечивают идеальную корочку. Быстрая готовка &mdash; пицца будет готова всего за несколько минут. Многофункциональность &mdash; подойдёт для пиццы, пирожков, омлета, лаваша, лепёшек и даже запеканок. Компактный размер &mdash; легко хранить, подходит для любой кухни, дачи или офиса. Антипригарная поверхность &mdash; легко моется, не требует масла или бумаги.   Идеальное решение при отключениях газа или ограниченном доступе к плите &mdash; с этой электрической печью можно быстро разогреть или приготовить любимое блюдо без духового шкафа или сковороды.  Закажите пицца мейкер SOKANY с доставкой по всей Украине. Отправляем в день заказа, надёжно упаковываем, предлагаем оплату при получении.]]></description>
-<quantity_in_stock>11</quantity_in_stock>
-<vendorCode>SK-08013</vendorCode>
-<param name="Высота">8 см</param>
-<param name="Гарантийный срок">3 мес</param>
-<param name="Вес">1.5 кг</param>
-<param name="Источник питания">Электричество</param>
-<param name="Тип установки печи">Передвижная</param>
-<param name="Ширина">24 см</param>
-<param name="Расположение">Настольное</param>
-<param name="Длина">24 см</param>
-<param name="Номинальное напряжение">220 В</param>
-<param name="Цвет корпуса">Красный</param>
-<param name="Внутренняя длина">21 см</param>
-<param name="Внутренняя ширина">21 см</param>
-<param name="Внутренний диаметр">21 см</param>
-<param name="Тип управления">Механическое</param>
-</offer>
 <offer id="HP-14-5" available="true">
 <name>Термосумка большая сумка холодильник 25 (л) для природы, для пикника, рыбалки холодильная сумка HP-14-5</name>
 <price>969</price>
@@ -28502,6 +28467,41 @@
 <param name="Состояние">Новое</param>
 <param name="Цвет корпуса">Белый</param>
 <param name="Мощность нагрузки">2500 Вт</param>
+</offer>
+<offer id="SK-08013" available="true">
+<name>Пицца мейкер электрическая 1000 Вт с антипригарным покрытием и двойным нагревом Sokany SK-08013</name>
+<price>1499</price>
+<vendorprice>872</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>15</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4341/pitstsa_meyker_sokany_elektricheskaya_pech_dlya_pitstsy_1000_vt_s_antiprigarnym_pokrytiem_i_dvoynym_nagrevom.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4341/pitstsa_meyker_sokany_elektricheskaya_pech_dlya_pitstsy_1000_vt_s_antiprigarnym_pokrytiem_i_dvoynym_nagrevom_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4341/pitstsa_meyker_sokany_elektricheskaya_pech_dlya_pitstsy_1000_vt_s_antiprigarnym_pokrytiem_i_dvoynym_nagrevom_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4341/pitstsa_meyker_sokany_elektricheskaya_pech_dlya_pitstsy_1000_vt_s_antiprigarnym_pokrytiem_i_dvoynym_nagrevom_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4341/pitstsa_meyker_sokany_elektricheskaya_pech_dlya_pitstsy_1000_vt_s_antiprigarnym_pokrytiem_i_dvoynym_nagrevom_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4341/pitstsa_meyker_sokany_elektricheskaya_pech_dlya_pitstsy_1000_vt_s_antiprigarnym_pokrytiem_i_dvoynym_nagrevom_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4341/pitstsa_meyker_sokany_elektricheskaya_pech_dlya_pitstsy_1000_vt_s_antiprigarnym_pokrytiem_i_dvoynym_nagrevom_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4341/pitstsa_meyker_sokany_elektricheskaya_pech_dlya_pitstsy_1000_vt_s_antiprigarnym_pokrytiem_i_dvoynym_nagrevom_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4341/pitstsa_meyker_sokany_elektricheskaya_pech_dlya_pitstsy_1000_vt_s_antiprigarnym_pokrytiem_i_dvoynym_nagrevom_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4341/pitstsa_meyker_sokany_elektricheskaya_pech_dlya_pitstsy_1000_vt_s_antiprigarnym_pokrytiem_i_dvoynym_nagrevom_9.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Готовьте пиццу как в итальянской пиццерии прямо у себя дома с электрической печью для пиццы SOKANY. Стильный и компактный пицца мейкер с антипригарной поверхностью и двойным нагревом обеспечит идеальное приготовление за считанные минуты. Отличный подарок для семьи и друзей, а также незаменимая вещь на любой кухне для любителей горячей пиццы, выпечки и тостов.  Характеристики пицца-мейкера SOKANY   тип: электрическая печь для пиццы; мощность: 1000 Вт; диаметр: 24 см; высота: 8 см; диаметр пластины: 21 см; длина шнура питания: 0.65 м; тип нагрева: двухсторонний (верх и низ); материал покрытия: антипригарный, лёгкий в уходе; форма: круглая, с разметкой на порции; цвет корпуса: красный глянцевый; управление: механическое (включение/нагрев); подходит для: пиццы, выпечки, тостов, подогрева готовых блюд; в комплекте: печь для пиццы, упаковка, инструкция.   Преимущества электрической печи для пиццы   Равномерный нагрев &mdash; верхний и нижний нагревательные элементы обеспечивают идеальную корочку. Быстрая готовка &mdash; пицца будет готова всего за несколько минут. Многофункциональность &mdash; подойдёт для пиццы, пирожков, омлета, лаваша, лепёшек и даже запеканок. Компактный размер &mdash; легко хранить, подходит для любой кухни, дачи или офиса. Антипригарная поверхность &mdash; легко моется, не требует масла или бумаги.   Идеальное решение при отключениях газа или ограниченном доступе к плите &mdash; с этой электрической печью можно быстро разогреть или приготовить любимое блюдо без духового шкафа или сковороды.  Закажите пицца мейкер SOKANY с доставкой по всей Украине. Отправляем в день заказа, надёжно упаковываем, предлагаем оплату при получении.]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<vendorCode>SK-08013</vendorCode>
+<param name="Высота">8 см</param>
+<param name="Гарантийный срок">3 мес</param>
+<param name="Вес">1.5 кг</param>
+<param name="Источник питания">Электричество</param>
+<param name="Тип установки печи">Передвижная</param>
+<param name="Ширина">24 см</param>
+<param name="Расположение">Настольное</param>
+<param name="Длина">24 см</param>
+<param name="Номинальное напряжение">220 В</param>
+<param name="Цвет корпуса">Красный</param>
+<param name="Внутренняя длина">21 см</param>
+<param name="Внутренняя ширина">21 см</param>
+<param name="Внутренний диаметр">21 см</param>
+<param name="Тип управления">Механическое</param>
 </offer>
 <offer id="SK-5111" available="true">
 <name>Настольная электрическая плита на одну конфорку 1000 Вт SOKANY SK-5111</name>
@@ -33262,7 +33262,7 @@ Sokany SK-06009 компактный и занимает минимум мест
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4505/nabor_stolovyh_vilok_6_shtuk_vilki_kuhonnye_iz_nerzhaveyushchey_stali_21_sm_serebro_2.jpg</picture>
 <vendor>Ding Lanfang</vendor>
 <description><![CDATA[Набор столовых вилок содержит 6 штук, упакованных в блистерную упаковку. Вилки выполнены в классическом стиле. Такой дизайн придает им изысканный вид и позволяет гармонично сочетаться с другими столовыми приборами.  Основные характеристики:   Количество предметов в наборе: 6 шт.; Количество персон: 6; Длина:     21 см; Материал: нержавеющая сталь; Упаковка: пакет.   Изготовленные из нержавеющей стали, вилки отличаются прочностью, устойчивостью к коррозии и износостойкостью. Благодаря полированной поверхности они легко очищаются, а эргономичная форма ручки обеспечивает удобный хват во время использования. Золотистое покрытие ручки добавляет эстетической привлекательности, не влияя на практичность и долговечность приборов.  Набор идеально подходит как для ежедневного использования, так и для сервировки праздничного стола. Блистерная упаковка гарантирует защиту вилок во время транспортировки и удобство хранения. Все предметы легко моются вручную или в посудомоечной машине без потери блеска и качества покрытия.]]></description>
-<quantity_in_stock>1083</quantity_in_stock>
+<quantity_in_stock>1082</quantity_in_stock>
 <vendorCode>HP-8-28</vendorCode>
 <param name="Материал">Нержавеющая сталь</param>
 <param name="Количество в наборе">6</param>
@@ -34350,7 +34350,7 @@ Sokany SK-06009 компактный и занимает минимум мест
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3591/konfetnitsa_s_kryshkoy_10_sm_steklyannaya_korichnevaya_4.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Конфетница из стекла станет стильным дополнением любой сервировки. Ее элегантный дизайн прекрасно подходит для хранения конфет, сладостей или даже небольших подарков. Стекло добавляет изделию изысканности, а прозрачность позволяет легко просматривать содержимое, создавая эффект привлекательной презентации.  Основные характеристики:   Материал: стекло; Диаметр: 10 см; Высота: 10 см.   Это идеальный выбор для использования на праздничных столах или как декоративный элемент в вашем доме. Крышка, которая надежно закрывает конфетницу, сохраняет свежесть содержимого и обеспечивает удобное использование. Это изделие также станет отличным подарком для близких и друзей, поскольку сочетает функциональность и эстетическую привлекательность.  Конфетница имеет компактные размеры, позволяющие ее разместить на различных поверхностях без лишнего занятия пространства, делая ее универсальным элементом декора и практического использования.]]></description>
-<quantity_in_stock>536</quantity_in_stock>
+<quantity_in_stock>535</quantity_in_stock>
 <vendorCode>HP-YH-21</vendorCode>
 <param name="Материал">Стекло</param>
 <param name="Высота">100</param>
@@ -38892,28 +38892,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Состояние">Новое</param>
 <param name="Цвет корпуса">Черный</param>
 </offer>
-<offer id="HP-5-54" available="true">
-<name>Сетевой фильтр-удлинитель 6 розеток 4 USB-A + 2USB Type-C 5м HP-5-54</name>
-<price>729</price>
-<vendorprice>535</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>78</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7006/setevoy_filtr_udlinitel_6_rozetok_4_usb_a_2usb_type_c_5m_knopka_otklyucheniya_udlinitel_elektricheskiy_pitan.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-54/HP-5-54_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-54/HP-5-54_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-54/HP-5-54_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-54/HP-5-54_5.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 6 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 6 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 23 × 11 × 4 см]]></description>
-<quantity_in_stock>262</quantity_in_stock>
-<vendorCode>HP-5-54</vendorCode>
-<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
-<param name="Длина шнура">5</param>
-<param name="Количество выходных розеток">6</param>
-<param name="Выключатель">Да</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Черный</param>
-</offer>
 <offer id="HP27473K" available="true">
 <name>Набор кухонных принадлежностей на подставке 6 шт бежевый HP27473K</name>
 <price>1019</price>
@@ -38937,6 +38915,28 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Цвет">Бежевый</param>
 <param name="Гарантия">14 дней</param>
 <param name="Тип подставки">Настольная</param>
+</offer>
+<offer id="HP-5-54" available="true">
+<name>Сетевой фильтр-удлинитель 6 розеток 4 USB-A + 2USB Type-C 5м HP-5-54</name>
+<price>729</price>
+<vendorprice>535</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>78</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7006/setevoy_filtr_udlinitel_6_rozetok_4_usb_a_2usb_type_c_5m_knopka_otklyucheniya_udlinitel_elektricheskiy_pitan.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-54/HP-5-54_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-54/HP-5-54_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-54/HP-5-54_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-54/HP-5-54_5.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 6 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 6 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 23 × 11 × 4 см]]></description>
+<quantity_in_stock>261</quantity_in_stock>
+<vendorCode>HP-5-54</vendorCode>
+<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+<param name="Длина шнура">5</param>
+<param name="Количество выходных розеток">6</param>
+<param name="Выключатель">Да</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Черный</param>
 </offer>
 <offer id="1733065ML" available="true">
 <name>Гирлянда штора 3х0,9 м снежинка звезда на 145 LED лампочек светодиодная 10 шт 1733065ML</name>
@@ -42845,27 +42845,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Состояние">Новое</param>
 <param name="Цвет корпуса">Черный</param>
 </offer>
-<offer id="HB202A" available="true">
-<name>Капучинатор Sokany ручной 25W красный HB202A</name>
-<price>509</price>
-<vendorprice>369</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>45</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000000000/HB202A/kapuchinator_ruchnoy_sokany_sk_202a_krasnyy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000000000/HB202A/hb202a_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000000000/HB202A/5.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Sokany SK-202A - это ручной капучинатор, который поможет легко и быстро приготовить кофе с пышной молочной пенкой. Благодаря мощности 25 Вт и венчике из нержавеющей стали можно за считанные секунды взбить молоко в густую пену для капучино, латте или других кофейных напитков. Капучинатор имеет эргономичный дизайн и удобен в использовании. Нужно просто погрузить венчик в молоко, нажать кнопку и через несколько секунд наслаждаться пышной пенкой.  Характеристики:   Мощность: 25 Вт Напряжение: 220-240 В Частота: 50/60 Гц Длина шнура: 1 м Цвет: красный]]></description>
-<quantity_in_stock>151</quantity_in_stock>
-<vendorCode>HB202A</vendorCode>
-<param name="Материал корпуса">Пластик</param>
-<param name="Питание">Сеть 220В</param>
-<param name="Количество насадок">1</param>
-<param name="Цвет">Красный</param>
-<param name="Гарантия">3 мес</param>
-<param name="Тип миксера">Ручной</param>
-<param name="Потребляємая мощность">25 Вт</param>
-</offer>
 <offer id="20MBW" available="true">
 <name>Уличная гирлянда Бахрома 20 м 335 LED гирлянда штора черный провод Белый 20MBW</name>
 <price>1599</price>
@@ -43016,6 +42995,27 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Время зарядки">6 ч</param>
 <param name="Гарантия">6 мес</param>
 <param name="Потребляємая мощность">20 Вт</param>
+</offer>
+<offer id="HB202A" available="true">
+<name>Капучинатор Sokany ручной 25W красный HB202A</name>
+<price>509</price>
+<vendorprice>369</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>45</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000000000/HB202A/kapuchinator_ruchnoy_sokany_sk_202a_krasnyy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000000000/HB202A/hb202a_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000000000/HB202A/5.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Sokany SK-202A - это ручной капучинатор, который поможет легко и быстро приготовить кофе с пышной молочной пенкой. Благодаря мощности 25 Вт и венчике из нержавеющей стали можно за считанные секунды взбить молоко в густую пену для капучино, латте или других кофейных напитков. Капучинатор имеет эргономичный дизайн и удобен в использовании. Нужно просто погрузить венчик в молоко, нажать кнопку и через несколько секунд наслаждаться пышной пенкой.  Характеристики:   Мощность: 25 Вт Напряжение: 220-240 В Частота: 50/60 Гц Длина шнура: 1 м Цвет: красный]]></description>
+<quantity_in_stock>150</quantity_in_stock>
+<vendorCode>HB202A</vendorCode>
+<param name="Материал корпуса">Пластик</param>
+<param name="Питание">Сеть 220В</param>
+<param name="Количество насадок">1</param>
+<param name="Цвет">Красный</param>
+<param name="Гарантия">3 мес</param>
+<param name="Тип миксера">Ручной</param>
+<param name="Потребляємая мощность">25 Вт</param>
 </offer>
 <offer id="HPLN011" available="true">
 <name>Бутылка-шейкером  для воды 380 мл с ручкой Розовый HPLN011</name>
@@ -74351,28 +74351,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Тип держателя">Настольный</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP545" available="true">
-<name>Набор бокалов для коктейлей 2 штуки по 290 мл, синие HP545</name>
-<price>629</price>
-<vendorprice>458</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>47</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0101/HP545/nabor_bokalov_dlya_kokteyley_figurnyh_na_vysokoy_nozhke_2_shtuki_po_290_ml_siniy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0101/HP545/hp546_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0101/HP545/hp546_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0101/HP545/hp546_1.jpg</picture>
-<vendor>TS Kitchen</vendor>
-<description><![CDATA[Набор бокалов для коктейлей фигурных на высокой ножке (2 штуки по 290 мл) - это изысканная посуда, которая добавляет элегантности любому мероприятию. Изготовленные из прозрачного стекла, бокалы сочетают прочность и устойчивость к повреждениям с изящным дизайном. Их объем в 290 мл делает их идеальными для классических коктейлей, таких как мартини, маргарита или мохито.  Преимущества:   Изысканный и элегантный дизайн Прочное и устойчивое к повреждениям стекло Идеальны для подачи различных коктейлей   Характеристики:   Количество: 2 штуки Объем: 290 мл Материал: прозрачное стекло Форма: фигурная Ножка: высокая   Уход: Рекомендуется мытье вручную мягкими губками и нейтральными моющими средствами, чтобы сохранить прозрачность стекла и избежать царапин.]]></description>
-<quantity_in_stock>27</quantity_in_stock>
-<vendorCode>HP545</vendorCode>
-<param name="Материал">Стекло</param>
-<param name="Высота">15.5 см</param>
-<param name="Назначение">Для коктейлей</param>
-<param name="Объем">290 мл</param>
-<param name="Цвет">Синий</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP605" available="true">
 <name>Тарелка глубокая квадратная из фарфора 16.5*16.5 см HP605</name>
 <price>239</price>
@@ -74656,43 +74634,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Цвет">Прозрачный</param>
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
-</offer>
-<offer id="HP-V-363" available="true">
-<name>Электробритва мужская шейвер с двойным лезвием и LED-дисплеем VGR HP-V-363</name>
-<price>1079</price>
-<vendorprice>785</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>36</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4397/elektrobritva_vgr_v_363_muzhskaya_sheyver_s_dvoynym_lezviem_i_led_displeem.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-V-363/V363_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-V-363/V363_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-V-363/V363_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-V-363/V363_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-V-363/V363_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-V-363/V363_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4397/elektrobritva_vgr_v_363_muzhskaya_sheyver_s_dvoynym_lezviem_i_led_displeem_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-V-363/V363_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-V-363/V363_7.jpg</picture>
-<vendor>VGR</vendor>
-<description><![CDATA[Электробритва VGR V-363 &mdash; это компактный и надёжный шейвер, созданный для идеального бритья без раздражения. Оснащённая прочными лезвиями из нержавеющей стали и мощным аккумулятором, она обеспечивает до 80 минут автономной работы. Модель отличается лаконичным дизайном, высокой точностью и удобством использования как в дороге, так и дома. USB-зарядка и LED-индикация делают эксплуатацию ещё проще.  Характеристики электробритвы VGR V-363   тип устройства: шейвер (электробритва); бритьё: сухое, финишное; тип лезвий: двойное, из нержавеющей стали; питание: аккумуляторное (Li-ion); время автономной работы: до 80 минут; время полной зарядки: 1.5 часа; емкость аккумулятора: 600 мАч; размер: 10.5&times;6&times;3 см; режим зарядки: через USB (кабель в комплекте); корпус: эргономичный, ударопрочный ABS-пластик; цвет: черный с золотистыми элементами.   Преимущества бритвы VGR V-363   Двойное лезвие &mdash; обеспечивает чистое и гладкое бритьё без порезов. Компактный формат &mdash; идеальна для поездок и хранения. Мощный аккумулятор &mdash; до 80 минут автономной работы на одном заряде. Быстрая зарядка через USB &mdash; удобно в любых условиях. Минимум раздражения &mdash; подходит для чувствительной кожи лица. Прочная конструкция &mdash; долговечность и надёжность при постоянном использовании.   Комплектация   электробритва VGR V-363; USB кабель для зарядки; щёточка для чистки; тканевый чехол для хранения; фирменная упаковка.   Электробритва VGR V-363 станет отличным выбором для мужчин, ценящих чистоту бритья, мобильность и стиль. Благодаря компактности и автономности она всегда готова к работе &mdash; дома, в дороге или в командировке.  Купить шейвер VGR V-363 с LED-дисплеем можно с доставкой по всей Украине. Упакован в брендированную коробку &mdash; подходит для подарка.     Данный товар находится в герметичной блистерной упаковке, поэтому, обязательно проверьте целостность блистера при получении на почте. В случае обнаружения дефектов упаковки, пожалуйста, сообщите нам сразу для замены товара.  После нарушения целостности блистера товар не подлежит возврату. При обнаружении у товара заводских неисправностей вы можете вернуть или заменить его в течение 14 дней.]]></description>
-<quantity_in_stock>27</quantity_in_stock>
-<vendorCode>HP-V-363</vendorCode>
-<param name="Высота">10.5 см</param>
-<param name="Гарантийный срок">3 мес</param>
-<param name="Вес">0.4 кг</param>
-<param name="Глубина">3 см</param>
-<param name="Время заряда аккумулятора">1.5 ч</param>
-<param name="Дисплей">Нет</param>
-<param name="Время работы от аккумулятора">80 мин</param>
-<param name="Ширина">6 см</param>
-<param name="Количество бритвенных головок">2</param>
-<param name="Состояние">Новое</param>
-<param name="Тип питания">Аккумулятор|Сеть 220 В</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="Тип аккумулятора">Li-Ion</param>
-<param name="Тип электробритвы">сеточная</param>
-<param name="Чехол для хранения и транспортировки">Да</param>
-<param name="Щеточка для чистки">Да</param>
 </offer>
 <offer id="S1289" available="true">
 <name>Форма для запекания овальная 36×22.5×7 (см) форма для духовки 2 литра Красный S1289</name>
@@ -75186,6 +75127,28 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Толкатель">Да</param>
 <param name="Формовочная насадка для фарша">Да</param>
 </offer>
+<offer id="HP545" available="true">
+<name>Набор бокалов для коктейлей 2 штуки по 290 мл, синие HP545</name>
+<price>629</price>
+<vendorprice>458</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>47</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0101/HP545/nabor_bokalov_dlya_kokteyley_figurnyh_na_vysokoy_nozhke_2_shtuki_po_290_ml_siniy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0101/HP545/hp546_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0101/HP545/hp546_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0101/HP545/hp546_1.jpg</picture>
+<vendor>TS Kitchen</vendor>
+<description><![CDATA[Набор бокалов для коктейлей фигурных на высокой ножке (2 штуки по 290 мл) - это изысканная посуда, которая добавляет элегантности любому мероприятию. Изготовленные из прозрачного стекла, бокалы сочетают прочность и устойчивость к повреждениям с изящным дизайном. Их объем в 290 мл делает их идеальными для классических коктейлей, таких как мартини, маргарита или мохито.  Преимущества:   Изысканный и элегантный дизайн Прочное и устойчивое к повреждениям стекло Идеальны для подачи различных коктейлей   Характеристики:   Количество: 2 штуки Объем: 290 мл Материал: прозрачное стекло Форма: фигурная Ножка: высокая   Уход: Рекомендуется мытье вручную мягкими губками и нейтральными моющими средствами, чтобы сохранить прозрачность стекла и избежать царапин.]]></description>
+<quantity_in_stock>26</quantity_in_stock>
+<vendorCode>HP545</vendorCode>
+<param name="Материал">Стекло</param>
+<param name="Высота">15.5 см</param>
+<param name="Назначение">Для коктейлей</param>
+<param name="Объем">290 мл</param>
+<param name="Цвет">Синий</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Гарантия">14 дней</param>
+</offer>
 <offer id="HP34543" available="true">
 <name>Силиконовый набор форм для выпечки с антипригарным покрытием с кухонными принадлежностями и прихваткой 8 шт HP34543</name>
 <price>1809</price>
@@ -75502,6 +75465,43 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Глубина подсвечника">30 см</param>
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-V-363" available="true">
+<name>Электробритва мужская шейвер с двойным лезвием и LED-дисплеем VGR HP-V-363</name>
+<price>1079</price>
+<vendorprice>785</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>36</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4397/elektrobritva_vgr_v_363_muzhskaya_sheyver_s_dvoynym_lezviem_i_led_displeem.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-V-363/V363_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-V-363/V363_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-V-363/V363_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-V-363/V363_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-V-363/V363_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-V-363/V363_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4397/elektrobritva_vgr_v_363_muzhskaya_sheyver_s_dvoynym_lezviem_i_led_displeem_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-V-363/V363_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00000/HP-V-363/V363_7.jpg</picture>
+<vendor>VGR</vendor>
+<description><![CDATA[Электробритва VGR V-363 &mdash; это компактный и надёжный шейвер, созданный для идеального бритья без раздражения. Оснащённая прочными лезвиями из нержавеющей стали и мощным аккумулятором, она обеспечивает до 80 минут автономной работы. Модель отличается лаконичным дизайном, высокой точностью и удобством использования как в дороге, так и дома. USB-зарядка и LED-индикация делают эксплуатацию ещё проще.  Характеристики электробритвы VGR V-363   тип устройства: шейвер (электробритва); бритьё: сухое, финишное; тип лезвий: двойное, из нержавеющей стали; питание: аккумуляторное (Li-ion); время автономной работы: до 80 минут; время полной зарядки: 1.5 часа; емкость аккумулятора: 600 мАч; размер: 10.5&times;6&times;3 см; режим зарядки: через USB (кабель в комплекте); корпус: эргономичный, ударопрочный ABS-пластик; цвет: черный с золотистыми элементами.   Преимущества бритвы VGR V-363   Двойное лезвие &mdash; обеспечивает чистое и гладкое бритьё без порезов. Компактный формат &mdash; идеальна для поездок и хранения. Мощный аккумулятор &mdash; до 80 минут автономной работы на одном заряде. Быстрая зарядка через USB &mdash; удобно в любых условиях. Минимум раздражения &mdash; подходит для чувствительной кожи лица. Прочная конструкция &mdash; долговечность и надёжность при постоянном использовании.   Комплектация   электробритва VGR V-363; USB кабель для зарядки; щёточка для чистки; тканевый чехол для хранения; фирменная упаковка.   Электробритва VGR V-363 станет отличным выбором для мужчин, ценящих чистоту бритья, мобильность и стиль. Благодаря компактности и автономности она всегда готова к работе &mdash; дома, в дороге или в командировке.  Купить шейвер VGR V-363 с LED-дисплеем можно с доставкой по всей Украине. Упакован в брендированную коробку &mdash; подходит для подарка.     Данный товар находится в герметичной блистерной упаковке, поэтому, обязательно проверьте целостность блистера при получении на почте. В случае обнаружения дефектов упаковки, пожалуйста, сообщите нам сразу для замены товара.  После нарушения целостности блистера товар не подлежит возврату. При обнаружении у товара заводских неисправностей вы можете вернуть или заменить его в течение 14 дней.]]></description>
+<quantity_in_stock>26</quantity_in_stock>
+<vendorCode>HP-V-363</vendorCode>
+<param name="Высота">10.5 см</param>
+<param name="Гарантийный срок">3 мес</param>
+<param name="Вес">0.4 кг</param>
+<param name="Глубина">3 см</param>
+<param name="Время заряда аккумулятора">1.5 ч</param>
+<param name="Дисплей">Нет</param>
+<param name="Время работы от аккумулятора">80 мин</param>
+<param name="Ширина">6 см</param>
+<param name="Количество бритвенных головок">2</param>
+<param name="Состояние">Новое</param>
+<param name="Тип питания">Аккумулятор|Сеть 220 В</param>
+<param name="Цвет корпуса">Черный</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Тип электробритвы">сеточная</param>
+<param name="Чехол для хранения и транспортировки">Да</param>
+<param name="Щеточка для чистки">Да</param>
 </offer>
 <offer id="HP-46-1" available="true">
 <name>Металлическая полка для ванной трехъярусная подвесная 28х13х63 см HP-46-1</name>
@@ -86812,35 +86812,6 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Длина">130</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-35015-30" available="true">
-<name>Универсальная швабра с металлической ручкой и сменной плоской насадкой для плитки, ламината линолеума HP-35015-30</name>
-<price>359</price>
-<vendorprice>271</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>155</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4729/universalnaya_shvabra_s_metallicheskoy_ruchkoy_i_smennoy_ploskoy_nasadkoy_dlya_plitki_laminata_linoleuma.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4729/universalnaya_shvabra_s_metallicheskoy_ruchkoy_i_smennoy_ploskoy_nasadkoy_dlya_plitki_laminata_linoleuma_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4729/universalnaya_shvabra_s_metallicheskoy_ruchkoy_i_smennoy_ploskoy_nasadkoy_dlya_plitki_laminata_linoleuma_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4729/universalnaya_shvabra_s_metallicheskoy_ruchkoy_i_smennoy_ploskoy_nasadkoy_dlya_plitki_laminata_linoleuma_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4729/universalnaya_shvabra_s_metallicheskoy_ruchkoy_i_smennoy_ploskoy_nasadkoy_dlya_plitki_laminata_linoleuma_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4729/universalnaya_shvabra_s_metallicheskoy_ruchkoy_i_smennoy_ploskoy_nasadkoy_dlya_plitki_laminata_linoleuma_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4729/universalnaya_shvabra_s_metallicheskoy_ruchkoy_i_smennoy_ploskoy_nasadkoy_dlya_plitki_laminata_linoleuma_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4729/universalnaya_shvabra_s_metallicheskoy_ruchkoy_i_smennoy_ploskoy_nasadkoy_dlya_plitki_laminata_linoleuma_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4729/universalnaya_shvabra_s_metallicheskoy_ruchkoy_i_smennoy_ploskoy_nasadkoy_dlya_plitki_laminata_linoleuma_8.jpg</picture>
-<vendor>Household</vendor>
-<description><![CDATA[Эффективная швабра с длинной металлической ручкой и сменной плоской насадкой для уборки плитки, ламината и линолеума  Характеристики швабры с длинной металлической ручкой и сменной плоской насадкой:   Вес: 0,5 кг; Габариты товара: высота 145 см, насадка 30&times;11 см; Материал: пластик + нержавеющая сталь; Комплектация: сменные насадки &ndash; да; Максимальная длина ручки: 145 см; Минимальная длина ручки: 100 см.   Эта швабра идеально подходит для ежедневного ухода за твердыми поверхностями в доме и коммерческих помещениях. Она сочетает в себе прочную металлическую ручку с удобными пластиковыми вставками и прямоугольную основу для надежного крепления насадки. Вертикальное хранение экономит пространство, а сменные плоские насадки обеспечивают быстрое и эффективное очищение больших площадей.  Ключевые преимущества швабры для уборки твердых поверхностей:   Длинная металлическая ручка с пластиковыми вставками для удобного захвата; Прямоугольная платформа для крепления сменных плоских насадок; Сменные насадки плотно прилегают к поверхности и легко очищаются; Вертикальное хранение для экономии пространства; Подходит для плитки, ламината, линолеума и других твердых покрытий; Простота замены насадок и ухода за инструментом; Эффективное покрытие площади за один проход; Используется в домашних и коммерческих помещениях.]]></description>
-<quantity_in_stock>12</quantity_in_stock>
-<vendorCode>HP-35015-30</vendorCode>
-<param name="Материал">Сталь</param>
-<param name="Длина ручки">145</param>
-<param name="Материал насадки">Микрофибра</param>
-<param name="Наличие механизма отжима">Нет</param>
-<param name="Материал ручки">Нержавеющая сталь</param>
-<param name="Комплектация ведром">Нет</param>
-<param name="Длина насадки">30</param>
-<param name="Ширина насадки">11</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="SK-19057" available="true">
 <name>Вентилятор напольный Sokany 3 режима скорости 5 лопастей Черный SK-19057</name>
 <price>1809</price>
@@ -87879,6 +87850,35 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Нескользящее основание">Нет</param>
 <param name="Подходит для мытья в посудомоечной машине">Нет</param>
 <param name="Форма">Прямоугольная</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-35015-30" available="true">
+<name>Универсальная швабра с металлической ручкой и сменной плоской насадкой для плитки, ламината линолеума HP-35015-30</name>
+<price>359</price>
+<vendorprice>271</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>155</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4729/universalnaya_shvabra_s_metallicheskoy_ruchkoy_i_smennoy_ploskoy_nasadkoy_dlya_plitki_laminata_linoleuma.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4729/universalnaya_shvabra_s_metallicheskoy_ruchkoy_i_smennoy_ploskoy_nasadkoy_dlya_plitki_laminata_linoleuma_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4729/universalnaya_shvabra_s_metallicheskoy_ruchkoy_i_smennoy_ploskoy_nasadkoy_dlya_plitki_laminata_linoleuma_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4729/universalnaya_shvabra_s_metallicheskoy_ruchkoy_i_smennoy_ploskoy_nasadkoy_dlya_plitki_laminata_linoleuma_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4729/universalnaya_shvabra_s_metallicheskoy_ruchkoy_i_smennoy_ploskoy_nasadkoy_dlya_plitki_laminata_linoleuma_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4729/universalnaya_shvabra_s_metallicheskoy_ruchkoy_i_smennoy_ploskoy_nasadkoy_dlya_plitki_laminata_linoleuma_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4729/universalnaya_shvabra_s_metallicheskoy_ruchkoy_i_smennoy_ploskoy_nasadkoy_dlya_plitki_laminata_linoleuma_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4729/universalnaya_shvabra_s_metallicheskoy_ruchkoy_i_smennoy_ploskoy_nasadkoy_dlya_plitki_laminata_linoleuma_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4729/universalnaya_shvabra_s_metallicheskoy_ruchkoy_i_smennoy_ploskoy_nasadkoy_dlya_plitki_laminata_linoleuma_8.jpg</picture>
+<vendor>Household</vendor>
+<description><![CDATA[Эффективная швабра с длинной металлической ручкой и сменной плоской насадкой для уборки плитки, ламината и линолеума  Характеристики швабры с длинной металлической ручкой и сменной плоской насадкой:   Вес: 0,5 кг; Габариты товара: высота 145 см, насадка 30&times;11 см; Материал: пластик + нержавеющая сталь; Комплектация: сменные насадки &ndash; да; Максимальная длина ручки: 145 см; Минимальная длина ручки: 100 см.   Эта швабра идеально подходит для ежедневного ухода за твердыми поверхностями в доме и коммерческих помещениях. Она сочетает в себе прочную металлическую ручку с удобными пластиковыми вставками и прямоугольную основу для надежного крепления насадки. Вертикальное хранение экономит пространство, а сменные плоские насадки обеспечивают быстрое и эффективное очищение больших площадей.  Ключевые преимущества швабры для уборки твердых поверхностей:   Длинная металлическая ручка с пластиковыми вставками для удобного захвата; Прямоугольная платформа для крепления сменных плоских насадок; Сменные насадки плотно прилегают к поверхности и легко очищаются; Вертикальное хранение для экономии пространства; Подходит для плитки, ламината, линолеума и других твердых покрытий; Простота замены насадок и ухода за инструментом; Эффективное покрытие площади за один проход; Используется в домашних и коммерческих помещениях.]]></description>
+<quantity_in_stock>11</quantity_in_stock>
+<vendorCode>HP-35015-30</vendorCode>
+<param name="Материал">Сталь</param>
+<param name="Длина ручки">145</param>
+<param name="Материал насадки">Микрофибра</param>
+<param name="Наличие механизма отжима">Нет</param>
+<param name="Материал ручки">Нержавеющая сталь</param>
+<param name="Комплектация ведром">Нет</param>
+<param name="Длина насадки">30</param>
+<param name="Ширина насадки">11</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-45-18CR" available="true">
@@ -91306,30 +91306,6 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-19-3045-8" available="true">
-<name>Лимонадница с краном на подставке стеклянная 4.5 л прозрачный HP-19-3045-8</name>
-<price>1809</price>
-<vendorprice>1325</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>67</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5668/limonadnitsa_s_kranom_na_podstavke_steklyannaya_4_5_l_limonadnik_39_sm_prozrachnyy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5668/limonadnitsa_s_kranom_na_podstavke_steklyannaya_4_5_l_limonadnik_39_sm_prozrachnyy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5668/limonadnitsa_s_kranom_na_podstavke_steklyannaya_4_5_l_limonadnik_39_sm_prozrachnyy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5668/limonadnitsa_s_kranom_na_podstavke_steklyannaya_4_5_l_limonadnik_39_sm_prozrachnyy_3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Элегантная лимонадница из прочного стекла идеально подойдёт для подачи прохладительных напитков на праздничном столе, фуршете или в повседневной обстановке. Прозрачные стенки с вертикальным рифлением придают изделию изысканный вид, а кран обеспечивает удобное наливание напитков. Основные характеристики:  Объём: 4.5 л; Высота: 39 см; Материал: стекло; Верхний диаметр : 20 см.  Особенности:  Прочное и толстое стекло, устойчивое к царапинам; Рельефный дизайн придаёт праздничный и винтажный стиль; Удобный кран для дозированной подачи напитка; Устойчивое основание на ножке; Крышка плотно закрывается, защищая напиток от загрязнений и насекомых.  Эта стильная лимонадница станет не только удобным аксессуаром на кухне или столе, но и изысканным элементом сервировки. Идеально подойдёт для подачи напитков летом, на праздниках, вечеринках или просто для ежедневного использования дома или в офисе. Удобство, вместительность и красивый дизайн делают её отличным выбором для каждого дома.]]></description>
-<quantity_in_stock>8</quantity_in_stock>
-<vendorCode>HP-19-3045-8</vendorCode>
-<param name="Материал">Стекло</param>
-<param name="Высота">39</param>
-<param name="Назначение">Универсальное</param>
-<param name="Декоративное оформление">Гравировка</param>
-<param name="Объем">4.5</param>
-<param name="Наличие ручки">Нет</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Способ закрывания">Крышка</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="CR-2-13" available="true">
 <name>Бархатный бант для декора на елку 55×70 (см) Красный CR-2-13</name>
 <price>899</price>
@@ -92575,6 +92551,30 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Тематика декора, рисунка">Без декора</param>
 <param name="Подходит для мытья в посудомоечной машине">Нет</param>
 <param name="Форма">Овальная</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-19-3045-8" available="true">
+<name>Лимонадница с краном на подставке стеклянная 4.5 л прозрачный HP-19-3045-8</name>
+<price>1809</price>
+<vendorprice>1325</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>67</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5668/limonadnitsa_s_kranom_na_podstavke_steklyannaya_4_5_l_limonadnik_39_sm_prozrachnyy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5668/limonadnitsa_s_kranom_na_podstavke_steklyannaya_4_5_l_limonadnik_39_sm_prozrachnyy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5668/limonadnitsa_s_kranom_na_podstavke_steklyannaya_4_5_l_limonadnik_39_sm_prozrachnyy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5668/limonadnitsa_s_kranom_na_podstavke_steklyannaya_4_5_l_limonadnik_39_sm_prozrachnyy_3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Элегантная лимонадница из прочного стекла идеально подойдёт для подачи прохладительных напитков на праздничном столе, фуршете или в повседневной обстановке. Прозрачные стенки с вертикальным рифлением придают изделию изысканный вид, а кран обеспечивает удобное наливание напитков. Основные характеристики:  Объём: 4.5 л; Высота: 39 см; Материал: стекло; Верхний диаметр : 20 см.  Особенности:  Прочное и толстое стекло, устойчивое к царапинам; Рельефный дизайн придаёт праздничный и винтажный стиль; Удобный кран для дозированной подачи напитка; Устойчивое основание на ножке; Крышка плотно закрывается, защищая напиток от загрязнений и насекомых.  Эта стильная лимонадница станет не только удобным аксессуаром на кухне или столе, но и изысканным элементом сервировки. Идеально подойдёт для подачи напитков летом, на праздниках, вечеринках или просто для ежедневного использования дома или в офисе. Удобство, вместительность и красивый дизайн делают её отличным выбором для каждого дома.]]></description>
+<quantity_in_stock>7</quantity_in_stock>
+<vendorCode>HP-19-3045-8</vendorCode>
+<param name="Материал">Стекло</param>
+<param name="Высота">39</param>
+<param name="Назначение">Универсальное</param>
+<param name="Декоративное оформление">Гравировка</param>
+<param name="Объем">4.5</param>
+<param name="Наличие ручки">Нет</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Способ закрывания">Крышка</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-SDHK-20" available="true">
@@ -94756,32 +94756,6 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Цвет свечения">Белый</param>
 <param name="Форма лампочки">Капля</param>
 </offer>
-<offer id="C51W250350Y" available="true">
-<name>Доска для нарезки разделочная 25×35 см доска кухонная деревянная Домино из ясеня C51W250350Y</name>
-<price>759</price>
-<vendorprice>571</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>97</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../1733053ML/C51W250350Y-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5979/doska_dlya_narezki_razdelochnaya_25_35_sm_doska_kuhonnaya_derevyannaya_domino_iz_yasenya_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5979/doska_dlya_narezki_razdelochnaya_25_35_sm_doska_kuhonnaya_derevyannaya_domino_iz_yasenya_2.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5979/doska_dlya_narezki_razdelochnaya_25_35_sm_doska_kuhonnaya_derevyannaya_domino_iz_yasenya_3.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5979/doska_dlya_narezki_razdelochnaya_25_35_sm_doska_kuhonnaya_derevyannaya_domino_iz_yasenya_4.png</picture>
-<vendor>Lugi</vendor>
-<description><![CDATA[Деревянная доска &ndash; это незаменимый элемент кухонного инвентаря, который сочетает в себе экологичность, долговечность и практичность. Прямоугольная разделочная доска размером 25&times;35 см, выполненная из натурального ясеня, станет отличным выбором для любой кухни. Эта доска не только функциональна, но и эстетически привлекательна благодаря естественной деревянной текстуре и продуманному дизайну.  Преимущества разделочных досок из дерева   Деревянные доски для нарезки, изготовленные из дуба, отличаются высокой прочностью и стойкостью к механическим повреждениям. Этот материал славится своей плотной структурой, минимизирующей появление глубоких порезов и трещин. Такая конструкция не только увеличивает срок службы изделия, но обеспечивает удобство использования. Доски для нарезки из дерева, в частности из ясеня, обладают низкой гигроскопичностью, что предотвращает впитывание влаги и способствует защите от деформации.   Основные характеристики деревянной кухонной доски   Материал - натуральный ясень &ndash; экологически чистая древесина, которая безопасна для контакта с пищевыми продуктами. Размер 25&times;35 см &ndash; компактный формат, удобный для обработки продуктов. Покрытие &ndash; защитное масло, предотвращающее впитывание запахов и жира.   Уход за изделием   Чтобы отделочная деревянная доска сохраняла свои свойства долгие годы, необходимо соблюдать несколько простых рекомендаций по уходу: Используйте мягкую губку и теплую воду. Избегайте агрессивных моющих средств и длительного замачивания. После мытья следует тщательно вытирать и оставлять сушиться в вертикальном положении. Для поддержания внешнего вида и предотвращения растрескивания рекомендуется периодически обрабатывать доску минеральным или растительным маслом.   Деревянные доски идеально подходят для нарезки различных продуктов: мяса, рыбы, овощей, фруктов и хлеба. Они не впитывают запахи и не окрашиваются, что делает их удобными для повседневного использования. Природная текстура дуба принесет нотку уюта и природной гармонии в интерьер вашей кухни.  Почему выбирают деревянные доски?  Кухонные доски из дерева обладают рядом преимуществ перед пластиковыми и стеклянными аналогами: они не тупят ножи благодаря мягкой, но плотной текстуре древесины; естественная антибактериальная защита: дерево, особенно десны, обладает природными свойствами, препятствующими размножению бактерий; доска из дерева не выделяет токсичных веществ при контакте с горячими продуктами, что делает ее абсолютно безопасной для здоровья.  Разделочные доски из дерева &ndash; это инвестиция в качество и комфорт вашей кухни. Они практичны, безопасны и долговечны. Данная доска из ясеня размером 25&times;35 см &ndash; отличный пример оптимального соотношения цены и качества. Она станет не только надежным помощником в приготовлении блюд, но и стильным дополнением к вашему пространству.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
-<vendorCode>C51W250350Y</vendorCode>
-<param name="Материал">Ясень</param>
-<param name="Ширина">25</param>
-<param name="Количество в наборе">1</param>
-<param name="Толщина">40</param>
-<param name="Бортик по периметру рабочей поверхности">Нет</param>
-<param name="Цвет">Коричневый</param>
-<param name="Длина">35</param>
-<param name="Встроенная заточка для ножей">Нет</param>
-<param name="Нескользящее основание">Нет</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-3-118M" available="true">
 <name>Салфетница горизонтальная 21х13,5х9 см для салфеток на стол Мятный HP-3-118M</name>
 <price>819</price>
@@ -96052,6 +96026,32 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Форма лампочки">Классическая</param>
 <param name="Форма сечения">Круглая</param>
 <param name="Цветовая гамма">Синий</param>
+</offer>
+<offer id="C51W250350Y" available="true">
+<name>Доска для нарезки разделочная 25×35 см доска кухонная деревянная Домино из ясеня C51W250350Y</name>
+<price>759</price>
+<vendorprice>571</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>97</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../1733053ML/C51W250350Y-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5979/doska_dlya_narezki_razdelochnaya_25_35_sm_doska_kuhonnaya_derevyannaya_domino_iz_yasenya_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5979/doska_dlya_narezki_razdelochnaya_25_35_sm_doska_kuhonnaya_derevyannaya_domino_iz_yasenya_2.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5979/doska_dlya_narezki_razdelochnaya_25_35_sm_doska_kuhonnaya_derevyannaya_domino_iz_yasenya_3.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5979/doska_dlya_narezki_razdelochnaya_25_35_sm_doska_kuhonnaya_derevyannaya_domino_iz_yasenya_4.png</picture>
+<vendor>Lugi</vendor>
+<description><![CDATA[Деревянная доска &ndash; это незаменимый элемент кухонного инвентаря, который сочетает в себе экологичность, долговечность и практичность. Прямоугольная разделочная доска размером 25&times;35 см, выполненная из натурального ясеня, станет отличным выбором для любой кухни. Эта доска не только функциональна, но и эстетически привлекательна благодаря естественной деревянной текстуре и продуманному дизайну.  Преимущества разделочных досок из дерева   Деревянные доски для нарезки, изготовленные из дуба, отличаются высокой прочностью и стойкостью к механическим повреждениям. Этот материал славится своей плотной структурой, минимизирующей появление глубоких порезов и трещин. Такая конструкция не только увеличивает срок службы изделия, но обеспечивает удобство использования. Доски для нарезки из дерева, в частности из ясеня, обладают низкой гигроскопичностью, что предотвращает впитывание влаги и способствует защите от деформации.   Основные характеристики деревянной кухонной доски   Материал - натуральный ясень &ndash; экологически чистая древесина, которая безопасна для контакта с пищевыми продуктами. Размер 25&times;35 см &ndash; компактный формат, удобный для обработки продуктов. Покрытие &ndash; защитное масло, предотвращающее впитывание запахов и жира.   Уход за изделием   Чтобы отделочная деревянная доска сохраняла свои свойства долгие годы, необходимо соблюдать несколько простых рекомендаций по уходу: Используйте мягкую губку и теплую воду. Избегайте агрессивных моющих средств и длительного замачивания. После мытья следует тщательно вытирать и оставлять сушиться в вертикальном положении. Для поддержания внешнего вида и предотвращения растрескивания рекомендуется периодически обрабатывать доску минеральным или растительным маслом.   Деревянные доски идеально подходят для нарезки различных продуктов: мяса, рыбы, овощей, фруктов и хлеба. Они не впитывают запахи и не окрашиваются, что делает их удобными для повседневного использования. Природная текстура дуба принесет нотку уюта и природной гармонии в интерьер вашей кухни.  Почему выбирают деревянные доски?  Кухонные доски из дерева обладают рядом преимуществ перед пластиковыми и стеклянными аналогами: они не тупят ножи благодаря мягкой, но плотной текстуре древесины; естественная антибактериальная защита: дерево, особенно десны, обладает природными свойствами, препятствующими размножению бактерий; доска из дерева не выделяет токсичных веществ при контакте с горячими продуктами, что делает ее абсолютно безопасной для здоровья.  Разделочные доски из дерева &ndash; это инвестиция в качество и комфорт вашей кухни. Они практичны, безопасны и долговечны. Данная доска из ясеня размером 25&times;35 см &ndash; отличный пример оптимального соотношения цены и качества. Она станет не только надежным помощником в приготовлении блюд, но и стильным дополнением к вашему пространству.]]></description>
+<quantity_in_stock>4</quantity_in_stock>
+<vendorCode>C51W250350Y</vendorCode>
+<param name="Материал">Ясень</param>
+<param name="Ширина">25</param>
+<param name="Количество в наборе">1</param>
+<param name="Толщина">40</param>
+<param name="Бортик по периметру рабочей поверхности">Нет</param>
+<param name="Цвет">Коричневый</param>
+<param name="Длина">35</param>
+<param name="Встроенная заточка для ножей">Нет</param>
+<param name="Нескользящее основание">Нет</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-20-43" available="true">
 <name>Набор столовых приборов 24 предмета набор ложек вилок и ножей на 6 персон Золотой HP-20-43</name>
@@ -100996,55 +100996,6 @@ Sokany SK-10072 - это отличный выбор для приготовле
 <param name="Материал ручки">Нержавеющая сталь</param>
 <param name="Цвет приборов">Хром</param>
 <param name="Длина ложки">14 см</param>
-</offer>
-<offer id="C34W250400D" available="true">
-<name>Разделочная доска Волна 25*40 см, дуб</name>
-<url>https://lugi.com.ua/ru/razdelochnaya-doska-volna-25-40-sm-dub/</url>
-<price>1239</price>
-<vendorprice>869</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>97</categoryId>
-<picture>https://lugi.com.ua/image/cache/external/5892492eec18067880939cc0d6210755-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/6029942b0cb24b2113696e33f0fcd0dc-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/bb75d742e11ad9019e08144ddf791286-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/ff5bf42bf1f9e476500ff489bc7b0e21-600x600.webp</picture>
-<description><![CDATA[<p>Кухонная разделочная доска «Волна» прямоугольная – надежный выбор для
- тех, кто ценит качество и стиль. Изготовленная из высококачественного 
-массива дуба, эта доска отличается прочностью, долговечностью и 
-естественной текстурой древесины. Благодаря своей структуре, она 
-устойчива к механическим повреждениям и сохраняет острые ножи в течение 
-длительного времени.
-</p><p>
-Доска оснащена удобными ручками с двух сторон, что облегчает ее 
-транспортировку и обеспечивает комфорт при использовании. Ее 
-универсальный размер позволяет использовать доску для нарезки мяса, 
-овощей или хлеба, а также для эффектной подачи закусок или сыра.
-</p><p>
-Эргономичный дизайн и эстетичный вид делают эту доску не только 
-практичным инструментом, но и стильным элементом кухонного интерьера.
-</p><p>
-<b>Характеристики:</b>
-</p><ul><li>
- Ширина: 20 см
- </li><li>Длина: 40 см
-</li><li>Толщина; 4 см</li></ul><p><b>Особенности ухода:
- </b></p><ol><li>Доску можно мыть только вручную, мягкими губками под струей теплой воды.
- </li><li>Нельзя надолго замачивать в воде, а после мытья следует немедленно вытереть и оставить для просушки.
-</li><li> Не хранить изделие в помещениях с высокой влажностью.
-</li><li>Периодически (раз в месяц) изделие следует продезинфицировать 
-водкой или спиртом для уничтожения микробов, а также для предотвращения 
-неприятного запаха. Если запах появился, можно протереть поверхность 
-слабым раствором уксуса или лимонного сока.
-</li><li> Нельзя ставить в духовку, микроволновую печь, а также на плиту.</li></ol>]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<vendorCode>C34W250400D</vendorCode>
-<param name="Гарантийный срок">14 дней</param>
-<param name="Длина">40 см</param>
-<param name="Материал">Дуб</param>
-<param name="Форма">Прямоугольная</param>
-<param name="Покрытие">Масло</param>
-<param name="Наличие желобка">Нет</param>
-<param name="Наличие подвесного крюка/ручки">Нет</param>
 </offer>
 <offer id="C36W300500Y" available="true">
 <name>Разделочная доска Волна 30*50 см, ясень</name>
@@ -106014,6 +105965,55 @@ Sokany SK-10072 - это отличный выбор для приготовле
 <param name="Покрытие">Масло</param>
 <param name="Количество секций">1</param>
 <param name="Наличие желобка">Есть</param>
+<param name="Наличие подвесного крюка/ручки">Нет</param>
+</offer>
+<offer id="C34W250400D" available="true">
+<name>Разделочная доска Волна 25*40 см, дуб</name>
+<url>https://lugi.com.ua/ru/razdelochnaya-doska-volna-25-40-sm-dub/</url>
+<price>1239</price>
+<vendorprice>869</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>97</categoryId>
+<picture>https://lugi.com.ua/image/cache/external/5892492eec18067880939cc0d6210755-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/6029942b0cb24b2113696e33f0fcd0dc-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/bb75d742e11ad9019e08144ddf791286-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/ff5bf42bf1f9e476500ff489bc7b0e21-600x600.webp</picture>
+<description><![CDATA[<p>Кухонная разделочная доска «Волна» прямоугольная – надежный выбор для
+ тех, кто ценит качество и стиль. Изготовленная из высококачественного 
+массива дуба, эта доска отличается прочностью, долговечностью и 
+естественной текстурой древесины. Благодаря своей структуре, она 
+устойчива к механическим повреждениям и сохраняет острые ножи в течение 
+длительного времени.
+</p><p>
+Доска оснащена удобными ручками с двух сторон, что облегчает ее 
+транспортировку и обеспечивает комфорт при использовании. Ее 
+универсальный размер позволяет использовать доску для нарезки мяса, 
+овощей или хлеба, а также для эффектной подачи закусок или сыра.
+</p><p>
+Эргономичный дизайн и эстетичный вид делают эту доску не только 
+практичным инструментом, но и стильным элементом кухонного интерьера.
+</p><p>
+<b>Характеристики:</b>
+</p><ul><li>
+ Ширина: 20 см
+ </li><li>Длина: 40 см
+</li><li>Толщина; 4 см</li></ul><p><b>Особенности ухода:
+ </b></p><ol><li>Доску можно мыть только вручную, мягкими губками под струей теплой воды.
+ </li><li>Нельзя надолго замачивать в воде, а после мытья следует немедленно вытереть и оставить для просушки.
+</li><li> Не хранить изделие в помещениях с высокой влажностью.
+</li><li>Периодически (раз в месяц) изделие следует продезинфицировать 
+водкой или спиртом для уничтожения микробов, а также для предотвращения 
+неприятного запаха. Если запах появился, можно протереть поверхность 
+слабым раствором уксуса или лимонного сока.
+</li><li> Нельзя ставить в духовку, микроволновую печь, а также на плиту.</li></ol>]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<vendorCode>C34W250400D</vendorCode>
+<param name="Гарантийный срок">14 дней</param>
+<param name="Длина">40 см</param>
+<param name="Материал">Дуб</param>
+<param name="Форма">Прямоугольная</param>
+<param name="Покрытие">Масло</param>
+<param name="Наличие желобка">Нет</param>
 <param name="Наличие подвесного крюка/ручки">Нет</param>
 </offer>
 <offer id="LAB2R" available="true">
