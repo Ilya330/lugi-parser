@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-09 04:49">
+<yml_catalog date="2026-08-09 06:41">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -729,7 +729,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_9.jpg</picture>
 <vendor>Lugi</vendor>
 <description><![CDATA[Подкладка влагозащитная имеет размеры 195х143 см, что делает ее удобной для использования под палатками или другими походными аксессуарами. Она обеспечивает дополнительную защиту от влаги, предотвращая попадание влаги с земли на внутреннюю поверхность палатки или другого снаряжения.  Основные характеристики:    Размеры: 195х143х0.3 см; Материал: утеплитель с фольгированным покрытием; Количество шаров: 1; Наличие чехла: есть.   Материал подкладки изготовлен из водонепроницаемых материалов, эффективно защищающих от влаги и сырости. Это позволяет создать комфортные условия для отдыха на природе, даже во влажную погоду.  Подкладка является легкой и компактной, что позволяет без труда транспортировать ее в сложенном виде. Она также удобна для использования на любых природных поверхностях, добавляя защиту от грязи и влаги.]]></description>
-<quantity_in_stock>339</quantity_in_stock>
+<quantity_in_stock>338</quantity_in_stock>
 <vendorCode>SJ-0029-1</vendorCode>
 <param name="Комплектующие для палаток">Подкладка</param>
 <param name="Цвет">Серебристый</param>
@@ -3905,38 +3905,6 @@
 <param name="Цвет корпуса">Фиолетовый</param>
 <param name="Гарантия">3 мес</param>
 </offer>
-<offer id="HP-DT-1" available="true">
-<name>Фонарь кемпинговый аккумуляторный подвесной USB 9×20 см туристический подвесной фонарь 36Вт Синий HP-DT-1</name>
-<price>319</price>
-<vendorprice>190</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>50</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3777/fonar_kempingovyy_akkumulyatornyy_podvesnoy_usb_9_20_sm_turisticheskiy_podvesnoy_fonar_36vt_siniy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3777/fonar_kempingovyy_akkumulyatornyy_podvesnoy_usb_9_20_sm_turisticheskiy_podvesnoy_fonar_36vt_siniy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3777/fonar_kempingovyy_akkumulyatornyy_podvesnoy_usb_9_20_sm_turisticheskiy_podvesnoy_fonar_36vt_siniy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3777/fonar_kempingovyy_akkumulyatornyy_podvesnoy_usb_9_20_sm_turisticheskiy_podvesnoy_fonar_36vt_siniy_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3777/fonar_kempingovyy_akkumulyatornyy_podvesnoy_usb_9_20_sm_turisticheskiy_podvesnoy_fonar_36vt_siniy_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3777/fonar_kempingovyy_akkumulyatornyy_podvesnoy_usb_9_20_sm_turisticheskiy_podvesnoy_fonar_36vt_siniy_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3777/fonar_kempingovyy_akkumulyatornyy_podvesnoy_usb_9_20_sm_turisticheskiy_podvesnoy_fonar_36vt_siniy_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3777/fonar_kempingovyy_akkumulyatornyy_podvesnoy_usb_9_20_sm_turisticheskiy_podvesnoy_fonar_36vt_siniy_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3777/fonar_kempingovyy_akkumulyatornyy_podvesnoy_usb_9_20_sm_turisticheskiy_podvesnoy_fonar_36vt_siniy_8.jpg</picture>
-<vendor>Lugi</vendor>
-<description><![CDATA[Фонарь кемпинговый аккумуляторный для палатки представляет идеально подходит для использования в условиях кемпинга, туристических походов или во время активного отдыха на природе. Его конструкция позволяет удобно транспортировать и хранить.   Основные характеристики:    Диаметр: 9 см; Высота: 20 см; Мощность Вт: 36; Тип лампы: энергосберегающая; Материал: пластик; Количество режимов работы: 1; Тип заряда: USB.       Подвесной фонарик для палатки оснащен светодиодами, обеспечивающими яркое и равномерное освещение. Фонарь туристический подвесной можно подключить к источнику питания через USB, что обеспечивает удобство подзарядки без необходимости в дополнительных батарейках.  Этот перезаряжаемый    кемпинговый фонарь аккумуляторный является энергоэффективным и экологичным вариантом для освещения в палатках или на открытом воздухе. Наличие USB-порта обеспечивает удобную зарядку от любого доступного источника питания.]]></description>
-<quantity_in_stock>138</quantity_in_stock>
-<vendorCode>HP-DT-1</vendorCode>
-<param name="Вес">300</param>
-<param name="Тип заряда">USB</param>
-<param name="Тип фонаря">Подвесной</param>
-<param name="Мощность лампы">36</param>
-<param name="Особенности фонаря">Встроенный аккумулятор</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Цвет">Синий</param>
-<param name="Состояние">Новое</param>
-<param name="Тип питания">Аккумулятор</param>
-<param name="Крепление">Универсальное</param>
-<param name="Гарантия">14 дней</param>
-<param name="Тип лампы">Светодиодная</param>
-</offer>
 <offer id="HP-35015-17" available="true">
 <name>Швабра для влажной уборки с круглой насадкой из прочных волокон и металлической ручкой HP-35015-17</name>
 <price>479</price>
@@ -3969,26 +3937,6 @@
 <vendorCode>HP-L-7</vendorCode>
 <param name="Материал плафона, подвесок">Пластик</param>
 <param name="Материал каркаса">пластик</param>
-</offer>
-<offer id="BQ-18" available="true">
-<name>Набор шампуров из нержавеющей стали 6 штук 60х1.2 см BQ-18</name>
-<price>209</price>
-<vendorprice>130</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>5</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6976/nabor_shampurov_iz_nerzhaveyushchey_stali_6_shtuk_60h1_2_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6976/nabor_shampurov_iz_nerzhaveyushchey_stali_6_shtuk_60h1_2_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6976/nabor_shampurov_iz_nerzhaveyushchey_stali_6_shtuk_60h1_2_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya_2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Набор шампуров из нержавеющей стали (6 штук) подходит для приготовления мяса, птицы, овощей и других блюд на открытом огне или мангале. Длина 60 см позволяет удобно размещать продукты над жаром, обеспечивая достаточное расстояние для комфортного приготовления. Комплект из 6 шампуров дает возможность готовить несколько порций одновременно.  Шампуры изготовлены из нержавеющей стали, которая выдерживает высокие температуры и подходит для регулярного использования. Материал устойчив к влаге, не поддается коррозии и сохраняет форму во время эксплуатации. Ширина 1,2 см обеспечивает прочность конструкции и надежную фиксацию продуктов во время жарки.  Форма шампуров позволяет равномерно размещать ингредиенты и удобно переворачивать их в процессе приготовления. Подходят для использования с мангалами, грилями и другими устройствами для приготовления на углях. Практичный вариант для пикников, дачи и отдыха на природе.   Характеристики:    Тип: шампури для мангала Количество в наборе: 6 шт Материал: нержавеющая сталь Длина: 60 см Ширина: 1,2 см Толщина: 1.2 мм]]></description>
-<quantity_in_stock>138</quantity_in_stock>
-<vendorCode>BQ-18</vendorCode>
-<param name="Тип">Набор шампуров</param>
-<param name="Материал">Нержавеющая сталь</param>
-<param name="Количество предметов в наборе">6</param>
-<param name="Комплектация подставкой">Нет</param>
-<param name="Длина">60</param>
-<param name="Состояние">Новое</param>
 </offer>
 <offer id="HP-FM-352-1" available="true">
 <name>Термочашка 520 мл с мл с трубочкой и двойным открыванием белый HP-FM-352-1</name>
@@ -4054,6 +4002,58 @@
 <param name="Таймер">Нет</param>
 <param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
 <param name="Функция автоотключения">Да</param>
+</offer>
+<offer id="HP-DT-1" available="true">
+<name>Фонарь кемпинговый аккумуляторный подвесной USB 9×20 см туристический подвесной фонарь 36Вт Синий HP-DT-1</name>
+<price>319</price>
+<vendorprice>190</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>50</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3777/fonar_kempingovyy_akkumulyatornyy_podvesnoy_usb_9_20_sm_turisticheskiy_podvesnoy_fonar_36vt_siniy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3777/fonar_kempingovyy_akkumulyatornyy_podvesnoy_usb_9_20_sm_turisticheskiy_podvesnoy_fonar_36vt_siniy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3777/fonar_kempingovyy_akkumulyatornyy_podvesnoy_usb_9_20_sm_turisticheskiy_podvesnoy_fonar_36vt_siniy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3777/fonar_kempingovyy_akkumulyatornyy_podvesnoy_usb_9_20_sm_turisticheskiy_podvesnoy_fonar_36vt_siniy_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3777/fonar_kempingovyy_akkumulyatornyy_podvesnoy_usb_9_20_sm_turisticheskiy_podvesnoy_fonar_36vt_siniy_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3777/fonar_kempingovyy_akkumulyatornyy_podvesnoy_usb_9_20_sm_turisticheskiy_podvesnoy_fonar_36vt_siniy_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3777/fonar_kempingovyy_akkumulyatornyy_podvesnoy_usb_9_20_sm_turisticheskiy_podvesnoy_fonar_36vt_siniy_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3777/fonar_kempingovyy_akkumulyatornyy_podvesnoy_usb_9_20_sm_turisticheskiy_podvesnoy_fonar_36vt_siniy_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3777/fonar_kempingovyy_akkumulyatornyy_podvesnoy_usb_9_20_sm_turisticheskiy_podvesnoy_fonar_36vt_siniy_8.jpg</picture>
+<vendor>Lugi</vendor>
+<description><![CDATA[Фонарь кемпинговый аккумуляторный для палатки представляет идеально подходит для использования в условиях кемпинга, туристических походов или во время активного отдыха на природе. Его конструкция позволяет удобно транспортировать и хранить.   Основные характеристики:    Диаметр: 9 см; Высота: 20 см; Мощность Вт: 36; Тип лампы: энергосберегающая; Материал: пластик; Количество режимов работы: 1; Тип заряда: USB.       Подвесной фонарик для палатки оснащен светодиодами, обеспечивающими яркое и равномерное освещение. Фонарь туристический подвесной можно подключить к источнику питания через USB, что обеспечивает удобство подзарядки без необходимости в дополнительных батарейках.  Этот перезаряжаемый    кемпинговый фонарь аккумуляторный является энергоэффективным и экологичным вариантом для освещения в палатках или на открытом воздухе. Наличие USB-порта обеспечивает удобную зарядку от любого доступного источника питания.]]></description>
+<quantity_in_stock>137</quantity_in_stock>
+<vendorCode>HP-DT-1</vendorCode>
+<param name="Вес">300</param>
+<param name="Тип заряда">USB</param>
+<param name="Тип фонаря">Подвесной</param>
+<param name="Мощность лампы">36</param>
+<param name="Особенности фонаря">Встроенный аккумулятор</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Цвет">Синий</param>
+<param name="Состояние">Новое</param>
+<param name="Тип питания">Аккумулятор</param>
+<param name="Крепление">Универсальное</param>
+<param name="Гарантия">14 дней</param>
+<param name="Тип лампы">Светодиодная</param>
+</offer>
+<offer id="BQ-18" available="true">
+<name>Набор шампуров из нержавеющей стали 6 штук 60х1.2 см BQ-18</name>
+<price>209</price>
+<vendorprice>130</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6976/nabor_shampurov_iz_nerzhaveyushchey_stali_6_shtuk_60h1_2_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6976/nabor_shampurov_iz_nerzhaveyushchey_stali_6_shtuk_60h1_2_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6976/nabor_shampurov_iz_nerzhaveyushchey_stali_6_shtuk_60h1_2_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya_2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Набор шампуров из нержавеющей стали (6 штук) подходит для приготовления мяса, птицы, овощей и других блюд на открытом огне или мангале. Длина 60 см позволяет удобно размещать продукты над жаром, обеспечивая достаточное расстояние для комфортного приготовления. Комплект из 6 шампуров дает возможность готовить несколько порций одновременно.  Шампуры изготовлены из нержавеющей стали, которая выдерживает высокие температуры и подходит для регулярного использования. Материал устойчив к влаге, не поддается коррозии и сохраняет форму во время эксплуатации. Ширина 1,2 см обеспечивает прочность конструкции и надежную фиксацию продуктов во время жарки.  Форма шампуров позволяет равномерно размещать ингредиенты и удобно переворачивать их в процессе приготовления. Подходят для использования с мангалами, грилями и другими устройствами для приготовления на углях. Практичный вариант для пикников, дачи и отдыха на природе.   Характеристики:    Тип: шампури для мангала Количество в наборе: 6 шт Материал: нержавеющая сталь Длина: 60 см Ширина: 1,2 см Толщина: 1.2 мм]]></description>
+<quantity_in_stock>137</quantity_in_stock>
+<vendorCode>BQ-18</vendorCode>
+<param name="Тип">Набор шампуров</param>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Количество предметов в наборе">6</param>
+<param name="Комплектация подставкой">Нет</param>
+<param name="Длина">60</param>
+<param name="Состояние">Новое</param>
 </offer>
 <offer id="SK-19019BL" available="true">
 <name>Напольные весы Sokany электронные до 180 кг синхронизация с телефоном SK-19019BL</name>
@@ -8364,32 +8364,6 @@
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-11-126" available="true">
-<name>Автомобильный ручной пылесос аккумуляторный 6000 мАч 6 насадок HP-11-126</name>
-<price>2379</price>
-<vendorprice>1474</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>6</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_2.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_3.png</picture>
-<vendor>ABS</vendor>
-<description><![CDATA[Беспроводной пылесос &mdash; компактное и мощное решение для быстрой уборки в автомобиле и дома. Устройство выполнено из прочного ABS-пластика, имеет эргономичную форму и удобно лежит в руке.  Пылесос для авто оснащён бесщеточным DC-мотором, который обеспечивает силу всасывания до 17 000 Па и стабильную работу в двух скоростных режимах. Поддерживает режим всасывания и выдувания, что позволяет не только собирать пыль и мусор, но и продувать труднодоступные места.  Основные характеристики автомобильного аккумуляторного пылесоса:   Тип: Автомобильный пылесос аккумуляторный Емкость аккумулятора: 6000 мАч Выходное напряжение: 11В Входное напряжение: 5В&ndash;2А Объем резервуара: 450 мл Интерфейс зарядки: Type-C Материал корпуса: ABC-пластик Тип мотора: Двигатель постоянного тока без щеток Фильтр: HEPA Мощность: 100 Вт (35 Вт низкая скорость; 65 Вт высокая скорость) Мощность всасывания: до 17000 Па Время работы: до 30 мин Время зарядки: 4-3 ч Особенности: LED-дисплей, режим продувки и сбора пыли, не включать во время зарядки   Насадки (6 шт.):   Круглая щётка Угловая насадка Насадка с щёткой Щелевая насадка короткая Щелевая насадка длинная Конусная насадка (для продувания)   Комплектация:   Автомобильный пылесос Зарядный кабель USB Type-C Шланг удлинитель Круглая щётка Угловая насадка Насадка с щёткой Щелевая насадка короткая Щелевая насадка длинная Конусная насадка для выдувания   Этот аккумуляторный портативный пылесос для машины &mdash; универсальный помощник для быстрой и удобной уборки в любых условиях. Он идеально подойдёт для очистки салона автомобиля от пыли, песка, крошек и шерсти животных, поможет навести порядок в багажнике, детском автокресле и труднодоступных щелях.  Также устройство отлично справляется с бытовыми задачами: уборкой мебели, клавиатуры, полок, подоконников, мастерской, гаража или рабочего стола. Функция продувки будет полезна для очистки техники, инструментов и узких отверстий от пыли.  Компактный размер, автономная работа и широкий набор насадок делают его удобным решением как для водителей, так и для дома &mdash; когда нужна быстрая уборка без лишних проводов и громоздкой техники.]]></description>
-<quantity_in_stock>84</quantity_in_stock>
-<vendorCode>HP-11-126</vendorCode>
-<param name="Мощность">100 Вт (35 Вт низкая скорость; 65 Вт высокая скорость)</param>
-<param name="Время работы от аккумулятора">30</param>
-<param name="Объем пылесборника">0.45</param>
-<param name="Количество насадок">6</param>
-<param name="Тип уборки">Сухая</param>
-<param name="Тип насадки">Для труднодоступных мест</param>
-<param name="Индикатор заряда батареи">Да</param>
-<param name="Регулировка мощности всасывания">Да</param>
-<param name="Состояние">Новое</param>
-<param name="Тип питания">Аккумулятор</param>
-<param name="Гарантия">3 месяца</param>
-</offer>
 <offer id="HP-5-18GR" available="true">
 <name>Шкатулка для украшений из эко кожи 3 отделения с зеркалом 16×10×6 см Зеленый HP-5-18GR</name>
 <price>549</price>
@@ -8417,6 +8391,32 @@
 <param name="Длина в сложенном виде">16</param>
 <param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-11-126" available="true">
+<name>Автомобильный ручной пылесос аккумуляторный 6000 мАч 6 насадок HP-11-126</name>
+<price>2379</price>
+<vendorprice>1474</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>6</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_2.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_3.png</picture>
+<vendor>ABS</vendor>
+<description><![CDATA[Беспроводной пылесос &mdash; компактное и мощное решение для быстрой уборки в автомобиле и дома. Устройство выполнено из прочного ABS-пластика, имеет эргономичную форму и удобно лежит в руке.  Пылесос для авто оснащён бесщеточным DC-мотором, который обеспечивает силу всасывания до 17 000 Па и стабильную работу в двух скоростных режимах. Поддерживает режим всасывания и выдувания, что позволяет не только собирать пыль и мусор, но и продувать труднодоступные места.  Основные характеристики автомобильного аккумуляторного пылесоса:   Тип: Автомобильный пылесос аккумуляторный Емкость аккумулятора: 6000 мАч Выходное напряжение: 11В Входное напряжение: 5В&ndash;2А Объем резервуара: 450 мл Интерфейс зарядки: Type-C Материал корпуса: ABC-пластик Тип мотора: Двигатель постоянного тока без щеток Фильтр: HEPA Мощность: 100 Вт (35 Вт низкая скорость; 65 Вт высокая скорость) Мощность всасывания: до 17000 Па Время работы: до 30 мин Время зарядки: 4-3 ч Особенности: LED-дисплей, режим продувки и сбора пыли, не включать во время зарядки   Насадки (6 шт.):   Круглая щётка Угловая насадка Насадка с щёткой Щелевая насадка короткая Щелевая насадка длинная Конусная насадка (для продувания)   Комплектация:   Автомобильный пылесос Зарядный кабель USB Type-C Шланг удлинитель Круглая щётка Угловая насадка Насадка с щёткой Щелевая насадка короткая Щелевая насадка длинная Конусная насадка для выдувания   Этот аккумуляторный портативный пылесос для машины &mdash; универсальный помощник для быстрой и удобной уборки в любых условиях. Он идеально подойдёт для очистки салона автомобиля от пыли, песка, крошек и шерсти животных, поможет навести порядок в багажнике, детском автокресле и труднодоступных щелях.  Также устройство отлично справляется с бытовыми задачами: уборкой мебели, клавиатуры, полок, подоконников, мастерской, гаража или рабочего стола. Функция продувки будет полезна для очистки техники, инструментов и узких отверстий от пыли.  Компактный размер, автономная работа и широкий набор насадок делают его удобным решением как для водителей, так и для дома &mdash; когда нужна быстрая уборка без лишних проводов и громоздкой техники.]]></description>
+<quantity_in_stock>83</quantity_in_stock>
+<vendorCode>HP-11-126</vendorCode>
+<param name="Мощность">100 Вт (35 Вт низкая скорость; 65 Вт высокая скорость)</param>
+<param name="Время работы от аккумулятора">30</param>
+<param name="Объем пылесборника">0.45</param>
+<param name="Количество насадок">6</param>
+<param name="Тип уборки">Сухая</param>
+<param name="Тип насадки">Для труднодоступных мест</param>
+<param name="Индикатор заряда батареи">Да</param>
+<param name="Регулировка мощности всасывания">Да</param>
+<param name="Состояние">Новое</param>
+<param name="Тип питания">Аккумулятор</param>
+<param name="Гарантия">3 месяца</param>
 </offer>
 <offer id="HW01BL" available="true">
 <name>Бутылка с подогревом для детского питания и напитков 300 мл с аккумулятором подогреватель термос для детского питания Синий HW01BL</name>
@@ -43053,7 +43053,7 @@ Sokany SK-06009 компактный и занимает минимум мест
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5843/nabor_steklyannyh_trubochek_s_shchetochkoy_mnogorazovye_solominki_dlya_kokteyley_i_napitkov_6_1_1.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Набор стеклянных трубочек для напитков &mdash; это практичный и экологичный аксессуар, который заменит одноразовые пластиковые аналоги. Изготовленные из прочного боросиликатного стекла, трубочки устойчивы к высоким температурам и подойдут для любых напитков &mdash; от соков до коктейлей. Благодаря стильному дизайну они станут отличным дополнением к сервировке стола.  Характеристики набора стеклянных трубочек:  &bull; Вес: 0.100 кг; &bull; Длина трубочек: 19.5 см; &bull; Материалы: стекло, металл; &bull; Комплектация: 6 стеклянных трубочек в наборе; &bull; Дополнительные элементы: щёточка для очистки; &bull; Диаметр трубочек: 5 мм.  Преимущества набора трубочек из стекла:  &bull; Экологичность &mdash; многоразовое использование без вреда для природы; &bull; Гигиеничность &mdash; легко очищаются и не впитывают запахи; &bull; Универсальность &mdash; подходят для холодных и горячих напитков; &bull; Эстетичность &mdash; прозрачное стекло выглядит стильно и современно; &bull; Практичность &mdash; щёточка в комплекте облегчает уход.]]></description>
-<quantity_in_stock>249</quantity_in_stock>
+<quantity_in_stock>250</quantity_in_stock>
 <vendorCode>64486-74</vendorCode>
 <param name="Материал">Боросиликатное стекло</param>
 <param name="Вес">0.1</param>
@@ -57968,34 +57968,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Длина">4</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-5-34" available="true">
-<name>Сетевой фильтр черный с выключателем 3 розетки 3хUSB-A 3м HP-5-34</name>
-<price>509</price>
-<vendorprice>389</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>80</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6986/setevoy_filtr_chernyy_s_vyklyuchatelem_3_rozetki_3husb_a_3m_udlinitel_elektricheskaya_pitanie_zaryadka.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-34/_T5B8336.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-34/_T5B8338.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-34/_T5B8340.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-34/_T5B8339.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-34/_T5B8337.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Сетевой фильтр-удлинитель черного цвета с тремя розетками и четырьмя USB-портами разработан для эффективного подключения бытовой техники и одновременной зарядки нескольких мобильных устройств. Конфигурация 3 розетки плюс 4 USB позволяет максимально оптимизировать использование пространства и значительно уменьшить количество отдельных зарядных адаптеров в розетках. Трехметровый кабель питания обеспечивает удобное подключение электроприборов на значительном расстоянии от основной стационарной точки электроснабжения, что особенно актуально для больших комнат и офисных помещений. Особенности сетевого фильтра-удлинителя:  Компактный вертикальный формат корпуса — включает три стандартные евророзетки для надежного подключения различных электроприборов и техники; Четыре USB-порта на передней панели — предоставляют возможность одновременной зарядки смартфонов, планшетов, беспроводных наушников, внешних аккумуляторов и других современных гаджетов без необходимости использования дополнительных зарядных устройств; Кнопка питания с индикатором включения — позволяет быстро и удобно отключать электропитание всех подключенных устройств одновременно одним нажатием, что способствует экономии электроэнергии и повышению безопасности; Продуманное расположение розеток и USB-портов — конструкция спроектирована таким образом, что при одновременном подключении нескольких устройств они не перекрывают доступ друг к другу и не создают неудобств при использовании.  Характеристики сетевого фильтра-удлинителя:  Тип: сетевой фильтр-удлинитель; Количество выходных розеток: 3 шт.; Количество USB-портов: 4 шт.; Длина кабеля: 3 м; Тип розеток: европейский стандарт; Кнопка питания: да, с индикатором; Входная вилка: евро; Выходная розетка: евро; Цвет корпуса: черный; Тип устройства: мережевий фільтр-подовжувач; Состояние: новый; Сетевой разъем: нет; Защитная крышка: нет; Защитные шторки: нет.  Удлинитель превосходно подходит для использования в домашних условиях, офисных пространствах или учебных аудиториях. Это оптимальное решение для организации функционального рабочего места или удобной зоны отдыха, где требуется одновременное подключение нескольких электронных устройств и гаджетов.]]></description>
-<quantity_in_stock>89</quantity_in_stock>
-<vendorCode>HP-5-34</vendorCode>
-<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
-<param name="Длина шнура">3</param>
-<param name="Количество выходных розеток">3</param>
-<param name="Выключатель">Да</param>
-<param name="Входная вилка">ЕURO</param>
-<param name="Выходная розетка">Евро</param>
-<param name="Защитная крышка">Нет</param>
-<param name="Сетевой разъем">Нет</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="Защитные шторки">Нет</param>
-</offer>
 <offer id="HP-14-24B" available="true">
 <name>Термокружка Big Mac 1,2 л с трубочкой черная HP-14-24B</name>
 <price>949</price>
@@ -58143,6 +58115,34 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Тематика декора, рисунка">Растения, цветы</param>
 <param name="Форма">Овальная</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-5-34" available="true">
+<name>Сетевой фильтр черный с выключателем 3 розетки 3хUSB-A 3м HP-5-34</name>
+<price>509</price>
+<vendorprice>389</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>80</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6986/setevoy_filtr_chernyy_s_vyklyuchatelem_3_rozetki_3husb_a_3m_udlinitel_elektricheskaya_pitanie_zaryadka.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-34/_T5B8336.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-34/_T5B8338.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-34/_T5B8340.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-34/_T5B8339.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-34/_T5B8337.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Сетевой фильтр-удлинитель черного цвета с тремя розетками и четырьмя USB-портами разработан для эффективного подключения бытовой техники и одновременной зарядки нескольких мобильных устройств. Конфигурация 3 розетки плюс 4 USB позволяет максимально оптимизировать использование пространства и значительно уменьшить количество отдельных зарядных адаптеров в розетках. Трехметровый кабель питания обеспечивает удобное подключение электроприборов на значительном расстоянии от основной стационарной точки электроснабжения, что особенно актуально для больших комнат и офисных помещений. Особенности сетевого фильтра-удлинителя:  Компактный вертикальный формат корпуса — включает три стандартные евророзетки для надежного подключения различных электроприборов и техники; Четыре USB-порта на передней панели — предоставляют возможность одновременной зарядки смартфонов, планшетов, беспроводных наушников, внешних аккумуляторов и других современных гаджетов без необходимости использования дополнительных зарядных устройств; Кнопка питания с индикатором включения — позволяет быстро и удобно отключать электропитание всех подключенных устройств одновременно одним нажатием, что способствует экономии электроэнергии и повышению безопасности; Продуманное расположение розеток и USB-портов — конструкция спроектирована таким образом, что при одновременном подключении нескольких устройств они не перекрывают доступ друг к другу и не создают неудобств при использовании.  Характеристики сетевого фильтра-удлинителя:  Тип: сетевой фильтр-удлинитель; Количество выходных розеток: 3 шт.; Количество USB-портов: 4 шт.; Длина кабеля: 3 м; Тип розеток: европейский стандарт; Кнопка питания: да, с индикатором; Входная вилка: евро; Выходная розетка: евро; Цвет корпуса: черный; Тип устройства: мережевий фільтр-подовжувач; Состояние: новый; Сетевой разъем: нет; Защитная крышка: нет; Защитные шторки: нет.  Удлинитель превосходно подходит для использования в домашних условиях, офисных пространствах или учебных аудиториях. Это оптимальное решение для организации функционального рабочего места или удобной зоны отдыха, где требуется одновременное подключение нескольких электронных устройств и гаджетов.]]></description>
+<quantity_in_stock>88</quantity_in_stock>
+<vendorCode>HP-5-34</vendorCode>
+<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+<param name="Длина шнура">3</param>
+<param name="Количество выходных розеток">3</param>
+<param name="Выключатель">Да</param>
+<param name="Входная вилка">ЕURO</param>
+<param name="Выходная розетка">Евро</param>
+<param name="Защитная крышка">Нет</param>
+<param name="Сетевой разъем">Нет</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Черный</param>
+<param name="Защитные шторки">Нет</param>
 </offer>
 <offer id="HP-42-85" available="true">
 <name>Коврик для ног 58*38 см с геометрическим рисунком</name>
@@ -62407,26 +62407,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="503-103-M-468W" available="true">
-<name>Полотенце для кухни вафельное 35*70 см из хлопка белый Colorful Home 503-103-M-468W</name>
-<price>119</price>
-<vendorprice>91</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>129</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7370/polotentse_dlya_kuhni_vafelnoe_35_70_sm_iz_hlopka_belyy.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7370/polotentse_dlya_kuhni_vafelnoe_35_70_sm_iz_hlopka_belyy_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7370/polotentse_dlya_kuhni_vafelnoe_35_70_sm_iz_hlopka_belyy_2.png</picture>
-<vendor>Colorful Home</vendor>
-<description><![CDATA[Вафельное кухонное полотенце размером 35×70 см из хлопка — это практичное и удобное текстильное изделие для повседневного использования на кухне. Благодаря вафельной структуре ткань хорошо впитывает влагу, быстро высыхает и подходит для вытирания посуды, рук или кухонных поверхностей. Преимущества ткани Хлопковая вафельная ткань отличается натуральностью, хорошей воздухопроницаемостью и высокой впитывающей способностью. Материал легкий, быстро сохнет и остается практичным в повседневном использовании. Размер 35×70 см — удобный формат для использования на кухне. Правила ухода  Рекомендуется стирка при температуре до 40°C. Не использовать агрессивные отбеливатели. Глажка разрешена при средней температуре. Сушить естественным способом или при низких температурах.]]></description>
-<quantity_in_stock>71</quantity_in_stock>
-<vendorCode>503-103-M-468W</vendorCode>
-<param name="Тип">Полотенце</param>
-<param name="Ширина">35</param>
-<param name="Тип ткани">Хлопок</param>
-<param name="Цвет">Белый</param>
-<param name="Длина">70</param>
-<param name="Форма">Прямоугольная</param>
-</offer>
 <offer id="HP-34-71" available="true">
 <name>Пепельница стеклянная 15 см фактурная</name>
 <url>https://lugi.com.ua/ru/ru-popilnichka-hp-34-71/</url>
@@ -63121,6 +63101,26 @@ Sokany SK-06009 компактный и занимает минимум мест
 <vendorCode>501-92</vendorCode>
 <param name="Материал">микрофибра</param>
 <param name="Размеры (см)">90*90</param>
+</offer>
+<offer id="503-103-M-468W" available="true">
+<name>Полотенце для кухни вафельное 35*70 см из хлопка белый Colorful Home 503-103-M-468W</name>
+<price>119</price>
+<vendorprice>91</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>129</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7370/polotentse_dlya_kuhni_vafelnoe_35_70_sm_iz_hlopka_belyy.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7370/polotentse_dlya_kuhni_vafelnoe_35_70_sm_iz_hlopka_belyy_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7370/polotentse_dlya_kuhni_vafelnoe_35_70_sm_iz_hlopka_belyy_2.png</picture>
+<vendor>Colorful Home</vendor>
+<description><![CDATA[Вафельное кухонное полотенце размером 35×70 см из хлопка — это практичное и удобное текстильное изделие для повседневного использования на кухне. Благодаря вафельной структуре ткань хорошо впитывает влагу, быстро высыхает и подходит для вытирания посуды, рук или кухонных поверхностей. Преимущества ткани Хлопковая вафельная ткань отличается натуральностью, хорошей воздухопроницаемостью и высокой впитывающей способностью. Материал легкий, быстро сохнет и остается практичным в повседневном использовании. Размер 35×70 см — удобный формат для использования на кухне. Правила ухода  Рекомендуется стирка при температуре до 40°C. Не использовать агрессивные отбеливатели. Глажка разрешена при средней температуре. Сушить естественным способом или при низких температурах.]]></description>
+<quantity_in_stock>69</quantity_in_stock>
+<vendorCode>503-103-M-468W</vendorCode>
+<param name="Тип">Полотенце</param>
+<param name="Ширина">35</param>
+<param name="Тип ткани">Хлопок</param>
+<param name="Цвет">Белый</param>
+<param name="Длина">70</param>
+<param name="Форма">Прямоугольная</param>
 </offer>
 <offer id="HP-34-117" available="true">
 <name>Фруктовница стеклянная «Gold &amp; Grey» 15 см на золотой ножке</name>
@@ -92680,35 +92680,6 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Тарелка суповая">4</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-35015-48G" available="true">
-<name>Комплект аксессуаров для туалета с подставкой 13×5.5×42 (см) Серый HP-35015-48G</name>
-<price>409</price>
-<vendorprice>319</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>160</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_6.jpg</picture>
-<vendor>Household</vendor>
-<description><![CDATA[Настенный набор для ухода за туалетом состоит из щетки с длинной ручкой и компактного держателя с круглым отверстием для хранения. Ручка щетки имеет петлю на верхнем конце, что позволяет ее подвесить отдельно или использовать для удобного захвата. Рабочая часть щетки снабжена щетиной средней жесткости, расположенной плотно для эффективной очистки внутренних поверхностей унитаза.  Держатель имеет отверстия в нижней части, что способствует вентиляции и ускоренному высыханию щетки после использования. Конструкция позволяет щетке стоять вертикально, не прикасаясь к стенкам, что уменьшает контакт с остатками влаги. Монтаж производится на вертикальную поверхность, что экономит пространство и обеспечивает легкий доступ к инструменту.  Основные характеристики настенного силиконового ершика для чистки унитаза:    Размер: 13&times;5.5&times;42 см; Материал: пластик; Способ установки: настенный, напольный.   Особенности     настенного силиконового ершика для туалета с щеткой:    В комплект входят силиконовый ершик с подставкой и щетка, обеспечивая полный уход за санузлом. Силиконовая щетина легко удаляет загрязнения и эффективно справляется с засорами, не повреждая поверхность унитаза. Подставка удерживает ершик в вертикальном положении, поддерживая чистоту и гигиеничность. Ершик и щетка оснащены эргономичными ручками для удобного захвата и безопасного использования. Компактная конструкция позволяет разместить набор рядом с унитазом, экономя пространство. Силикон легко очищается и быстро высыхает, предотвращая появление неприятного запаха и бактерий. Набор подходит для повседневного использования в домашних и общественных санузлах.   Набор подходит для использования в санузлах с ограниченным пространством или в местах, где важна организованность и гигиена. Благодаря простой форме и функциональности он может быть интегрирован в бытовые или коммерческие интерьеры без необходимости в дополнительных аксессуарах. Универсальность конструкции позволяет использовать его как в домашних условиях, так и в гостиничных или офисных санитарных зонах.]]></description>
-<quantity_in_stock>13</quantity_in_stock>
-<vendorCode>HP-35015-48G</vendorCode>
-<param name="Тип ершика">Универсально</param>
-<param name="Вес">400 г</param>
-<param name="Материал подставки">Пластик</param>
-<param name="Ширина подставки">55 см</param>
-<param name="Длина подставки">13 см</param>
-<param name="Материал ручки">Пластик</param>
-<param name="Цвет">Серый</param>
-<param name="Общая высота">42 см</param>
-<param name="Тематика декора, рисунка">Без декора</param>
-<param name="Наличие крышки">Нет</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-41-16" available="true">
 <name>Корзина для белья с крышкой 40×30×60 (см) мягкая 70 (л) HP-41-16</name>
 <price>1089</price>
@@ -93398,6 +93369,35 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Длина">360</param>
 <param name="Тип духовки">Газовая или электрическая</param>
 <param name="Тип формы">Овальная</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-35015-48G" available="true">
+<name>Комплект аксессуаров для туалета с подставкой 13×5.5×42 (см) Серый HP-35015-48G</name>
+<price>409</price>
+<vendorprice>319</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>160</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_6.jpg</picture>
+<vendor>Household</vendor>
+<description><![CDATA[Настенный набор для ухода за туалетом состоит из щетки с длинной ручкой и компактного держателя с круглым отверстием для хранения. Ручка щетки имеет петлю на верхнем конце, что позволяет ее подвесить отдельно или использовать для удобного захвата. Рабочая часть щетки снабжена щетиной средней жесткости, расположенной плотно для эффективной очистки внутренних поверхностей унитаза.  Держатель имеет отверстия в нижней части, что способствует вентиляции и ускоренному высыханию щетки после использования. Конструкция позволяет щетке стоять вертикально, не прикасаясь к стенкам, что уменьшает контакт с остатками влаги. Монтаж производится на вертикальную поверхность, что экономит пространство и обеспечивает легкий доступ к инструменту.  Основные характеристики настенного силиконового ершика для чистки унитаза:    Размер: 13&times;5.5&times;42 см; Материал: пластик; Способ установки: настенный, напольный.   Особенности     настенного силиконового ершика для туалета с щеткой:    В комплект входят силиконовый ершик с подставкой и щетка, обеспечивая полный уход за санузлом. Силиконовая щетина легко удаляет загрязнения и эффективно справляется с засорами, не повреждая поверхность унитаза. Подставка удерживает ершик в вертикальном положении, поддерживая чистоту и гигиеничность. Ершик и щетка оснащены эргономичными ручками для удобного захвата и безопасного использования. Компактная конструкция позволяет разместить набор рядом с унитазом, экономя пространство. Силикон легко очищается и быстро высыхает, предотвращая появление неприятного запаха и бактерий. Набор подходит для повседневного использования в домашних и общественных санузлах.   Набор подходит для использования в санузлах с ограниченным пространством или в местах, где важна организованность и гигиена. Благодаря простой форме и функциональности он может быть интегрирован в бытовые или коммерческие интерьеры без необходимости в дополнительных аксессуарах. Универсальность конструкции позволяет использовать его как в домашних условиях, так и в гостиничных или офисных санитарных зонах.]]></description>
+<quantity_in_stock>12</quantity_in_stock>
+<vendorCode>HP-35015-48G</vendorCode>
+<param name="Тип ершика">Универсально</param>
+<param name="Вес">400 г</param>
+<param name="Материал подставки">Пластик</param>
+<param name="Ширина подставки">55 см</param>
+<param name="Длина подставки">13 см</param>
+<param name="Материал ручки">Пластик</param>
+<param name="Цвет">Серый</param>
+<param name="Общая высота">42 см</param>
+<param name="Тематика декора, рисунка">Без декора</param>
+<param name="Наличие крышки">Нет</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-35-19BR" available="true">
