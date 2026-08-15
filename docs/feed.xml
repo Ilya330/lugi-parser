@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-15 00:43">
+<yml_catalog date="2026-08-15 06:23">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -4576,33 +4576,6 @@
 <param name="Длина">200</param>
 <param name="Форма">Прямоугольная</param>
 </offer>
-<offer id="SK201AW" available="true">
-<name>Капучинатор для молока Sokany белый SK201AW</name>
-<price>449</price>
-<vendorprice>173</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>47</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/141/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_201a.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/141/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_201a_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/141/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_201a_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/141/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_201a_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/141/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_201a_5.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Sokany SK-1772 - это бесшумный аккумуляторный капучинатор, который поможет легко и быстро приготовить кофе с пышной молочной пенкой. Благодаря мощности 20 Вт и венчику из нержавеющей стали можно за считанные секунды взбить молоко в густую пену для капучино, латте или других кофейных напитков. Капучинатор оборудован аккумулятором емкостью 1200 мАч, что обеспечивает до 30 минут автономной работы. Он также имеет 3 режима скорости, что позволяет регулировать плотность пены.   Технические характеристики:.  Мощность: 20 Вт Частота: 50/60 Гц Емкость аккумулятора: 1200 мАч Время зарядки:6 часов]]></description>
-<quantity_in_stock>117</quantity_in_stock>
-<vendorCode>SK201AW</vendorCode>
-<param name="Тип">Бытовой</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Питание">Сеть 220В</param>
-<param name="Количество насадок">2</param>
-<param name="Количество скоростей">3</param>
-<param name="Цвет">Белый</param>
-<param name="Аккумулятор">1200 мАч</param>
-<param name="Тип миксера">Ручной</param>
-<param name="Время зарядки">6 ч</param>
-<param name="Гарантия">6 мес</param>
-<param name="Потребляємая мощность">20 Вт</param>
-</offer>
 <offer id="PH770BLG" available="true">
 <name>Фен стайлер для волос 5 в 1 Supersonic Premium 1600Вт 5 насадок 3 режима скорости с ионизацией Синий PH770BLG</name>
 <price>2839</price>
@@ -4700,6 +4673,33 @@
 <param name="Цвет корпуса">Коричневый</param>
 <param name="Тип нагревательного элемента">Скрытый нагревальный элемент</param>
 <param name="Потребляємая мощность">2000 Вт</param>
+</offer>
+<offer id="SK201AW" available="true">
+<name>Капучинатор для молока Sokany белый SK201AW</name>
+<price>449</price>
+<vendorprice>173</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>47</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/141/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_201a.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/141/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_201a_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/141/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_201a_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/141/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_201a_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/141/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_201a_5.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Sokany SK-1772 - это бесшумный аккумуляторный капучинатор, который поможет легко и быстро приготовить кофе с пышной молочной пенкой. Благодаря мощности 20 Вт и венчику из нержавеющей стали можно за считанные секунды взбить молоко в густую пену для капучино, латте или других кофейных напитков. Капучинатор оборудован аккумулятором емкостью 1200 мАч, что обеспечивает до 30 минут автономной работы. Он также имеет 3 режима скорости, что позволяет регулировать плотность пены.   Технические характеристики:.  Мощность: 20 Вт Частота: 50/60 Гц Емкость аккумулятора: 1200 мАч Время зарядки:6 часов]]></description>
+<quantity_in_stock>116</quantity_in_stock>
+<vendorCode>SK201AW</vendorCode>
+<param name="Тип">Бытовой</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Питание">Сеть 220В</param>
+<param name="Количество насадок">2</param>
+<param name="Количество скоростей">3</param>
+<param name="Цвет">Белый</param>
+<param name="Аккумулятор">1200 мАч</param>
+<param name="Тип миксера">Ручной</param>
+<param name="Время зарядки">6 ч</param>
+<param name="Гарантия">6 мес</param>
+<param name="Потребляємая мощность">20 Вт</param>
 </offer>
 <offer id="HP-11-10W" available="true">
 <name>Портативный блендер для смузи на аккумуляторе 450 мл 25 Вт USB Белый HP-11-10W</name>
@@ -9803,30 +9803,6 @@
 <param name="Гарантия">14 дней</param>
 <param name="Чехол для хранения и транспортировки">Да</param>
 </offer>
-<offer id="HP-35015-43" available="true">
-<name>Швабра для влажной уборки с металлической ручкой и круглой насадкой из микрофибры для дома, офиса HP-35015-43</name>
-<price>229</price>
-<vendorprice>151</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>160</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4744/shvabra_dlya_vlazhnoy_uborki_s_metallicheskoy_ruchkoy_i_krugloy_nasadkoy_iz_mikrofibry_dlya_doma_ofisa.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4744/shvabra_dlya_vlazhnoy_uborki_s_metallicheskoy_ruchkoy_i_krugloy_nasadkoy_iz_mikrofibry_dlya_doma_ofisa_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4744/shvabra_dlya_vlazhnoy_uborki_s_metallicheskoy_ruchkoy_i_krugloy_nasadkoy_iz_mikrofibry_dlya_doma_ofisa_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4744/shvabra_dlya_vlazhnoy_uborki_s_metallicheskoy_ruchkoy_i_krugloy_nasadkoy_iz_mikrofibry_dlya_doma_ofisa_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4744/shvabra_dlya_vlazhnoy_uborki_s_metallicheskoy_ruchkoy_i_krugloy_nasadkoy_iz_mikrofibry_dlya_doma_ofisa_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4744/shvabra_dlya_vlazhnoy_uborki_s_metallicheskoy_ruchkoy_i_krugloy_nasadkoy_iz_mikrofibry_dlya_doma_ofisa_5.jpg</picture>
-<vendor>Household</vendor>
-<description><![CDATA[Эта швабра предназначена для эффективного ухода за твердыми поверхностями в жилых, офисных и коммерческих помещениях. Оснащена прочной металлической ручкой с пластиковыми вставками и удобной петлей для подвешивания. Конструкция обеспечивает надежный захват и позволяет хранить инструмент в вертикальном положении, экономя пространство.  Рабочая часть представляет собой скрученные волокна, собранные в круглую форму и закрепленные у основания ручки. Такая конфигурация обеспечивает равномерное распределение влаги и качественное очищение поверхности. Волокна достаточной длины для охвата большой площади, плотное плетение способствует эффективному сбору загрязнений. Крепление насадки выполнено из жесткого пластика, обеспечивая стабильность во время уборки.  Инструмент подходит для регулярного использования и легко очищается после работы. Насадка снимается без дополнительных инструментов, что позволяет быстро заменить ее при износе. Благодаря универсальной конструкции, швабра совместима с большинством бытовых моющих средств, что делает ее практичным выбором для поддержания чистоты.  Характеристики швабры с круглой насадкой из микрофибры:   Вес: 0,2 кг; Габариты товара: высота 105 см; Материал: пластик + нержавеющая сталь.   Преимущества швабры для влажной уборки:   металлическая ручка с пластиковыми элементами; петля для подвешивания и вертикальное хранение; круглая сменная насадка из волокон для равномерного распределения влаги; плотное плетение волокон для эффективного сбора грязи; легкая замена насадки без инструментов; подходит для дома, офиса и коммерческих помещений; совместимость с большинством бытовых моющих средств.]]></description>
-<quantity_in_stock>71</quantity_in_stock>
-<vendorCode>HP-35015-43</vendorCode>
-<param name="Материал">Сталь</param>
-<param name="Длина ручки">105</param>
-<param name="Материал насадки">Микрофибра</param>
-<param name="Наличие механизма отжима">Нет</param>
-<param name="Материал ручки">Нержавеющая сталь</param>
-<param name="Комплектация ведром">Нет</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-16978-09" available="true">
 <name>Набор ножей для стейка 6 штук из нержавеющей стали 23 см комплект ножи кухонные принадлежности HP-16978-09</name>
 <price>519</price>
@@ -9913,6 +9889,30 @@
 <param name="Комплектация ведром">Нет</param>
 <param name="Длина насадки">41</param>
 <param name="Ширина насадки">13</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-35015-43" available="true">
+<name>Швабра для влажной уборки с металлической ручкой и круглой насадкой из микрофибры для дома, офиса HP-35015-43</name>
+<price>229</price>
+<vendorprice>151</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>160</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4744/shvabra_dlya_vlazhnoy_uborki_s_metallicheskoy_ruchkoy_i_krugloy_nasadkoy_iz_mikrofibry_dlya_doma_ofisa.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4744/shvabra_dlya_vlazhnoy_uborki_s_metallicheskoy_ruchkoy_i_krugloy_nasadkoy_iz_mikrofibry_dlya_doma_ofisa_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4744/shvabra_dlya_vlazhnoy_uborki_s_metallicheskoy_ruchkoy_i_krugloy_nasadkoy_iz_mikrofibry_dlya_doma_ofisa_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4744/shvabra_dlya_vlazhnoy_uborki_s_metallicheskoy_ruchkoy_i_krugloy_nasadkoy_iz_mikrofibry_dlya_doma_ofisa_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4744/shvabra_dlya_vlazhnoy_uborki_s_metallicheskoy_ruchkoy_i_krugloy_nasadkoy_iz_mikrofibry_dlya_doma_ofisa_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4744/shvabra_dlya_vlazhnoy_uborki_s_metallicheskoy_ruchkoy_i_krugloy_nasadkoy_iz_mikrofibry_dlya_doma_ofisa_5.jpg</picture>
+<vendor>Household</vendor>
+<description><![CDATA[Эта швабра предназначена для эффективного ухода за твердыми поверхностями в жилых, офисных и коммерческих помещениях. Оснащена прочной металлической ручкой с пластиковыми вставками и удобной петлей для подвешивания. Конструкция обеспечивает надежный захват и позволяет хранить инструмент в вертикальном положении, экономя пространство.  Рабочая часть представляет собой скрученные волокна, собранные в круглую форму и закрепленные у основания ручки. Такая конфигурация обеспечивает равномерное распределение влаги и качественное очищение поверхности. Волокна достаточной длины для охвата большой площади, плотное плетение способствует эффективному сбору загрязнений. Крепление насадки выполнено из жесткого пластика, обеспечивая стабильность во время уборки.  Инструмент подходит для регулярного использования и легко очищается после работы. Насадка снимается без дополнительных инструментов, что позволяет быстро заменить ее при износе. Благодаря универсальной конструкции, швабра совместима с большинством бытовых моющих средств, что делает ее практичным выбором для поддержания чистоты.  Характеристики швабры с круглой насадкой из микрофибры:   Вес: 0,2 кг; Габариты товара: высота 105 см; Материал: пластик + нержавеющая сталь.   Преимущества швабры для влажной уборки:   металлическая ручка с пластиковыми элементами; петля для подвешивания и вертикальное хранение; круглая сменная насадка из волокон для равномерного распределения влаги; плотное плетение волокон для эффективного сбора грязи; легкая замена насадки без инструментов; подходит для дома, офиса и коммерческих помещений; совместимость с большинством бытовых моющих средств.]]></description>
+<quantity_in_stock>70</quantity_in_stock>
+<vendorCode>HP-35015-43</vendorCode>
+<param name="Материал">Сталь</param>
+<param name="Длина ручки">105</param>
+<param name="Материал насадки">Микрофибра</param>
+<param name="Наличие механизма отжима">Нет</param>
+<param name="Материал ручки">Нержавеющая сталь</param>
+<param name="Комплектация ведром">Нет</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-23-7BE" available="true">
@@ -10184,34 +10184,6 @@
 <param name="Форма">Фигурная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-JW-6" available="true">
-<name>Зонт для пляжа и кемпинга с фартуком 145 см прочная надежная защита от дождя солнца HP-JW-6</name>
-<price>2139</price>
-<vendorprice>1253</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>132</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7092/zont_dlya_plyazha_i_kempinga_s_fartukom_190_sm_zont_prochnaya_nadezhnaya_zashchita_ot_dozhdya_solntsa_dlya_turizma_dvora_rybaka.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-6/_T5B0607-600x600.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-6/_T5B0611-600x600.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-6/_T5B0618-600x600.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-6/_T5B0585-600x600.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-6/-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B8-1.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Инновационное решение для отдыха, сочетающее в себе преимущества пляжного зонта и защитной палатки. Модель оснащена круговым защитным экраном, который создает уединенную зону и обеспечивает защиту от солнца, ветра и песка.  Преимущества:   Система «Трансформер»: Благодаря съемному фартуку на молнии устройство легко превращается из обычного большого зонта в закрытый тент. Боковая панель позволяет полностью закрыться с подветренной стороны или создать отдельное пространство для переодевания и отдыха. Технология Silver Coating: Внутренняя поверхность купола имеет специальное серебристое напыление. Оно не только блокирует 99% ультрафиолетовых лучей, но и эффективно отражает тепло, поддерживая под зонтиком комфортную прохладу даже в полдень. Двойной вентилируемый купол: Двухуровневая конструкция обеспечивает естественный отвод горячего воздуха и снижает парусность. Зонт остается устойчивым при резких порывах ветра, пропуская потоки воздуха через вентиляционный клапан. Премиальные материалы: Купол выполнен из износостойкой ткани Оксфорд, которая отличается высокой плотностью, не выгорает на солнце и обладает водоотталкивающими свойствами.   Особенности:   Легкость и долговечность: Стойка из алюминиевого сплава обеспечивает высокую прочность конструкции при минимальном весе, что упрощает транспортировку и защищает каркас от коррозии. Индивидуальная настройка: Встроенный механизм регулировки угла наклона позволяет мгновенно подстраивать тень под положение солнца, не перемещая саму основу. Усиленный каркас: Модель разработана с учетом повышенных ветровых нагрузок, что делает её идеальной для открытых пляжей и степных зон.   ВНИМАНИЕ  Тренога для установки зонта не входит в комплект и приобретается отдельно.    Характеристики:   Материал: Оксфорд, алюминий, стекловолокно Диаметр купола: 1,4 м Высота: 1,8 м Количество спиц: 6 Размеры в сложенном состоянии: 115*30*18 см Вес: 2,4 кг]]></description>
-<quantity_in_stock>68</quantity_in_stock>
-<vendorCode>HP-JW-6</vendorCode>
-<param name="Тип зонта по назначению">пляжный|садовый|для летних площадок</param>
-<param name="Форма купола">круглый</param>
-<param name="Механизм раскрывания купола">ручной</param>
-<param name="Цвет">Зелёный</param>
-<param name="Количество куполов в конструкции">1</param>
-<param name="Диаметр купола зонта">1.4</param>
-<param name="Состояние">Новое</param>
-<param name="Ширина купола зонта">1.4</param>
-<param name="Длина купола зонта">1.4</param>
-<param name="Вес зонта">2</param>
-<param name="Высота зонта в разложенном виде">1.8</param>
-</offer>
 <offer id="SK-08085" available="true">
 <name>Вафельница Sokany для круглых вафель 850 Вт SK-08085</name>
 <price>2039</price>
@@ -10376,6 +10348,34 @@
 <param name="Состояние">Новое</param>
 <param name="Цвет корпуса">Белый</param>
 <param name="Тип миксера">Стационарный</param>
+</offer>
+<offer id="HP-JW-6" available="true">
+<name>Зонт для пляжа и кемпинга с фартуком 145 см прочная надежная защита от дождя солнца HP-JW-6</name>
+<price>2139</price>
+<vendorprice>1253</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>132</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7092/zont_dlya_plyazha_i_kempinga_s_fartukom_190_sm_zont_prochnaya_nadezhnaya_zashchita_ot_dozhdya_solntsa_dlya_turizma_dvora_rybaka.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-6/_T5B0607-600x600.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-6/_T5B0611-600x600.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-6/_T5B0618-600x600.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-6/_T5B0585-600x600.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/HP-JW-6/-%D0%BD%D0%B0%D0%B7%D0%B2%D0%B8-1.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Инновационное решение для отдыха, сочетающее в себе преимущества пляжного зонта и защитной палатки. Модель оснащена круговым защитным экраном, который создает уединенную зону и обеспечивает защиту от солнца, ветра и песка.  Преимущества:   Система «Трансформер»: Благодаря съемному фартуку на молнии устройство легко превращается из обычного большого зонта в закрытый тент. Боковая панель позволяет полностью закрыться с подветренной стороны или создать отдельное пространство для переодевания и отдыха. Технология Silver Coating: Внутренняя поверхность купола имеет специальное серебристое напыление. Оно не только блокирует 99% ультрафиолетовых лучей, но и эффективно отражает тепло, поддерживая под зонтиком комфортную прохладу даже в полдень. Двойной вентилируемый купол: Двухуровневая конструкция обеспечивает естественный отвод горячего воздуха и снижает парусность. Зонт остается устойчивым при резких порывах ветра, пропуская потоки воздуха через вентиляционный клапан. Премиальные материалы: Купол выполнен из износостойкой ткани Оксфорд, которая отличается высокой плотностью, не выгорает на солнце и обладает водоотталкивающими свойствами.   Особенности:   Легкость и долговечность: Стойка из алюминиевого сплава обеспечивает высокую прочность конструкции при минимальном весе, что упрощает транспортировку и защищает каркас от коррозии. Индивидуальная настройка: Встроенный механизм регулировки угла наклона позволяет мгновенно подстраивать тень под положение солнца, не перемещая саму основу. Усиленный каркас: Модель разработана с учетом повышенных ветровых нагрузок, что делает её идеальной для открытых пляжей и степных зон.   ВНИМАНИЕ  Тренога для установки зонта не входит в комплект и приобретается отдельно.    Характеристики:   Материал: Оксфорд, алюминий, стекловолокно Диаметр купола: 1,4 м Высота: 1,8 м Количество спиц: 6 Размеры в сложенном состоянии: 115*30*18 см Вес: 2,4 кг]]></description>
+<quantity_in_stock>67</quantity_in_stock>
+<vendorCode>HP-JW-6</vendorCode>
+<param name="Тип зонта по назначению">пляжный|садовый|для летних площадок</param>
+<param name="Форма купола">круглый</param>
+<param name="Механизм раскрывания купола">ручной</param>
+<param name="Цвет">Зелёный</param>
+<param name="Количество куполов в конструкции">1</param>
+<param name="Диаметр купола зонта">1.4</param>
+<param name="Состояние">Новое</param>
+<param name="Ширина купола зонта">1.4</param>
+<param name="Длина купола зонта">1.4</param>
+<param name="Вес зонта">2</param>
+<param name="Высота зонта в разложенном виде">1.8</param>
 </offer>
 <offer id="HP-34-80" available="true">
 <name>Сотейник из термостойкого стекла 2.5 л с деревянной ручкой кастрюля для соусов блюд HP-34-80</name>
@@ -14272,26 +14272,6 @@
 <param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-19-250" available="true">
-<name>Набор рюмок для напитков 6 штук 50 мл из толстого стекла ребристые янтарные HP-19-250</name>
-<price>739</price>
-<vendorprice>458</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>174</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6741/nabor_ryumok_dlya_napitkov_6_shtuk_50_ml_iz_tolstogo_stekla_rebristye_yantarnyy_hp_19_250_prozrachnaya_ryumka_dlya_krepkih_napitkov_shotov.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6741/nabor_ryumok_dlya_napitkov_6_shtuk_50_ml_iz_tolstogo_stekla_rebristye_yantarnyy_hp_19_250_prozrachnaya_ryumka_dlya_krepkih_napitkov_shotov_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6741/nabor_ryumok_dlya_napitkov_6_shtuk_50_ml_iz_tolstogo_stekla_rebristye_yantarnyy_hp_19_250_prozrachnaya_ryumka_dlya_krepkih_napitkov_shotov_2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Набор рюмок из толстого стекла рассчитан на подачу крепких алкогольных напитков в небольших порциях. Комплект из 6 штук подходит как для домашнего использования, так и для сервировки в кафе, барах или на мероприятиях. Благодаря компактной форме рюмки удобно размещаются на столе или подносе.  Каждая рюмка имеет высоту 10 см, верхний диаметр &mdash; 5 см, нижний &mdash; 4,5 см. Объем составляет 50 мл &mdash; стандартный размер для крепких напитков. Благодаря толстому стеклу и общему весу набора 800 г изделия обладают достаточной прочностью и устойчивостью к механическим воздействиям.  Форма рюмок универсальна &mdash; без лишних декоративных элементов, что позволяет использовать их в различных стилях сервировки. Практичный набор для повседневного или праздничного использования.   Характеристики:    Тип: Набор рюмок для напитков Количество: 6 штук Материал: Толстое стекло Высота: 10 см Диаметр верхний: 5 см Диаметр нижний: 4,5 см Объем одной рюмки: 50 мл Общий вес набора: 800 г]]></description>
-<quantity_in_stock>47</quantity_in_stock>
-<vendorCode>HP-19-250</vendorCode>
-<param name="Материал">Стекло</param>
-<param name="Высота">10</param>
-<param name="Верхний диаметр">5</param>
-<param name="Количество в наборе">6</param>
-<param name="Объем">50</param>
-<param name="Тип емкости">Рюмка</param>
-</offer>
 <offer id="HP-DS3-7" available="true">
 <name>Газовая плита портативная туристическая с пьезоподжигом HP-DS3-7 черная газовая плита настольная</name>
 <price>6179</price>
@@ -14718,6 +14698,26 @@
 <param name="Состояние">Новое</param>
 <param name="Тип формы">Квадратная</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-19-250" available="true">
+<name>Набор рюмок для напитков 6 штук 50 мл из толстого стекла ребристые янтарные HP-19-250</name>
+<price>739</price>
+<vendorprice>458</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>174</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6741/nabor_ryumok_dlya_napitkov_6_shtuk_50_ml_iz_tolstogo_stekla_rebristye_yantarnyy_hp_19_250_prozrachnaya_ryumka_dlya_krepkih_napitkov_shotov.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6741/nabor_ryumok_dlya_napitkov_6_shtuk_50_ml_iz_tolstogo_stekla_rebristye_yantarnyy_hp_19_250_prozrachnaya_ryumka_dlya_krepkih_napitkov_shotov_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6741/nabor_ryumok_dlya_napitkov_6_shtuk_50_ml_iz_tolstogo_stekla_rebristye_yantarnyy_hp_19_250_prozrachnaya_ryumka_dlya_krepkih_napitkov_shotov_2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Набор рюмок из толстого стекла рассчитан на подачу крепких алкогольных напитков в небольших порциях. Комплект из 6 штук подходит как для домашнего использования, так и для сервировки в кафе, барах или на мероприятиях. Благодаря компактной форме рюмки удобно размещаются на столе или подносе.  Каждая рюмка имеет высоту 10 см, верхний диаметр &mdash; 5 см, нижний &mdash; 4,5 см. Объем составляет 50 мл &mdash; стандартный размер для крепких напитков. Благодаря толстому стеклу и общему весу набора 800 г изделия обладают достаточной прочностью и устойчивостью к механическим воздействиям.  Форма рюмок универсальна &mdash; без лишних декоративных элементов, что позволяет использовать их в различных стилях сервировки. Практичный набор для повседневного или праздничного использования.   Характеристики:    Тип: Набор рюмок для напитков Количество: 6 штук Материал: Толстое стекло Высота: 10 см Диаметр верхний: 5 см Диаметр нижний: 4,5 см Объем одной рюмки: 50 мл Общий вес набора: 800 г]]></description>
+<quantity_in_stock>45</quantity_in_stock>
+<vendorCode>HP-19-250</vendorCode>
+<param name="Материал">Стекло</param>
+<param name="Высота">10</param>
+<param name="Верхний диаметр">5</param>
+<param name="Количество в наборе">6</param>
+<param name="Объем">50</param>
+<param name="Тип емкости">Рюмка</param>
 </offer>
 <offer id="HP-DS3-5" available="true">
 <name>Газовая плита портативная туристическая с пьезоподжигом для кемпинга, дачи и выездов на природу 7000 Вт HP-DS3-5</name>
@@ -29379,49 +29379,6 @@
 <param name="Толщина стенки">5 мм</param>
 <param name="Многослойное дно">Да</param>
 </offer>
-<offer id="HP-4-453B" available="true">
-<name>Алюминиевая кастрюля с керамическим антипригарным покрытием 4.7 л Ø 24 см черный MGC HP-4-453B</name>
-<price>3109</price>
-<vendorprice>1427</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>48</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2877/kastryulya_alyuminievaya_3_litra_s_keramicheskim_antiprigarnym_pokrytiem_24_sm_chernaya_mgc.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2877/kastryulya_alyuminievaya_3_litra_s_keramicheskim_antiprigarnym_pokrytiem_24_sm_chernaya_mgc_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2877/kastryulya_alyuminievaya_3_litra_s_keramicheskim_antiprigarnym_pokrytiem_24_sm_chernaya_mgc_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2877/kastryulya_alyuminievaya_3_litra_s_keramicheskim_antiprigarnym_pokrytiem_24_sm_chernaya_mgc_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2877/kastryulya_alyuminievaya_3_litra_s_keramicheskim_antiprigarnym_pokrytiem_24_sm_chernaya_mgc_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2877/kastryulya_alyuminievaya_3_litra_s_keramicheskim_antiprigarnym_pokrytiem_24_sm_chernaya_mgc_5.jpg</picture>
-<vendor>MGC</vendor>
-<description><![CDATA[Кастрюля MGC диаметром 24 см обеспечивает равномерный нагрев благодаря своему алюминиевому корпусу, а керамическое антипригарное покрытие позволяет готовить без пригорания. Крышка из жаропрочного стекла с пароотводом помогает контролировать процесс приготовления, удерживая тепло и сохраняя все ароматы блюд. Использование этой кастрюли помогает сохранить максимальное количество полезных веществ в пище благодаря возможности готовить с минимальным количеством жира.   Основные характеристики    Объем 4.7 л Диаметр 24 см  Высота кастрюли без крышки 11,5 см  Высота кастрюли с крышкой 16,5 см;  Толщина дна 5 мм.    Преимущества кастрюли.    Подходит для газовых, электрических и индукционных плит;  Не вступает в реакцию с пищей;  Кастрюля с антипригарным покрытием имеет толстое дно для идеального распространения тепла.     Меры предосторожности при использовании    Перед первым использованием вымойте кастрюлю в теплой воде с мягким моющим средством и губкой и вытрите насухо. После полного высыхания протрите антипригарное покрытие небольшим количеством растительного масла.  Используйте силиконовые или деревянные столовые приборы для защиты поверхностей от царапин. Категорически не рекомендуется использовать металлические ложки или лопатки.  Не оставляйте пустую кастрюлю на огне.  Также не используйте жесткие губки и щетки, абразивные пасты и порошки или агрессивные чистящие средства.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
-<vendorCode>HP-4-453B</vendorCode>
-<param name="Тип">Кастрюля</param>
-<param name="Материал">Алюминий</param>
-<param name="Антипригарное покрытие">Да</param>
-<param name="Вес">2.3 кг</param>
-<param name="Внутреннее покрытие">керамика</param>
-<param name="Внешнее покрытие">керамика</param>
-<param name="Диаметр кастрюли">24 см</param>
-<param name="Тип плиты">Электрическая|Индукционная|Газовая</param>
-<param name="Использование в микроволновке">Нет</param>
-<param name="Крышка">жаропрочное стекло</param>
-<param name="Крышка с отверстием для выхода пара">Да</param>
-<param name="Толщина стенок посуды">5 мм</param>
-<param name="Объем">4.7 л</param>
-<param name="Ручка">Бакелит</param>
-<param name="Использование в духовке">Нет</param>
-<param name="Высота кастрюли без крышки">11.5 см</param>
-<param name="Мерная шкала">Нет</param>
-<param name="Высота кастрюли с крышкой">16.5 см</param>
-<param name="Способ крепления ручек">Литые (цельнолитые)</param>
-<param name="Тип дна">Многослойное</param>
-<param name="Цвет">Черный</param>
-<param name="Утолщенное дно">Да</param>
-<param name="Состояние">Новое</param>
-<param name="Диаметр под крышку">24 см</param>
-<param name="Толщина дна">5 мм</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-4-454W" available="true">
 <name>Алюминиевая кастрюля с керамическим антипригарным покрытием 6.9 л Ø 28 см белый MGC HP-4-454W</name>
 <price>3609</price>
@@ -30281,6 +30238,49 @@
 <param name="Гарантия">14 дней</param>
 <param name="Толщина стенки">5 мм</param>
 <param name="Многослойное дно">Да</param>
+</offer>
+<offer id="HP-4-453B" available="true">
+<name>Алюминиевая кастрюля с керамическим антипригарным покрытием 4.7 л Ø 24 см черный MGC HP-4-453B</name>
+<price>3109</price>
+<vendorprice>1427</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>48</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2877/kastryulya_alyuminievaya_3_litra_s_keramicheskim_antiprigarnym_pokrytiem_24_sm_chernaya_mgc.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2877/kastryulya_alyuminievaya_3_litra_s_keramicheskim_antiprigarnym_pokrytiem_24_sm_chernaya_mgc_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2877/kastryulya_alyuminievaya_3_litra_s_keramicheskim_antiprigarnym_pokrytiem_24_sm_chernaya_mgc_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2877/kastryulya_alyuminievaya_3_litra_s_keramicheskim_antiprigarnym_pokrytiem_24_sm_chernaya_mgc_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2877/kastryulya_alyuminievaya_3_litra_s_keramicheskim_antiprigarnym_pokrytiem_24_sm_chernaya_mgc_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2877/kastryulya_alyuminievaya_3_litra_s_keramicheskim_antiprigarnym_pokrytiem_24_sm_chernaya_mgc_5.jpg</picture>
+<vendor>MGC</vendor>
+<description><![CDATA[Кастрюля MGC диаметром 24 см обеспечивает равномерный нагрев благодаря своему алюминиевому корпусу, а керамическое антипригарное покрытие позволяет готовить без пригорания. Крышка из жаропрочного стекла с пароотводом помогает контролировать процесс приготовления, удерживая тепло и сохраняя все ароматы блюд. Использование этой кастрюли помогает сохранить максимальное количество полезных веществ в пище благодаря возможности готовить с минимальным количеством жира.   Основные характеристики    Объем 4.7 л Диаметр 24 см  Высота кастрюли без крышки 11,5 см  Высота кастрюли с крышкой 16,5 см;  Толщина дна 5 мм.    Преимущества кастрюли.    Подходит для газовых, электрических и индукционных плит;  Не вступает в реакцию с пищей;  Кастрюля с антипригарным покрытием имеет толстое дно для идеального распространения тепла.     Меры предосторожности при использовании    Перед первым использованием вымойте кастрюлю в теплой воде с мягким моющим средством и губкой и вытрите насухо. После полного высыхания протрите антипригарное покрытие небольшим количеством растительного масла.  Используйте силиконовые или деревянные столовые приборы для защиты поверхностей от царапин. Категорически не рекомендуется использовать металлические ложки или лопатки.  Не оставляйте пустую кастрюлю на огне.  Также не используйте жесткие губки и щетки, абразивные пасты и порошки или агрессивные чистящие средства.]]></description>
+<quantity_in_stock>7</quantity_in_stock>
+<vendorCode>HP-4-453B</vendorCode>
+<param name="Тип">Кастрюля</param>
+<param name="Материал">Алюминий</param>
+<param name="Антипригарное покрытие">Да</param>
+<param name="Вес">2.3 кг</param>
+<param name="Внутреннее покрытие">керамика</param>
+<param name="Внешнее покрытие">керамика</param>
+<param name="Диаметр кастрюли">24 см</param>
+<param name="Тип плиты">Электрическая|Индукционная|Газовая</param>
+<param name="Использование в микроволновке">Нет</param>
+<param name="Крышка">жаропрочное стекло</param>
+<param name="Крышка с отверстием для выхода пара">Да</param>
+<param name="Толщина стенок посуды">5 мм</param>
+<param name="Объем">4.7 л</param>
+<param name="Ручка">Бакелит</param>
+<param name="Использование в духовке">Нет</param>
+<param name="Высота кастрюли без крышки">11.5 см</param>
+<param name="Мерная шкала">Нет</param>
+<param name="Высота кастрюли с крышкой">16.5 см</param>
+<param name="Способ крепления ручек">Литые (цельнолитые)</param>
+<param name="Тип дна">Многослойное</param>
+<param name="Цвет">Черный</param>
+<param name="Утолщенное дно">Да</param>
+<param name="Состояние">Новое</param>
+<param name="Диаметр под крышку">24 см</param>
+<param name="Толщина дна">5 мм</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="JE-32" available="true">
 <name>Соковижималка шнековая для томатов 300 Вт Sokany JE-32</name>
@@ -31189,48 +31189,6 @@ Sokany SK-1722 имеет 2 скорости, которые позволяют 
 <param name="Уровень шума">35 дБ</param>
 <param name="Тип увлажнителя">Паровой</param>
 <param name="Тип установки">Напольный|Настольный</param>
-<param name="Гарантия">14 дней</param>
-</offer>
-<offer id="HP-4-452B" available="true">
-<name>Алюминиевая кастрюля с керамическим антипригарным покрытием 2.5 л Ø 20 см черный MGC HP-4-452B</name>
-<price>2449</price>
-<vendorprice>1125</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>48</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2875/kastryulya_alyuminievaya_2_litra_s_keramicheskim_antiprigarnym_pokrytiem_20_sm_chernaya_mgc.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2875/kastryulya_alyuminievaya_2_litra_s_keramicheskim_antiprigarnym_pokrytiem_20_sm_chernaya_mgc_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2875/kastryulya_alyuminievaya_2_litra_s_keramicheskim_antiprigarnym_pokrytiem_20_sm_chernaya_mgc_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2875/kastryulya_alyuminievaya_2_litra_s_keramicheskim_antiprigarnym_pokrytiem_20_sm_chernaya_mgc_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2875/kastryulya_alyuminievaya_2_litra_s_keramicheskim_antiprigarnym_pokrytiem_20_sm_chernaya_mgc_4.jpg</picture>
-<vendor>MGC</vendor>
-<description><![CDATA[Кастрюля MGC диаметром 20 см обеспечивает равномерный нагрев благодаря своему алюминиевому корпусу, а керамическое антипригарное покрытие позволяет готовить без пригорания. Крышка из жаропрочного стекла с пароотводом помогает контролировать процесс приготовления, удерживая тепло и сохраняя все ароматы блюд. Использование этой кастрюли помогает сохранить максимальное количество полезных веществ в пище благодаря возможности готовить с минимальным количеством жира.   Основные характеристики    Объем 2.5 л Диаметр 20 см  Высота кастрюли без крышки 9,5 см  Высота кастрюли с крышкой 14,5 см;  Толщина дна 5 мм.    Преимущества кастрюли.     Подходит для газовых, электрических и индукционных плит;  Не вступает в реакцию с пищей;  Кастрюля с антипригарным покрытием имеет толстое дно для идеального распространения тепла.     Меры предосторожности при использовании    Перед первым использованием вымойте кастрюлю в теплой воде с мягким моющим средством и губкой и вытрите насухо. После полного высыхания протрите антипригарное покрытие небольшим количеством растительного масла.  Используйте силиконовые или деревянные столовые приборы для защиты поверхностей от царапин. Категорически не рекомендуется использовать металлические ложки или лопатки.  Не оставляйте пустую кастрюлю на огне.  Также не используйте жесткие губки и щетки, абразивные пасты и порошки или агрессивные чистящие средства.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
-<vendorCode>HP-4-452B</vendorCode>
-<param name="Тип">Кастрюля</param>
-<param name="Материал">Алюминий</param>
-<param name="Антипригарное покрытие">Да</param>
-<param name="Вес">2.3 кг</param>
-<param name="Внутреннее покрытие">керамика</param>
-<param name="Внешнее покрытие">керамика</param>
-<param name="Диаметр кастрюли">20 см</param>
-<param name="Тип плиты">Электрическая|Индукционная|Газовая</param>
-<param name="Использование в микроволновке">Нет</param>
-<param name="Крышка">жаропрочное стекло</param>
-<param name="Крышка с отверстием для выхода пара">Да</param>
-<param name="Толщина стенок посуды">5 мм</param>
-<param name="Объем">2.5 л</param>
-<param name="Ручка">Бакелит</param>
-<param name="Использование в духовке">Нет</param>
-<param name="Высота кастрюли без крышки">9.5 см</param>
-<param name="Мерная шкала">Нет</param>
-<param name="Высота кастрюли с крышкой">14.5 см</param>
-<param name="Способ крепления ручек">Литые (цельнолитые)</param>
-<param name="Тип дна">Многослойное</param>
-<param name="Цвет">Черный</param>
-<param name="Утолщенное дно">Да</param>
-<param name="Состояние">Новое</param>
-<param name="Диаметр под крышку">20 см</param>
-<param name="Толщина дна">5 мм</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="SK-27" available="true">
@@ -33394,6 +33352,48 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Диаметр кастрюли">20 см</param>
 <param name="Цвет">Белый</param>
 </offer>
+<offer id="HP-4-452B" available="true">
+<name>Алюминиевая кастрюля с керамическим антипригарным покрытием 2.5 л Ø 20 см черный MGC HP-4-452B</name>
+<price>2449</price>
+<vendorprice>1125</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>48</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2875/kastryulya_alyuminievaya_2_litra_s_keramicheskim_antiprigarnym_pokrytiem_20_sm_chernaya_mgc.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2875/kastryulya_alyuminievaya_2_litra_s_keramicheskim_antiprigarnym_pokrytiem_20_sm_chernaya_mgc_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2875/kastryulya_alyuminievaya_2_litra_s_keramicheskim_antiprigarnym_pokrytiem_20_sm_chernaya_mgc_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2875/kastryulya_alyuminievaya_2_litra_s_keramicheskim_antiprigarnym_pokrytiem_20_sm_chernaya_mgc_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2875/kastryulya_alyuminievaya_2_litra_s_keramicheskim_antiprigarnym_pokrytiem_20_sm_chernaya_mgc_4.jpg</picture>
+<vendor>MGC</vendor>
+<description><![CDATA[Кастрюля MGC диаметром 20 см обеспечивает равномерный нагрев благодаря своему алюминиевому корпусу, а керамическое антипригарное покрытие позволяет готовить без пригорания. Крышка из жаропрочного стекла с пароотводом помогает контролировать процесс приготовления, удерживая тепло и сохраняя все ароматы блюд. Использование этой кастрюли помогает сохранить максимальное количество полезных веществ в пище благодаря возможности готовить с минимальным количеством жира.   Основные характеристики    Объем 2.5 л Диаметр 20 см  Высота кастрюли без крышки 9,5 см  Высота кастрюли с крышкой 14,5 см;  Толщина дна 5 мм.    Преимущества кастрюли.     Подходит для газовых, электрических и индукционных плит;  Не вступает в реакцию с пищей;  Кастрюля с антипригарным покрытием имеет толстое дно для идеального распространения тепла.     Меры предосторожности при использовании    Перед первым использованием вымойте кастрюлю в теплой воде с мягким моющим средством и губкой и вытрите насухо. После полного высыхания протрите антипригарное покрытие небольшим количеством растительного масла.  Используйте силиконовые или деревянные столовые приборы для защиты поверхностей от царапин. Категорически не рекомендуется использовать металлические ложки или лопатки.  Не оставляйте пустую кастрюлю на огне.  Также не используйте жесткие губки и щетки, абразивные пасты и порошки или агрессивные чистящие средства.]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<vendorCode>HP-4-452B</vendorCode>
+<param name="Тип">Кастрюля</param>
+<param name="Материал">Алюминий</param>
+<param name="Антипригарное покрытие">Да</param>
+<param name="Вес">2.3 кг</param>
+<param name="Внутреннее покрытие">керамика</param>
+<param name="Внешнее покрытие">керамика</param>
+<param name="Диаметр кастрюли">20 см</param>
+<param name="Тип плиты">Электрическая|Индукционная|Газовая</param>
+<param name="Использование в микроволновке">Нет</param>
+<param name="Крышка">жаропрочное стекло</param>
+<param name="Крышка с отверстием для выхода пара">Да</param>
+<param name="Толщина стенок посуды">5 мм</param>
+<param name="Объем">2.5 л</param>
+<param name="Ручка">Бакелит</param>
+<param name="Использование в духовке">Нет</param>
+<param name="Высота кастрюли без крышки">9.5 см</param>
+<param name="Мерная шкала">Нет</param>
+<param name="Высота кастрюли с крышкой">14.5 см</param>
+<param name="Способ крепления ручек">Литые (цельнолитые)</param>
+<param name="Тип дна">Многослойное</param>
+<param name="Цвет">Черный</param>
+<param name="Утолщенное дно">Да</param>
+<param name="Состояние">Новое</param>
+<param name="Диаметр под крышку">20 см</param>
+<param name="Толщина дна">5 мм</param>
+<param name="Гарантия">14 дней</param>
+</offer>
 <offer id="JE-25" available="true">
 <name>Соковыжималка Sokany JE-25 шнековая на 1 л 300 Вт</name>
 <url>https://lugi.com.ua/ru/sokovyzhimalka_sokany_je-25_shnekovaya_na_1_l_300_vt/</url>
@@ -33973,54 +33973,6 @@ SmartX также имеет функции звонков и сообщений
 <param name="Объем чайника">1 л</param>
 <param name="Цвет">Черный</param>
 <param name="Материал крышки">Металл</param>
-</offer>
-<offer id="HP450M" available="true">
-<name>Мангал-чемодан складной с решеткой из нержавеющей стали</name>
-<url>https://lugi.com.ua/ru/mangal-chemodan_skladnoj_s_reshetkoj_iz_nerzhaveyushchej_stali/</url>
-<price>889</price>
-<vendorprice>559</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>72</categoryId>
-<picture>https://lugi.com.ua/image/cache/external/c513ccefec12985dd785036d19ae9fbc-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/0be8ea4032c56e8c0e7579a175118d50-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/fed59cc0ec6ea5d7204936960806b42f-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/0a51eb66a6889d3bf23eff12fbbb2766-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/1edfce3963d0cf003b3cdad6136e4c9a-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/4e1e2d007549cbf47a0f3489d4eee380-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/364fca4ce3e44aba4925a1158b6bc076-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/61caa64dca98fbcbf6477ba9744bde24-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/37d63629d808beebb4d9d2bc78808cf2-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/1e3a0e91cc0e626c49f77ade75478fa4-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/8f4b8ce67ecee6bd2265f396a0a906ab-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/ffbb5c83328221aeb07c43568ddbf3f9-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/5d180b0865a5b3cd9d4ef24aab69af2e-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/b90df7664d4d55588009c68a19456a92-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/fcb2c0683fca1a5212e2963fa2c72e11-600x600.webp</picture>
-<description><![CDATA[Мангал-чемодан - отличный вариант для выездов на природу. В сложенном состоянии он имеет компактные размеры и удобную ручку для переноски, с легкостью поместится в багажник авто, или даже в походную сумку. Благодаря отсутствию резьбовых соединений и складным ножкам, собрать его можно за считанные минуты, в нижней части поддона есть отверстия, обеспечивающие приток воздуха, что гарантирует удобство использования.<br />
-Мангал изготовлен из нержавеющей стали, окрашен термостойкой эмалью. В комплекте имеется решетка для гриля, большой размер которой позволяет готовить рыбу, мясо или овощи для большой компании.<br />
-<br />
-<strong>Характеристики:</strong>
-<ul>
-	<li>Длина: 43 см</li>
-	<li>Ширина: 30 см</li>
-	<li>Высота: 23,5 см</li>
-	<li>Толщина металла: 1 мм</li>
-	<li>Высота жаровни: 11 см</li>
-	<li>Высота ножек: 17 см</li>
-	<li>Вес: 2 кг</li>
-</ul>
-<strong>Упаковка:</strong>
-<ul>
-	<li>Размеры:&nbsp;44*32*9 см</li>
-</ul>]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<vendorCode>HP450M</vendorCode>
-<param name="Гарантийный срок">14 дней</param>
-<param name="Материал корпуса">Металл</param>
-<param name="Конструкция">Складная</param>
-<param name="Вариант установки">Универсальный</param>
-<param name="Форма">Прямоугольная</param>
-<param name="Тип товара">Мангал</param>
 </offer>
 <offer id="LU014" available="true">
 <name>Коврик туристический из эпонжа 150*200 см, хаки</name>
@@ -37207,7 +37159,7 @@ Sokany SK-06009 компактный и занимает минимум мест
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/53723/4180/pakety_dlya_vakuumatora_19_15_sm_pakety_dlya_vakuumirovaniya_produktov_100_sht.png</picture>
 <vendor>Huizhou Shunzhou Technology</vendor>
 <description><![CDATA[Вакуумные пакеты 19&times;15 см (100 шт.) &ndash; это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи.  Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования.   Основные характеристики пакетов для вакууматора:   размер: 19&times;15 см; количество в упаковке: 100 штук; материал: пищевой полиэтилен.   Преимущества:   Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность &ndash; подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки.   Вакуумные пакеты &ndash; это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.]]></description>
-<quantity_in_stock>573</quantity_in_stock>
+<quantity_in_stock>572</quantity_in_stock>
 <vendorCode>HP-11-6</vendorCode>
 <param name="Тип">Набор пакетов</param>
 <param name="Материал">Полиэтилен</param>
@@ -38720,22 +38672,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Форма сечения">Круглая</param>
 <param name="Цветовая гамма">Белый</param>
 </offer>
-<offer id="HP-19-146" available="true">
-<name>Чашка стеклянная 400 мл с бамбуковой крышкой и стеклянной трубочкой HP-19-146</name>
-<price>179</price>
-<vendorprice>135</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5887/chashka_steklyannaya_400_ml_s_bambukovoy_kryshkoy_i_steklyannoy_trubochkoy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5887/chashka_steklyannaya_400_ml_s_bambukovoy_kryshkoy_i_steklyannoy_trubochkoy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5887/chashka_steklyannaya_400_ml_s_bambukovoy_kryshkoy_i_steklyannoy_trubochkoy_2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Стеклянная кружка с бамбуковой крышкой и соломинкой представляет собой практичное и элегантное решение для повседневного применения. Выполненная из прозрачного стекла, она обеспечивает визуальный контроль содержимого и объема жидкости. Экологичная бамбуковая крышка надежно герметизирует емкость, предотвращая попадание загрязнений и случайное разливание, а стеклянная соломинка гарантирует комфортное и безопасное употребление напитков. Эргономичная конструкция кружки обеспечивает удобный захват и универсальность использования в домашних условиях и рабочем пространстве. Благодаря стеклянной соломинке жидкость сохраняет первоначальный вкус без посторонних примесей, а герметичная крышка делает возможной транспортировку. Данная посуда идеально подходит для питьевой воды, фруктовых смузи, освежающих лимонадов или горячих кофейных напитков. Емкость кружки составляет 400 мл, что является оптимальным объемом для стандартной порции различных напитков. Габаритные размеры изделия 6×6×14 см при массе 200 г обеспечивают портативность и простоту эксплуатации. Стеклянный материал демонстрирует высокую термостойкость, а натуральная бамбуковая крышка придает изделию экологичность и современный дизайн. Технические характеристики стеклянной кружки: &bull; Вместимость: 400 мл; &bull; Материал изготовления: боросиликатное стекло, натуральный бамбук; &bull; Габариты: 6×6×14 см; &bull; Масса: 200 г; &bull; Комплект поставки: кружка, крышка, соломинка.]]></description>
-<quantity_in_stock>337</quantity_in_stock>
-<vendorCode>HP-19-146</vendorCode>
-<param name="Материал">Стекло/Бамбук</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-YH-20" available="true">
 <name>Конфетница с крышкой Ø 10 стеклянная HP-YH-20</name>
 <price>159</price>
@@ -38762,6 +38698,22 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Тип посуды">Конфетница</param>
 <param name="Состояние">Новое</param>
 <param name="Форма">Круглая</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-19-146" available="true">
+<name>Чашка стеклянная 400 мл с бамбуковой крышкой и стеклянной трубочкой HP-19-146</name>
+<price>179</price>
+<vendorprice>135</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>139</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5887/chashka_steklyannaya_400_ml_s_bambukovoy_kryshkoy_i_steklyannoy_trubochkoy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5887/chashka_steklyannaya_400_ml_s_bambukovoy_kryshkoy_i_steklyannoy_trubochkoy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5887/chashka_steklyannaya_400_ml_s_bambukovoy_kryshkoy_i_steklyannoy_trubochkoy_2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Стеклянная кружка с бамбуковой крышкой и соломинкой представляет собой практичное и элегантное решение для повседневного применения. Выполненная из прозрачного стекла, она обеспечивает визуальный контроль содержимого и объема жидкости. Экологичная бамбуковая крышка надежно герметизирует емкость, предотвращая попадание загрязнений и случайное разливание, а стеклянная соломинка гарантирует комфортное и безопасное употребление напитков. Эргономичная конструкция кружки обеспечивает удобный захват и универсальность использования в домашних условиях и рабочем пространстве. Благодаря стеклянной соломинке жидкость сохраняет первоначальный вкус без посторонних примесей, а герметичная крышка делает возможной транспортировку. Данная посуда идеально подходит для питьевой воды, фруктовых смузи, освежающих лимонадов или горячих кофейных напитков. Емкость кружки составляет 400 мл, что является оптимальным объемом для стандартной порции различных напитков. Габаритные размеры изделия 6×6×14 см при массе 200 г обеспечивают портативность и простоту эксплуатации. Стеклянный материал демонстрирует высокую термостойкость, а натуральная бамбуковая крышка придает изделию экологичность и современный дизайн. Технические характеристики стеклянной кружки: &bull; Вместимость: 400 мл; &bull; Материал изготовления: боросиликатное стекло, натуральный бамбук; &bull; Габариты: 6×6×14 см; &bull; Масса: 200 г; &bull; Комплект поставки: кружка, крышка, соломинка.]]></description>
+<quantity_in_stock>336</quantity_in_stock>
+<vendorCode>HP-19-146</vendorCode>
+<param name="Материал">Стекло/Бамбук</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-11-7" available="true">
@@ -46934,29 +46886,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Форма">Овальная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-42-47BL" available="true">
-<name>Антискользящий коврик на присосках для ванны и душа 65×35 (см) силиконовый Синий HP-42-47BL</name>
-<price>329</price>
-<vendorprice>255</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>51</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-47BL/_T5B3718.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-47BL/HP-42-47BL_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6553/antiskolzyashchiy_kovrik_na_prisoskah_dlya_vanny_i_dusha_65_35_sm_silikonovyy_kovrik_v_dush_dlya_kupaniya_dlya_detey_siniy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-47BL/HP-42-47BR_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-47BL/HP-42-47BL_3.jpg</picture>
-<vendor>Jiamat</vendor>
-<description><![CDATA[Килимок для ванни Clean Mosaic - практичне рішення для безпечного та комфортного використання у ванній кімнаті. Розмір 65&times;35 см і вага 400 г дозволяють зручно розмістити його у ванній або душовій зоні, а силіконова основа стійка до вологи та підходить для слизьких поверхонь.  Мозаїчний візерунок із дрібних квадратів створює акуратну поверхню з дренажними отворами, які сприяють відводу води та зменшують її скупчення. Це підвищує комфорт та робить килимок зручним у щоденному використанні.  Знизу розташовані присоски, що забезпечують надійну фіксацію. Килимок легко очищається, швидко висихає та зберігає форму навіть при регулярному використанні, поєднуючи безпеку, зручність та лаконічний дизайн.  Характеристики антискользящего коврика на присосках в ванную и душ:   Материал: силикон; Размер: 65&times;35 см; Вес: 400 г; Тип крепления:присоски .   Преимущества коврика для купания на присосках:   устойчивость на поверхности &mdash; предотвращает скольжение; легкий уход &mdash; легко мыть и очищать; компактные размеры &mdash; удобное размещение в любом помещении.   Такой коврик станет удобным и практичным дополнением вашего дома, сочетая безопасность, комфорт и защиту поверхности.]]></description>
-<quantity_in_stock>150</quantity_in_stock>
-<vendorCode>HP-42-47BL</vendorCode>
-<param name="Материал">Силикон</param>
-<param name="Ширина">35</param>
-<param name="Количество в наборе">1</param>
-<param name="Цвет">Синий</param>
-<param name="Длина">65</param>
-<param name="Форма">Прямоугольная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-N40" available="true">
 <name>Повербанк с быстрой зарядкой и солнечной батареей 50000 mAh HP-N40</name>
 <price>4159</price>
@@ -47014,6 +46943,29 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Длина">14.2</param>
 <param name="Цвет">Серебристый</param>
 <param name="Подходит для мытья в посудомоечной машине">Нет</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-42-47BL" available="true">
+<name>Антискользящий коврик на присосках для ванны и душа 65×35 (см) силиконовый Синий HP-42-47BL</name>
+<price>329</price>
+<vendorprice>255</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>51</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-47BL/_T5B3718.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-47BL/HP-42-47BL_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6553/antiskolzyashchiy_kovrik_na_prisoskah_dlya_vanny_i_dusha_65_35_sm_silikonovyy_kovrik_v_dush_dlya_kupaniya_dlya_detey_siniy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-47BL/HP-42-47BR_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-47BL/HP-42-47BL_3.jpg</picture>
+<vendor>Jiamat</vendor>
+<description><![CDATA[Килимок для ванни Clean Mosaic - практичне рішення для безпечного та комфортного використання у ванній кімнаті. Розмір 65&times;35 см і вага 400 г дозволяють зручно розмістити його у ванній або душовій зоні, а силіконова основа стійка до вологи та підходить для слизьких поверхонь.  Мозаїчний візерунок із дрібних квадратів створює акуратну поверхню з дренажними отворами, які сприяють відводу води та зменшують її скупчення. Це підвищує комфорт та робить килимок зручним у щоденному використанні.  Знизу розташовані присоски, що забезпечують надійну фіксацію. Килимок легко очищається, швидко висихає та зберігає форму навіть при регулярному використанні, поєднуючи безпеку, зручність та лаконічний дизайн.  Характеристики антискользящего коврика на присосках в ванную и душ:   Материал: силикон; Размер: 65&times;35 см; Вес: 400 г; Тип крепления:присоски .   Преимущества коврика для купания на присосках:   устойчивость на поверхности &mdash; предотвращает скольжение; легкий уход &mdash; легко мыть и очищать; компактные размеры &mdash; удобное размещение в любом помещении.   Такой коврик станет удобным и практичным дополнением вашего дома, сочетая безопасность, комфорт и защиту поверхности.]]></description>
+<quantity_in_stock>148</quantity_in_stock>
+<vendorCode>HP-42-47BL</vendorCode>
+<param name="Материал">Силикон</param>
+<param name="Ширина">35</param>
+<param name="Количество в наборе">1</param>
+<param name="Цвет">Синий</param>
+<param name="Длина">65</param>
+<param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-35-6" available="true">
@@ -51410,30 +51362,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-5-52" available="true">
-<name>Сетевой фильтр-удлинитель 5 розеток 4xUSB-A 1xUSB-C 5м черный HP-5-52</name>
-<price>779</price>
-<vendorprice>592</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>80</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-52/HP-5-52-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-52/HP-5-52_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-52/HP-5-52_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-52/HP-5-52_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-52/HP-5-52_3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 5 розеток + 4 USB-A + USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 1 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 5 Количество USB-A: 4 Количество USB Type-C: 1 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 600 г Размеры: 20 &times; 10 &times; 4 см]]></description>
-<quantity_in_stock>114</quantity_in_stock>
-<vendorCode>HP-5-52</vendorCode>
-<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
-<param name="Длина шнура">5</param>
-<param name="Количество выходных розеток">5</param>
-<param name="Выключатель">Да</param>
-<param name="Входная вилка">ЕURO</param>
-<param name="Выходная розетка">Евро</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Черный</param>
-</offer>
 <offer id="HP-34-88" available="true">
 <name>Фруктовница на ножке Ice Textured 15 см с ледяной текстурой стекла</name>
 <url>https://lugi.com.ua/ru/ru-fruktovnitsya-hp-34-88/</url>
@@ -51626,6 +51554,30 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Тип емкости">Чашка</param>
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-5-52" available="true">
+<name>Сетевой фильтр-удлинитель 5 розеток 4xUSB-A 1xUSB-C 5м черный HP-5-52</name>
+<price>779</price>
+<vendorprice>592</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>80</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-52/HP-5-52-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-52/HP-5-52_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-52/HP-5-52_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-52/HP-5-52_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-52/HP-5-52_3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 5 розеток + 4 USB-A + USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 1 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 5 Количество USB-A: 4 Количество USB Type-C: 1 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 600 г Размеры: 20 &times; 10 &times; 4 см]]></description>
+<quantity_in_stock>113</quantity_in_stock>
+<vendorCode>HP-5-52</vendorCode>
+<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+<param name="Длина шнура">5</param>
+<param name="Количество выходных розеток">5</param>
+<param name="Выключатель">Да</param>
+<param name="Входная вилка">ЕURO</param>
+<param name="Выходная розетка">Евро</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Черный</param>
 </offer>
 <offer id="HP-AP-23" available="true">
 <name>Вакууматор профессиональный 135 Вт с насосом до 4 л\мин HP-AP-23</name>
@@ -58631,50 +58583,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Цвет">Мятный</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-V-191" available="true">
-<name>Триммер VGR аккумуляторный для волос и бороды HP-V-191</name>
-<price>789</price>
-<vendorprice>611</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>76</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2677/professionalnyy_trimmer_dlya_volos_vgr_4_nasadki_kompaktnaya_mashinka_dlya_strizhki_borody_s_zaryadkoy_usb_5_vt.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2677/professionalnyy_trimmer_dlya_volos_vgr_4_nasadki_kompaktnaya_mashinka_dlya_strizhki_borody_s_zaryadkoy_usb_5_vt_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2677/professionalnyy_trimmer_dlya_volos_vgr_4_nasadki_kompaktnaya_mashinka_dlya_strizhki_borody_s_zaryadkoy_usb_5_vt_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2677/professionalnyy_trimmer_dlya_volos_vgr_4_nasadki_kompaktnaya_mashinka_dlya_strizhki_borody_s_zaryadkoy_usb_5_vt_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2677/professionalnyy_trimmer_dlya_volos_vgr_4_nasadki_kompaktnaya_mashinka_dlya_strizhki_borody_s_zaryadkoy_usb_5_vt_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2677/professionalnyy_trimmer_dlya_volos_vgr_4_nasadki_kompaktnaya_mashinka_dlya_strizhki_borody_s_zaryadkoy_usb_5_vt_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2677/professionalnyy_trimmer_dlya_volos_vgr_4_nasadki_kompaktnaya_mashinka_dlya_strizhki_borody_s_zaryadkoy_usb_5_vt_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2677/professionalnyy_trimmer_dlya_volos_vgr_4_nasadki_kompaktnaya_mashinka_dlya_strizhki_borody_s_zaryadkoy_usb_5_vt_7.jpg</picture>
-<vendor>VGR</vendor>
-<description><![CDATA[Многофункциональная машинка для стрижки VGR предназначена для профессионального использования в парикмахерских, салонах красоты и парикмахерских, а также для домашнего применения. Эта модель отличается ударопрочным цельнометаллическим корпусом, виброустойчивостью, низким уровнем шума, плавным ходом острых лезвий, удобством и долгим сроком службы. Эта универсальная модель отличается компактным и стильным дизайном, отличной эргономикой, небольшим весом и оптимальной мощностью. Эта аккумуляторная машинка для стрижки функционирует от встроенного литий-ионного аккумулятора, который работает до 100 минут на полной зарядке. Беспроводная конструкция делает ее удобной для стрижки и избавляет от необходимости принимать неудобное положение. Машинку также можно использовать как проводную через USB с одновременной зарядкой аккумулятора, что очень удобно для выполнения задач при плотном графике.  Особенности машинки для стрижки VGR      Лезвия из нержавеющей стали. Индикатор заряда аккумулятора. Литиевый аккумулятор емкостью 500 мАч. Время зарядки 2 часа. Время работы 100 минут. Ширина лезвия 40 мм. 4 насадки - 3, 6, 9, 12 мм. Минимальная высота среза 0,1 мм. Мощность 5 Вт.   Комплектация      Триммер. Щетка для чистки. Масло для смазки лезвий. 4 насадки. USB-кабель.     Данный товар упакован в герметичную блистерную упаковку. Если упаковка повреждена или был отправлен поддельный товар, пожалуйста, немедленно свяжитесь с нами после получения. Если целостность блистера была нарушена, товар возврату не подлежит. Если в товаре обнаружен заводской дефект, его можно вернуть или обменять в течение 14 дней.]]></description>
-<quantity_in_stock>79</quantity_in_stock>
-<vendorCode>HP-V-191</vendorCode>
-<param name="Вес">0.5 кг</param>
-<param name="Длина сетевого шнура">1.4 м</param>
-<param name="Время заряда аккумулятора">2 час</param>
-<param name="Влагозащищенный корпус">Нет</param>
-<param name="Время работы от аккумулятора">100 мин</param>
-<param name="Количество насадок">4</param>
-<param name="Детская/тихая стрижка">Да</param>
-<param name="Индикатор заряда элементов питания">Да</param>
-<param name="Цвет">Черный</param>
-<param name="Количество установок длины">4</param>
-<param name="Тип питания">Аккумулятор|Сеть 220 В</param>
-<param name="Максимальная длина стрижки">12 мм</param>
-<param name="Материал лезвий">Нержавеющая сталь</param>
-<param name="Минимальная длина стрижки">0.1 мм</param>
-<param name="Гарантия">3 мес</param>
-<param name="Насадка для стрижки бороды и усов">Да</param>
-<param name="Прорезиненная рукоятка">Да</param>
-<param name="Регулировка длины">Сменные насадки</param>
-<param name="Скорость мотора">6500 об/мин</param>
-<param name="Самозатачивающиеся лезвия">Нет</param>
-<param name="Ширина лезвия">40 мм</param>
-<param name="Тип прибора">Универсальная машинка для стрижки</param>
-<param name="Тип элементов питания">Li-Ion</param>
-<param name="Триммер для окантовки">Да</param>
-<param name="Щеточка для чистки">Да</param>
-</offer>
 <offer id="HP-19-20-7.2X23CM" available="true">
 <name>Круглая ложка для мороженого из нержавеющей стали HP-19-20-7.2x23CM</name>
 <price>349</price>
@@ -58962,6 +58870,50 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Форма">Квадратная</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-V-191" available="true">
+<name>Триммер VGR аккумуляторный для волос и бороды HP-V-191</name>
+<price>789</price>
+<vendorprice>611</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>76</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2677/professionalnyy_trimmer_dlya_volos_vgr_4_nasadki_kompaktnaya_mashinka_dlya_strizhki_borody_s_zaryadkoy_usb_5_vt.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2677/professionalnyy_trimmer_dlya_volos_vgr_4_nasadki_kompaktnaya_mashinka_dlya_strizhki_borody_s_zaryadkoy_usb_5_vt_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2677/professionalnyy_trimmer_dlya_volos_vgr_4_nasadki_kompaktnaya_mashinka_dlya_strizhki_borody_s_zaryadkoy_usb_5_vt_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2677/professionalnyy_trimmer_dlya_volos_vgr_4_nasadki_kompaktnaya_mashinka_dlya_strizhki_borody_s_zaryadkoy_usb_5_vt_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2677/professionalnyy_trimmer_dlya_volos_vgr_4_nasadki_kompaktnaya_mashinka_dlya_strizhki_borody_s_zaryadkoy_usb_5_vt_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2677/professionalnyy_trimmer_dlya_volos_vgr_4_nasadki_kompaktnaya_mashinka_dlya_strizhki_borody_s_zaryadkoy_usb_5_vt_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2677/professionalnyy_trimmer_dlya_volos_vgr_4_nasadki_kompaktnaya_mashinka_dlya_strizhki_borody_s_zaryadkoy_usb_5_vt_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2677/professionalnyy_trimmer_dlya_volos_vgr_4_nasadki_kompaktnaya_mashinka_dlya_strizhki_borody_s_zaryadkoy_usb_5_vt_7.jpg</picture>
+<vendor>VGR</vendor>
+<description><![CDATA[Многофункциональная машинка для стрижки VGR предназначена для профессионального использования в парикмахерских, салонах красоты и парикмахерских, а также для домашнего применения. Эта модель отличается ударопрочным цельнометаллическим корпусом, виброустойчивостью, низким уровнем шума, плавным ходом острых лезвий, удобством и долгим сроком службы. Эта универсальная модель отличается компактным и стильным дизайном, отличной эргономикой, небольшим весом и оптимальной мощностью. Эта аккумуляторная машинка для стрижки функционирует от встроенного литий-ионного аккумулятора, который работает до 100 минут на полной зарядке. Беспроводная конструкция делает ее удобной для стрижки и избавляет от необходимости принимать неудобное положение. Машинку также можно использовать как проводную через USB с одновременной зарядкой аккумулятора, что очень удобно для выполнения задач при плотном графике.  Особенности машинки для стрижки VGR      Лезвия из нержавеющей стали. Индикатор заряда аккумулятора. Литиевый аккумулятор емкостью 500 мАч. Время зарядки 2 часа. Время работы 100 минут. Ширина лезвия 40 мм. 4 насадки - 3, 6, 9, 12 мм. Минимальная высота среза 0,1 мм. Мощность 5 Вт.   Комплектация      Триммер. Щетка для чистки. Масло для смазки лезвий. 4 насадки. USB-кабель.     Данный товар упакован в герметичную блистерную упаковку. Если упаковка повреждена или был отправлен поддельный товар, пожалуйста, немедленно свяжитесь с нами после получения. Если целостность блистера была нарушена, товар возврату не подлежит. Если в товаре обнаружен заводской дефект, его можно вернуть или обменять в течение 14 дней.]]></description>
+<quantity_in_stock>78</quantity_in_stock>
+<vendorCode>HP-V-191</vendorCode>
+<param name="Вес">0.5 кг</param>
+<param name="Длина сетевого шнура">1.4 м</param>
+<param name="Время заряда аккумулятора">2 час</param>
+<param name="Влагозащищенный корпус">Нет</param>
+<param name="Время работы от аккумулятора">100 мин</param>
+<param name="Количество насадок">4</param>
+<param name="Детская/тихая стрижка">Да</param>
+<param name="Индикатор заряда элементов питания">Да</param>
+<param name="Цвет">Черный</param>
+<param name="Количество установок длины">4</param>
+<param name="Тип питания">Аккумулятор|Сеть 220 В</param>
+<param name="Максимальная длина стрижки">12 мм</param>
+<param name="Материал лезвий">Нержавеющая сталь</param>
+<param name="Минимальная длина стрижки">0.1 мм</param>
+<param name="Гарантия">3 мес</param>
+<param name="Насадка для стрижки бороды и усов">Да</param>
+<param name="Прорезиненная рукоятка">Да</param>
+<param name="Регулировка длины">Сменные насадки</param>
+<param name="Скорость мотора">6500 об/мин</param>
+<param name="Самозатачивающиеся лезвия">Нет</param>
+<param name="Ширина лезвия">40 мм</param>
+<param name="Тип прибора">Универсальная машинка для стрижки</param>
+<param name="Тип элементов питания">Li-Ion</param>
+<param name="Триммер для окантовки">Да</param>
+<param name="Щеточка для чистки">Да</param>
 </offer>
 <offer id="HP-19-19-32CM" available="true">
 <name>Шумовка &amp;quot;паук&amp;quot; с деревянной ручкой Ø 32 см для фритюра и вока HP-19-19-32CM</name>
@@ -77671,27 +77623,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <quantity_in_stock>31</quantity_in_stock>
 <vendorCode>1201266011</vendorCode>
 </offer>
-<offer id="HP-42-53" available="true">
-<name>Набор ковриков для пола 3 штуки диатомитовых  98*38 см/2 по 58*38 см HP-42-53</name>
-<price>589</price>
-<vendorprice>451</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>52</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6503/nabor_diatomitovyh_kovrikov_dlya_doma_3_sht_38_58_2_po_38_98_sm_pridvernye_kovriki_dlya_kuhni_koridora.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6503/nabor_diatomitovyh_kovrikov_dlya_doma_3_sht_38_58_2_po_38_98_sm_pridvernye_kovriki_dlya_kuhni_koridora_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6503/nabor_diatomitovyh_kovrikov_dlya_doma_3_sht_38_58_2_po_38_98_sm_pridvernye_kovriki_dlya_kuhni_koridora_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6503/nabor_diatomitovyh_kovrikov_dlya_doma_3_sht_38_58_2_po_38_98_sm_pridvernye_kovriki_dlya_kuhni_koridora_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6503/nabor_diatomitovyh_kovrikov_dlya_doma_3_sht_38_58_2_po_38_98_sm_pridvernye_kovriki_dlya_kuhni_koridora_4.jpg</picture>
-<vendor>Jiamat</vendor>
-<description><![CDATA[Комплект влаговпитывающих ковриков из натурального диатомита станет практичным дополнением любого помещения. Благодаря своим размерам коврики удобно использовать в разных зонах дома — в прихожей, ванной, на кухне, в прачечной или у балконной двери. Они помогают поддерживать сухость и чистоту там, где это особенно важно.  Диатомит быстро впитывает воду, брызги и влагу с обуви или после бытовых дел, а затем быстро высыхает. Это предотвращает появление луж, разводов и сырости на полу. Противоскользящая основа обеспечивает устойчивость ковриков на разных типах напольных покрытий и повышает безопасность при ходьбе.  Характеристики набора ковриков из диатомита для дома:   Количество изделий: 3 штуки; Материал: диатомит; Размеры: 98*38 см/2 по 58*38 см; Общий вес: 1.5 кг; Влагопоглощающие свойства.   Преимущества влаговпитывающих ковриков для пола:   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовые коврики — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
-<quantity_in_stock>31</quantity_in_stock>
-<vendorCode>HP-42-53</vendorCode>
-<param name="Подходит для пола с подогревом">Да</param>
-<param name="Количество в наборе">3</param>
-<param name="Цвет">Серый</param>
-<param name="Форма">Прямоугольная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="544-3-60V" available="true">
 <name>Салфетки в рулоне 25×25 см отрывные из микрофибры фиолетовый Colorful Home 544-3-60V</name>
 <price>259</price>
@@ -78223,6 +78154,27 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Материал">Пластик</param>
 <param name="Тип поверхности">Глянцевая</param>
 <param name="Цвет">Пудровый</param>
+</offer>
+<offer id="HP-42-53" available="true">
+<name>Набор ковриков для пола 3 штуки диатомитовых  98*38 см/2 по 58*38 см HP-42-53</name>
+<price>589</price>
+<vendorprice>451</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>52</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6503/nabor_diatomitovyh_kovrikov_dlya_doma_3_sht_38_58_2_po_38_98_sm_pridvernye_kovriki_dlya_kuhni_koridora.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6503/nabor_diatomitovyh_kovrikov_dlya_doma_3_sht_38_58_2_po_38_98_sm_pridvernye_kovriki_dlya_kuhni_koridora_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6503/nabor_diatomitovyh_kovrikov_dlya_doma_3_sht_38_58_2_po_38_98_sm_pridvernye_kovriki_dlya_kuhni_koridora_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6503/nabor_diatomitovyh_kovrikov_dlya_doma_3_sht_38_58_2_po_38_98_sm_pridvernye_kovriki_dlya_kuhni_koridora_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6503/nabor_diatomitovyh_kovrikov_dlya_doma_3_sht_38_58_2_po_38_98_sm_pridvernye_kovriki_dlya_kuhni_koridora_4.jpg</picture>
+<vendor>Jiamat</vendor>
+<description><![CDATA[Комплект влаговпитывающих ковриков из натурального диатомита станет практичным дополнением любого помещения. Благодаря своим размерам коврики удобно использовать в разных зонах дома — в прихожей, ванной, на кухне, в прачечной или у балконной двери. Они помогают поддерживать сухость и чистоту там, где это особенно важно.  Диатомит быстро впитывает воду, брызги и влагу с обуви или после бытовых дел, а затем быстро высыхает. Это предотвращает появление луж, разводов и сырости на полу. Противоскользящая основа обеспечивает устойчивость ковриков на разных типах напольных покрытий и повышает безопасность при ходьбе.  Характеристики набора ковриков из диатомита для дома:   Количество изделий: 3 штуки; Материал: диатомит; Размеры: 98*38 см/2 по 58*38 см; Общий вес: 1.5 кг; Влагопоглощающие свойства.   Преимущества влаговпитывающих ковриков для пола:   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовые коврики — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
+<quantity_in_stock>30</quantity_in_stock>
+<vendorCode>HP-42-53</vendorCode>
+<param name="Подходит для пола с подогревом">Да</param>
+<param name="Количество в наборе">3</param>
+<param name="Цвет">Серый</param>
+<param name="Форма">Прямоугольная</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="509-33BE" available="true">
 <name>Игрушка-подушка Медведь с малышом и пледом 110x140 см бежевый 509-33P</name>
@@ -87700,28 +87652,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP4146" available="true">
-<name>Набор стаканов 6 штук 450 мл стеклянные зеленый HP4146</name>
-<price>849</price>
-<vendorprice>660</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>139</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/00110/HP4146/1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00110/HP4146/2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00110/HP4146/3.jpg</picture>
-<vendor>TS Kitchen</vendor>
-<description><![CDATA[Набор из 6 стаканов из толстого стекла станет прекрасным дополнением вашей кухни. Эти стаканы не только элегантные, но и практичные, что делает их идеальными для любого случая. Изготовленные из толстого стекла, стаканы устойчивы к сколам и трещинам, что обеспечивает их долговечность и надежность. Классический дизайн с толстым дном и четкими гранями добавляет элегантности любой сервировке стола, делая стаканы идеальными для торжественных ужинов или семейных обедов. Набор подходит для подачи любых напитков - от воды и сока до пива и вина. Толстые стенки объемом 450 мл прекрасно сохраняют температуру напитков, а широкие ободки обеспечивают комфортное питье.  Характеристики:   Количество в наборе: 6 шт Объем: 450 мл Материал: толстое стекло   Преимущества:   Прочные и долговечные Толстое стекло для надежности Классический дизайн для элегантности Универсальные для любых напитков Легко чистить Подходят для посудомоечной машины и микроволновой печи   Уход:   Перед первым использованием вымойте стаканы теплой мыльной водой. После каждого использования тщательно мойте стаканы теплой мыльной водой. Не используйте абразивные чистящие средства или мочалки для чистки. Дайте стаканам полностью высохнуть перед хранением.]]></description>
-<quantity_in_stock>16</quantity_in_stock>
-<vendorCode>HP4146</vendorCode>
-<param name="Материал">Стекло</param>
-<param name="Подходит для горячих напитков">Нет</param>
-<param name="Количество в наборе">6</param>
-<param name="Объем">450 мл</param>
-<param name="Тип стакана">Высокий</param>
-<param name="Цвет">Зелёный</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP566" available="true">
 <name>Набор высоких стаканов 6 штук по 250 мл розовый HP566</name>
 <price>1699</price>
@@ -88789,6 +88719,28 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Количество в наборе">6</param>
 <param name="Объем">250 мл</param>
 <param name="Цвет">Прозрачный</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP4146" available="true">
+<name>Набор стаканов 6 штук 450 мл стеклянные зеленый HP4146</name>
+<price>849</price>
+<vendorprice>660</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>139</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/00110/HP4146/1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00110/HP4146/2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00110/HP4146/3.jpg</picture>
+<vendor>TS Kitchen</vendor>
+<description><![CDATA[Набор из 6 стаканов из толстого стекла станет прекрасным дополнением вашей кухни. Эти стаканы не только элегантные, но и практичные, что делает их идеальными для любого случая. Изготовленные из толстого стекла, стаканы устойчивы к сколам и трещинам, что обеспечивает их долговечность и надежность. Классический дизайн с толстым дном и четкими гранями добавляет элегантности любой сервировке стола, делая стаканы идеальными для торжественных ужинов или семейных обедов. Набор подходит для подачи любых напитков - от воды и сока до пива и вина. Толстые стенки объемом 450 мл прекрасно сохраняют температуру напитков, а широкие ободки обеспечивают комфортное питье.  Характеристики:   Количество в наборе: 6 шт Объем: 450 мл Материал: толстое стекло   Преимущества:   Прочные и долговечные Толстое стекло для надежности Классический дизайн для элегантности Универсальные для любых напитков Легко чистить Подходят для посудомоечной машины и микроволновой печи   Уход:   Перед первым использованием вымойте стаканы теплой мыльной водой. После каждого использования тщательно мойте стаканы теплой мыльной водой. Не используйте абразивные чистящие средства или мочалки для чистки. Дайте стаканам полностью высохнуть перед хранением.]]></description>
+<quantity_in_stock>15</quantity_in_stock>
+<vendorCode>HP4146</vendorCode>
+<param name="Материал">Стекло</param>
+<param name="Подходит для горячих напитков">Нет</param>
+<param name="Количество в наборе">6</param>
+<param name="Объем">450 мл</param>
+<param name="Тип стакана">Высокий</param>
+<param name="Цвет">Зелёный</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
