@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-23 04:19">
+<yml_catalog date="2026-08-23 06:26">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -850,7 +850,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/0...../00./HP-DS3-1/HP-DS3-1-2.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Умный гаджет для тех, кто ценит свежесть продуктов и порядок в походном рюкзаке или домашнем холодильнике. Это компактное устройство создает профессиональный вакуум в одно касание, продлевая срок хранения продуктов в 5 раз.   Технические возможности:    Профессиональное давление: Создает максимальное давление до 85 бар, обеспечивая плотную герметизацию пакета и полное удаление воздуха. Производительность: Скорость откачки воздуха составляет 40 мл/сек, что позволяет упаковать продукт буквально за 5&ndash;10 секунд. Управление One-touch: Процесс вакуумирования запускается нажатием одной кнопки и не требует специальных навыков. Работа с самозапорными клапанами: Совместим с многоразовыми зип-пакетами, оснащенными воздушным портом &ndash; не требует запайки краев. Энергоэффективность: Мощность всего 7 Вт гарантирует длительную работу от одного заряда аккумулятора.]]></description>
-<quantity_in_stock>285</quantity_in_stock>
+<quantity_in_stock>284</quantity_in_stock>
 <vendorCode>HP-DS3-1</vendorCode>
 <param name="Питание">Аккумулятор</param>
 <param name="Цвет">Белый</param>
@@ -1552,7 +1552,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7030/elektricheskaya_shchetka_dlya_uborki_6_v_1_besprovodnaya_dlya_pola_i_tverdyh_poverhnostey_plitki_2.png</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Удобная и мощная электрическая щетка для быстрой очистки ванн, плитки, кранов, духовок, решеток и других загрязненных поверхностей. Питается от встроенного аккумулятора и заряжается через USB &ndash; мобильная и безопасная альтернатива бытовой химии и ручной чистке.   Преимущества    Быстрое и эффективное очищение сложных загрязнений без длительного трения вручную. USB зарядка &ndash; удобно заряжать от адаптера, повербанка или ноутбука. Набор насадок покрывает большинство задач по дому: от тонких поверхностей до твердых загрязнений. Компактный и легкий &ndash; удобно держать и хранить. Экономия времени и сил - идеальна для кухни, ванной и экстерьера (гонку, садовой мебели).    Рекомендации по использованию    Перед первым использованием полностью зарядите устройство. Для длительного загрязнения предварительно размочите поверхность теплой водой или приспособьте средство для очистки. Выбирайте насадку в зависимости от поверхности: мягкая губка &ndash; для деликатных покрытий, жесткая щетка &ndash; для стойких загрязнений. Не применяйте на деликатных поверхностях без проверки в незаметном месте. После использования промойте насадки и дайте им высохнуть.    Меры предосторожности    Не погружайте устройство полностью в воду; промывайте только сменные насадки. Не заряжайте устройство без наблюдения. Храните в сухом месте при комнатной температуре. Не используйте с поврежденным кабелем или корпусом.    Характеристики    Емкость аккумулятора: 1500 мАч Время работы на 1 заряде: 50 мин Питание: встроенный аккумулятор, USB-зарядка Насадки: 4 Длина шнура питания: 75 см Материал корпуса: пластик Размеры: 13*6*14 см Вес: 600 г]]></description>
-<quantity_in_stock>220</quantity_in_stock>
+<quantity_in_stock>219</quantity_in_stock>
 <vendorCode>HP-8-75</vendorCode>
 <param name="Материал ручки/черенка">Пластик</param>
 <param name="Тип ворса">Средней жесткости</param>
@@ -1589,32 +1589,6 @@
 <param name="Максимально допустимая нагрузка">50</param>
 <param name="Высота стула с учетом спинки">720</param>
 <param name="Глубина стула">410</param>
-</offer>
-<offer id="SJ-0029-1" available="true">
-<name>Подстилка под палатку 195х143 см с фольгированным покрытием SJ-0029-1</name>
-<price>349</price>
-<vendorprice>185</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>165</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_9.jpg</picture>
-<vendor>Lugi</vendor>
-<description><![CDATA[Подкладка влагозащитная имеет размеры 195х143 см, что делает ее удобной для использования под палатками или другими походными аксессуарами. Она обеспечивает дополнительную защиту от влаги, предотвращая попадание влаги с земли на внутреннюю поверхность палатки или другого снаряжения.  Основные характеристики:    Размеры: 195х143х0.3 см; Материал: утеплитель с фольгированным покрытием; Количество шаров: 1; Наличие чехла: есть.   Материал подкладки изготовлен из водонепроницаемых материалов, эффективно защищающих от влаги и сырости. Это позволяет создать комфортные условия для отдыха на природе, даже во влажную погоду.  Подкладка является легкой и компактной, что позволяет без труда транспортировать ее в сложенном виде. Она также удобна для использования на любых природных поверхностях, добавляя защиту от грязи и влаги.]]></description>
-<quantity_in_stock>214</quantity_in_stock>
-<vendorCode>SJ-0029-1</vendorCode>
-<param name="Комплектующие для палаток">Подкладка</param>
-<param name="Цвет">Серебристый</param>
-<param name="Длина">195</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-35015-56" available="true">
 <name>Швабра для мытья пола с отжимом 32 (см) универсальная самоотжимная швабра 360° для уборки с самоотжимом HP-35015-56</name>
@@ -1663,6 +1637,32 @@
 <param name="Тематика декора, рисунка">Без декора</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Форма">Круглая</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="SJ-0029-1" available="true">
+<name>Подстилка под палатку 195х143 см с фольгированным покрытием SJ-0029-1</name>
+<price>349</price>
+<vendorprice>185</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>165</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_9.jpg</picture>
+<vendor>Lugi</vendor>
+<description><![CDATA[Подкладка влагозащитная имеет размеры 195х143 см, что делает ее удобной для использования под палатками или другими походными аксессуарами. Она обеспечивает дополнительную защиту от влаги, предотвращая попадание влаги с земли на внутреннюю поверхность палатки или другого снаряжения.  Основные характеристики:    Размеры: 195х143х0.3 см; Материал: утеплитель с фольгированным покрытием; Количество шаров: 1; Наличие чехла: есть.   Материал подкладки изготовлен из водонепроницаемых материалов, эффективно защищающих от влаги и сырости. Это позволяет создать комфортные условия для отдыха на природе, даже во влажную погоду.  Подкладка является легкой и компактной, что позволяет без труда транспортировать ее в сложенном виде. Она также удобна для использования на любых природных поверхностях, добавляя защиту от грязи и влаги.]]></description>
+<quantity_in_stock>213</quantity_in_stock>
+<vendorCode>SJ-0029-1</vendorCode>
+<param name="Комплектующие для палаток">Подкладка</param>
+<param name="Цвет">Серебристый</param>
+<param name="Длина">195</param>
+<param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-DS3-9" available="true">
@@ -3751,7 +3751,7 @@
 повседневного использования.</p><p><b>Преимущества</b></p><ol><li>Защита телефона: закрывается на молнию, обеспечивает защиту от пыли, царапин и лёгких ударов.</li><li>Фиксация устройства: плотная форма удерживает телефон на месте, предотвращая его случайное выпадение.</li><li>Защита экрана: при ношении экран телефона не контактирует с ключами и острыми предметами.</li><li>Влагоотталкивающая поверхность: легко протирается — защищает от небольших брызг и пятен.</li><li>Безопасное
  ношение: регулируемый ремень позволяет носить сумочку через плечо или 
 на шее, снижая риск падения и кражи в общественных местах.</li><li>Компактность: подходит для большинства компактных смартфонов и обеспечивает удобный доступ к устройству.</li></ol><p><b>Рекомендации по использованию</b></p><ul><li>Перед покупкой сверяйте длину телефона с длиной сумочки.</li><li>Для дополнительной защиты при активном использовании (спорт, поездки) можно оставить чехол на телефоне.</li><li>Избегайте длительного контакта с водой и сильных механических нагрузок.</li></ul><p><b>Характеристики:</b></p><ul><li>Материал: силикон, нейлон</li><li>Размер: 17*10*3 см</li><li>Длина ремешка: 55-105 см</li><li>Вес: 200 г</li></ul>]]></description>
-<quantity_in_stock>136</quantity_in_stock>
+<quantity_in_stock>135</quantity_in_stock>
 <vendorCode>HP-55-19P</vendorCode>
 <param name="Вес">200 г</param>
 <param name="Гарантийный срок">14 дней</param>
@@ -35043,7 +35043,7 @@ Sokany SK-06009 компактный и занимает минимум мест
 <picture>https://feed.lugi.com.ua/image/catalog/136/USB100L10MGY-3%281%29.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Гирлянда USB роса идеально подходит для окон, дверей, стен, картин, елок, фотозоны. Гирлянда оснащена 100 яркими светодиодами, которые обеспечивают превосходное освещение.   Основные характеристики гирлянды роса   гирлянда роса 10 метров; 100 led светодиодов; класс защиты IP44.   Особенностью этой гирлянды является ее питание от usb, что обеспечивает максимальную мобильность и удобство в эксплуатации. Новогодняя гирлянда Роса - это не только декоративный элемент, но и практичный инструмент для создания особого атмосферного света в вашем доме или на мероприятии любого уровня.  Купить гирлянду капли росы 10 метров можно с доставкой по всей Украине. Гирлянда подлежит возврату только в том случае, когда ее исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>1085</quantity_in_stock>
+<quantity_in_stock>1083</quantity_in_stock>
 <vendorCode>USB100L10MGY</vendorCode>
 <param name="Режим работы">Динамический</param>
 <param name="Количество светодиодов">100</param>
@@ -35318,7 +35318,7 @@ Sokany SK-06009 компактный и занимает минимум мест
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3775/konteyner_dlya_hraneniya_zeleni_v_holodilnike_25_6_sm_emkost_dlya_zeleni_belyy_6.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Контейнер для хранения зелени изготовлен из пластика, что обеспечивает надежную защиту продуктов от внешних воздействий. Пластиковая конструкция является легкой и прочной, что позволяет удобно транспортировать контейнер и хранить его в холодильнике или на кухне.   Основные характеристики:    Диаметр: 6 см; Высота: 26 см; Объем: 110 мл; Материал: пластмасса.   Контейнер специально разработан для сохранения свежести зелени, что помогает продлить ее срок хранения. Он имеет герметичную крышку, которая предотвращает попадание влаги и запахов, что позволяет хранить продукты дольше.  Благодаря простой и практичной конструкции контейнер занимает минимум места и является идеальным для организации хранения зелени, овощей и других продуктов в быту. Легко моется и подходит для многократного использования.]]></description>
-<quantity_in_stock>976</quantity_in_stock>
+<quantity_in_stock>975</quantity_in_stock>
 <vendorCode>HP-DS2-2</vendorCode>
 <param name="Тип">Емкость</param>
 <param name="Материал">Пластик</param>
@@ -36394,7 +36394,7 @@ Sokany SK-06009 компактный и занимает минимум мест
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/53723/4180/pakety_dlya_vakuumatora_19_15_sm_pakety_dlya_vakuumirovaniya_produktov_100_sht.png</picture>
 <vendor>Huizhou Shunzhou Technology</vendor>
 <description><![CDATA[Вакуумные пакеты 19&times;15 см (100 шт.) &ndash; это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи.  Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования.   Основные характеристики пакетов для вакууматора:   размер: 19&times;15 см; количество в упаковке: 100 штук; материал: пищевой полиэтилен.   Преимущества:   Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность &ndash; подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки.   Вакуумные пакеты &ndash; это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.]]></description>
-<quantity_in_stock>564</quantity_in_stock>
+<quantity_in_stock>563</quantity_in_stock>
 <vendorCode>HP-11-6</vendorCode>
 <param name="Тип">Набор пакетов</param>
 <param name="Материал">Полиэтилен</param>
@@ -40685,31 +40685,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Пол">Женский</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-5-53" available="true">
-<name>Сетевой фильтр-удлинитель 6 розеток 4xUSB-A 2xUSB-C 5м белая HP-5-53</name>
-<price>729</price>
-<vendorprice>562</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>80</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7005/setevoy_filtr_udlinitel_6_rozetok_4xusb_a_2xusb_c_5m_belaya_knopka_otklyucheniya_udlinitel_elektricheskaya_zaryadka.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_1.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 6 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 6 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 23 × 11 × 4 см]]></description>
-<quantity_in_stock>262</quantity_in_stock>
-<vendorCode>HP-5-53</vendorCode>
-<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
-<param name="Длина шнура">5</param>
-<param name="Количество выходных розеток">6</param>
-<param name="Выключатель">Да</param>
-<param name="Входная вилка">ЕURO</param>
-<param name="Выходная розетка">Евро</param>
-<param name="Длина провода">5</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Белый</param>
-</offer>
 <offer id="HP27473K" available="true">
 <name>Набор кухонных принадлежностей на подставке 6 шт бежевый HP27473K</name>
 <price>1019</price>
@@ -40759,6 +40734,31 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Цвет">Белый</param>
 <param name="Тип емкости">Кружка</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-5-53" available="true">
+<name>Сетевой фильтр-удлинитель 6 розеток 4xUSB-A 2xUSB-C 5м белая HP-5-53</name>
+<price>729</price>
+<vendorprice>562</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>80</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7005/setevoy_filtr_udlinitel_6_rozetok_4xusb_a_2xusb_c_5m_belaya_knopka_otklyucheniya_udlinitel_elektricheskaya_zaryadka.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_1.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 6 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 6 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 23 × 11 × 4 см]]></description>
+<quantity_in_stock>260</quantity_in_stock>
+<vendorCode>HP-5-53</vendorCode>
+<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+<param name="Длина шнура">5</param>
+<param name="Количество выходных розеток">6</param>
+<param name="Выключатель">Да</param>
+<param name="Входная вилка">ЕURO</param>
+<param name="Выходная розетка">Евро</param>
+<param name="Длина провода">5</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Белый</param>
 </offer>
 <offer id="HP-36327-3" available="true">
 <name>Коврик для сервировки стола Merry Christmas and Happy New Year 45*30 см HP-36327-3</name>
@@ -42230,36 +42230,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Форма">Фигурная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="173309ML" available="true">
-<name>Гирлянда светодиодная конский хвост GarlandoPro 200LED Роса 2м 10 линий 173309ML</name>
-<price>259</price>
-<vendorprice>160</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>66</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/173309ML-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_8.jpg</picture>
-<vendor>Garlando</vendor>
-<description><![CDATA[Сказочное преображение Представляем вам уникальную светодиодную гирлянду "Конский хвост" от GarlandoPro, которая станет незаменимым акцентом в вашем праздничном или будничном декоре. Благодаря 200 ярким светодиодам, расположенным на 10 линиях, эта гирлянда превратит ваше пространство в настоящую сказку.  Разнообразные режимы С восьмью режимами работы у вас есть множество вариантов для создания различных световых эффектов. От мягкого и роскошного света до мерцающих игровых эффектов – эта гирлянда поможет создать любую атмосферу, добавляя нотку магии и праздника вашему интерьеру или двору.  Шарм и элегантность Светодиодная гирлянда "Конский хвост" GarlandoPro 200LED не только украсит ваше пространство, но и создаст неповторимую атмосферу, которая очарует всех ваших гостей или жильцов. Этот продукт добавит вашему интерьеру или экстерьеру особый шарм и элегантность, делая ваши праздники и мероприятия незабываемыми.  Характеристики:   Количество светодиодов: 200 Количество линий: 10 Режимы работы: 8   Преимущества:   Разнообразные световые эффекты для любой атмосферы Создание сказочной и праздничной обстановки Добавление особого шарма и элегантности   Уход:   Протирайте сухой тканью Избегайте контакта с водой Храните в сухом месте при комнатной температуре]]></description>
-<quantity_in_stock>212</quantity_in_stock>
-<vendorCode>173309ML</vendorCode>
-<param name="Режим работы">Динамический</param>
-<param name="Количество светодиодов">200</param>
-<param name="Напряжение">220 В</param>
-<param name="Длина">2 м</param>
-<param name="Тип гирлянды">Гирлянда Конский хвост</param>
-<param name="Тип освещения">Светодиодная гирлянда</param>
-<param name="Состояние">Новое</param>
-<param name="Тип питания">Сеть</param>
-<param name="Упаковка">Коробка</param>
-<param name="Цвет свечения">Мультиколор</param>
-</offer>
 <offer id="SB1000L100MBW" available="true">
 <name>Новогодняя гирлянда уличная 100 м 1000 LED с солнечной батареей 8 режимов работы черный провод Белый свет SB1000L100MBW</name>
 <price>3739</price>
@@ -42291,6 +42261,36 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Угол свечения">360</param>
 <param name="Гарантия">14 дней</param>
 <param name="Цвет свечения">Белый</param>
+</offer>
+<offer id="173309ML" available="true">
+<name>Гирлянда светодиодная конский хвост GarlandoPro 200LED Роса 2м 10 линий 173309ML</name>
+<price>259</price>
+<vendorprice>160</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>66</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/173309ML-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_8.jpg</picture>
+<vendor>Garlando</vendor>
+<description><![CDATA[Сказочное преображение Представляем вам уникальную светодиодную гирлянду "Конский хвост" от GarlandoPro, которая станет незаменимым акцентом в вашем праздничном или будничном декоре. Благодаря 200 ярким светодиодам, расположенным на 10 линиях, эта гирлянда превратит ваше пространство в настоящую сказку.  Разнообразные режимы С восьмью режимами работы у вас есть множество вариантов для создания различных световых эффектов. От мягкого и роскошного света до мерцающих игровых эффектов – эта гирлянда поможет создать любую атмосферу, добавляя нотку магии и праздника вашему интерьеру или двору.  Шарм и элегантность Светодиодная гирлянда "Конский хвост" GarlandoPro 200LED не только украсит ваше пространство, но и создаст неповторимую атмосферу, которая очарует всех ваших гостей или жильцов. Этот продукт добавит вашему интерьеру или экстерьеру особый шарм и элегантность, делая ваши праздники и мероприятия незабываемыми.  Характеристики:   Количество светодиодов: 200 Количество линий: 10 Режимы работы: 8   Преимущества:   Разнообразные световые эффекты для любой атмосферы Создание сказочной и праздничной обстановки Добавление особого шарма и элегантности   Уход:   Протирайте сухой тканью Избегайте контакта с водой Храните в сухом месте при комнатной температуре]]></description>
+<quantity_in_stock>211</quantity_in_stock>
+<vendorCode>173309ML</vendorCode>
+<param name="Режим работы">Динамический</param>
+<param name="Количество светодиодов">200</param>
+<param name="Напряжение">220 В</param>
+<param name="Длина">2 м</param>
+<param name="Тип гирлянды">Гирлянда Конский хвост</param>
+<param name="Тип освещения">Светодиодная гирлянда</param>
+<param name="Состояние">Новое</param>
+<param name="Тип питания">Сеть</param>
+<param name="Упаковка">Коробка</param>
+<param name="Цвет свечения">Мультиколор</param>
 </offer>
 <offer id="CF500L50MWW" available="true">
 <name>Гирлянда Рождественская фея уличная 50 м 500 LED белый провод Белый CF500L50MWW</name>
@@ -45750,29 +45750,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Форма">Круглая</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-41-14" available="true">
-<name>Подвесной органайзер с 3 карманами 20×58 (см) HP-41-14</name>
-<price>169</price>
-<vendorprice>122</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>60</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4891/podvesnoy_organayzer_s_3_karmanami_20_58_sm_organayzer_dlya_nizhnego_belya_melochey_v_shkaf_na_dver.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4891/podvesnoy_organayzer_s_3_karmanami_20_58_sm_organayzer_dlya_nizhnego_belya_melochey_v_shkaf_na_dver_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4891/podvesnoy_organayzer_s_3_karmanami_20_58_sm_organayzer_dlya_nizhnego_belya_melochey_v_shkaf_na_dver_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4891/podvesnoy_organayzer_s_3_karmanami_20_58_sm_organayzer_dlya_nizhnego_belya_melochey_v_shkaf_na_dver_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4891/podvesnoy_organayzer_s_3_karmanami_20_58_sm_organayzer_dlya_nizhnego_belya_melochey_v_shkaf_na_dver_4.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Этот органайзер поможет навести порядок и рационально использовать пространство. Три вместительных кармана идеально подходят для хранения канцелярии, косметики, аксессуаров и других мелочей, которые всегда должны быть под рукой.  Прочная ткань легко выдерживает ежедневное использование и проста в уходе, а бамбуковая планка обеспечивает удобное подвешивание и придаёт изделию аккуратный вид.   Основные характеристики подвесного органайзера для вещей:   Размер в разложенном виде: 20&times;58 см; Размер в сложенном виде: 22&times;16&times;3см; Материал: ткань + бамбук; Количество секций: 3.   Особенности мягкой складной корзины для игрушек в детскую:   3 вместительных кармана для хранения канцелярии, косметики, аксессуаров или мелочей. Компактность и лёгкость в использовании. Прочный и гибкий текстиль, удобный в уходе. Бамбуковая ручка для подвешивания. Яркий принт, который оживит интерьер.   Такой органайзер станет не только функциональным помощником, но и стильным элементом интерьера. Он помогает поддерживать порядок, экономить пространство и всегда держать необходимые вещи под рукой.]]></description>
-<quantity_in_stock>152</quantity_in_stock>
-<vendorCode>HP-41-14</vendorCode>
-<param name="Тип">Подвесной органайзер</param>
-<param name="Высота">58</param>
-<param name="Назначение">Для нижнего белья</param>
-<param name="Количество отделений">3</param>
-<param name="Цвет">Разные цвета</param>
-<param name="Длина">20</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="1733066BL" available="true">
 <name>Гирлянда штора 3х0,9 м снежинка звезда на 145 LED лампочек светодиодная 10 шт Синий 1733066BL</name>
 <price>469</price>
@@ -45834,6 +45811,29 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Цвет свечения">Белый</param>
 <param name="Форма лампочки">Классическая</param>
 <param name="Цветовая гамма">Белый</param>
+</offer>
+<offer id="HP-41-14" available="true">
+<name>Подвесной органайзер с 3 карманами 20×58 (см) HP-41-14</name>
+<price>169</price>
+<vendorprice>122</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>60</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4891/podvesnoy_organayzer_s_3_karmanami_20_58_sm_organayzer_dlya_nizhnego_belya_melochey_v_shkaf_na_dver.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4891/podvesnoy_organayzer_s_3_karmanami_20_58_sm_organayzer_dlya_nizhnego_belya_melochey_v_shkaf_na_dver_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4891/podvesnoy_organayzer_s_3_karmanami_20_58_sm_organayzer_dlya_nizhnego_belya_melochey_v_shkaf_na_dver_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4891/podvesnoy_organayzer_s_3_karmanami_20_58_sm_organayzer_dlya_nizhnego_belya_melochey_v_shkaf_na_dver_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4891/podvesnoy_organayzer_s_3_karmanami_20_58_sm_organayzer_dlya_nizhnego_belya_melochey_v_shkaf_na_dver_4.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Этот органайзер поможет навести порядок и рационально использовать пространство. Три вместительных кармана идеально подходят для хранения канцелярии, косметики, аксессуаров и других мелочей, которые всегда должны быть под рукой.  Прочная ткань легко выдерживает ежедневное использование и проста в уходе, а бамбуковая планка обеспечивает удобное подвешивание и придаёт изделию аккуратный вид.   Основные характеристики подвесного органайзера для вещей:   Размер в разложенном виде: 20&times;58 см; Размер в сложенном виде: 22&times;16&times;3см; Материал: ткань + бамбук; Количество секций: 3.   Особенности мягкой складной корзины для игрушек в детскую:   3 вместительных кармана для хранения канцелярии, косметики, аксессуаров или мелочей. Компактность и лёгкость в использовании. Прочный и гибкий текстиль, удобный в уходе. Бамбуковая ручка для подвешивания. Яркий принт, который оживит интерьер.   Такой органайзер станет не только функциональным помощником, но и стильным элементом интерьера. Он помогает поддерживать порядок, экономить пространство и всегда держать необходимые вещи под рукой.]]></description>
+<quantity_in_stock>151</quantity_in_stock>
+<vendorCode>HP-41-14</vendorCode>
+<param name="Тип">Подвесной органайзер</param>
+<param name="Высота">58</param>
+<param name="Назначение">Для нижнего белья</param>
+<param name="Количество отделений">3</param>
+<param name="Цвет">Разные цвета</param>
+<param name="Длина">20</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="CF1000L100MBW" available="true">
 <name>Гирлянда Рождественская фея уличная 100 (м) 1000 LED черный провод Белый CF1000L100MBW</name>
@@ -55308,33 +55308,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Угол свечения">180°</param>
 <param name="Цвет свечения">Белый</param>
 </offer>
-<offer id="HP-B1" available="true">
-<name>Автомобильное зарядное устройство LED-проекция, с быстрой зарядкой и выдвижными кабелями Apple Lightning/USB-С HP-B1</name>
-<price>1059</price>
-<vendorprice>815</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>43</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/00000/2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-B1/HPB1_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-B1/HPB1_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-B1/HPB1_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-B1/HPB1_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-B1/HPB1_1.jpg</picture>
-<vendor>Shenzhen</vendor>
-<description><![CDATA[Функциональное автомобильное зарядное устройство с LED проекцией звездного неба — это универсальное решение для быстрой и безопасной зарядки смартфонов, планшетов и других гаджетов в дороге. Модель с выдвижными кабелями и четырьмя портами обеспечивает одновременное подключение до 4 устройств, идеально подходит как для личного пользования, так и в качестве подарка для автомобилистов.  Технические характеристики   размер: 14х6х3 см; материалы: ABS-пластик + PC;  количество заряжаемых устройств: 4 шт; порты: 1 × USB-A, 1 × USB-C; встроенные кабели: 1 × Apple Lightning, 1 × USB-С; совместимое напряжение: 12–24 В; длина выдвижного кабеля: 800 мм с функцией автоматического втягивания; регулировка угла: до 180° для удобства в установке и использовании; LED проекция звездного неба; защита: встроенный предохранитель, защита от перегрева, короткого замыкания и перегрузки по току.   Преимущества зарядного устройства   Поддержка одновременной зарядки до 4 устройств благодаря встроенным кабелям и двум USB-портам. Быстрая зарядка —  до 80% за 30 минут. Выдвижные кабели Type-C и Lightning устраняют беспорядок и обеспечивают мобильность в поездках. Надежная фиксация в прикуривателе даже на неровных дорогах за счёт усиленных пружинных зажимов. Широкая совместимость с устройствами на Android, iOS, планшетами, навигаторами и другими гаджетами.   Сферы применения   зарядка смартфонов и планшетов в автомобиле; подарок для водителей, профессиональных таксистов, дальнобойщиков; использование в командировках и семейных путешествиях; автомобильная розетка в любых транспортных средствах с 12–24 В.   Зарядное устройство для автомобиля — это не просто гаджет, а незаменимый помощник в дороге. Подарите себе и близким удобство, технологичность и стиль. Доступно к заказу с быстрой доставкой по всей Украине.]]></description>
-<quantity_in_stock>89</quantity_in_stock>
-<vendorCode>HP-B1</vendorCode>
-<param name="Глубина">3 см</param>
-<param name="Длина шнура">0.8 м</param>
-<param name="Для устройств">Samsung|Apple|Nokia|Sony Ericsson|Sony|Xiaomi</param>
-<param name="Напряжение питания">24 В</param>
-<param name="Ширина">6 см</param>
-<param name="Тип устройства">Зарядное устройство</param>
-<param name="Цвет">Серый</param>
-<param name="Длина">14 см</param>
-<param name="Индикатор работы">Да</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="64486-18" available="true">
 <name>Тортовница стеклянная квадратная на ножке, 16*16*9 см Коричневая 64486-18</name>
 <price>449</price>
@@ -55546,6 +55519,33 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Материал крышки">Пластик</param>
 <param name="Цвет">Черный</param>
 <param name="Нижний диаметр">8 см</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-B1" available="true">
+<name>Автомобильное зарядное устройство LED-проекция, с быстрой зарядкой и выдвижными кабелями Apple Lightning/USB-С HP-B1</name>
+<price>1059</price>
+<vendorprice>815</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>43</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/00000/2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-B1/HPB1_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-B1/HPB1_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-B1/HPB1_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-B1/HPB1_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-B1/HPB1_1.jpg</picture>
+<vendor>Shenzhen</vendor>
+<description><![CDATA[Функциональное автомобильное зарядное устройство с LED проекцией звездного неба — это универсальное решение для быстрой и безопасной зарядки смартфонов, планшетов и других гаджетов в дороге. Модель с выдвижными кабелями и четырьмя портами обеспечивает одновременное подключение до 4 устройств, идеально подходит как для личного пользования, так и в качестве подарка для автомобилистов.  Технические характеристики   размер: 14х6х3 см; материалы: ABS-пластик + PC;  количество заряжаемых устройств: 4 шт; порты: 1 × USB-A, 1 × USB-C; встроенные кабели: 1 × Apple Lightning, 1 × USB-С; совместимое напряжение: 12–24 В; длина выдвижного кабеля: 800 мм с функцией автоматического втягивания; регулировка угла: до 180° для удобства в установке и использовании; LED проекция звездного неба; защита: встроенный предохранитель, защита от перегрева, короткого замыкания и перегрузки по току.   Преимущества зарядного устройства   Поддержка одновременной зарядки до 4 устройств благодаря встроенным кабелям и двум USB-портам. Быстрая зарядка —  до 80% за 30 минут. Выдвижные кабели Type-C и Lightning устраняют беспорядок и обеспечивают мобильность в поездках. Надежная фиксация в прикуривателе даже на неровных дорогах за счёт усиленных пружинных зажимов. Широкая совместимость с устройствами на Android, iOS, планшетами, навигаторами и другими гаджетами.   Сферы применения   зарядка смартфонов и планшетов в автомобиле; подарок для водителей, профессиональных таксистов, дальнобойщиков; использование в командировках и семейных путешествиях; автомобильная розетка в любых транспортных средствах с 12–24 В.   Зарядное устройство для автомобиля — это не просто гаджет, а незаменимый помощник в дороге. Подарите себе и близким удобство, технологичность и стиль. Доступно к заказу с быстрой доставкой по всей Украине.]]></description>
+<quantity_in_stock>88</quantity_in_stock>
+<vendorCode>HP-B1</vendorCode>
+<param name="Глубина">3 см</param>
+<param name="Длина шнура">0.8 м</param>
+<param name="Для устройств">Samsung|Apple|Nokia|Sony Ericsson|Sony|Xiaomi</param>
+<param name="Напряжение питания">24 В</param>
+<param name="Ширина">6 см</param>
+<param name="Тип устройства">Зарядное устройство</param>
+<param name="Цвет">Серый</param>
+<param name="Длина">14 см</param>
+<param name="Индикатор работы">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-4-120" available="true">
@@ -56702,29 +56702,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-42-52" available="true">
-<name>Набор ковриков диатомитовых 2 штуки для пола 58*38 см/118*38 см HP-42-52</name>
-<price>499</price>
-<vendorprice>386</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>52</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6502/nabor_diatomitovyh_kovrikov_dlya_doma_2_sht_38_58_38_118_sm_vlagovpityvayushchie_kuhonnye_kovriki_na_pol.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6502/nabor_diatomitovyh_kovrikov_dlya_doma_2_sht_38_58_38_118_sm_vlagovpityvayushchie_kuhonnye_kovriki_na_pol_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6502/nabor_diatomitovyh_kovrikov_dlya_doma_2_sht_38_58_38_118_sm_vlagovpityvayushchie_kuhonnye_kovriki_na_pol_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6502/nabor_diatomitovyh_kovrikov_dlya_doma_2_sht_38_58_38_118_sm_vlagovpityvayushchie_kuhonnye_kovriki_na_pol_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6502/nabor_diatomitovyh_kovrikov_dlya_doma_2_sht_38_58_38_118_sm_vlagovpityvayushchie_kuhonnye_kovriki_na_pol_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6502/nabor_diatomitovyh_kovrikov_dlya_doma_2_sht_38_58_38_118_sm_vlagovpityvayushchie_kuhonnye_kovriki_na_pol_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6502/nabor_diatomitovyh_kovrikov_dlya_doma_2_sht_38_58_38_118_sm_vlagovpityvayushchie_kuhonnye_kovriki_na_pol_6.jpg</picture>
-<vendor>Jiamat</vendor>
-<description><![CDATA[Комплект влаговпитывающих ковриков из натурального диатомита станет практичным и стильным дополнением вашей кухни. Благодаря размерам 58*38 см/118*38  см коврики удобно разместить возле мойки, рабочей поверхности или кухонной зоны готовки, создавая сухую и безопасную поверхность под ногами.  Диатомит быстро впитывает воду, брызги и капли во время мытья посуды или приготовления еды, а затем мгновенно высыхает. Это помогает избежать луж, разводов и излишней влаги на полу. Противоскользящая основа и прочная структура обеспечивают устойчивость и комфорт при ежедневном использовании.  Характеристики набора ковриков из диатомита для кухни:   Количество изделий: 2 штуки; Материал: диатомит; Размеры: 58*38 см/118*38  см; Общий вес: 1.2 кг; Влагопоглощающие свойства.   Преимущества ковриков для дома:   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовые коврики — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
-<quantity_in_stock>83</quantity_in_stock>
-<vendorCode>HP-42-52</vendorCode>
-<param name="Подходит для пола с подогревом">Да</param>
-<param name="Количество в наборе">2</param>
-<param name="Цвет">Черный</param>
-<param name="Форма">Прямоугольная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="510-24-H-600M" available="true">
 <name>Полотенце для кухни вафельное 40*60 см из хлопка мятный Colorful Home 510-24-H-600M</name>
 <price>89</price>
@@ -57006,6 +56983,29 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Длина">39 см</param>
 <param name="Тип аксессуара">Коврик для кухни</param>
 <param name="Состояние">Новое</param>
+<param name="Форма">Прямоугольная</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-42-52" available="true">
+<name>Набор ковриков диатомитовых 2 штуки для пола 58*38 см/118*38 см HP-42-52</name>
+<price>499</price>
+<vendorprice>386</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>52</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6502/nabor_diatomitovyh_kovrikov_dlya_doma_2_sht_38_58_38_118_sm_vlagovpityvayushchie_kuhonnye_kovriki_na_pol.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6502/nabor_diatomitovyh_kovrikov_dlya_doma_2_sht_38_58_38_118_sm_vlagovpityvayushchie_kuhonnye_kovriki_na_pol_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6502/nabor_diatomitovyh_kovrikov_dlya_doma_2_sht_38_58_38_118_sm_vlagovpityvayushchie_kuhonnye_kovriki_na_pol_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6502/nabor_diatomitovyh_kovrikov_dlya_doma_2_sht_38_58_38_118_sm_vlagovpityvayushchie_kuhonnye_kovriki_na_pol_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6502/nabor_diatomitovyh_kovrikov_dlya_doma_2_sht_38_58_38_118_sm_vlagovpityvayushchie_kuhonnye_kovriki_na_pol_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6502/nabor_diatomitovyh_kovrikov_dlya_doma_2_sht_38_58_38_118_sm_vlagovpityvayushchie_kuhonnye_kovriki_na_pol_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6502/nabor_diatomitovyh_kovrikov_dlya_doma_2_sht_38_58_38_118_sm_vlagovpityvayushchie_kuhonnye_kovriki_na_pol_6.jpg</picture>
+<vendor>Jiamat</vendor>
+<description><![CDATA[Комплект влаговпитывающих ковриков из натурального диатомита станет практичным и стильным дополнением вашей кухни. Благодаря размерам 58*38 см/118*38  см коврики удобно разместить возле мойки, рабочей поверхности или кухонной зоны готовки, создавая сухую и безопасную поверхность под ногами.  Диатомит быстро впитывает воду, брызги и капли во время мытья посуды или приготовления еды, а затем мгновенно высыхает. Это помогает избежать луж, разводов и излишней влаги на полу. Противоскользящая основа и прочная структура обеспечивают устойчивость и комфорт при ежедневном использовании.  Характеристики набора ковриков из диатомита для кухни:   Количество изделий: 2 штуки; Материал: диатомит; Размеры: 58*38 см/118*38  см; Общий вес: 1.2 кг; Влагопоглощающие свойства.   Преимущества ковриков для дома:   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовые коврики — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
+<quantity_in_stock>82</quantity_in_stock>
+<vendorCode>HP-42-52</vendorCode>
+<param name="Подходит для пола с подогревом">Да</param>
+<param name="Количество в наборе">2</param>
+<param name="Цвет">Черный</param>
 <param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
@@ -60401,6 +60401,36 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Нижний диаметр">8.5 см</param>
 <param name="Гарантия">14 дней</param>
 </offer>
+<offer id="HP-19-18-L" available="true">
+<name>Дуршлаг сито на раковину для мытья овощей и фруктов 36х25х10.5 см из нержавеющей стали HP-19-18-L</name>
+<price>639</price>
+<vendorprice>494</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>35</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/1111111/6510431423_w640_h640_6510431423.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3429/durshlag_sito_na_rakovinu_dlya_mytya_ovoshchey_i_fruktov_36h25h10_5_sm_iz_nerzhaveyushchey_stali_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3429/durshlag_sito_na_rakovinu_dlya_mytya_ovoshchey_i_fruktov_36h25h10_5_sm_iz_nerzhaveyushchey_stali_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3429/durshlag_sito_na_rakovinu_dlya_mytya_ovoshchey_i_fruktov_36h25h10_5_sm_iz_nerzhaveyushchey_stali_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3429/durshlag_sito_na_rakovinu_dlya_mytya_ovoshchey_i_fruktov_36h25h10_5_sm_iz_nerzhaveyushchey_stali_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3429/durshlag_sito_na_rakovinu_dlya_mytya_ovoshchey_i_fruktov_36h25h10_5_sm_iz_nerzhaveyushchey_stali_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3429/durshlag_sito_na_rakovinu_dlya_mytya_ovoshchey_i_fruktov_36h25h10_5_sm_iz_nerzhaveyushchey_stali_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3429/durshlag_sito_na_rakovinu_dlya_mytya_ovoshchey_i_fruktov_36h25h10_5_sm_iz_nerzhaveyushchey_stali_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3429/durshlag_sito_na_rakovinu_dlya_mytya_ovoshchey_i_fruktov_36h25h10_5_sm_iz_nerzhaveyushchey_stali_8.jpg</picture>
+<vendor>Zhongjing</vendor>
+<description><![CDATA[Сито-дуршлаг с телескопическими ручками &ndash; это удобный и практичный кухонный аксессуар предназначенный для эффективного мытья, сушки и процеживания овощей, фруктов, макаронных изделий и других продуктов. Его конструкция позволяет удобно закреплять изделие на бортах раковины, обеспечивая стабильность в процессе использования.  Основные характеристики   размер 36х25х10.5 см; длина с ручками 40 см; глубина 10 см; материал - нержавеющая сталь.   Преимущества и особенности:   Прочная конструкция &ndash; выполнен из высококачественной нержавеющей стали, устойчивой к коррозии и механическим повреждениям. Эргономичность &ndash; телескопические ручки с ПВХ-накладками обеспечивают надежную фиксацию на раковине, предотвращая скольжение. Многофункциональность &ndash; подходит для процеживания, промывания, сушки продуктов и даже использования в качестве паровой корзины. Компактность и удобство хранения &ndash; благодаря раздвижным ручкам дуршлаг легко адаптируется под разные размеры раковин и не занимает много места при хранении.   Рекомендуется для использования как в домашних условиях, так и в профессиональной кухне кафе, ресторанов и столовых. Идеально подходит для мытья зелени, овощей, фруктов и процеживания пасты. Продуманный дизайн делает его универсальным для выполнения разных кухонных задач.]]></description>
+<quantity_in_stock>69</quantity_in_stock>
+<vendorCode>HP-19-18-L</vendorCode>
+<param name="Тип">Дуршлаг</param>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Высота">105</param>
+<param name="Ширина">250</param>
+<param name="Ручка">Две</param>
+<param name="Ножки/подставка">Есть</param>
+<param name="Длина">360</param>
+<param name="Цвет">Нержавеющая сталь</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Гарантия">14 дней</param>
+</offer>
 <offer id="HP-1336" available="true">
 <name>Набор банок для сыпучих продуктов 4 штуки 350 мл стеклянные на металлической подставке HP-1336</name>
 <price>1249</price>
@@ -60588,36 +60618,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Материал">Диатомит</param>
 <param name="Ширина">30</param>
 <param name="Количество в наборе">1</param>
-</offer>
-<offer id="HP-19-18-L" available="true">
-<name>Дуршлаг сито на раковину для мытья овощей и фруктов 36х25х10.5 см из нержавеющей стали HP-19-18-L</name>
-<price>639</price>
-<vendorprice>494</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/1111111/6510431423_w640_h640_6510431423.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3429/durshlag_sito_na_rakovinu_dlya_mytya_ovoshchey_i_fruktov_36h25h10_5_sm_iz_nerzhaveyushchey_stali_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3429/durshlag_sito_na_rakovinu_dlya_mytya_ovoshchey_i_fruktov_36h25h10_5_sm_iz_nerzhaveyushchey_stali_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3429/durshlag_sito_na_rakovinu_dlya_mytya_ovoshchey_i_fruktov_36h25h10_5_sm_iz_nerzhaveyushchey_stali_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3429/durshlag_sito_na_rakovinu_dlya_mytya_ovoshchey_i_fruktov_36h25h10_5_sm_iz_nerzhaveyushchey_stali_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3429/durshlag_sito_na_rakovinu_dlya_mytya_ovoshchey_i_fruktov_36h25h10_5_sm_iz_nerzhaveyushchey_stali_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3429/durshlag_sito_na_rakovinu_dlya_mytya_ovoshchey_i_fruktov_36h25h10_5_sm_iz_nerzhaveyushchey_stali_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3429/durshlag_sito_na_rakovinu_dlya_mytya_ovoshchey_i_fruktov_36h25h10_5_sm_iz_nerzhaveyushchey_stali_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53015/3429/durshlag_sito_na_rakovinu_dlya_mytya_ovoshchey_i_fruktov_36h25h10_5_sm_iz_nerzhaveyushchey_stali_8.jpg</picture>
-<vendor>Zhongjing</vendor>
-<description><![CDATA[Сито-дуршлаг с телескопическими ручками &ndash; это удобный и практичный кухонный аксессуар предназначенный для эффективного мытья, сушки и процеживания овощей, фруктов, макаронных изделий и других продуктов. Его конструкция позволяет удобно закреплять изделие на бортах раковины, обеспечивая стабильность в процессе использования.  Основные характеристики   размер 36х25х10.5 см; длина с ручками 40 см; глубина 10 см; материал - нержавеющая сталь.   Преимущества и особенности:   Прочная конструкция &ndash; выполнен из высококачественной нержавеющей стали, устойчивой к коррозии и механическим повреждениям. Эргономичность &ndash; телескопические ручки с ПВХ-накладками обеспечивают надежную фиксацию на раковине, предотвращая скольжение. Многофункциональность &ndash; подходит для процеживания, промывания, сушки продуктов и даже использования в качестве паровой корзины. Компактность и удобство хранения &ndash; благодаря раздвижным ручкам дуршлаг легко адаптируется под разные размеры раковин и не занимает много места при хранении.   Рекомендуется для использования как в домашних условиях, так и в профессиональной кухне кафе, ресторанов и столовых. Идеально подходит для мытья зелени, овощей, фруктов и процеживания пасты. Продуманный дизайн делает его универсальным для выполнения разных кухонных задач.]]></description>
-<quantity_in_stock>68</quantity_in_stock>
-<vendorCode>HP-19-18-L</vendorCode>
-<param name="Тип">Дуршлаг</param>
-<param name="Материал">Нержавеющая сталь</param>
-<param name="Высота">105</param>
-<param name="Ширина">250</param>
-<param name="Ручка">Две</param>
-<param name="Ножки/подставка">Есть</param>
-<param name="Длина">360</param>
-<param name="Цвет">Нержавеющая сталь</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="120117702" available="true">
 <name>Новогодний шар на елку Ø12 (см) большой Пудровый Dashuri 120117702</name>
@@ -65911,29 +65911,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="64486-73" available="true">
-<name>Кувшин для напитков стеклянный 1.8 л с бамбуковой крышкой 64486-73</name>
-<price>979</price>
-<vendorprice>748</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>25</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/64486-73/64486-73-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/64486-73/64486-73-2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/64486-73/64486-73-3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/64486-73/64486-73-4.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Стеклянный кувшин объемом 1,8 литра выполнен из качественного стекла элегантного серого цвета, что обеспечивает стильный современный дизайн. Вместительность 1,8 литра делает его идеальным выбором для сервировки воды, домашних лимонадов, компотов или охлажденного чая на семейных застольях и дружеских встречах. Стеклянный материал не поглощает посторонние ароматы и химически нейтрален к содержимому, гарантируя сохранение первоначального вкуса и запаха напитков. Функциональная крышка создана из экологичного бамбука в сочетании с нержавеющей сталью. Герметичный уплотнитель обеспечивает надежное прилегание к горловине кувшина, а интегрированное фильтр-ситечко позволяет легко разливать напитки с добавлением фруктовых долек или ароматных трав, предотвращая попадание частиц в посуду. Данная конструкция гарантирует практичность и соблюдение гигиенических норм при использовании. Эргономичная ручка изготовлена из темного бамбука и прочно зафиксирована на стеклянном корпусе. Она обеспечивает комфортный захват даже при полном наполнении кувшина, остается прохладной и не выскальзывает из рук. Кувшин характеризуется высотой 23 сантиметра, диаметром горловины 8 сантиметров и массой 600 граммов, что гарантирует отличную устойчивость при минимальном весе для удобства эксплуатации. Технические характеристики кувшина для напитков: &bull; Вместимость: 1,8 литра; &bull; Общая высота: 23 сантиметра; &bull; Диаметр верхней части: 8 сантиметров; &bull; Масса изделия: 600 грамм; &bull; Основной материал: высококачественное стекло; &bull; Материал крышки: натуральный бамбук, нержавеющая сталь; &bull; Материал рукоятки: натуральный бамбук.]]></description>
-<quantity_in_stock>53</quantity_in_stock>
-<vendorCode>64486-73</vendorCode>
-<param name="Материал">Стекло</param>
-<param name="Высота">23</param>
-<param name="Верхний диаметр">8</param>
-<param name="Назначение">Универсальное</param>
-<param name="Цвет">Серый</param>
-<param name="Способ закрывания">Крышка</param>
-<param name="Тип емкости">Кувшин</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-56-3BR" available="true">
 <name>Подушка для поясницы Cookie Bear, коричневый HP-56-3BR</name>
 <price>569</price>
@@ -66360,6 +66337,29 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Количество отделений">1</param>
 <param name="Ширина">9 см</param>
 <param name="Состояние">Новое</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="64486-73" available="true">
+<name>Кувшин для напитков стеклянный 1.8 л с бамбуковой крышкой 64486-73</name>
+<price>979</price>
+<vendorprice>748</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>25</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/64486-73/64486-73-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/64486-73/64486-73-2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/64486-73/64486-73-3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/64486-73/64486-73-4.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Стеклянный кувшин объемом 1,8 литра выполнен из качественного стекла элегантного серого цвета, что обеспечивает стильный современный дизайн. Вместительность 1,8 литра делает его идеальным выбором для сервировки воды, домашних лимонадов, компотов или охлажденного чая на семейных застольях и дружеских встречах. Стеклянный материал не поглощает посторонние ароматы и химически нейтрален к содержимому, гарантируя сохранение первоначального вкуса и запаха напитков. Функциональная крышка создана из экологичного бамбука в сочетании с нержавеющей сталью. Герметичный уплотнитель обеспечивает надежное прилегание к горловине кувшина, а интегрированное фильтр-ситечко позволяет легко разливать напитки с добавлением фруктовых долек или ароматных трав, предотвращая попадание частиц в посуду. Данная конструкция гарантирует практичность и соблюдение гигиенических норм при использовании. Эргономичная ручка изготовлена из темного бамбука и прочно зафиксирована на стеклянном корпусе. Она обеспечивает комфортный захват даже при полном наполнении кувшина, остается прохладной и не выскальзывает из рук. Кувшин характеризуется высотой 23 сантиметра, диаметром горловины 8 сантиметров и массой 600 граммов, что гарантирует отличную устойчивость при минимальном весе для удобства эксплуатации. Технические характеристики кувшина для напитков: &bull; Вместимость: 1,8 литра; &bull; Общая высота: 23 сантиметра; &bull; Диаметр верхней части: 8 сантиметров; &bull; Масса изделия: 600 грамм; &bull; Основной материал: высококачественное стекло; &bull; Материал крышки: натуральный бамбук, нержавеющая сталь; &bull; Материал рукоятки: натуральный бамбук.]]></description>
+<quantity_in_stock>52</quantity_in_stock>
+<vendorCode>64486-73</vendorCode>
+<param name="Материал">Стекло</param>
+<param name="Высота">23</param>
+<param name="Верхний диаметр">8</param>
+<param name="Назначение">Универсальное</param>
+<param name="Цвет">Серый</param>
+<param name="Способ закрывания">Крышка</param>
+<param name="Тип емкости">Кувшин</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="CR-1-24" available="true">
@@ -74166,27 +74166,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="64486-81" available="true">
-<name>Набор стеклянных трубочек 7 штук с щёточкой боросиликатное стекло 64486-81</name>
-<price>99</price>
-<vendorprice>79</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>56</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/64486-81/64486-81-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/64486-81/64486-81-2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Набор стеклянных трубочек для напитков &mdash; это практичный и экологичный аксессуар, который заменит одноразовые пластиковые аналоги. Изготовленные из прочного боросиликатного стекла, трубочки устойчивы к высоким температурам и подойдут для любых напитков &mdash; от соков до коктейлей. Благодаря стильному дизайну они станут отличным дополнением к сервировке стола.  Характеристики набора стеклянных трубочек:  &bull; Вес: 0.200 кг; &bull; Длина трубочек: 19.5 см; &bull; Материалы: стекло, металл; &bull; Комплектация: 7 стеклянных трубочек в наборе; &bull; Дополнительные элементы: щёточка для очистки; &bull; Диаметр трубочек: 5 мм.  Преимущества набора трубочек из стекла:  &bull; Экологичность &mdash; многоразовое использование без вреда для природы; &bull; Гигиеничность &mdash; легко очищаются и не впитывают запахи; &bull; Универсальность &mdash; подходят для холодных и горячих напитков; &bull; Эстетичность &mdash; прозрачное стекло выглядит стильно и современно; &bull; Практичность &mdash; щёточка в комплекте облегчает уход.]]></description>
-<quantity_in_stock>35</quantity_in_stock>
-<vendorCode>64486-81</vendorCode>
-<param name="Тип">Трубочка с изгибом</param>
-<param name="Материал">Боросиликатное стекло</param>
-<param name="Вес">0.2</param>
-<param name="Диаметр">5</param>
-<param name="Количество в упаковке">7</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Длина">19.5</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="CR-1-29" available="true">
 <name>Блюдо сервировочное Merry Christmas 35×12.5 (см) прямоугольное с ручками из фарфора CR-1-29</name>
 <price>559</price>
@@ -74636,6 +74615,27 @@ Sokany SK-06009 компактный и занимает минимум мест
 <vendorCode>64486-64</vendorCode>
 <param name="Тип">Банка</param>
 <param name="Материал">Стекло</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="64486-81" available="true">
+<name>Набор стеклянных трубочек 7 штук с щёточкой боросиликатное стекло 64486-81</name>
+<price>99</price>
+<vendorprice>79</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>56</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/64486-81/64486-81-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/64486-81/64486-81-2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Набор стеклянных трубочек для напитков &mdash; это практичный и экологичный аксессуар, который заменит одноразовые пластиковые аналоги. Изготовленные из прочного боросиликатного стекла, трубочки устойчивы к высоким температурам и подойдут для любых напитков &mdash; от соков до коктейлей. Благодаря стильному дизайну они станут отличным дополнением к сервировке стола.  Характеристики набора стеклянных трубочек:  &bull; Вес: 0.200 кг; &bull; Длина трубочек: 19.5 см; &bull; Материалы: стекло, металл; &bull; Комплектация: 7 стеклянных трубочек в наборе; &bull; Дополнительные элементы: щёточка для очистки; &bull; Диаметр трубочек: 5 мм.  Преимущества набора трубочек из стекла:  &bull; Экологичность &mdash; многоразовое использование без вреда для природы; &bull; Гигиеничность &mdash; легко очищаются и не впитывают запахи; &bull; Универсальность &mdash; подходят для холодных и горячих напитков; &bull; Эстетичность &mdash; прозрачное стекло выглядит стильно и современно; &bull; Практичность &mdash; щёточка в комплекте облегчает уход.]]></description>
+<quantity_in_stock>34</quantity_in_stock>
+<vendorCode>64486-81</vendorCode>
+<param name="Тип">Трубочка с изгибом</param>
+<param name="Материал">Боросиликатное стекло</param>
+<param name="Вес">0.2</param>
+<param name="Диаметр">5</param>
+<param name="Количество в упаковке">7</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Длина">19.5</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-34-17KRAN" available="true">
@@ -76089,28 +76089,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Возрастная группа">Без ограничений</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-42-5GB" available="true">
-<name>Кухонный силиконовый коврик с антискользящей поверхностью 39×30 см HP-42-5GB</name>
-<price>29</price>
-<vendorprice>23</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>52</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4928/kuhonnyy_silikonovyy_kovrik_s_antiskolzyashchey_poverhnostyu_39_30_sm.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4928/kuhonnyy_silikonovyy_kovrik_s_antiskolzyashchey_poverhnostyu_39_30_sm_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4928/kuhonnyy_silikonovyy_kovrik_s_antiskolzyashchey_poverhnostyu_39_30_sm_2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Коврик для кухни &mdash; практичный аксессуар для защиты поверхностей и повышения комфорта во время готовки. Изготовлен из силикона, легко очищается. Коврик надежно фиксируется на поверхности, обеспечивая безопасность и удобство в использовании. Характеристики кухонного коврика: &bull; габариты &mdash; 39&times;30 см; &bull; материал &mdash; силикон; &bull; влагопоглощающие свойства &mdash; нет; &bull; прорезиненная основа &mdash; нет; &bull; назначение &mdash; кухня. Преимущества кухонного коврика: &bull; надежная защита поверхности &mdash; предотвращает разливы и загрязнения; &bull; силиконовый материал &mdash; легкий уход и долговечность; &bull; противоскользящие свойства &mdash; безопасное использование на гладких поверхностях; &bull; компактные размеры &mdash; удобно разместить в любой кухонной зоне; &bull; универсальность &mdash; подходит для работы с посудой и кухонной техникой. Такой кухонный коврик станет удобным и практичным дополнением вашей кухни, сочетая комфорт и защиту поверхностей.]]></description>
-<quantity_in_stock>31</quantity_in_stock>
-<vendorCode>HP-42-5GB</vendorCode>
-<param name="Материал">Силикон</param>
-<param name="Основа">Силикон</param>
-<param name="Ширина">30 см</param>
-<param name="Длина">39 см</param>
-<param name="Тип аксессуара">Коврик для кухни</param>
-<param name="Состояние">Новое</param>
-<param name="Форма">Прямоугольная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-35-19GR" available="true">
 <name>Салфетка сервировочная на стол 120х30 (см) прямоугольная Зеленый HP-35-19GR</name>
 <price>339</price>
@@ -76732,6 +76710,28 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Длина">100</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Форма">Квадратная</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-42-5GB" available="true">
+<name>Кухонный силиконовый коврик с антискользящей поверхностью 39×30 см HP-42-5GB</name>
+<price>29</price>
+<vendorprice>23</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>52</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4928/kuhonnyy_silikonovyy_kovrik_s_antiskolzyashchey_poverhnostyu_39_30_sm.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4928/kuhonnyy_silikonovyy_kovrik_s_antiskolzyashchey_poverhnostyu_39_30_sm_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4928/kuhonnyy_silikonovyy_kovrik_s_antiskolzyashchey_poverhnostyu_39_30_sm_2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Коврик для кухни &mdash; практичный аксессуар для защиты поверхностей и повышения комфорта во время готовки. Изготовлен из силикона, легко очищается. Коврик надежно фиксируется на поверхности, обеспечивая безопасность и удобство в использовании. Характеристики кухонного коврика: &bull; габариты &mdash; 39&times;30 см; &bull; материал &mdash; силикон; &bull; влагопоглощающие свойства &mdash; нет; &bull; прорезиненная основа &mdash; нет; &bull; назначение &mdash; кухня. Преимущества кухонного коврика: &bull; надежная защита поверхности &mdash; предотвращает разливы и загрязнения; &bull; силиконовый материал &mdash; легкий уход и долговечность; &bull; противоскользящие свойства &mdash; безопасное использование на гладких поверхностях; &bull; компактные размеры &mdash; удобно разместить в любой кухонной зоне; &bull; универсальность &mdash; подходит для работы с посудой и кухонной техникой. Такой кухонный коврик станет удобным и практичным дополнением вашей кухни, сочетая комфорт и защиту поверхностей.]]></description>
+<quantity_in_stock>30</quantity_in_stock>
+<vendorCode>HP-42-5GB</vendorCode>
+<param name="Материал">Силикон</param>
+<param name="Основа">Силикон</param>
+<param name="Ширина">30 см</param>
+<param name="Длина">39 см</param>
+<param name="Тип аксессуара">Коврик для кухни</param>
+<param name="Состояние">Новое</param>
+<param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-35-14GOLD" available="true">
@@ -116414,51 +116414,6 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Вес">500 г</param>
 <param name="Материал">Сталь, дерево</param>
 <param name="Размер">20*5*6 см</param>
-</offer>
-<offer id="C1W200250" available="true">
-<name>Доска для подачи прямоугольная 20*25 см, ясень</name>
-<url>https://lugi.com.ua/ru/doska-dlya-podachi-pryamougolnaya-2030-sm-yasen/</url>
-<price>209</price>
-<vendorprice>166</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>34</categoryId>
-<picture>https://lugi.com.ua/image/cache/external/c2d790e32a3609425473cc286e1bbe5c-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/a3479c5e4b1fb6a5cdb8fd99b202ba32-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/48a0d58b23dca9f0e3c20f7bb792c128-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/8db0878e8abdbd6ca6bda28f75948c74-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/47461ac6ea99800df33593e74c962d6d-600x600.webp</picture>
-<description><![CDATA[<p>Деревянная прямоугольная кухонная доска — это элегантный и практичный
- аксессуар для вашей кухни. Изготовленная из высококачественного массива
- ясеня, она обладает естественной прочностью и долговечностью, что 
-делает ее идеальным выбором для ежедневного использования. Эта доска 
-подходит не только для нарезки продуктов, но и для подачи мясных 
-закусок, сыра или других блюд, добавляя элегантности любому столу.<br>
-<br>
-Обработанная специальным защитным средством для дерева, доска сохраняет 
-свою естественную текстуру, не теряя вида со временем. 
-Высококачественная древесина обеспечивает устойчивость к механическим 
-повреждениям и не поглощает запахи, что делает ее идеальным выбором для 
-любых кулинарных нужд.<br>
-<br>
-Благодаря своим оптимальным размерам, эта доска удобна в уходе и 
-использовании. Она станет незаменимым инструментом на кухне и элегантным
- элементом для сервировки блюд во время приема гостей.<br>
-<br>
-<strong>Характеристики:</strong></p><ul><li>Прямоугольная форма</li><li>Изготовлена из массива ясеня</li><li>Подходит для нарезки и подачи блюд</li><li>Ширина: 20 см</li><li>Длина: 25 см</li><li>Толщина: 2 см</li></ul><p><br>
-<strong>Особенности ухода:</strong></p><ul><li>Деревянные изделия можно мыть только вручную, мягкими губками под струей теплой воды.</li><li>Нельзя надолго замачивать в воде, а после мытья следует немедленно вытереть и оставить для просушки.</li><li>Не хранить изделия в помещениях с большой влажностью.&nbsp;</li><li>Периодически (раз в месяц) изделия стоит продезинфицировать водкой 
-или спиртом для уничтожения микробов, а также для предотвращения 
-неприятного запаха. Если запах появился, то можно протереть поверхность 
-слабым раствором уксуса или лимона.</li><li>Нельзя ставить деревянные изделия в духовку, микроволновую печь, а также на плиту.&nbsp;</li></ul>]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<vendorCode>C1W200250</vendorCode>
-<param name="Гарантийный срок">14 дней</param>
-<param name="Длина">25 см</param>
-<param name="Материал">Ясень</param>
-<param name="Форма">Прямоугольная</param>
-<param name="Покрытие">Масло</param>
-<param name="Количество секций">1</param>
-<param name="Наличие желобка">Есть</param>
-<param name="Наличие подвесного крюка/ручки">Нет</param>
 </offer>
 <offer id="C32W200300D" available="true">
 <name>Разделочная доска Волна 20*30 см, дуб</name>
