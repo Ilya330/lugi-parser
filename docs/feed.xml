@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-22 18:17">
+<yml_catalog date="2026-08-23 00:45">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -535,7 +535,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4718/shvabra_skrebok_s_raspylitelem_i_dlinnoy_metallicheskoy_ruchkoy_dlya_mytya_tverdyh_poverhnostey_v_dome_i_ofise_6.jpg</picture>
 <vendor>Household</vendor>
 <description><![CDATA[Характеристики швабры-скребка с распылителем:   Вес: 0,4 кг; Габариты товара: высота 126 см, ширина 50 см; Материал: пластик + нержавеющая сталь.   Эффективная встраиваемая швабра-скребок с распылителем для быстрой и удобной уборки твердых поверхностей:   Модель оснащена длинной металлической ручкой с встроенным механизмом распыления, который активируется нажатием в верхней части; В середине ручки расположен прозрачный резервуар для жидкости с форсункой у основания, позволяющий равномерно увлажнять поверхность перед уборкой; Плоская насадка шириной  см эффективно охватывает большую площадь за один проход, форсунка направляет распыл прямо перед насадкой; Ручка эргономичная, гладкая, обеспечивает комфортный захват; резервуар прозрачный для контроля уровня жидкости; Подходит для уборки твердых поверхностей в бытовых и коммерческих помещениях; удаляет пыль, пятна и следы влаги; Конструкция позволяет работать без ведер и тряпок; все элементы легко моются и не требуют сложного ухода.   Благодаря компактной и продуманной конструкции, швабра обеспечивает быстрое и качественное очищение любых твердых поверхностей без лишних усилий.]]></description>
-<quantity_in_stock>400</quantity_in_stock>
+<quantity_in_stock>399</quantity_in_stock>
 <vendorCode>HP-35015-23</vendorCode>
 <param name="Материал">Сталь</param>
 <param name="Длина ручки">126</param>
@@ -706,7 +706,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-4/HPJG4_3.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Налобный фонарь &mdash; это удобное и надежное осветительное устройство, которое обеспечивает яркий свет и оставляет руки свободными. Он идеально подходит для туристов, рыбаков, охотников, любителей активного отдыха, а также для работы в темное время суток или в условиях ограниченной видимости. Компактный размер и прочный корпус делают его практичным решением для использования в любых условиях.  Основные характеристики:   Размер:    8х8х5.5 см; Тип лампы: LED; Мощность: 5 В; Питание: аккумулятор; Время зарядки: 6 часов до полной зарядки; Время работы на одном заряде: до 12 часов непрерывно; Материал: пластик; Количество режимов работы: 3.   Комплектация:   Зарядный шнур; Регулируемый ремешок.   Благодаря аккумуляторному питанию фонарь может работать до 12 часов без подзарядки, что делает его отличным выбором для длительных поездок. Три режима освещения позволяют подобрать оптимальную яркость для различных ситуаций. Удобный регулируемый ремешок обеспечивает надежную фиксацию на голове. Этот налобный фонарь станет вашим надежным помощником в темное время суток.]]></description>
-<quantity_in_stock>325</quantity_in_stock>
+<quantity_in_stock>324</quantity_in_stock>
 <vendorCode>HP-JG-4</vendorCode>
 <param name="Время работы">12</param>
 <param name="Вес">200</param>
@@ -882,35 +882,6 @@
 <param name="Цвет">Серебристый</param>
 <param name="Состояние">Новое</param>
 </offer>
-<offer id="HP-JG-2" available="true">
-<name>Налобный фонарь аккумуляторный 7х7х5 см LED 3 режима работы HP-JG-2</name>
-<price>209</price>
-<vendorprice>126</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>50</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_1.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Налобный фонарь &mdash; это удобное и надежное осветительное устройство, которое обеспечивает яркий свет и оставляет руки свободными. Он идеально подходит для туристов, рыбаков, охотников, любителей активного отдыха, а также для работы в темное время суток или в условиях ограниченной видимости. Компактный размер и прочный корпус делают его практичным решением для использования в любых условиях.  Основные характеристики:   Размер:    7х7х5 см; Тип лампы: LED; Питание: аккумулятор; Время зарядки: 6 часов до полной зарядки; Время работы на одном заряде: до 12 часов непрерывно; Материал: пластик; Количество режимов работы: 3.   Комплектация:   Зарядный шнур; Регулируемый ремешок.   Благодаря аккумуляторному питанию фонарь может работать до 12 часов без подзарядки, что делает его отличным выбором для длительных поездок. Три режима освещения позволяют подобрать оптимальную яркость для различных ситуаций. Удобный регулируемый ремешок обеспечивает надежную фиксацию на голове. Этот налобный фонарь станет вашим надежным помощником в темное время суток.]]></description>
-<quantity_in_stock>283</quantity_in_stock>
-<vendorCode>HP-JG-2</vendorCode>
-<param name="Время работы">12</param>
-<param name="Вес">200</param>
-<param name="Тип заряда">USB</param>
-<param name="Время заряда аккумулятора">6</param>
-<param name="Тип фонаря">Налобный</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Длина">70</param>
-<param name="Тип питания">Аккумулятор</param>
-<param name="Крепление">Ремешок</param>
-<param name="Гарантия">14 дней</param>
-<param name="Тип лампы">Светодиодная</param>
-</offer>
 <offer id="120-YH-HG017" available="true">
 <name>Менажница фарфоровая на 2 секции для закусок 20*14 см Белая 120-YH-HG017</name>
 <price>249</price>
@@ -949,6 +920,35 @@
 <param name="Материал корпуса">ABS-пластик + PS</param>
 <param name="Тип питания">Аккумулятор</param>
 <param name="Тип лампы">Filament LED</param>
+</offer>
+<offer id="HP-JG-2" available="true">
+<name>Налобный фонарь аккумуляторный 7х7х5 см LED 3 режима работы HP-JG-2</name>
+<price>209</price>
+<vendorprice>126</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>50</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_1.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Налобный фонарь &mdash; это удобное и надежное осветительное устройство, которое обеспечивает яркий свет и оставляет руки свободными. Он идеально подходит для туристов, рыбаков, охотников, любителей активного отдыха, а также для работы в темное время суток или в условиях ограниченной видимости. Компактный размер и прочный корпус делают его практичным решением для использования в любых условиях.  Основные характеристики:   Размер:    7х7х5 см; Тип лампы: LED; Питание: аккумулятор; Время зарядки: 6 часов до полной зарядки; Время работы на одном заряде: до 12 часов непрерывно; Материал: пластик; Количество режимов работы: 3.   Комплектация:   Зарядный шнур; Регулируемый ремешок.   Благодаря аккумуляторному питанию фонарь может работать до 12 часов без подзарядки, что делает его отличным выбором для длительных поездок. Три режима освещения позволяют подобрать оптимальную яркость для различных ситуаций. Удобный регулируемый ремешок обеспечивает надежную фиксацию на голове. Этот налобный фонарь станет вашим надежным помощником в темное время суток.]]></description>
+<quantity_in_stock>281</quantity_in_stock>
+<vendorCode>HP-JG-2</vendorCode>
+<param name="Время работы">12</param>
+<param name="Вес">200</param>
+<param name="Тип заряда">USB</param>
+<param name="Время заряда аккумулятора">6</param>
+<param name="Тип фонаря">Налобный</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Длина">70</param>
+<param name="Тип питания">Аккумулятор</param>
+<param name="Крепление">Ремешок</param>
+<param name="Гарантия">14 дней</param>
+<param name="Тип лампы">Светодиодная</param>
 </offer>
 <offer id="HP-5-58" available="true">
 <name>Уличный LED фонарь на солнечных батареях 110 LED 200 Вт HP-5-58</name>
@@ -1559,32 +1559,6 @@
 <param name="Применение">Универсальное</param>
 <param name="Цвет">Серый</param>
 </offer>
-<offer id="SJ-0029-1" available="true">
-<name>Подстилка под палатку 195х143 см с фольгированным покрытием SJ-0029-1</name>
-<price>349</price>
-<vendorprice>185</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>165</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_9.jpg</picture>
-<vendor>Lugi</vendor>
-<description><![CDATA[Подкладка влагозащитная имеет размеры 195х143 см, что делает ее удобной для использования под палатками или другими походными аксессуарами. Она обеспечивает дополнительную защиту от влаги, предотвращая попадание влаги с земли на внутреннюю поверхность палатки или другого снаряжения.  Основные характеристики:    Размеры: 195х143х0.3 см; Материал: утеплитель с фольгированным покрытием; Количество шаров: 1; Наличие чехла: есть.   Материал подкладки изготовлен из водонепроницаемых материалов, эффективно защищающих от влаги и сырости. Это позволяет создать комфортные условия для отдыха на природе, даже во влажную погоду.  Подкладка является легкой и компактной, что позволяет без труда транспортировать ее в сложенном виде. Она также удобна для использования на любых природных поверхностях, добавляя защиту от грязи и влаги.]]></description>
-<quantity_in_stock>216</quantity_in_stock>
-<vendorCode>SJ-0029-1</vendorCode>
-<param name="Комплектующие для палаток">Подкладка</param>
-<param name="Цвет">Серебристый</param>
-<param name="Длина">195</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="SJ-0030BL" available="true">
 <name>Стул туристический складной детский 42x41x72 см кресло для кемпинга туризма пикника дачи природы SJ-0030BL</name>
 <price>549</price>
@@ -1615,6 +1589,32 @@
 <param name="Максимально допустимая нагрузка">50</param>
 <param name="Высота стула с учетом спинки">720</param>
 <param name="Глубина стула">410</param>
+</offer>
+<offer id="SJ-0029-1" available="true">
+<name>Подстилка под палатку 195х143 см с фольгированным покрытием SJ-0029-1</name>
+<price>349</price>
+<vendorprice>185</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>165</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_9.jpg</picture>
+<vendor>Lugi</vendor>
+<description><![CDATA[Подкладка влагозащитная имеет размеры 195х143 см, что делает ее удобной для использования под палатками или другими походными аксессуарами. Она обеспечивает дополнительную защиту от влаги, предотвращая попадание влаги с земли на внутреннюю поверхность палатки или другого снаряжения.  Основные характеристики:    Размеры: 195х143х0.3 см; Материал: утеплитель с фольгированным покрытием; Количество шаров: 1; Наличие чехла: есть.   Материал подкладки изготовлен из водонепроницаемых материалов, эффективно защищающих от влаги и сырости. Это позволяет создать комфортные условия для отдыха на природе, даже во влажную погоду.  Подкладка является легкой и компактной, что позволяет без труда транспортировать ее в сложенном виде. Она также удобна для использования на любых природных поверхностях, добавляя защиту от грязи и влаги.]]></description>
+<quantity_in_stock>214</quantity_in_stock>
+<vendorCode>SJ-0029-1</vendorCode>
+<param name="Комплектующие для палаток">Подкладка</param>
+<param name="Цвет">Серебристый</param>
+<param name="Длина">195</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-35015-56" available="true">
 <name>Швабра для мытья пола с отжимом 32 (см) универсальная самоотжимная швабра 360° для уборки с самоотжимом HP-35015-56</name>
@@ -2552,7 +2552,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/0...../0000000/HP-35015-62/HP-35015-62_1.jpg</picture>
 <vendor>ZhiyuClean</vendor>
 <description><![CDATA[Универсальная швабра предназначена для сухой и влажной уборки различных типов покрытий: плитки, ламината, линолеума и других поверхностей. В комплект входят две насадки: щетка для стойких загрязнений и губка для деликатного мытья.  Ручка из нержавеющей стали, многоугольная форма основания обеспечивает доступ к углам и труднодоступным зонам вдоль мебели и стен. Поворотный механизм на 180° повышает маневренность и контроль движений.  Насадки легко снимаются, моются и подходят для многократного использования. Конструкция швабры позволяет применять её также для мытья окон и других гладких поверхностей. Подходит для регулярной уборки кухни, ванной комнаты, коридора и балкона.  Характеристики швабры для мытья пола:   Тип: универсальная швабра Уборка: сухая и влажная Материал ручки: нержавеющая сталь Количество насадок: 2 Тип насадок: щетка, губка Размер щетки: 12.5×8 см Максимальная длина ручки: 90 см Материал насадок: полипропилен Форма основания: многоугольная Поворот щетки: 180°   Ручка состоит из двух секций: верхняя часть — пластиковый грип с удобной петлей для вертикального хранения, нижняя — металлическая трубка.  Соединения изготовлены из пластика, что обеспечивает прочность и легкость конструкции.    Преимущества швабры щетки для уборки пола:   Универсальное использование для сухой и влажной уборки Доступ к углам и труднодоступным зонам благодаря многоугольной форме основания Поворот основания на 180° для маневренности Две насадки для разных задач: щетка для стойких загрязнений и губка для деликатной уборки Насадки легко снимаются, моются и многократно используются Подходит для различных поверхностей: плитка, ламинат, линолеум, окна и гладкие покрытия   Универсальная швабра со сменными насадками — практичное решение для эффективной и удобной уборки любых поверхностей в доме. Эргономичная конструкция, маневренность и прочные материалы обеспечивают долговечность и комфорт при ежедневном использовании.]]></description>
-<quantity_in_stock>168</quantity_in_stock>
+<quantity_in_stock>167</quantity_in_stock>
 <vendorCode>HP-35015-62</vendorCode>
 <param name="Длина ручки">90</param>
 <param name="Материал насадки">Полипропилен</param>
@@ -3045,42 +3045,6 @@
 <param name="Высота (см)">22</param>
 <param name="Вес изделия">0.1</param>
 </offer>
-<offer id="PH770GGOLD" available="true">
-<name>Фен стайлер для волос 5 в 1 Supersonic Premium 1600Вт 5 насадок 3 режима скорости с ионизацией Золотой PH770GGOLD</name>
-<price>2839</price>
-<vendorprice>1864</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>169</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/000/00000/PH770GGOLD/snapedit_1756898395749-600x600.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/00000/PH770GGOLD/_T5B9672-600x600.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/00000/PH770GGOLD/_T5B9671-600x600.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/00000/PH770GGOLD/_T5B9670-600x600.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/00000/PH770GGOLD/_T5B9669-600x600.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/00000/PH770GGOLD/_T5B9668-600x600.jpg</picture>
-<vendor>Energy MAX</vendor>
-<description><![CDATA[Фен-стайлер Magic Hair Supersonic 5 в 1 &ndash; это современное устройство, которое заменит сразу несколько приборов для ухода за волосами. Он сочетает мощность фена и функциональность стайлера, позволяя быстро сушить и одновременно создавать стильные укладки без повреждения структуры волос.  Основные характеристики фена 5 в 1 с ионизацией:   Мощность: 1600 Вт; Габариты: 245&times;78&times;97 мм;  Вес: 630 г; Длина шнура: 2.9 м.   Особенности фена стайлера для волос с насадками:   Бережная сушка с технологией Air Multiplier &ndash; направленный поток воздуха высокой скорости ускоряет процесс, сохраняя здоровье и естественный блеск волос. Интеллектуальный контроль температуры &ndash; защищает волосы от перегрева и ломкости. Ионизация &ndash; убирает статический эффект и делает пряди гладкими и послушными. Индивидуальные настройки &ndash; три скорости и четыре температурных режима позволяют подобрать оптимальные условия для любого типа волос. Пять универсальных насадок &ndash; легко меняются благодаря магнитному креплению и открывают широкие возможности для укладки: от быстрой сушки и гладких причёсок до объемных стилей и естественных локонов.   Насадки в комплекте:   Сушильный наконечник &ndash; для быстрой сушки и создания объема. Концентратор &ndash; для ровных и гладких укладок. Насадка для объема &ndash; приподнимает волосы у корней. Насадка-расчёска &ndash; удобно распутывает волосы и помогает формировать мягкие волны. Диффузор &ndash; создаёт аккуратные локоны и подчёркивает структуру вьющихся волос.   Magic Hair Supersonic 5 в 1 &ndash; это не просто фен, а многофункциональный стайлер, который делает ежедневный уход за волосами лёгким, быстрым и безопасным. С ним вы сможете выглядеть безупречно каждый день, не выходя из дома.]]></description>
-<quantity_in_stock>150</quantity_in_stock>
-<vendorCode>PH770GGOLD</vendorCode>
-<param name="Высота">97</param>
-<param name="Гарантийный срок">3</param>
-<param name="Диффузор">Да</param>
-<param name="Вес">0.63</param>
-<param name="Длина сетевого шнура">2.9</param>
-<param name="Ширина">78</param>
-<param name="Количество насадок">5</param>
-<param name="Количество скоростей">3</param>
-<param name="Количество температурных режимов">4</param>
-<param name="Длина">245</param>
-<param name="Мощность фена">1600</param>
-<param name="Концентратор">Да</param>
-<param name="Цвет корпуса">Золотой</param>
-<param name="Регулировка скорости">Да</param>
-<param name="Петелька для подвешивания">Нет</param>
-<param name="Режим Турбо">Да</param>
-<param name="Терморегулятор">Да</param>
-<param name="Функция ионизации">Да</param>
-<param name="Холодный обдув">Да</param>
-</offer>
 <offer id="PH770G" available="true">
 <name>Фен стайлер для волос 5 в 1 Supersonic Premium 1600Вт 5 насадок 3 режима скорости с ионизацией Серый PH770G</name>
 <price>2839</price>
@@ -3111,6 +3075,42 @@
 <param name="Мощность фена">1600</param>
 <param name="Концентратор">Да</param>
 <param name="Цвет корпуса">Серый</param>
+<param name="Регулировка скорости">Да</param>
+<param name="Петелька для подвешивания">Нет</param>
+<param name="Режим Турбо">Да</param>
+<param name="Терморегулятор">Да</param>
+<param name="Функция ионизации">Да</param>
+<param name="Холодный обдув">Да</param>
+</offer>
+<offer id="PH770GGOLD" available="true">
+<name>Фен стайлер для волос 5 в 1 Supersonic Premium 1600Вт 5 насадок 3 режима скорости с ионизацией Золотой PH770GGOLD</name>
+<price>2839</price>
+<vendorprice>1864</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>169</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/000/00000/PH770GGOLD/snapedit_1756898395749-600x600.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/00000/PH770GGOLD/_T5B9672-600x600.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/00000/PH770GGOLD/_T5B9671-600x600.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/00000/PH770GGOLD/_T5B9670-600x600.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/00000/PH770GGOLD/_T5B9669-600x600.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/00000/PH770GGOLD/_T5B9668-600x600.jpg</picture>
+<vendor>Energy MAX</vendor>
+<description><![CDATA[Фен-стайлер Magic Hair Supersonic 5 в 1 &ndash; это современное устройство, которое заменит сразу несколько приборов для ухода за волосами. Он сочетает мощность фена и функциональность стайлера, позволяя быстро сушить и одновременно создавать стильные укладки без повреждения структуры волос.  Основные характеристики фена 5 в 1 с ионизацией:   Мощность: 1600 Вт; Габариты: 245&times;78&times;97 мм;  Вес: 630 г; Длина шнура: 2.9 м.   Особенности фена стайлера для волос с насадками:   Бережная сушка с технологией Air Multiplier &ndash; направленный поток воздуха высокой скорости ускоряет процесс, сохраняя здоровье и естественный блеск волос. Интеллектуальный контроль температуры &ndash; защищает волосы от перегрева и ломкости. Ионизация &ndash; убирает статический эффект и делает пряди гладкими и послушными. Индивидуальные настройки &ndash; три скорости и четыре температурных режима позволяют подобрать оптимальные условия для любого типа волос. Пять универсальных насадок &ndash; легко меняются благодаря магнитному креплению и открывают широкие возможности для укладки: от быстрой сушки и гладких причёсок до объемных стилей и естественных локонов.   Насадки в комплекте:   Сушильный наконечник &ndash; для быстрой сушки и создания объема. Концентратор &ndash; для ровных и гладких укладок. Насадка для объема &ndash; приподнимает волосы у корней. Насадка-расчёска &ndash; удобно распутывает волосы и помогает формировать мягкие волны. Диффузор &ndash; создаёт аккуратные локоны и подчёркивает структуру вьющихся волос.   Magic Hair Supersonic 5 в 1 &ndash; это не просто фен, а многофункциональный стайлер, который делает ежедневный уход за волосами лёгким, быстрым и безопасным. С ним вы сможете выглядеть безупречно каждый день, не выходя из дома.]]></description>
+<quantity_in_stock>149</quantity_in_stock>
+<vendorCode>PH770GGOLD</vendorCode>
+<param name="Высота">97</param>
+<param name="Гарантийный срок">3</param>
+<param name="Диффузор">Да</param>
+<param name="Вес">0.63</param>
+<param name="Длина сетевого шнура">2.9</param>
+<param name="Ширина">78</param>
+<param name="Количество насадок">5</param>
+<param name="Количество скоростей">3</param>
+<param name="Количество температурных режимов">4</param>
+<param name="Длина">245</param>
+<param name="Мощность фена">1600</param>
+<param name="Концентратор">Да</param>
+<param name="Цвет корпуса">Золотой</param>
 <param name="Регулировка скорости">Да</param>
 <param name="Петелька для подвешивания">Нет</param>
 <param name="Режим Турбо">Да</param>
@@ -4312,7 +4312,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3753/matras_v_palatku_naduvnoy_175h60h2_sm_matras_pohodnyy_turisticheskiy_s_podgolovnikom_zeleniy_9.jpg</picture>
 <vendor>Lugi</vendor>
 <description><![CDATA[Туристический надувной матрас для кемпинга &ndash; это идеальное решение для комфортного отдыха в походах. Простая, но продуманная конструкция обеспечивают максимальный комфорт во время сна. Оптимальная толщина матраса гарантирует надежную теплоизоляцию и защиту от холода, а влагонепроницаемый материал позволяет укладывать матрас можно даже на влажную поверхность.   Основные характеристики:    Размер матраса: 175х60х2 см; Высота подголовника: 10 см; Материал матраса: полиэстер, Memory Foam; Количество шаров: 1; Толщина: 2 см; Материал клапанов: пластик, силикон; Наличие чехла: есть.   Материалы, из которых изготовлен матрас для палатки, обеспечивают ему длительную службу даже при активном использовании в кемпинге, во время походов или других outdoor-активностей. Походный матрас легко складывается для транспортировки и хранения, занимая минимум места в рюкзаке или сумке.]]></description>
-<quantity_in_stock>123</quantity_in_stock>
+<quantity_in_stock>122</quantity_in_stock>
 <vendorCode>SJ-0028-1GR</vendorCode>
 <param name="Тип">Надувной матрас</param>
 <param name="Материал">ПВХ</param>
@@ -7923,47 +7923,6 @@
 <param name="Цвет">Коричневый</param>
 <param name="Тип емкости">Рюмка</param>
 </offer>
-<offer id="SK-09022" available="true">
-<name>Электрочайник с автоматическим отключением 2.3 л Sokany дисковый бытовой 1500 Вт SK-09022</name>
-<price>709</price>
-<vendorprice>381</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>39</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3546/elektrochaynik_s_avtomaticheskim_otklyucheniem_2_3_l_sokany_diskovyy_bytovoy_1500_vt.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_6.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Электрочайник Sokany – практичное и удобное устройство, которое дает возможность в считанные минуты вскипятить воду и станет стильным дополнением любой кухни. Чайник отличается оптимальным объемом для приготовления горячих напитков для всей семьи, имеет дисковый нагревательный элемент и поворотное основание.  Основные характеристики электро чайника   объем 2.3 литра; мощность 1500 Вт; материал корпуса - нержавеющая сталь; дисковый нагревательный элемент.   Особенности электрического чайника   Авто отключение при снятии с подставки. Защита от включения без воды. Защита от перегрева.   Чайник изготовлен из безопасных материалов, имеет защиту от включения без воды и удобную ручку, которая не нагревается и обеспечивает защиту от ожогов. Закрытый нагревательный элемент гарантирует длительный срок службы и простую очистку от накипи.]]></description>
-<quantity_in_stock>82</quantity_in_stock>
-<vendorCode>SK-09022</vendorCode>
-<param name="Тип">Электрочайник</param>
-<param name="Высота">230</param>
-<param name="Автоотключение при отсутствии воды">Да</param>
-<param name="Гарантийный срок">3 мес</param>
-<param name="Вес">0.8</param>
-<param name="Глубина">200</param>
-<param name="Потребляемая мощность">1500</param>
-<param name="Длина сетевого шнура">0.55</param>
-<param name="Дисплей">Нет</param>
-<param name="Ширина">150</param>
-<param name="Звуковой сигнал">Нет</param>
-<param name="Объем">2.3</param>
-<param name="Материал корпуса">Нержавеющая сталь</param>
-<param name="Наличие фильтра">Нет</param>
-<param name="Индикатор работы">Да</param>
-<param name="Поворот на 360 градусов">Да</param>
-<param name="Подсветка чайника">Нет</param>
-<param name="Состояние">Новое</param>
-<param name="Рисунок на корпусе">Нет</param>
-<param name="Цвет корпуса">Серебристый</param>
-<param name="Таймер">Нет</param>
-<param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
-<param name="Функция автоотключения">Да</param>
-</offer>
 <offer id="HP-21-1" available="true">
 <name>Набор посуды для пикника на 4 персоны 24 предмета Серебристый HP-21-1</name>
 <price>1929</price>
@@ -8117,6 +8076,47 @@
 <param name="Пол">Унисекс</param>
 <param name="Вес зонта">600 г</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="SK-09022" available="true">
+<name>Электрочайник с автоматическим отключением 2.3 л Sokany дисковый бытовой 1500 Вт SK-09022</name>
+<price>709</price>
+<vendorprice>381</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>39</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3546/elektrochaynik_s_avtomaticheskim_otklyucheniem_2_3_l_sokany_diskovyy_bytovoy_1500_vt.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_6.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Электрочайник Sokany – практичное и удобное устройство, которое дает возможность в считанные минуты вскипятить воду и станет стильным дополнением любой кухни. Чайник отличается оптимальным объемом для приготовления горячих напитков для всей семьи, имеет дисковый нагревательный элемент и поворотное основание.  Основные характеристики электро чайника   объем 2.3 литра; мощность 1500 Вт; материал корпуса - нержавеющая сталь; дисковый нагревательный элемент.   Особенности электрического чайника   Авто отключение при снятии с подставки. Защита от включения без воды. Защита от перегрева.   Чайник изготовлен из безопасных материалов, имеет защиту от включения без воды и удобную ручку, которая не нагревается и обеспечивает защиту от ожогов. Закрытый нагревательный элемент гарантирует длительный срок службы и простую очистку от накипи.]]></description>
+<quantity_in_stock>80</quantity_in_stock>
+<vendorCode>SK-09022</vendorCode>
+<param name="Тип">Электрочайник</param>
+<param name="Высота">230</param>
+<param name="Автоотключение при отсутствии воды">Да</param>
+<param name="Гарантийный срок">3 мес</param>
+<param name="Вес">0.8</param>
+<param name="Глубина">200</param>
+<param name="Потребляемая мощность">1500</param>
+<param name="Длина сетевого шнура">0.55</param>
+<param name="Дисплей">Нет</param>
+<param name="Ширина">150</param>
+<param name="Звуковой сигнал">Нет</param>
+<param name="Объем">2.3</param>
+<param name="Материал корпуса">Нержавеющая сталь</param>
+<param name="Наличие фильтра">Нет</param>
+<param name="Индикатор работы">Да</param>
+<param name="Поворот на 360 градусов">Да</param>
+<param name="Подсветка чайника">Нет</param>
+<param name="Состояние">Новое</param>
+<param name="Рисунок на корпусе">Нет</param>
+<param name="Цвет корпуса">Серебристый</param>
+<param name="Таймер">Нет</param>
+<param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
+<param name="Функция автоотключения">Да</param>
 </offer>
 <offer id="JY-9060W" available="true">
 <name>Комплект туристической стол + 2 лавочки складная мебель Белый Lugi JY-9060W</name>
@@ -18765,36 +18765,6 @@
 <param name="Вес зонта">600 г</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="SK-08017" available="true">
-<name>Йогуртница электрическая на 7 баночек по 180 (мл) аппарат для приготовления йогурта 20 Вт йогуртница для дома SK-08017</name>
-<price>1279</price>
-<vendorprice>708</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>45</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0../SK-08017/SK-08017_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0../SK-08017/SK-08017_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0../SK-08017/SK-08017_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0../SK-08017/SK-08017_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0../SK-08017/SK-08017_4.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Йогуртница Sokany SK-08017 &mdash; это компактное и удобное устройство, с помощью которого вы сможете легко приготовить свежий, вкусный и полезный йогурт у себя дома. В комплект входят 7 баночек по 180 мл, что позволяет сделать порции для всей семьи или небольшой компании.  Основные характеристики электрической йогуртницы:   Мощность: 20 Вт; Размер: 24&times;12 см; Количество баночек: 7; Объем баночек: 180 мл; Длина сетевого шнура: 85 см; Материал корпуса: пластик + металл; Материал баночек: стекло + пластик.   Особенности аппарат для приготовления йогурта:   Оптимальный нагрев: обеспечивает стабильную температуру для равномерного созревания йогурта. Удобные баночки (по 180 мл): удобно порционировать и хранить готовый продукт. Простота ухода: все съёмные детали легко очищаются вручную, корпус достаточно протирать влажной салфеткой.   Йогуртница Sokany SK-08017 &mdash; это надёжный и практичный помощник для тех, кто заботится о здоровом питании. Она делает процесс приготовления простым, а результат &mdash; вкусным и натуральным. С её помощью вы сможете радовать себя и своих близких свежим йогуртом каждый день!]]></description>
-<quantity_in_stock>32</quantity_in_stock>
-<vendorCode>SK-08017</vendorCode>
-<param name="Тип">Йогуртница</param>
-<param name="Высота">120</param>
-<param name="Гарантийный срок">3</param>
-<param name="Вес">2.2</param>
-<param name="Глубина">240</param>
-<param name="Потребляемая мощность">20</param>
-<param name="Длина сетевого шнура">0.85</param>
-<param name="Количество емкостей">7</param>
-<param name="Ширина">240</param>
-<param name="Материал корпуса">Нержавеющая сталь</param>
-<param name="Объем емкости">180</param>
-<param name="Материал емкостей">стекло</param>
-<param name="Цвет корпуса">Серебристый</param>
-<param name="Общий объем">1260</param>
-</offer>
 <offer id="HP-19-194" available="true">
 <name>Набор рюмок на ножке 6 штук 50 мл для крепких напитков стеклянные Yiwu HP-19-194</name>
 <price>619</price>
@@ -19032,6 +19002,31 @@
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
+<offer id="HP-14-47B" available="true">
+<name>Бутылка для воды 650 мл бутылочка с поилкой для спорта и школы 23 см Keep Going Черная HP-14-47B</name>
+<price>299</price>
+<vendorprice>187</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>105</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/00001/HP-14-47/1447_1_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00001/HP-14-47/1447_1_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00001/HP-14-47/1447_1_2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Бутылка для воды &ndash; стильная, качественная и удобная в использовании. Она непременно станет вашим постоянным спутником и любимым аксессуаром. Бутылочку удобно брать на прогулки, тренировки, в школу и на работу.  Основные характеристики бутылочки   Объем: 650 мл; высота: 23 см; Диаметр: 7.5 см; дополнительные функции: ремешок.   Основные преимущества бутылки   Изготовлена из качественного и безопасного пищевого материала &ndash; тритан. Он очень легкий и прочный, объединяет в себе преимущества пластика и стекла. Этот инновационный материал не такой хрупкий, как обычный пластик и стекло, поэтому долго сохраняет безупречный внешний вид. Стильный внешний вид бутылки делает ее не только практичным аксессуаром, но и модным элементом вашего образа. Бутылка отлично подходит для прогулок, тренировок, учебы и работы. Ее легко держать в руке, а оптимальный объем позволяет всегда иметь под рукой необходимое количество воды.   Многоразовая бутылка для воды &ndash; это универсальный и практичный аксессуар, который идеально подойдет для любителей активного отдыха, путешественников и просто тех, кто хочет всегда иметь под рукой любимый напиток.]]></description>
+<quantity_in_stock>31</quantity_in_stock>
+<vendorCode>HP-14-47B</vendorCode>
+<param name="Тип">Спортивная бутылка</param>
+<param name="Материал">Тритан</param>
+<param name="Высота">23</param>
+<param name="Вес">200</param>
+<param name="Диаметр">7.5</param>
+<param name="Особенности">Моется в посудомоечной машине|Защитный колпачок поилки|Ударопрочная</param>
+<param name="Объем">650</param>
+<param name="Цвет">Черный</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантия">14 дней</param>
+</offer>
 <offer id="16788-8" available="true">
 <name>Слайсер ручной для нарезки нож 18 см из нержавеющей стали 16788-8</name>
 <price>1449</price>
@@ -19071,28 +19066,35 @@
 <param name="Прорезиненные ножки">Нет</param>
 <param name="Длина ножа (см)">18</param>
 </offer>
-<offer id="HP-8-56" available="true">
-<name>Лопатка силиконовая кухонная для сковороды 33 (см) лопатка из силикона для кухни с деревянной ручкой HP-8-56</name>
-<price>209</price>
-<vendorprice>121</vendorprice>
+<offer id="SK-08017" available="true">
+<name>Йогуртница электрическая на 7 баночек по 180 (мл) аппарат для приготовления йогурта 20 Вт йогуртница для дома SK-08017</name>
+<price>1279</price>
+<vendorprice>708</vendorprice>
 <currencyId>UAH</currencyId>
-<categoryId>88</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4531/lopatka_silikonovaya_kuhonnaya_dlya_skovorody_33_sm_lopatka_iz_silkona_dlya_kuhni_s_derevyannoy_ruchkoy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4531/lopatka_silikonovaya_kuhonnaya_dlya_skovorody_33_sm_lopatka_iz_silkona_dlya_kuhni_s_derevyannoy_ruchkoy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4531/lopatka_silikonovaya_kuhonnaya_dlya_skovorody_33_sm_lopatka_iz_silkona_dlya_kuhni_s_derevyannoy_ruchkoy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4531/lopatka_silikonovaya_kuhonnaya_dlya_skovorody_33_sm_lopatka_iz_silkona_dlya_kuhni_s_derevyannoy_ruchkoy_3.jpg</picture>
-<vendor>Ding Lanfang</vendor>
-<description><![CDATA[Кухонная силиконовая лопатка с деревянной ручкой &mdash; универсальный аксессуар для повседневного приготовления блюд. Широкая и гибкая рабочая часть из пищевого силикона позволяет удобно переворачивать, перемешивать и подавать мясо, овощи, оладьи, яйца и другие продукты, не повреждая антипригарное покрытие посуды.  Лопатка устойчива к высоким температурам, не впитывает запахи и легко очищается. Деревянная ручка удобно лежит в руке и защищает от ожогов при готовке.  Основные характеристики силиконовой лопатки для сковороды:   Размер: 33&times;7.5 см; Длина: 33 см; Материал рабочей части: силикон; Материал ручки: дерево.   Благодаря прочным материалам и продуманной конструкции, лопатка подойдёт как для повседневной домашней кухни, так и для профессионального использования. Это практичное и долговечное решение для каждого, кто ценит удобство и качество на кухне.]]></description>
+<categoryId>45</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0../SK-08017/SK-08017_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0../SK-08017/SK-08017_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0../SK-08017/SK-08017_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0../SK-08017/SK-08017_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0../SK-08017/SK-08017_4.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Йогуртница Sokany SK-08017 &mdash; это компактное и удобное устройство, с помощью которого вы сможете легко приготовить свежий, вкусный и полезный йогурт у себя дома. В комплект входят 7 баночек по 180 мл, что позволяет сделать порции для всей семьи или небольшой компании.  Основные характеристики электрической йогуртницы:   Мощность: 20 Вт; Размер: 24&times;12 см; Количество баночек: 7; Объем баночек: 180 мл; Длина сетевого шнура: 85 см; Материал корпуса: пластик + металл; Материал баночек: стекло + пластик.   Особенности аппарат для приготовления йогурта:   Оптимальный нагрев: обеспечивает стабильную температуру для равномерного созревания йогурта. Удобные баночки (по 180 мл): удобно порционировать и хранить готовый продукт. Простота ухода: все съёмные детали легко очищаются вручную, корпус достаточно протирать влажной салфеткой.   Йогуртница Sokany SK-08017 &mdash; это надёжный и практичный помощник для тех, кто заботится о здоровом питании. Она делает процесс приготовления простым, а результат &mdash; вкусным и натуральным. С её помощью вы сможете радовать себя и своих близких свежим йогуртом каждый день!]]></description>
 <quantity_in_stock>31</quantity_in_stock>
-<vendorCode>HP-8-56</vendorCode>
-<param name="Тип">Лопатка</param>
-<param name="Материал">Силикон</param>
-<param name="Ширина">75</param>
-<param name="Количество в наборе">1</param>
-<param name="Подходит для посуды с тефлоновым покрытием">Да</param>
-<param name="Цвет">Черный</param>
-<param name="Длина">330</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<vendorCode>SK-08017</vendorCode>
+<param name="Тип">Йогуртница</param>
+<param name="Высота">120</param>
+<param name="Гарантийный срок">3</param>
+<param name="Вес">2.2</param>
+<param name="Глубина">240</param>
+<param name="Потребляемая мощность">20</param>
+<param name="Длина сетевого шнура">0.85</param>
+<param name="Количество емкостей">7</param>
+<param name="Ширина">240</param>
+<param name="Материал корпуса">Нержавеющая сталь</param>
+<param name="Объем емкости">180</param>
+<param name="Материал емкостей">стекло</param>
+<param name="Цвет корпуса">Серебристый</param>
+<param name="Общий объем">1260</param>
 </offer>
 <offer id="SK-08137" available="true">
 <name>Мультипекарь 7 в 1 Sokany антипригарное покрытие 800 Вт SK-08137</name>
@@ -19307,31 +19309,6 @@
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-14-47B" available="true">
-<name>Бутылка для воды 650 мл бутылочка с поилкой для спорта и школы 23 см Keep Going Черная HP-14-47B</name>
-<price>299</price>
-<vendorprice>187</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>105</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/00001/HP-14-47/1447_1_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00001/HP-14-47/1447_1_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00001/HP-14-47/1447_1_2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Бутылка для воды &ndash; стильная, качественная и удобная в использовании. Она непременно станет вашим постоянным спутником и любимым аксессуаром. Бутылочку удобно брать на прогулки, тренировки, в школу и на работу.  Основные характеристики бутылочки   Объем: 650 мл; высота: 23 см; Диаметр: 7.5 см; дополнительные функции: ремешок.   Основные преимущества бутылки   Изготовлена из качественного и безопасного пищевого материала &ndash; тритан. Он очень легкий и прочный, объединяет в себе преимущества пластика и стекла. Этот инновационный материал не такой хрупкий, как обычный пластик и стекло, поэтому долго сохраняет безупречный внешний вид. Стильный внешний вид бутылки делает ее не только практичным аксессуаром, но и модным элементом вашего образа. Бутылка отлично подходит для прогулок, тренировок, учебы и работы. Ее легко держать в руке, а оптимальный объем позволяет всегда иметь под рукой необходимое количество воды.   Многоразовая бутылка для воды &ndash; это универсальный и практичный аксессуар, который идеально подойдет для любителей активного отдыха, путешественников и просто тех, кто хочет всегда иметь под рукой любимый напиток.]]></description>
-<quantity_in_stock>30</quantity_in_stock>
-<vendorCode>HP-14-47B</vendorCode>
-<param name="Тип">Спортивная бутылка</param>
-<param name="Материал">Тритан</param>
-<param name="Высота">23</param>
-<param name="Вес">200</param>
-<param name="Диаметр">7.5</param>
-<param name="Особенности">Моется в посудомоечной машине|Защитный колпачок поилки|Ударопрочная</param>
-<param name="Объем">650</param>
-<param name="Цвет">Черный</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-19-115" available="true">
 <name>Набор бокалов для шампанского 6 штук по 160 (мл) Серый HP-19-115</name>
 <price>849</price>
@@ -19357,6 +19334,29 @@
 <param name="Тематика декора, рисунка">Без декора</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-8-56" available="true">
+<name>Лопатка силиконовая кухонная для сковороды 33 (см) лопатка из силикона для кухни с деревянной ручкой HP-8-56</name>
+<price>209</price>
+<vendorprice>121</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>88</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4531/lopatka_silikonovaya_kuhonnaya_dlya_skovorody_33_sm_lopatka_iz_silkona_dlya_kuhni_s_derevyannoy_ruchkoy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4531/lopatka_silikonovaya_kuhonnaya_dlya_skovorody_33_sm_lopatka_iz_silkona_dlya_kuhni_s_derevyannoy_ruchkoy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4531/lopatka_silikonovaya_kuhonnaya_dlya_skovorody_33_sm_lopatka_iz_silkona_dlya_kuhni_s_derevyannoy_ruchkoy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4531/lopatka_silikonovaya_kuhonnaya_dlya_skovorody_33_sm_lopatka_iz_silkona_dlya_kuhni_s_derevyannoy_ruchkoy_3.jpg</picture>
+<vendor>Ding Lanfang</vendor>
+<description><![CDATA[Кухонная силиконовая лопатка с деревянной ручкой &mdash; универсальный аксессуар для повседневного приготовления блюд. Широкая и гибкая рабочая часть из пищевого силикона позволяет удобно переворачивать, перемешивать и подавать мясо, овощи, оладьи, яйца и другие продукты, не повреждая антипригарное покрытие посуды.  Лопатка устойчива к высоким температурам, не впитывает запахи и легко очищается. Деревянная ручка удобно лежит в руке и защищает от ожогов при готовке.  Основные характеристики силиконовой лопатки для сковороды:   Размер: 33&times;7.5 см; Длина: 33 см; Материал рабочей части: силикон; Материал ручки: дерево.   Благодаря прочным материалам и продуманной конструкции, лопатка подойдёт как для повседневной домашней кухни, так и для профессионального использования. Это практичное и долговечное решение для каждого, кто ценит удобство и качество на кухне.]]></description>
+<quantity_in_stock>30</quantity_in_stock>
+<vendorCode>HP-8-56</vendorCode>
+<param name="Тип">Лопатка</param>
+<param name="Материал">Силикон</param>
+<param name="Ширина">75</param>
+<param name="Количество в наборе">1</param>
+<param name="Подходит для посуды с тефлоновым покрытием">Да</param>
+<param name="Цвет">Черный</param>
+<param name="Длина">330</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
 </offer>
 <offer id="HP-14-16" available="true">
 <name>Термосумка холодильник 8 (л) для еды, напитков, пива холодильная сумка для рыбалки и пикника Голубой HP-14-16</name>
@@ -21944,35 +21944,6 @@
 <param name="Форма">Овальная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-35015-51" available="true">
-<name>Швабра с телескопической ручкой и насадкой из микрофибры для мытья пола, плитки, ламината и линолеума HP-35015-51</name>
-<price>609</price>
-<vendorprice>393</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>160</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4754/shvabra_s_teleskopicheskoy_ruchkoy_i_nasadkoy_iz_mikrofibry_dlya_mytya_pola_plitki_laminata_i_linoleuma.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4754/shvabra_s_teleskopicheskoy_ruchkoy_i_nasadkoy_iz_mikrofibry_dlya_mytya_pola_plitki_laminata_i_linoleuma_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4754/shvabra_s_teleskopicheskoy_ruchkoy_i_nasadkoy_iz_mikrofibry_dlya_mytya_pola_plitki_laminata_i_linoleuma_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4754/shvabra_s_teleskopicheskoy_ruchkoy_i_nasadkoy_iz_mikrofibry_dlya_mytya_pola_plitki_laminata_i_linoleuma_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4754/shvabra_s_teleskopicheskoy_ruchkoy_i_nasadkoy_iz_mikrofibry_dlya_mytya_pola_plitki_laminata_i_linoleuma_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4754/shvabra_s_teleskopicheskoy_ruchkoy_i_nasadkoy_iz_mikrofibry_dlya_mytya_pola_plitki_laminata_i_linoleuma_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4754/shvabra_s_teleskopicheskoy_ruchkoy_i_nasadkoy_iz_mikrofibry_dlya_mytya_pola_plitki_laminata_i_linoleuma_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4754/shvabra_s_teleskopicheskoy_ruchkoy_i_nasadkoy_iz_mikrofibry_dlya_mytya_pola_plitki_laminata_i_linoleuma_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4754/shvabra_s_teleskopicheskoy_ruchkoy_i_nasadkoy_iz_mikrofibry_dlya_mytya_pola_plitki_laminata_i_linoleuma_8.jpg</picture>
-<vendor>Household</vendor>
-<description><![CDATA[Швабра для пола с телескопической ручкой и насадкой из микрофибры предназначена для регулярной уборки твердых покрытий в жилых и коммерческих помещениях. Конструкция включает металлическую ручку с пластиковыми элементами, обеспечивающими удобный захват и контроль во время работы. Основание оснащено прямоугольной платформой, на которую крепится сменная насадка из микрофибры &mdash; материала, эффективно впитывающего влагу и удерживающего пыль.  Характеристики швабры с телескопической ручкой и насадкой из микрофибры:   Вес: 0,7 кг; Габариты насадки: 42&times;13 см; Материал: пластик + нержавеющая сталь; Максимальная длина ручки: 130 см.   Система фиксации позволяет легко и быстро заменять насадку без использования инструментов. Платформа имеет шарнирное соединение, что обеспечивает свободу движения в нескольких направлениях и облегчает доступ к труднодоступным зонам: углам, пространству под мебелью или вдоль плинтусов. Вся конструкция отличается легкостью, что снижает нагрузку на руки при длительном использовании.  Преимущества швабры для пола с телескопической ручкой и насадкой из микрофибры:   удобная металлическая ручка с пластиковыми вставками; надежная прямоугольная платформа для крепления насадки; шарнирное соединение для маневренности; сменная насадка из микрофибры, удерживающая пыль и влагу; возможность сухой и влажной уборки; долговечность и стойкость к многократным стиркам; совместимость с большинством стандартных насадок.   Швабра подходит для сухой и влажной уборки с водой или моющими средствами. Насадка выдерживает многократные стирки, сохраняя структуру и впитывающие свойства, что позволяет экономить на расходных материалах. Благодаря стандартным размерам и универсальной форме, швабра совместима с большинством сменных насадок, представленных на рынке.]]></description>
-<quantity_in_stock>25</quantity_in_stock>
-<vendorCode>HP-35015-51</vendorCode>
-<param name="Материал">Сталь</param>
-<param name="Длина ручки">130</param>
-<param name="Материал насадки">Микрофибра</param>
-<param name="Наличие механизма отжима">Нет</param>
-<param name="Материал ручки">Нержавеющая сталь</param>
-<param name="Комплектация ведром">Нет</param>
-<param name="Длина насадки">42</param>
-<param name="Ширина насадки">13</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-19-210" available="true">
 <name>Набор бокалов для вина 6 штук 300 мл на ножке стеклянные Янтарный Yiwu HP-19-210</name>
 <price>819</price>
@@ -22300,6 +22271,35 @@
 <param name="Тематика декора, рисунка">Растения, цветы</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Форма">Круглая</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-35015-51" available="true">
+<name>Швабра с телескопической ручкой и насадкой из микрофибры для мытья пола, плитки, ламината и линолеума HP-35015-51</name>
+<price>609</price>
+<vendorprice>393</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>160</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4754/shvabra_s_teleskopicheskoy_ruchkoy_i_nasadkoy_iz_mikrofibry_dlya_mytya_pola_plitki_laminata_i_linoleuma.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4754/shvabra_s_teleskopicheskoy_ruchkoy_i_nasadkoy_iz_mikrofibry_dlya_mytya_pola_plitki_laminata_i_linoleuma_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4754/shvabra_s_teleskopicheskoy_ruchkoy_i_nasadkoy_iz_mikrofibry_dlya_mytya_pola_plitki_laminata_i_linoleuma_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4754/shvabra_s_teleskopicheskoy_ruchkoy_i_nasadkoy_iz_mikrofibry_dlya_mytya_pola_plitki_laminata_i_linoleuma_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4754/shvabra_s_teleskopicheskoy_ruchkoy_i_nasadkoy_iz_mikrofibry_dlya_mytya_pola_plitki_laminata_i_linoleuma_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4754/shvabra_s_teleskopicheskoy_ruchkoy_i_nasadkoy_iz_mikrofibry_dlya_mytya_pola_plitki_laminata_i_linoleuma_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4754/shvabra_s_teleskopicheskoy_ruchkoy_i_nasadkoy_iz_mikrofibry_dlya_mytya_pola_plitki_laminata_i_linoleuma_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4754/shvabra_s_teleskopicheskoy_ruchkoy_i_nasadkoy_iz_mikrofibry_dlya_mytya_pola_plitki_laminata_i_linoleuma_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4754/shvabra_s_teleskopicheskoy_ruchkoy_i_nasadkoy_iz_mikrofibry_dlya_mytya_pola_plitki_laminata_i_linoleuma_8.jpg</picture>
+<vendor>Household</vendor>
+<description><![CDATA[Швабра для пола с телескопической ручкой и насадкой из микрофибры предназначена для регулярной уборки твердых покрытий в жилых и коммерческих помещениях. Конструкция включает металлическую ручку с пластиковыми элементами, обеспечивающими удобный захват и контроль во время работы. Основание оснащено прямоугольной платформой, на которую крепится сменная насадка из микрофибры &mdash; материала, эффективно впитывающего влагу и удерживающего пыль.  Характеристики швабры с телескопической ручкой и насадкой из микрофибры:   Вес: 0,7 кг; Габариты насадки: 42&times;13 см; Материал: пластик + нержавеющая сталь; Максимальная длина ручки: 130 см.   Система фиксации позволяет легко и быстро заменять насадку без использования инструментов. Платформа имеет шарнирное соединение, что обеспечивает свободу движения в нескольких направлениях и облегчает доступ к труднодоступным зонам: углам, пространству под мебелью или вдоль плинтусов. Вся конструкция отличается легкостью, что снижает нагрузку на руки при длительном использовании.  Преимущества швабры для пола с телескопической ручкой и насадкой из микрофибры:   удобная металлическая ручка с пластиковыми вставками; надежная прямоугольная платформа для крепления насадки; шарнирное соединение для маневренности; сменная насадка из микрофибры, удерживающая пыль и влагу; возможность сухой и влажной уборки; долговечность и стойкость к многократным стиркам; совместимость с большинством стандартных насадок.   Швабра подходит для сухой и влажной уборки с водой или моющими средствами. Насадка выдерживает многократные стирки, сохраняя структуру и впитывающие свойства, что позволяет экономить на расходных материалах. Благодаря стандартным размерам и универсальной форме, швабра совместима с большинством сменных насадок, представленных на рынке.]]></description>
+<quantity_in_stock>24</quantity_in_stock>
+<vendorCode>HP-35015-51</vendorCode>
+<param name="Материал">Сталь</param>
+<param name="Длина ручки">130</param>
+<param name="Материал насадки">Микрофибра</param>
+<param name="Наличие механизма отжима">Нет</param>
+<param name="Материал ручки">Нержавеющая сталь</param>
+<param name="Комплектация ведром">Нет</param>
+<param name="Длина насадки">42</param>
+<param name="Ширина насадки">13</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-3Y-6-317" available="true">
@@ -34301,21 +34301,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Объем чаши">6 л</param>
 <param name="Тип миксера">Планетарный</param>
 </offer>
-<offer id="LU-027B" available="true">
-<name>Надувной матрас автоматический 190*130*3 см с подушкой, черный</name>
-<url>https://lugi.com.ua/ru/naduvnoj-matras-avtomaticheskij-1901303-sm-s-podushkoj-chernyj/</url>
-<price>3039</price>
-<vendorprice>1815</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>77</categoryId>
-<picture>https://lugi.com.ua/image/cache/catalog/images/turizm/LU-027B/LU-027B-1-600x600.jpg</picture>
-<description><![CDATA[<p>Автоматический надувной матрас — удобный аксессуар для кемпинга, рыбалки, пикника или ночевки в палатке. Матрас изготовлен из износостойкого полиэстера, что обеспечивает длительное использование даже в сложных погодных условиях.</p><p>В разложенном виде его размеры составляют 190×130×3 см, что идеально подходит для двух человек. Толщина 3 см обеспечивает базовую изоляцию от холодной или неровной поверхности, а высокий подголовник (19 см) добавляет удобства во время сна. Матрас имеет чехол для хранения, что значительно облегчает его транспортировку.</p><p>Компактный в сложенном виде, этот матрас легко помещается в багажник или туристический рюкзак.</p><p><b>Внимание!</b></p><p>В качестве наполнителя использован материал Memory Foam, который расширяется при разворачивании матраца и открывании клапана. Подушка надувается отдельно. Достаточно пары вдохов или ручного насоса. Компрессор использовать не рекомендуется во избежание повреждений.</p><p><b>Характеристики:</b></p><ul><li>Размеры в разложенном виде: 190×130×3 см</li><li>Размеры в сложенном виде: 22×22×65 см</li><li>Толщина: 3 см</li><li>Высота подголовника: 19 см</li><li>Материал: полиэстер</li></ul>]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<vendorCode>LU-027B</vendorCode>
-<param name="Вес">2,4 кг</param>
-<param name="Материал">Полиэстер</param>
-<param name="Размеры">190*130*3 см</param>
-</offer>
 <offer id="HP-L-15" available="true">
 <name>Светильник уличный подвесной Vintage 1 LED с датчиком движения</name>
 <url>https://lugi.com.ua/ru/ru-svitilnik-hp-l-15/</url>
@@ -34536,7 +34521,7 @@ Sokany SK-06009 компактный и занимает минимум мест
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5738/pakety_dlya_vakuumatora_30_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Вакуумные пакеты 30*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования.  Основные характеристики пакетов для вакууматора:  размер: 30*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен.  Преимущества:  Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки.  Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.]]></description>
-<quantity_in_stock>1949</quantity_in_stock>
+<quantity_in_stock>1947</quantity_in_stock>
 <vendorCode>HP-11-23</vendorCode>
 <param name="Тип">Пакет</param>
 <param name="Материал">Полиэтилен</param>
@@ -34841,7 +34826,7 @@ Sokany SK-06009 компактный и занимает минимум мест
 <picture>https://feed.lugi.com.ua/image/catalog/129/USB100L10MWY-1%282%29.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Гирлянда USB роса идеально подходит для окон, дверей, стен, картин, елок, фотозоны. Гирлянда оснащена 100 яркими светодиодами, которые обеспечивают превосходное освещение.  Основные характеристики гирлянды роса   гирлянда роса 10 метров; 100 led светодиодов; класс защиты IP44.   Особенностью этой гирлянды является ее питание от usb, что обеспечивает максимальную мобильность и удобство в эксплуатации. Новогодняя гирлянда Роса - это не только декоративный элемент, но и практичный инструмент для создания особого атмосферного света в вашем доме или на мероприятии любого уровня.  Купить гирлянду капли росы 10 метров можно с доставкой по всей Украине. Гирлянда подлежит возврату только в том случае, когда ее исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>1290</quantity_in_stock>
+<quantity_in_stock>1289</quantity_in_stock>
 <vendorCode>USB100L10MWY</vendorCode>
 <param name="Режим работы">Динамический</param>
 <param name="Количество светодиодов">100</param>
@@ -35153,26 +35138,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Комплектация насосом">Нет</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="5МTR" available="true">
-<name>Удлинитель для гирлянд 5 метров прозрачный провод 220V 5МTR</name>
-<price>29</price>
-<vendorprice>27</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>109</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../1733053ML/LU-BD18G/5%D0%9CTR-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/481/udlinitel_dlya_girlyand_5_metrov_prozrachnyy_provod_220v_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/481/udlinitel_dlya_girlyand_5_metrov_prozrachnyy_provod_220v_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/481/udlinitel_dlya_girlyand_5_metrov_prozrachnyy_provod_220v_4.jpg</picture>
-<vendor>Garlando</vendor>
-<description><![CDATA[Удлинитель для гирлянды длиной 5 метров Удлинитель для гирлянды длиной 5 метров – это надежное и удобное решение для увеличения длины кабеля вашей гирлянды, позволяющее легко разместить её в нужном месте, даже если розетка находится на расстоянии. Он изготовлен из прозрачного ПВХ-материала, что делает его практически незаметным в любом интерьере или экстерьере.  Преимущества:   Удобство использования: Удлинитель обеспечивает простое подключение вашей гирлянды к розетке на расстоянии, что делает его идеальным для украшения вокруг дома, сада или веранды без лишних хлопот. Прозрачный ПВХ-материал: Прозрачный ПВХ делает удлинитель практически невидимым, обеспечивая дискретность в размещении вашей гирлянды. Надежность: Удлинитель оснащён защитой от перенапряжений и изготовлен из высококачественных материалов, что позволяет ему работать в диапазоне температур от -25 до +45 градусов, обеспечивая надёжную работу в различных климатических условиях.   Характеристики:   Длина: 5 метров Материал: прозрачный ПВХ Температурный диапазон: от -25 до +45 градусов   Уход:   Избегайте контакта с водой Храните в сухом месте Регулярно проверяйте состояние кабеля  С этим удлинителем для гирлянды длиной 5 метров вы сможете легко разместить и подключить вашу гирлянду в любом месте, предоставляя праздничным украшениям больше свободы и возможностей. Этот практичный аксессуар поможет создать незабываемую атмосферу света и радости на праздничных мероприятиях или рождественском декоре.]]></description>
-<quantity_in_stock>1016</quantity_in_stock>
-<vendorCode>5МTR</vendorCode>
-<param name="Длина шнура питания">5 м</param>
-<param name="Напряжение">220 В</param>
-<param name="Состояние">Новое</param>
-<param name="Тип питания">Сеть</param>
-<param name="Упаковка">Коробка</param>
-</offer>
 <offer id="HP-8-28" available="true">
 <name>Набор столовых вилок 6 штук вилки кухонные из нержавеющей стали 21 (см) Серебро HP-8-28</name>
 <price>479</price>
@@ -35195,6 +35160,26 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Упаковка">Блистер</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="5МTR" available="true">
+<name>Удлинитель для гирлянд 5 метров прозрачный провод 220V 5МTR</name>
+<price>29</price>
+<vendorprice>27</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>109</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../1733053ML/LU-BD18G/5%D0%9CTR-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/481/udlinitel_dlya_girlyand_5_metrov_prozrachnyy_provod_220v_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/481/udlinitel_dlya_girlyand_5_metrov_prozrachnyy_provod_220v_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/481/udlinitel_dlya_girlyand_5_metrov_prozrachnyy_provod_220v_4.jpg</picture>
+<vendor>Garlando</vendor>
+<description><![CDATA[Удлинитель для гирлянды длиной 5 метров Удлинитель для гирлянды длиной 5 метров – это надежное и удобное решение для увеличения длины кабеля вашей гирлянды, позволяющее легко разместить её в нужном месте, даже если розетка находится на расстоянии. Он изготовлен из прозрачного ПВХ-материала, что делает его практически незаметным в любом интерьере или экстерьере.  Преимущества:   Удобство использования: Удлинитель обеспечивает простое подключение вашей гирлянды к розетке на расстоянии, что делает его идеальным для украшения вокруг дома, сада или веранды без лишних хлопот. Прозрачный ПВХ-материал: Прозрачный ПВХ делает удлинитель практически невидимым, обеспечивая дискретность в размещении вашей гирлянды. Надежность: Удлинитель оснащён защитой от перенапряжений и изготовлен из высококачественных материалов, что позволяет ему работать в диапазоне температур от -25 до +45 градусов, обеспечивая надёжную работу в различных климатических условиях.   Характеристики:   Длина: 5 метров Материал: прозрачный ПВХ Температурный диапазон: от -25 до +45 градусов   Уход:   Избегайте контакта с водой Храните в сухом месте Регулярно проверяйте состояние кабеля  С этим удлинителем для гирлянды длиной 5 метров вы сможете легко разместить и подключить вашу гирлянду в любом месте, предоставляя праздничным украшениям больше свободы и возможностей. Этот практичный аксессуар поможет создать незабываемую атмосферу света и радости на праздничных мероприятиях или рождественском декоре.]]></description>
+<quantity_in_stock>1012</quantity_in_stock>
+<vendorCode>5МTR</vendorCode>
+<param name="Длина шнура питания">5 м</param>
+<param name="Напряжение">220 В</param>
+<param name="Состояние">Новое</param>
+<param name="Тип питания">Сеть</param>
+<param name="Упаковка">Коробка</param>
 </offer>
 <offer id="500L50MGY" available="true">
 <name>Гирлянда роса на пульте 50 метров на 500 led светодиодов капля зеленый провод желтая 500L50MGY</name>
@@ -38419,28 +38404,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Форма сечения">Круглая</param>
 <param name="Цветовая гамма">Белый</param>
 </offer>
-<offer id="HP-11-21" available="true">
-<name>Пакеты для вакууматора 20*500 см пакеты для вакуумирования продуктов в рулоне HP-11-21</name>
-<price>109</price>
-<vendorprice>93</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>14</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5736/pakety_dlya_vakuumatora_20_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5736/pakety_dlya_vakuumatora_20_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.png</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Вакуумные пакеты 20*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования.  Основные характеристики пакетов для вакууматора:  размер: 20*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен.  Преимущества:  Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки.  Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.]]></description>
-<quantity_in_stock>320</quantity_in_stock>
-<vendorCode>HP-11-21</vendorCode>
-<param name="Материал">Полиэтилен</param>
-<param name="Вес">200</param>
-<param name="Ширина">500</param>
-<param name="Применение">Универсальное</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Длина">20</param>
-<param name="Наличие индикатора">Нет</param>
-<param name="Комплектация насосом">Нет</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-7-741" available="true">
 <name>Чашка фарфоровая с орнаментом 250 мл, белая HP-7-741</name>
 <price>209</price>
@@ -39077,6 +39040,28 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Форма лампочки">Классическая</param>
 <param name="Форма сечения">Круглая</param>
 <param name="Цветовая гамма">Белый</param>
+</offer>
+<offer id="HP-11-21" available="true">
+<name>Пакеты для вакууматора 20*500 см пакеты для вакуумирования продуктов в рулоне HP-11-21</name>
+<price>109</price>
+<vendorprice>93</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>14</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5736/pakety_dlya_vakuumatora_20_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5736/pakety_dlya_vakuumatora_20_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.png</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Вакуумные пакеты 20*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования.  Основные характеристики пакетов для вакууматора:  размер: 20*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен.  Преимущества:  Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки.  Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.]]></description>
+<quantity_in_stock>309</quantity_in_stock>
+<vendorCode>HP-11-21</vendorCode>
+<param name="Материал">Полиэтилен</param>
+<param name="Вес">200</param>
+<param name="Ширина">500</param>
+<param name="Применение">Универсальное</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Длина">20</param>
+<param name="Наличие индикатора">Нет</param>
+<param name="Комплектация насосом">Нет</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-11-7" available="true">
 <name>Пакеты для вакууматора 24×16см пакеты для вакуумирования продуктов 100 шт HP-11-7</name>
@@ -48256,30 +48241,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Форма">Фигурная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-42-41" available="true">
-<name>Коврик привратный Vertical Welcome 58*38 см диатомитовый HP-42-41</name>
-<price>169</price>
-<vendorprice>130</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>53</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6492/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6492/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6492/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6492/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy_3.jpg</picture>
-<vendor>Jiamat</vendor>
-<description><![CDATA[Этот коврик станет стильным и функциональным дополнением вашего дома. Изготовлен из натурального диатомита, он эффективно впитывает влагу с обуви, быстро сохнет и создаёт сухую, безопасную поверхность в прихожей. Прочная структура и противоскользящая основа позволяют использовать коврик не только у входной двери, но и в других помещениях: на кухне, в прачечной или под кормушки для домашних животных.  Характеристики придверного коврика из диатомита:   Материал: натуральный диатом — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома.   Преимущества влаговпитывающего коврика для входной двери:   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
-<quantity_in_stock>126</quantity_in_stock>
-<vendorCode>HP-42-41</vendorCode>
-<param name="Вес">400</param>
-<param name="Ширина">38</param>
-<param name="Цвет">Коричневый</param>
-<param name="Водоотталкивающие свойства">Да</param>
-<param name="Длина">58</param>
-<param name="Нескользящее основание">Да</param>
-<param name="Состояние">Новое</param>
-<param name="Форма">Прямоугольная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP9900G" available="true">
 <name>Салфетница на стол из эко-кожи 25 х 15.5 х 5 см Серый HP9900G</name>
 <price>729</price>
@@ -48433,6 +48394,30 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Цвет">Прозрачный</param>
 <param name="Длина">6</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-42-41" available="true">
+<name>Коврик привратный Vertical Welcome 58*38 см диатомитовый HP-42-41</name>
+<price>169</price>
+<vendorprice>130</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>53</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6492/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6492/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6492/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6492/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy_3.jpg</picture>
+<vendor>Jiamat</vendor>
+<description><![CDATA[Этот коврик станет стильным и функциональным дополнением вашего дома. Изготовлен из натурального диатомита, он эффективно впитывает влагу с обуви, быстро сохнет и создаёт сухую, безопасную поверхность в прихожей. Прочная структура и противоскользящая основа позволяют использовать коврик не только у входной двери, но и в других помещениях: на кухне, в прачечной или под кормушки для домашних животных.  Характеристики придверного коврика из диатомита:   Материал: натуральный диатом — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома.   Преимущества влаговпитывающего коврика для входной двери:   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
+<quantity_in_stock>124</quantity_in_stock>
+<vendorCode>HP-42-41</vendorCode>
+<param name="Вес">400</param>
+<param name="Ширина">38</param>
+<param name="Цвет">Коричневый</param>
+<param name="Водоотталкивающие свойства">Да</param>
+<param name="Длина">58</param>
+<param name="Нескользящее основание">Да</param>
+<param name="Состояние">Новое</param>
+<param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="173-8P" available="true">
@@ -55651,30 +55636,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Длина">4</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-42-61" available="true">
-<name>Антискользящий 3D коврик из мягкого диатомита 38×58(см) влаговпитывающий Синий HP-42-61</name>
-<price>169</price>
-<vendorprice>130</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>52</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6511/antiskolzyashchiy_3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta_siniy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6511/antiskolzyashchiy_3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta_siniy_3.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61_4.jpg</picture>
-<vendor>Jiamat</vendor>
-<description><![CDATA[Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты.  Характеристики 3d коврика из диатомита:   Материал: натуральный диатом &mdash; природный минерал с высокой влагопоглощающей способностью; Размер: 38&times;58 см; Вес: 0.4 кг; Применение: универсальный коврик для дома.   Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовый коврик &mdash; это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
-<quantity_in_stock>89</quantity_in_stock>
-<vendorCode>HP-42-61</vendorCode>
-<param name="Ширина">38</param>
-<param name="Количество в наборе">1</param>
-<param name="Цвет">Синий</param>
-<param name="Длина">58</param>
-<param name="Тематика декора, рисунка">Растения, цветы</param>
-<param name="Форма">Прямоугольная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="120-YH-HG015" available="true">
 <name>Менажница фарфоровая на 4 секции для закусок 25×25×4 см Белая 120-YH-HG015</name>
 <price>489</price>
@@ -56005,6 +55966,30 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Цвет">Голубой</param>
 <param name="Тип емкости">Чашка</param>
 <param name="Состояние">Новое</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-42-61" available="true">
+<name>Антискользящий 3D коврик из мягкого диатомита 38×58(см) влаговпитывающий Синий HP-42-61</name>
+<price>169</price>
+<vendorprice>130</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>52</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6511/antiskolzyashchiy_3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta_siniy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6511/antiskolzyashchiy_3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta_siniy_3.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61_4.jpg</picture>
+<vendor>Jiamat</vendor>
+<description><![CDATA[Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты.  Характеристики 3d коврика из диатомита:   Материал: натуральный диатом &mdash; природный минерал с высокой влагопоглощающей способностью; Размер: 38&times;58 см; Вес: 0.4 кг; Применение: универсальный коврик для дома.   Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовый коврик &mdash; это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
+<quantity_in_stock>88</quantity_in_stock>
+<vendorCode>HP-42-61</vendorCode>
+<param name="Ширина">38</param>
+<param name="Количество в наборе">1</param>
+<param name="Цвет">Синий</param>
+<param name="Длина">58</param>
+<param name="Тематика декора, рисунка">Растения, цветы</param>
+<param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HZ001-O" available="true">
@@ -65401,36 +65386,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Цвет">Черный</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="FM-33" available="true">
-<name>Набор парных фарфоровых чашек с сердцем 2 (шт) по 400 (мл) чашки на подарок с крышкой и ложкой Черный с белым FM-33</name>
-<price>599</price>
-<vendorprice>457</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>90</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67146/6201/nabor_parnyh_farforovyh_chashek_s_serdtsem_2_sht_po_400_ml_chashki_na_podarok_s_kryshkoy_i_lozhkoy_chernyy_s_belym.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67146/6201/nabor_parnyh_farforovyh_chashek_s_serdtsem_2_sht_po_400_ml_chashki_na_podarok_s_kryshkoy_i_lozhkoy_chernyy_s_belym_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67146/6201/nabor_parnyh_farforovyh_chashek_s_serdtsem_2_sht_po_400_ml_chashki_na_podarok_s_kryshkoy_i_lozhkoy_chernyy_s_belym_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67146/6201/nabor_parnyh_farforovyh_chashek_s_serdtsem_2_sht_po_400_ml_chashki_na_podarok_s_kryshkoy_i_lozhkoy_chernyy_s_belym_3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Набор фарфоровых чашек с крышкой и ложкой &mdash; стильный и символичный подарок для пары. Чашки украшены объемными сердечками с надписью Love: на одной изображена девочка, на другой &mdash; мальчик, что делает набор особенным и романтичным. Эргономичные ручки удобно лежат в руке, а крышки помогают дольше сохранять тепло напитка. В комплект входят две чашки и две ложки &mdash; идеальный вариант для совместных утренних кофе или вечерних чаепитий.  Основные характеристики парных чашек с сердечком на подарок:   Высота: 9 см; Диаметр: 8.5 см; Объем: 400 мл; Материал: фарфор.   Такой набор станет прекрасным подарком для влюблённых, супругов или близких людей, напоминая о тепле, заботе и приятных моментах, проведённых вместе.]]></description>
-<quantity_in_stock>55</quantity_in_stock>
-<vendorCode>FM-33</vendorCode>
-<param name="Материал">Фарфор</param>
-<param name="Высота">90</param>
-<param name="Блюдце">нет</param>
-<param name="Назначение">Универсальное</param>
-<param name="Диаметр">85</param>
-<param name="Крышка">Есть</param>
-<param name="Количество в наборе">2</param>
-<param name="Ложечка">есть</param>
-<param name="Объем">400</param>
-<param name="Ситечко">Нет</param>
-<param name="Цвет">Разные цвета</param>
-<param name="Тематика декора, рисунка">День святого Валентина, свадьба, романтика</param>
-<param name="Тип емкости">Чашка</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="80126602" available="true">
 <name>Набор новогодних шаров с декором 2 штуки по 8 см, пудра</name>
 <url>https://lugi.com.ua/ru/nabor-novogodnih-sharov-s-dekorom-2-shtuki-po-8-sm-pudra/</url>
@@ -65885,6 +65840,36 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Длина">26</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Форма">Фигурная</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="FM-33" available="true">
+<name>Набор парных фарфоровых чашек с сердцем 2 (шт) по 400 (мл) чашки на подарок с крышкой и ложкой Черный с белым FM-33</name>
+<price>599</price>
+<vendorprice>457</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>90</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67146/6201/nabor_parnyh_farforovyh_chashek_s_serdtsem_2_sht_po_400_ml_chashki_na_podarok_s_kryshkoy_i_lozhkoy_chernyy_s_belym.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67146/6201/nabor_parnyh_farforovyh_chashek_s_serdtsem_2_sht_po_400_ml_chashki_na_podarok_s_kryshkoy_i_lozhkoy_chernyy_s_belym_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67146/6201/nabor_parnyh_farforovyh_chashek_s_serdtsem_2_sht_po_400_ml_chashki_na_podarok_s_kryshkoy_i_lozhkoy_chernyy_s_belym_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67146/6201/nabor_parnyh_farforovyh_chashek_s_serdtsem_2_sht_po_400_ml_chashki_na_podarok_s_kryshkoy_i_lozhkoy_chernyy_s_belym_3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Набор фарфоровых чашек с крышкой и ложкой &mdash; стильный и символичный подарок для пары. Чашки украшены объемными сердечками с надписью Love: на одной изображена девочка, на другой &mdash; мальчик, что делает набор особенным и романтичным. Эргономичные ручки удобно лежат в руке, а крышки помогают дольше сохранять тепло напитка. В комплект входят две чашки и две ложки &mdash; идеальный вариант для совместных утренних кофе или вечерних чаепитий.  Основные характеристики парных чашек с сердечком на подарок:   Высота: 9 см; Диаметр: 8.5 см; Объем: 400 мл; Материал: фарфор.   Такой набор станет прекрасным подарком для влюблённых, супругов или близких людей, напоминая о тепле, заботе и приятных моментах, проведённых вместе.]]></description>
+<quantity_in_stock>54</quantity_in_stock>
+<vendorCode>FM-33</vendorCode>
+<param name="Материал">Фарфор</param>
+<param name="Высота">90</param>
+<param name="Блюдце">нет</param>
+<param name="Назначение">Универсальное</param>
+<param name="Диаметр">85</param>
+<param name="Крышка">Есть</param>
+<param name="Количество в наборе">2</param>
+<param name="Ложечка">есть</param>
+<param name="Объем">400</param>
+<param name="Ситечко">Нет</param>
+<param name="Цвет">Разные цвета</param>
+<param name="Тематика декора, рисунка">День святого Валентина, свадьба, романтика</param>
+<param name="Тип емкости">Чашка</param>
+<param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="FM-56A" available="true">
@@ -89191,32 +89176,6 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Длина">190</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="64486-72" available="true">
-<name>Кувшин для напитков 1.7 (л) с ручкой и бамбуковой крышкой 64486-72</name>
-<price>669</price>
-<vendorprice>515</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>25</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/64486-72/64486-72-2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/64486-72/64486-72-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/64486-72/64486-72-3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Стеклянный кувшин с бамбуковой ручкой &mdash; стильное и функциональное решение для подачи напитков дома или в кафе. Прозрачное стекло позволяет красиво презентовать лимонад, компот, чай или воду, а лаконичная геометрическая форма придаёт изделию современный вид.  Крышка выполнена из сочетания бамбука, металла и силикона &mdash; она плотно прилегает, предотвращая проливание и сохраняя аромат напитков. Удобная бамбуковая ручка обеспечивает комфорт при наливании и надёжность при переноске.  Основные характеристики    кувшина для напитков:   Материал кувшина: стекло; Материал крышки: бамбук, металл, силикон; Высота: 21 см; Диаметр верхний: 8 см; Диаметр: 15 см; Объем: 1.7 л.   Кувшин гармонично сочетает практичность и эстетику, легко вписывается в любой стиль сервировки и станет эффектным акцентом на кухне или праздничном столе.]]></description>
-<quantity_in_stock>14</quantity_in_stock>
-<vendorCode>64486-72</vendorCode>
-<param name="Материал">Стекло</param>
-<param name="Высота">21</param>
-<param name="Верхний диаметр">15</param>
-<param name="Назначение">Универсальное</param>
-<param name="Объем">1.7</param>
-<param name="Наличие ручки">Да</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Способ закрывания">Крышка</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Тип емкости">Кувшин</param>
-<param name="Нижний диаметр">8</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="CR-5-20" available="true">
 <name>Новогодняя декоративная фигурка с подсветкой 9,5*8*16 см Ребенок на снежном шаре из фарфора CR-5-20</name>
 <price>429</price>
@@ -90166,6 +90125,32 @@ Sokany SK-06009 компактный и занимает минимум мест
 <param name="Цвет">Серый</param>
 <param name="Глубина вазы">21.5</param>
 <param name="Состояние">Новое</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="64486-72" available="true">
+<name>Кувшин для напитков 1.7 (л) с ручкой и бамбуковой крышкой 64486-72</name>
+<price>669</price>
+<vendorprice>515</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>25</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/64486-72/64486-72-2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/64486-72/64486-72-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/64486-72/64486-72-3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Стеклянный кувшин с бамбуковой ручкой &mdash; стильное и функциональное решение для подачи напитков дома или в кафе. Прозрачное стекло позволяет красиво презентовать лимонад, компот, чай или воду, а лаконичная геометрическая форма придаёт изделию современный вид.  Крышка выполнена из сочетания бамбука, металла и силикона &mdash; она плотно прилегает, предотвращая проливание и сохраняя аромат напитков. Удобная бамбуковая ручка обеспечивает комфорт при наливании и надёжность при переноске.  Основные характеристики    кувшина для напитков:   Материал кувшина: стекло; Материал крышки: бамбук, металл, силикон; Высота: 21 см; Диаметр верхний: 8 см; Диаметр: 15 см; Объем: 1.7 л.   Кувшин гармонично сочетает практичность и эстетику, легко вписывается в любой стиль сервировки и станет эффектным акцентом на кухне или праздничном столе.]]></description>
+<quantity_in_stock>13</quantity_in_stock>
+<vendorCode>64486-72</vendorCode>
+<param name="Материал">Стекло</param>
+<param name="Высота">21</param>
+<param name="Верхний диаметр">15</param>
+<param name="Назначение">Универсальное</param>
+<param name="Объем">1.7</param>
+<param name="Наличие ручки">Да</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Способ закрывания">Крышка</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Тип емкости">Кувшин</param>
+<param name="Нижний диаметр">8</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="XL-4074AG" available="true">
@@ -108965,48 +108950,6 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Цвет">Фиолетовый</param>
 <param name="Ширина">15 см</param>
 </offer>
-<offer id="HP-35015-10GR" available="true">
-<name>Комплект для уборки веник с совком, зеленый</name>
-<url>https://lugi.com.ua/ru/komplekt-dlya-pribirannya-vnik-z-sovkom/</url>
-<price>539</price>
-<vendorprice>417</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>160</categoryId>
-<picture>https://lugi.com.ua/image/cache/external/4945ee351ec28f535295e48c75bf5d14-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/cf3243acabda658efa177a3427474ee3-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/4c8c2af46f16f72a0913489f5cc48b1c-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/9289f5b2e6bb9e9c180235cbd1ab254f-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/70834c3fdb954f9e09da35d74a0229c0-600x600.webp</picture>
-<description><![CDATA[<p>Комплект для уборки состоит из веника и совка, подходящих для ежедневного использования дома, в офисе или других помещениях. Веник изготовлен из полипропилена и оснащен плотной щетиной, которая эффективно собирает пыль, крошки и мелкий мусор. Длинная ручка обеспечивает комфорт во время работы и позволяет поддерживать правильное положение спины.
-</p><p>Совок изготовлен из прочного пластика и имеет бортик, плотно прилегающий к полу, благодаря чему мусор легко попадает внутрь и не рассыпается. Для дополнительного удобства он оборудован зубцами для очистки щетины веника и держателем, который позволяет фиксировать комплект в вертикальном положении. Это делает набор компактным и аккуратным при хранении.
-</p><p>Эргономичная форма, удобные размеры и небольшой вес позволяют пользоваться набором ежедневно без лишних усилий. Он станет надежным помощником в поддержании чистоты и порядка в любом помещении.
-</p><p>
-<b>Характеристики:
-</b></p><ul><li>Тип: комплект для уборки (веник + совок)
-</li><li>Вес: 900 г</li><li>
-Размеры: 26 × 24 × 103 см
-</li><li>Материал совка: пластик
-</li><li>Материал веника: полипропилен
- </li><li>Длина ручки совка: 87 см
-</li><li>Длина ручки веника: 90 см
-</li><li>Размер щетки: 30 см
-</li><li>Наличие зубцов на совке: да
-</li><li>Держатель для щетки: да
-</li><li>Особенности: плотное прилегание совка к полу, вертикальное хранение, эргономичный дизайн</li></ul>]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<vendorCode>HP-35015-10GR</vendorCode>
-<param name="Вес">900 г</param>
-<param name="Гарантийный срок">14 дней</param>
-<param name="Держатель для щетки">Да</param>
-<param name="Длина ручки совка">87 см</param>
-<param name="Длина ручки щетки">90 см</param>
-<param name="Материал веника">Полипропилен</param>
-<param name="Материал совка">Пластик</param>
-<param name="Наличие зубцов на совке">Да</param>
-<param name="Размер щетки">30 см</param>
-<param name="Размеры">26*24*103 см</param>
-<param name="Цвет">Зеленый</param>
-</offer>
 <offer id="HP-35015-13P" available="true">
 <name>Швабра-моп веревочная для мытья пола 134 см, розовый</name>
 <url>https://lugi.com.ua/ru/shvabra-mop-verevochnaya-dlya-mytjya-pola-rozovyj/</url>
@@ -116666,6 +116609,48 @@ USB-порта и один Type-C для зарядки смартфонов, н
 <param name="Цвет">Белый</param>
 <param name="Насадки">Диффузор/Концентратор/Насадка для объема/Насадка расческа/Сушильный наконечник</param>
 <param name="Режим работы">Ионизация/Холодный обдув</param>
+</offer>
+<offer id="HP-35015-10GR" available="true">
+<name>Комплект для уборки веник с совком, зеленый</name>
+<url>https://lugi.com.ua/ru/komplekt-dlya-pribirannya-vnik-z-sovkom/</url>
+<price>539</price>
+<vendorprice>417</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>160</categoryId>
+<picture>https://lugi.com.ua/image/cache/external/4945ee351ec28f535295e48c75bf5d14-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/cf3243acabda658efa177a3427474ee3-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/4c8c2af46f16f72a0913489f5cc48b1c-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/9289f5b2e6bb9e9c180235cbd1ab254f-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/70834c3fdb954f9e09da35d74a0229c0-600x600.webp</picture>
+<description><![CDATA[<p>Комплект для уборки состоит из веника и совка, подходящих для ежедневного использования дома, в офисе или других помещениях. Веник изготовлен из полипропилена и оснащен плотной щетиной, которая эффективно собирает пыль, крошки и мелкий мусор. Длинная ручка обеспечивает комфорт во время работы и позволяет поддерживать правильное положение спины.
+</p><p>Совок изготовлен из прочного пластика и имеет бортик, плотно прилегающий к полу, благодаря чему мусор легко попадает внутрь и не рассыпается. Для дополнительного удобства он оборудован зубцами для очистки щетины веника и держателем, который позволяет фиксировать комплект в вертикальном положении. Это делает набор компактным и аккуратным при хранении.
+</p><p>Эргономичная форма, удобные размеры и небольшой вес позволяют пользоваться набором ежедневно без лишних усилий. Он станет надежным помощником в поддержании чистоты и порядка в любом помещении.
+</p><p>
+<b>Характеристики:
+</b></p><ul><li>Тип: комплект для уборки (веник + совок)
+</li><li>Вес: 900 г</li><li>
+Размеры: 26 × 24 × 103 см
+</li><li>Материал совка: пластик
+</li><li>Материал веника: полипропилен
+ </li><li>Длина ручки совка: 87 см
+</li><li>Длина ручки веника: 90 см
+</li><li>Размер щетки: 30 см
+</li><li>Наличие зубцов на совке: да
+</li><li>Держатель для щетки: да
+</li><li>Особенности: плотное прилегание совка к полу, вертикальное хранение, эргономичный дизайн</li></ul>]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<vendorCode>HP-35015-10GR</vendorCode>
+<param name="Вес">900 г</param>
+<param name="Гарантийный срок">14 дней</param>
+<param name="Держатель для щетки">Да</param>
+<param name="Длина ручки совка">87 см</param>
+<param name="Длина ручки щетки">90 см</param>
+<param name="Материал веника">Полипропилен</param>
+<param name="Материал совка">Пластик</param>
+<param name="Наличие зубцов на совке">Да</param>
+<param name="Размер щетки">30 см</param>
+<param name="Размеры">26*24*103 см</param>
+<param name="Цвет">Зеленый</param>
 </offer>
 <offer id="HP-35015-13V" available="true">
 <name>Швабра-моп веревочная для мытья пола 134 см, фиолетовый</name>
