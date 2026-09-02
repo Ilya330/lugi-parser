@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-01 20:21">
+<yml_catalog date="2026-09-02 02:04">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -387,7 +387,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/129/HP-UR-2/HP-UR-2-%2827%29.jpg</picture>
 <vendor>Sokany</vendor>
 <description><![CDATA[Паровой утюг это мощное беспроводное устройство, которое обеспечивает быстрое и эффективное разглаживание благодаря мощному пару и функции парового удара. Основные характеристики паро утюга включают высокую мощность 2400 Вт, что гарантирует быстрый нагрев и эффективную глажку.  Керамическое покрытие подошвы обеспечивает плавное скольжение по ткани, а система постоянной подачи пара делает процесс глажки более равномерным и эффективным.  Основные характеристики утюга   Потребляемая мощность 2400 Вт. Объем резервуара для воды 450 мл. Подача пара 150 г/мин. Материал подошвы утюга - керамика.   Утюг также поддерживает вертикальное отпаривание, что делает его удобным инструментом для освежения одежды, не снимая его с вешалки.   Паровой утюг оснащен интеллектуальными функциями, такими как автоматическое выключение для безопасности и режим самоочистки для продления срока службы. Удобная ручка и эргономичный дизайн обеспечивают комфорт во время использования утюга.]]></description>
-<quantity_in_stock>175</quantity_in_stock>
+<quantity_in_stock>174</quantity_in_stock>
 <vendorCode>HP-UR-2</vendorCode>
 <param name="Тип">Утюг</param>
 <param name="Высота">16.5</param>
@@ -3351,47 +3351,6 @@
 <param name="Тип терморегулятора">Ступенчатый</param>
 <param name="Ширина пластин">38</param>
 </offer>
-<offer id="SK-09022" available="true">
-<name>Электрочайник с автоматическим отключением 2.3 л Sokany дисковый бытовой 1500 Вт SK-09022</name>
-<price>709</price>
-<vendorprice>381</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>39</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3546/elektrochaynik_s_avtomaticheskim_otklyucheniem_2_3_l_sokany_diskovyy_bytovoy_1500_vt.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_6.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Электрочайник Sokany – практичное и удобное устройство, которое дает возможность в считанные минуты вскипятить воду и станет стильным дополнением любой кухни. Чайник отличается оптимальным объемом для приготовления горячих напитков для всей семьи, имеет дисковый нагревательный элемент и поворотное основание.  Основные характеристики электро чайника   объем 2.3 литра; мощность 1500 Вт; материал корпуса - нержавеющая сталь; дисковый нагревательный элемент.   Особенности электрического чайника   Авто отключение при снятии с подставки. Защита от включения без воды. Защита от перегрева.   Чайник изготовлен из безопасных материалов, имеет защиту от включения без воды и удобную ручку, которая не нагревается и обеспечивает защиту от ожогов. Закрытый нагревательный элемент гарантирует длительный срок службы и простую очистку от накипи.]]></description>
-<quantity_in_stock>50</quantity_in_stock>
-<vendorCode>SK-09022</vendorCode>
-<param name="Тип">Электрочайник</param>
-<param name="Высота">230</param>
-<param name="Автоотключение при отсутствии воды">Да</param>
-<param name="Гарантийный срок">3 мес</param>
-<param name="Вес">0.8</param>
-<param name="Глубина">200</param>
-<param name="Потребляемая мощность">1500</param>
-<param name="Длина сетевого шнура">0.55</param>
-<param name="Дисплей">Нет</param>
-<param name="Ширина">150</param>
-<param name="Звуковой сигнал">Нет</param>
-<param name="Объем">2.3</param>
-<param name="Материал корпуса">Нержавеющая сталь</param>
-<param name="Наличие фильтра">Нет</param>
-<param name="Индикатор работы">Да</param>
-<param name="Поворот на 360 градусов">Да</param>
-<param name="Подсветка чайника">Нет</param>
-<param name="Состояние">Новое</param>
-<param name="Рисунок на корпусе">Нет</param>
-<param name="Цвет корпуса">Серебристый</param>
-<param name="Таймер">Нет</param>
-<param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
-<param name="Функция автоотключения">Да</param>
-</offer>
 <offer id="SK-07053" available="true">
 <name>Мультиварка электрическая Sokany с чашей на 7 л и антипригарным покрытием SK-07053</name>
 <price>4159</price>
@@ -3579,6 +3538,47 @@
 <param name="Гарантия">14 дней</param>
 <param name="Толщина стенки">5 мм</param>
 <param name="Многослойное дно">Да</param>
+</offer>
+<offer id="SK-09022" available="true">
+<name>Электрочайник с автоматическим отключением 2.3 л Sokany дисковый бытовой 1500 Вт SK-09022</name>
+<price>709</price>
+<vendorprice>381</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>39</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3546/elektrochaynik_s_avtomaticheskim_otklyucheniem_2_3_l_sokany_diskovyy_bytovoy_1500_vt.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_6.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Электрочайник Sokany – практичное и удобное устройство, которое дает возможность в считанные минуты вскипятить воду и станет стильным дополнением любой кухни. Чайник отличается оптимальным объемом для приготовления горячих напитков для всей семьи, имеет дисковый нагревательный элемент и поворотное основание.  Основные характеристики электро чайника   объем 2.3 литра; мощность 1500 Вт; материал корпуса - нержавеющая сталь; дисковый нагревательный элемент.   Особенности электрического чайника   Авто отключение при снятии с подставки. Защита от включения без воды. Защита от перегрева.   Чайник изготовлен из безопасных материалов, имеет защиту от включения без воды и удобную ручку, которая не нагревается и обеспечивает защиту от ожогов. Закрытый нагревательный элемент гарантирует длительный срок службы и простую очистку от накипи.]]></description>
+<quantity_in_stock>48</quantity_in_stock>
+<vendorCode>SK-09022</vendorCode>
+<param name="Тип">Электрочайник</param>
+<param name="Высота">230</param>
+<param name="Автоотключение при отсутствии воды">Да</param>
+<param name="Гарантийный срок">3 мес</param>
+<param name="Вес">0.8</param>
+<param name="Глубина">200</param>
+<param name="Потребляемая мощность">1500</param>
+<param name="Длина сетевого шнура">0.55</param>
+<param name="Дисплей">Нет</param>
+<param name="Ширина">150</param>
+<param name="Звуковой сигнал">Нет</param>
+<param name="Объем">2.3</param>
+<param name="Материал корпуса">Нержавеющая сталь</param>
+<param name="Наличие фильтра">Нет</param>
+<param name="Индикатор работы">Да</param>
+<param name="Поворот на 360 градусов">Да</param>
+<param name="Подсветка чайника">Нет</param>
+<param name="Состояние">Новое</param>
+<param name="Рисунок на корпусе">Нет</param>
+<param name="Цвет корпуса">Серебристый</param>
+<param name="Таймер">Нет</param>
+<param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
+<param name="Функция автоотключения">Да</param>
 </offer>
 <offer id="SK-119GR" available="true">
 <name>Утюг Sokany с керамической подошвой SK-119GR</name>
@@ -6952,39 +6952,6 @@
 <param name="Прорезиненные ножки">Есть</param>
 <param name="Тип управления">Механическое</param>
 </offer>
-<offer id="SK-19027GR" available="true">
-<name>Весы для кухни Sokany до 5 кг электронные на батарейках Зеленый Lugi SK-19027GR</name>
-<price>369</price>
-<vendorprice>232</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4652/vesy_dlya_kuhni_do_5_kg_elektronnye_tochnye_pishchevye_dlya_produktov_bytovye_bez_chashi_na_batareykah_sokany_lugi.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4652/vesy_dlya_kuhni_do_5_kg_elektronnye_tochnye_pishchevye_dlya_produktov_bytovye_bez_chashi_na_batareykah_sokany_lugi_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4652/vesy_dlya_kuhni_do_5_kg_elektronnye_tochnye_pishchevye_dlya_produktov_bytovye_bez_chashi_na_batareykah_sokany_lugi_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4652/vesy_dlya_kuhni_do_5_kg_elektronnye_tochnye_pishchevye_dlya_produktov_bytovye_bez_chashi_na_batareykah_sokany_lugi_3.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Кухонные весы Sokany &ndash; это неотъемлемый помощник в каждой кухне, который обеспечит точность и легкость при измерении ингредиентов. Удобные и стильные они станут неотъемлемой частью вашего кулинарного процесса.  Характеристики кухонных весов Sokany   размер 22&times;15&times;1 см; максимально допустимый вес 5 кг; современный дизайн; дополнительная функция "тара"; автоматическое отключение; индикация перегрузки.   Благодаря высокоточным сенсорам и системе автоматического отключения вы можете легко измерять вес ингредиентов от 1 г до 5 кг. Компактный дизайн и возможность использования 1 батарейки позволяют использовать эти весы в любом месте вашей кухни. Легкость очистки и хранения делают эти весы идеальным выбором для любой хозяйки, ценящей качество и комфорт в приготовлении блюд.]]></description>
-<quantity_in_stock>21</quantity_in_stock>
-<vendorCode>SK-19027GR</vendorCode>
-<param name="Высота">1 см</param>
-<param name="Вид кухонных весов">электронные</param>
-<param name="Гарантийный срок">14 дней</param>
-<param name="Вес">0.5 кг</param>
-<param name="Дисплей">Да</param>
-<param name="Единицы измерения">Грамм|Килограммы</param>
-<param name="Ширина">15 см</param>
-<param name="Индикация перегрузки">Да</param>
-<param name="Компенсация тары">Да</param>
-<param name="Материал корпуса">Пластик/Стекло</param>
-<param name="Конструкция тары">платформа</param>
-<param name="Максимальный вес">5 кг</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Зеленый</param>
-<param name="Съемная тара">Нет</param>
-<param name="Функция автоотключения">Да</param>
-<param name="Точность измерения">1</param>
-<param name="Тип элементов питания">CR2032</param>
-</offer>
 <offer id="SK-14006" available="true">
 <name>Фен для волос с концентратором 2000 Вт  Sokany SK-14006</name>
 <price>929</price>
@@ -7024,6 +6991,39 @@
 <param name="Поворот шнура на 360 градусов">Да</param>
 <param name="Складная ручка">Нет</param>
 <param name="Холодный обдув">Да</param>
+</offer>
+<offer id="SK-19027GR" available="true">
+<name>Весы для кухни Sokany до 5 кг электронные на батарейках Зеленый Lugi SK-19027GR</name>
+<price>369</price>
+<vendorprice>232</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4652/vesy_dlya_kuhni_do_5_kg_elektronnye_tochnye_pishchevye_dlya_produktov_bytovye_bez_chashi_na_batareykah_sokany_lugi.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4652/vesy_dlya_kuhni_do_5_kg_elektronnye_tochnye_pishchevye_dlya_produktov_bytovye_bez_chashi_na_batareykah_sokany_lugi_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4652/vesy_dlya_kuhni_do_5_kg_elektronnye_tochnye_pishchevye_dlya_produktov_bytovye_bez_chashi_na_batareykah_sokany_lugi_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4652/vesy_dlya_kuhni_do_5_kg_elektronnye_tochnye_pishchevye_dlya_produktov_bytovye_bez_chashi_na_batareykah_sokany_lugi_3.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Кухонные весы Sokany &ndash; это неотъемлемый помощник в каждой кухне, который обеспечит точность и легкость при измерении ингредиентов. Удобные и стильные они станут неотъемлемой частью вашего кулинарного процесса.  Характеристики кухонных весов Sokany   размер 22&times;15&times;1 см; максимально допустимый вес 5 кг; современный дизайн; дополнительная функция "тара"; автоматическое отключение; индикация перегрузки.   Благодаря высокоточным сенсорам и системе автоматического отключения вы можете легко измерять вес ингредиентов от 1 г до 5 кг. Компактный дизайн и возможность использования 1 батарейки позволяют использовать эти весы в любом месте вашей кухни. Легкость очистки и хранения делают эти весы идеальным выбором для любой хозяйки, ценящей качество и комфорт в приготовлении блюд.]]></description>
+<quantity_in_stock>20</quantity_in_stock>
+<vendorCode>SK-19027GR</vendorCode>
+<param name="Высота">1 см</param>
+<param name="Вид кухонных весов">электронные</param>
+<param name="Гарантийный срок">14 дней</param>
+<param name="Вес">0.5 кг</param>
+<param name="Дисплей">Да</param>
+<param name="Единицы измерения">Грамм|Килограммы</param>
+<param name="Ширина">15 см</param>
+<param name="Индикация перегрузки">Да</param>
+<param name="Компенсация тары">Да</param>
+<param name="Материал корпуса">Пластик/Стекло</param>
+<param name="Конструкция тары">платформа</param>
+<param name="Максимальный вес">5 кг</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Зеленый</param>
+<param name="Съемная тара">Нет</param>
+<param name="Функция автоотключения">Да</param>
+<param name="Точность измерения">1</param>
+<param name="Тип элементов питания">CR2032</param>
 </offer>
 <offer id="HP-4-410CO" available="true">
 <name>Набор сковородок из 3 предметов с толстым дном из алюминия MGC кофейный HP-4-410CO</name>
@@ -12754,7 +12754,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_1.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Лампочка на аккумуляторах с откидной крышкой и встроенным отсеком для батарей — это эстетичное и функциональное решение для вашего дома, дачи, кемпинга или гаража. Она совмещает в себе дизайн классической лампы и современные технологии автономного освещения. Уникальный корпус с легким доступом к аккумуляторам делает обслуживание быстрым и удобным.  Характеристики лампочки   тип: аварийная лампочка со встроенным аккумулятором; встроенный отсек для двух аккумуляторов; высота лампочки 16 см; диаметр 7 см; тип цоколя E27; мощность 15/20 Вт; напряжение 85-265 В; время работы 3-4 часа; время зарядки 4 часа; частота 50/60 Гц; корпус: ABS-пластик с откидной панелью для замены батарей; цвет: белый глянец.   Преимущества электролампочки   Быстрый доступ к аккумуляторам — удобная крышка для замены батарей за секунды. Работает при отключении света — автономная система освещения на случай ЧП. Универсальное применение — подходит для любого помещения и уличного освещения.   Эта электролампочка с аккумулятором станет вашим верным помощником в ситуациях, когда внезапно отключается свет. Незаменима для дачников, туристов, жителей с нестабильным электроснабжением и всех, кто ценит автономность и комфорт.  Сделайте свой дом независимым от сети — добавьте в корзину аварийную лампочку на аккумуляторах уже сегодня и будьте готовы к любой непредвиденной ситуации.]]></description>
-<quantity_in_stock>4968</quantity_in_stock>
+<quantity_in_stock>4962</quantity_in_stock>
 <vendorCode>HP-5-31</vendorCode>
 <param name="Мощность">15 / 20 Вт</param>
 <param name="Диаметр">7</param>
@@ -12923,7 +12923,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5738/pakety_dlya_vakuumatora_30_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Вакуумные пакеты 30*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования.  Основные характеристики пакетов для вакууматора:  размер: 30*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен.  Преимущества:  Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки.  Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.]]></description>
-<quantity_in_stock>1896</quantity_in_stock>
+<quantity_in_stock>1894</quantity_in_stock>
 <vendorCode>HP-11-23</vendorCode>
 <param name="Тип">Пакет</param>
 <param name="Материал">Полиэтилен</param>
@@ -20678,27 +20678,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="BQ-11" available="true">
-<name>Решетка гриль для рыбы из нержавеющей стали 37х15 см BQ-11</name>
-<price>309</price>
-<vendorprice>235</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>127</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6975/reshetka_gril_dlya_ryby_iz_nerzhaveyushchey_stali_37h15_sm_dlya_kostra_mangala_kempinga_reshetka_dlya_barbekyu_shashlyku_grilevaniya.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6975/reshetka_gril_dlya_ryby_iz_nerzhaveyushchey_stali_37h15_sm_dlya_kostra_mangala_kempinga_reshetka_dlya_barbekyu_shashlyku_grilevaniya_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6975/reshetka_gril_dlya_ryby_iz_nerzhaveyushchey_stali_37h15_sm_dlya_kostra_mangala_kempinga_reshetka_dlya_barbekyu_shashlyku_grilevaniya_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6975/reshetka_gril_dlya_ryby_iz_nerzhaveyushchey_stali_37h15_sm_dlya_kostra_mangala_kempinga_reshetka_dlya_barbekyu_shashlyku_grilevaniya_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6975/reshetka_gril_dlya_ryby_iz_nerzhaveyushchey_stali_37h15_sm_dlya_kostra_mangala_kempinga_reshetka_dlya_barbekyu_shashlyku_grilevaniya_4.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Решетка гриль для рыбы – удобный инструмент для приготовления блюд на открытом огне. Размер рабочей части 37*15 см позволяет готовить рыбу целиком или порционными кусками, обеспечивая равномерную прожарку с обеих сторон. Конструкция предусматривает фиксацию продукта, что упрощает процесс переворачивания во время жарки.  Модель оснащена длинной ручкой длиной 30 см с защитной накладкой, которая уменьшает нагрев при контакте с огнем. Это позволяет контролировать процесс приготовления и работать на безопасном расстоянии от жара. Решетка подходит для использования на открытом очаге, углях или гриле.  Изготовлена из нержавеющей стали, решетка выдерживает высокие температуры и подходит для многократного использования. Материал устойчив к влаге и не подвергается коррозии, а конструкция облегчает очистку после приготовления. Практичный вариант для пикников, рыбалки и отдыха на природе.   Характеристики:    Тип: решетка-гриль для рыбы Материал: нержавеющая сталь Размеры: 35 × 14 см Длина ручки: 30 см]]></description>
-<quantity_in_stock>233</quantity_in_stock>
-<vendorCode>BQ-11</vendorCode>
-<param name="Материал">Нержавеющая сталь</param>
-<param name="Назначение решетки">Для рыбы</param>
-<param name="Длина рабочей поверхности">37</param>
-<param name="Ширина рабочей поверхности">15</param>
-<param name="Форма">Овальная</param>
-</offer>
 <offer id="RX-N24723P" available="true">
 <name>фарфоровая чашка с блюдцем 250 мл с цветами Розовая RX-N24723P</name>
 <price>249</price>
@@ -20733,6 +20712,27 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Подарочная упаковка">Нет</param>
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="BQ-11" available="true">
+<name>Решетка гриль для рыбы из нержавеющей стали 37х15 см BQ-11</name>
+<price>309</price>
+<vendorprice>235</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>127</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6975/reshetka_gril_dlya_ryby_iz_nerzhaveyushchey_stali_37h15_sm_dlya_kostra_mangala_kempinga_reshetka_dlya_barbekyu_shashlyku_grilevaniya.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6975/reshetka_gril_dlya_ryby_iz_nerzhaveyushchey_stali_37h15_sm_dlya_kostra_mangala_kempinga_reshetka_dlya_barbekyu_shashlyku_grilevaniya_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6975/reshetka_gril_dlya_ryby_iz_nerzhaveyushchey_stali_37h15_sm_dlya_kostra_mangala_kempinga_reshetka_dlya_barbekyu_shashlyku_grilevaniya_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6975/reshetka_gril_dlya_ryby_iz_nerzhaveyushchey_stali_37h15_sm_dlya_kostra_mangala_kempinga_reshetka_dlya_barbekyu_shashlyku_grilevaniya_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6975/reshetka_gril_dlya_ryby_iz_nerzhaveyushchey_stali_37h15_sm_dlya_kostra_mangala_kempinga_reshetka_dlya_barbekyu_shashlyku_grilevaniya_4.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Решетка гриль для рыбы – удобный инструмент для приготовления блюд на открытом огне. Размер рабочей части 37*15 см позволяет готовить рыбу целиком или порционными кусками, обеспечивая равномерную прожарку с обеих сторон. Конструкция предусматривает фиксацию продукта, что упрощает процесс переворачивания во время жарки.  Модель оснащена длинной ручкой длиной 30 см с защитной накладкой, которая уменьшает нагрев при контакте с огнем. Это позволяет контролировать процесс приготовления и работать на безопасном расстоянии от жара. Решетка подходит для использования на открытом очаге, углях или гриле.  Изготовлена из нержавеющей стали, решетка выдерживает высокие температуры и подходит для многократного использования. Материал устойчив к влаге и не подвергается коррозии, а конструкция облегчает очистку после приготовления. Практичный вариант для пикников, рыбалки и отдыха на природе.   Характеристики:    Тип: решетка-гриль для рыбы Материал: нержавеющая сталь Размеры: 35 × 14 см Длина ручки: 30 см]]></description>
+<quantity_in_stock>232</quantity_in_stock>
+<vendorCode>BQ-11</vendorCode>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Назначение решетки">Для рыбы</param>
+<param name="Длина рабочей поверхности">37</param>
+<param name="Ширина рабочей поверхности">15</param>
+<param name="Форма">Овальная</param>
 </offer>
 <offer id="CF500L50MWY" available="true">
 <name>Гирлянда Рождественская фея уличная 50 м 500 LED белый провод Желтый CF500L50MWY</name>
@@ -23860,31 +23860,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Тип питания">Аккумулятор</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-5-53" available="true">
-<name>Сетевой фильтр-удлинитель 6 розеток 4xUSB-A 2xUSB-C 5м белая HP-5-53</name>
-<price>729</price>
-<vendorprice>562</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>80</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7005/setevoy_filtr_udlinitel_6_rozetok_4xusb_a_2xusb_c_5m_belaya_knopka_otklyucheniya_udlinitel_elektricheskaya_zaryadka.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_1.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 6 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 6 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 23 × 11 × 4 см]]></description>
-<quantity_in_stock>186</quantity_in_stock>
-<vendorCode>HP-5-53</vendorCode>
-<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
-<param name="Длина шнура">5</param>
-<param name="Количество выходных розеток">6</param>
-<param name="Выключатель">Да</param>
-<param name="Входная вилка">ЕURO</param>
-<param name="Выходная розетка">Евро</param>
-<param name="Длина провода">5</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Белый</param>
-</offer>
 <offer id="36MWY" available="true">
 <name>Уличная гирлянда Бахрома 36 м 600 LED белый провод Желтое сияние36MWY</name>
 <price>2369</price>
@@ -23917,6 +23892,31 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Форма лампочки">Классическая</param>
 <param name="Форма сечения">Круглая</param>
 <param name="Цветовая гамма">Желтый</param>
+</offer>
+<offer id="HP-5-53" available="true">
+<name>Сетевой фильтр-удлинитель 6 розеток 4xUSB-A 2xUSB-C 5м белая HP-5-53</name>
+<price>729</price>
+<vendorprice>562</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>80</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7005/setevoy_filtr_udlinitel_6_rozetok_4xusb_a_2xusb_c_5m_belaya_knopka_otklyucheniya_udlinitel_elektricheskaya_zaryadka.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_1.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 6 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 6 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 23 × 11 × 4 см]]></description>
+<quantity_in_stock>185</quantity_in_stock>
+<vendorCode>HP-5-53</vendorCode>
+<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+<param name="Длина шнура">5</param>
+<param name="Количество выходных розеток">6</param>
+<param name="Выключатель">Да</param>
+<param name="Входная вилка">ЕURO</param>
+<param name="Выходная розетка">Евро</param>
+<param name="Длина провода">5</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Белый</param>
 </offer>
 <offer id="HP-42-83" available="true">
 <name>Коврик для ванной комнаты 58*38 см под мрамор Yiwu HP-42-83</name>
@@ -31674,33 +31674,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Возрастная группа">Без ограничений</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-FM-352-1" available="true">
-<name>Термочашка 520 мл с мл с трубочкой и двойным открыванием белый HP-FM-352-1</name>
-<price>519</price>
-<vendorprice>407</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>158</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/2067952847_max.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-4.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Термочашка 520 мл сочетает функциональность и продуманную конструкцию для ежедневного использования. На корпусе размещен цветочный принт с надписью. Модель оснащена герметичной крышкой с двойным открыванием: отдельный клапан для питья и дополнительное отверстие для использования трубочки. Сбоку закреплен текстильный ремешок с надписью &ldquo;COFFEE&rdquo;.  Двойная стенка помогает сохранять температуру напитков дольше, уменьшая нагрев внешней поверхности. Объем 520 мл подходит для кофе, чая, воды или других напитков в течение рабочего дня или прогулки. Конструкция предусматривает плотное закрывание, что снижает риск протеканий в сумке или рюкзаке. Нижняя часть имеет усиленную основу для большей устойчивости.  Термочашка подходит для офиса, учебы, путешествий или ежедневного использования в городе. Компактная форма позволяет удобно держать ее в руке и размещать в большинстве подстаканников. Практичное решение для тех, кто ищет удобный формат многоразовой чашки с продуманными деталями.   Характеристики:    Тип: термочашка Объем: 520 мл Конструкция: двойная стенка Крышка: двойное открывание Дополнительно: отверстие для трубочки]]></description>
-<quantity_in_stock>123</quantity_in_stock>
-<vendorCode>HP-FM-352-1</vendorCode>
-<param name="Тип">Термокружка</param>
-<param name="Высота">20</param>
-<param name="Верхний диаметр">8</param>
-<param name="Глубина">6.5</param>
-<param name="Крышка">крышка с поилкой</param>
-<param name="Ширина">6.5</param>
-<param name="Объем">520</param>
-<param name="Ручка">Нет</param>
-<param name="Тип термоса">Питьевой</param>
-<param name="Состояние">Новое</param>
-<param name="Нижний диаметр">6.5</param>
-</offer>
 <offer id="HP16294" available="true">
 <name>Бутылка дозатор для масла и уксуса 600 мл с носиком бежевая HP16294</name>
 <price>369</price>
@@ -31850,6 +31823,33 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <vendorCode>HP-L-7</vendorCode>
 <param name="Материал плафона, подвесок">Пластик</param>
 <param name="Материал каркаса">пластик</param>
+</offer>
+<offer id="HP-FM-352-1" available="true">
+<name>Термочашка 520 мл с мл с трубочкой и двойным открыванием белый HP-FM-352-1</name>
+<price>519</price>
+<vendorprice>407</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>158</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/2067952847_max.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-4.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Термочашка 520 мл сочетает функциональность и продуманную конструкцию для ежедневного использования. На корпусе размещен цветочный принт с надписью. Модель оснащена герметичной крышкой с двойным открыванием: отдельный клапан для питья и дополнительное отверстие для использования трубочки. Сбоку закреплен текстильный ремешок с надписью &ldquo;COFFEE&rdquo;.  Двойная стенка помогает сохранять температуру напитков дольше, уменьшая нагрев внешней поверхности. Объем 520 мл подходит для кофе, чая, воды или других напитков в течение рабочего дня или прогулки. Конструкция предусматривает плотное закрывание, что снижает риск протеканий в сумке или рюкзаке. Нижняя часть имеет усиленную основу для большей устойчивости.  Термочашка подходит для офиса, учебы, путешествий или ежедневного использования в городе. Компактная форма позволяет удобно держать ее в руке и размещать в большинстве подстаканников. Практичное решение для тех, кто ищет удобный формат многоразовой чашки с продуманными деталями.   Характеристики:    Тип: термочашка Объем: 520 мл Конструкция: двойная стенка Крышка: двойное открывание Дополнительно: отверстие для трубочки]]></description>
+<quantity_in_stock>122</quantity_in_stock>
+<vendorCode>HP-FM-352-1</vendorCode>
+<param name="Тип">Термокружка</param>
+<param name="Высота">20</param>
+<param name="Верхний диаметр">8</param>
+<param name="Глубина">6.5</param>
+<param name="Крышка">крышка с поилкой</param>
+<param name="Ширина">6.5</param>
+<param name="Объем">520</param>
+<param name="Ручка">Нет</param>
+<param name="Тип термоса">Питьевой</param>
+<param name="Состояние">Новое</param>
+<param name="Нижний диаметр">6.5</param>
 </offer>
 <offer id="HP-14-2BL" available="true">
 <name>Термобутылка из нержавеющей стали 500 мл синий металлик HP-14-2BL</name>
@@ -33380,29 +33380,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Количество в наборе">2</param>
 <param name="Длина">118/58</param>
 </offer>
-<offer id="HP-14-18V" available="true">
-<name>Термокружка Chiobbe с трубочкой и ремешком 450 мл сиреневая HP-14-18V</name>
-<price>709</price>
-<vendorprice>543</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>158</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3101/termokruzhka_s_trubochkoy_dlya_kofe_i_chaya_450_ml_kruzhka_termos_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3101/termokruzhka_s_trubochkoy_dlya_kofe_i_chaya_450_ml_kruzhka_termos_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3101/termokruzhka_s_trubochkoy_dlya_kofe_i_chaya_450_ml_kruzhka_termos_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3101/termokruzhka_s_trubochkoy_dlya_kofe_i_chaya_450_ml_kruzhka_termos_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali_3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Термокружка с трубочкой 450 мл – это практичный и удобный аксессуар, который позволит вам наслаждаться любимым напитком, будь то горячий кофе, ароматный чай или освежающий сок, в любом месте и в любое время. Внутренняя колба изготовлена из высококачественной нержавеющей стали - этот материал является безопасным для здоровья, не накапливает запахи и не влияет на вкус напитка.  Матовая термокружка объединяет в себе сразу два формата для комфортного питья:   силиконовую трубочку; отверстие с клапаном.   Оба отверстия надежно закрываются защитными герметичными клапанами, которые предотвращают пролитие напитка.   Основные характеристики    объем 450 мл; высота 16 см; диаметр 6.5 см.    Основные преимущества    Термокружка с вакуумной изоляцией способна сохранять температуру напитка в течение нескольких часов. Ремешок для удобства использования. Крышка термокружки плотно закрывается, что защищает напиток от пролития.   Термокружка незаменима в дороге, в спорт зале, на прогулках и пикниках. Она прекрасно удерживает тепло или холод, сохраняя температуру напитков. Вы сможете долго лакомиться горячим ароматным чаем или идеально ледяным лимонадом.]]></description>
-<quantity_in_stock>116</quantity_in_stock>
-<vendorCode>HP-14-18V</vendorCode>
-<param name="Высота">16 см</param>
-<param name="Время сохранения тепла">12 ч</param>
-<param name="Время сохранения холода">24 ч</param>
-<param name="Материал колбы">Нержавеющая сталь</param>
-<param name="Объем">450 мл</param>
-<param name="Цвет">Сиреневый</param>
-<param name="Нижний диаметр">6.5 см</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-S-5NDP" available="true">
 <name>Детская игровая палатка &amp;quot;Фургон с мороженым&amp;quot; 110×70×66 см палатка для девочки Розовая HP-S-5NDP</name>
 <price>789</price>
@@ -33654,6 +33631,29 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Терморегулятор">Да</param>
 <param name="Функция ионизации">Да</param>
 <param name="Холодный обдув">Да</param>
+</offer>
+<offer id="HP-14-18V" available="true">
+<name>Термокружка Chiobbe с трубочкой и ремешком 450 мл сиреневая HP-14-18V</name>
+<price>709</price>
+<vendorprice>543</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>158</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3101/termokruzhka_s_trubochkoy_dlya_kofe_i_chaya_450_ml_kruzhka_termos_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3101/termokruzhka_s_trubochkoy_dlya_kofe_i_chaya_450_ml_kruzhka_termos_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3101/termokruzhka_s_trubochkoy_dlya_kofe_i_chaya_450_ml_kruzhka_termos_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3101/termokruzhka_s_trubochkoy_dlya_kofe_i_chaya_450_ml_kruzhka_termos_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali_3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Термокружка с трубочкой 450 мл – это практичный и удобный аксессуар, который позволит вам наслаждаться любимым напитком, будь то горячий кофе, ароматный чай или освежающий сок, в любом месте и в любое время. Внутренняя колба изготовлена из высококачественной нержавеющей стали - этот материал является безопасным для здоровья, не накапливает запахи и не влияет на вкус напитка.  Матовая термокружка объединяет в себе сразу два формата для комфортного питья:   силиконовую трубочку; отверстие с клапаном.   Оба отверстия надежно закрываются защитными герметичными клапанами, которые предотвращают пролитие напитка.   Основные характеристики    объем 450 мл; высота 16 см; диаметр 6.5 см.    Основные преимущества    Термокружка с вакуумной изоляцией способна сохранять температуру напитка в течение нескольких часов. Ремешок для удобства использования. Крышка термокружки плотно закрывается, что защищает напиток от пролития.   Термокружка незаменима в дороге, в спорт зале, на прогулках и пикниках. Она прекрасно удерживает тепло или холод, сохраняя температуру напитков. Вы сможете долго лакомиться горячим ароматным чаем или идеально ледяным лимонадом.]]></description>
+<quantity_in_stock>115</quantity_in_stock>
+<vendorCode>HP-14-18V</vendorCode>
+<param name="Высота">16 см</param>
+<param name="Время сохранения тепла">12 ч</param>
+<param name="Время сохранения холода">24 ч</param>
+<param name="Материал колбы">Нержавеющая сталь</param>
+<param name="Объем">450 мл</param>
+<param name="Цвет">Сиреневый</param>
+<param name="Нижний диаметр">6.5 см</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-8-9" available="true">
 <name>Терка кухонная из нержавеющей стали  9×4×24 (см) двусторонняя HP-8-9</name>
@@ -38695,35 +38695,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Длина">195</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="SCT-660" available="true">
-<name>Набор фарфоровых банок на подставке 3 шт по 180 (мл) Серый SCT-660</name>
-<price>729</price>
-<vendorprice>557</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>2</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/SCT-660/SCT-660-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/SCT-660/SCT-660-3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/SCT-660/SCT-660-2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Набор из трёх фарфоровых банок с бамбуковыми крышками и ложками &mdash; это практичное и элегантное решение для хранения чая, кофе, сахара и других сыпучих продуктов. Благодаря продуманному дизайну он помогает поддерживать порядок и добавляет изысканности кухонному пространству.  Основные характеристики емкостей для хранения сахара, чая и кофе:   Материал: фарфор, бамбук; Размер: 28.5&times;10&times;7.5 см; Диаметр баночек: 8 см; Высота баночек: 6 см; Объем баночек: 180 мл.   Такой набор станет не только функциональным элементом кухни, но и стильным акцентом в интерьере. Он идеально подойдёт в подарок ценителям уюта и порядка, добавив в повседневный быт нотку элегантности.]]></description>
-<quantity_in_stock>95</quantity_in_stock>
-<vendorCode>SCT-660</vendorCode>
-<param name="Тип">Набор банок</param>
-<param name="Материал">Фарфор</param>
-<param name="Высота">7.5</param>
-<param name="Количество предметов в наборе">7</param>
-<param name="Использование в микроволновке">Нет</param>
-<param name="Ширина">10</param>
-<param name="Применение">Для сыпучих продуктов</param>
-<param name="Объем">0.18</param>
-<param name="Хранение в холодильнике">Нет</param>
-<param name="Хранение в морозильной камере">Нет</param>
-<param name="Цвет">Серый</param>
-<param name="Длина">28.5</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Форма">Круглая</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-55-17P" available="true">
 <name>Детская силиконовая сумочка-кошелёк 7*10*3 см Розовый HP-55-17P</name>
 <price>249</price>
@@ -38919,28 +38890,33 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Потребляємая мощность">2 Вт</param>
 <param name="Тип управления">Механическое</param>
 </offer>
-<offer id="HP-14-50O" available="true">
-<name>Термочашка Вышиванка с фарфоровой колбой 380 мл оранжевая HP-14-50O</name>
-<price>969</price>
-<vendorprice>740</vendorprice>
+<offer id="SCT-660" available="true">
+<name>Набор фарфоровых банок на подставке 3 шт по 180 (мл) Серый SCT-660</name>
+<price>729</price>
+<vendorprice>557</vendorprice>
 <currencyId>UAH</currencyId>
-<categoryId>105</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3156/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_s_ukrainskim_ornamentom.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3156/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_s_ukrainskim_ornamentom_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3156/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_s_ukrainskim_ornamentom_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3156/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_s_ukrainskim_ornamentom_3.jpg</picture>
-<vendor>Lugi</vendor>
-<description><![CDATA[Термокружка 380 мл – это практичный и удобный аксессуар, который позволит вам наслаждаться любимым напитком, будь то горячий кофе, ароматный чай или освежающий сок, в любом месте и в любое время. Внутренняя колба изготовлена из фарфора - этот материал является безопасным для здоровья, не накапливает запахи и не влияет на вкус напитка.   Основные характеристики термокружки    объем 380 мл; высота 16 см; диаметр 6 см.    Основные преимущества термокружки    Термокружка с вакуумной изоляцией способна сохранять температуру напитка в течение 6 часов. Крышка термокружки плотно закрывается, что защищает напиток от пролития   Термокружка незаменима в дороге, в спортзале, на прогулках и пикниках. Она прекрасно удерживает тепло или холод, сохраняя температуру напитков. Вы сможете долго лакомиться горячим ароматным чаем или идеально ледяным лимонадом.]]></description>
+<categoryId>2</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/SCT-660/SCT-660-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/SCT-660/SCT-660-3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/SCT-660/SCT-660-2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Набор из трёх фарфоровых банок с бамбуковыми крышками и ложками &mdash; это практичное и элегантное решение для хранения чая, кофе, сахара и других сыпучих продуктов. Благодаря продуманному дизайну он помогает поддерживать порядок и добавляет изысканности кухонному пространству.  Основные характеристики емкостей для хранения сахара, чая и кофе:   Материал: фарфор, бамбук; Размер: 28.5&times;10&times;7.5 см; Диаметр баночек: 8 см; Высота баночек: 6 см; Объем баночек: 180 мл.   Такой набор станет не только функциональным элементом кухни, но и стильным акцентом в интерьере. Он идеально подойдёт в подарок ценителям уюта и порядка, добавив в повседневный быт нотку элегантности.]]></description>
 <quantity_in_stock>94</quantity_in_stock>
-<vendorCode>HP-14-50O</vendorCode>
-<param name="Высота">16 см</param>
-<param name="Время сохранения тепла">6 ч</param>
-<param name="Время сохранения холода">12 ч</param>
-<param name="Материал колбы">Керамика</param>
-<param name="Материал крышки">Пластик</param>
-<param name="Объем">380 мл</param>
-<param name="Цвет">Оранжевый</param>
-<param name="Нижний диаметр">6 см</param>
+<vendorCode>SCT-660</vendorCode>
+<param name="Тип">Набор банок</param>
+<param name="Материал">Фарфор</param>
+<param name="Высота">7.5</param>
+<param name="Количество предметов в наборе">7</param>
+<param name="Использование в микроволновке">Нет</param>
+<param name="Ширина">10</param>
+<param name="Применение">Для сыпучих продуктов</param>
+<param name="Объем">0.18</param>
+<param name="Хранение в холодильнике">Нет</param>
+<param name="Хранение в морозильной камере">Нет</param>
+<param name="Цвет">Серый</param>
+<param name="Длина">28.5</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Форма">Круглая</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="TX001" available="true">
@@ -39187,6 +39163,30 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Материал крышки">Пластик</param>
 <param name="Цвет">Белый</param>
 <param name="Нижний диаметр">8 см</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-14-50O" available="true">
+<name>Термочашка Вышиванка с фарфоровой колбой 380 мл оранжевая HP-14-50O</name>
+<price>969</price>
+<vendorprice>740</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>105</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3156/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_s_ukrainskim_ornamentom.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3156/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_s_ukrainskim_ornamentom_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3156/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_s_ukrainskim_ornamentom_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3156/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_s_ukrainskim_ornamentom_3.jpg</picture>
+<vendor>Lugi</vendor>
+<description><![CDATA[Термокружка 380 мл – это практичный и удобный аксессуар, который позволит вам наслаждаться любимым напитком, будь то горячий кофе, ароматный чай или освежающий сок, в любом месте и в любое время. Внутренняя колба изготовлена из фарфора - этот материал является безопасным для здоровья, не накапливает запахи и не влияет на вкус напитка.   Основные характеристики термокружки    объем 380 мл; высота 16 см; диаметр 6 см.    Основные преимущества термокружки    Термокружка с вакуумной изоляцией способна сохранять температуру напитка в течение 6 часов. Крышка термокружки плотно закрывается, что защищает напиток от пролития   Термокружка незаменима в дороге, в спортзале, на прогулках и пикниках. Она прекрасно удерживает тепло или холод, сохраняя температуру напитков. Вы сможете долго лакомиться горячим ароматным чаем или идеально ледяным лимонадом.]]></description>
+<quantity_in_stock>93</quantity_in_stock>
+<vendorCode>HP-14-50O</vendorCode>
+<param name="Высота">16 см</param>
+<param name="Время сохранения тепла">6 ч</param>
+<param name="Время сохранения холода">12 ч</param>
+<param name="Материал колбы">Керамика</param>
+<param name="Материал крышки">Пластик</param>
+<param name="Объем">380 мл</param>
+<param name="Цвет">Оранжевый</param>
+<param name="Нижний диаметр">6 см</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-19-20-5.4X21.3CM" available="true">
@@ -39627,41 +39627,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="SK-03038" available="true">
-<name>Ледогенератор для дома SOKANY  112 Вт SK-03038</name>
-<price>6389</price>
-<vendorprice>5218</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>56</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../1733053ML/C32W200300Y/SK-03038-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4660/ledogenerator_dlya_doma_bara_nastolnyy_112_vt_kompaktnyy_generator_dlya_palchikovogo_pustoletnogo_lda_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4660/ledogenerator_dlya_doma_bara_nastolnyy_112_vt_kompaktnyy_generator_dlya_palchikovogo_pustoletnogo_lda_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4660/ledogenerator_dlya_doma_bara_nastolnyy_112_vt_kompaktnyy_generator_dlya_palchikovogo_pustoletnogo_lda_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4660/ledogenerator_dlya_doma_bara_nastolnyy_112_vt_kompaktnyy_generator_dlya_palchikovogo_pustoletnogo_lda_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4660/ledogenerator_dlya_doma_bara_nastolnyy_112_vt_kompaktnyy_generator_dlya_palchikovogo_pustoletnogo_lda_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4660/ledogenerator_dlya_doma_bara_nastolnyy_112_vt_kompaktnyy_generator_dlya_palchikovogo_pustoletnogo_lda_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4660/ledogenerator_dlya_doma_bara_nastolnyy_112_vt_kompaktnyy_generator_dlya_palchikovogo_pustoletnogo_lda_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4660/ledogenerator_dlya_doma_bara_nastolnyy_112_vt_kompaktnyy_generator_dlya_palchikovogo_pustoletnogo_lda_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4660/ledogenerator_dlya_doma_bara_nastolnyy_112_vt_kompaktnyy_generator_dlya_palchikovogo_pustoletnogo_lda_9.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Хотите забыть о покупке льда в магазине и наслаждаться холодными напитками в любое время? Настольный льдогенератор SOKANY SK-03038 сделает процесс лёгким и быстрым. Он обеспечит вас свежими кубиками льда для коктейлей, лимонада, мороженого или праздничного стола &mdash; и всё это прямо у вас дома или в баре.  Особенности домашнего настольного мини-льдогенератора:   Размер:     28&times;21&times;25 см; Материал: пластик; Мощность: 112 Вт; Управление:     сенсорное; Форма льда: круглая; Подача воды: ручная; Длина сетевого шнура: 1.5 м; Время 1 цикла приготовления льда: 6 минут; Количество кубиков: 9 (2 размера); Тип резервуара для льда: съемный.   Особенности компактного льдогенератора для дома, для бара:   Скорость приготовления &mdash; первая порция льда уже через 6 минут. Два формата кубиков &mdash; выбирайте подходящий размер для разных напитков. Съёмная корзина &mdash; легко доставать и пересыпать лёд. Прозрачная крышка &mdash; всегда видно процесс и готовый результат. Удобное управление &mdash; сенсорная панель для интуитивного пользования. Программа самоочистки &mdash; меньше забот по уходу. Компактный дизайн &mdash; стильный корпус отлично смотрится на кухне или в баре.   Ледогенератор для дома &mdash; это сочетание скорости, удобства и практичности. Он создаёт лёд там, где он нужен: дома, на даче, в кафе или во время вечеринки. С таким устройством ваши напитки всегда будут освежающими, а любое событие &mdash; по-настоящему праздничным. Это решение для тех, кто ценит комфорт, стиль и качество в каждой детали.]]></description>
-<quantity_in_stock>91</quantity_in_stock>
-<vendorCode>SK-03038</vendorCode>
-<param name="Материал">Пластик</param>
-<param name="Высота">25 см</param>
-<param name="Гарантийный срок">3 мес</param>
-<param name="Вес">6.6 кг</param>
-<param name="Вид льда">Пальчиковый пустотелый</param>
-<param name="Тип охлаждения">Вентилируемый</param>
-<param name="Ширина">21 см</param>
-<param name="Длина">28 см</param>
-<param name="Номинальная потребляемая мощность">112 Вт</param>
-<param name="Сфера использования">Для бара|HoReCa|Офисы организаций|Fast-food</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="Тип резервуара для льда">Съемный</param>
-<param name="Возможность подключения к водопроводу">Нет</param>
-<param name="Тип управления">Сенсорное</param>
-</offer>
 <offer id="HP-55-7P" available="true">
 <name>Детская силиконовая сумка Лабубу 12.5×9×3.5 (см) через плечо Розовый HP-55-7P</name>
 <price>269</price>
@@ -40008,6 +39973,41 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Ширина">15</param>
 <param name="Цвет">Голубой</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="SK-03038" available="true">
+<name>Ледогенератор для дома SOKANY  112 Вт SK-03038</name>
+<price>6389</price>
+<vendorprice>5218</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>56</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../1733053ML/C32W200300Y/SK-03038-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4660/ledogenerator_dlya_doma_bara_nastolnyy_112_vt_kompaktnyy_generator_dlya_palchikovogo_pustoletnogo_lda_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4660/ledogenerator_dlya_doma_bara_nastolnyy_112_vt_kompaktnyy_generator_dlya_palchikovogo_pustoletnogo_lda_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4660/ledogenerator_dlya_doma_bara_nastolnyy_112_vt_kompaktnyy_generator_dlya_palchikovogo_pustoletnogo_lda_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4660/ledogenerator_dlya_doma_bara_nastolnyy_112_vt_kompaktnyy_generator_dlya_palchikovogo_pustoletnogo_lda_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4660/ledogenerator_dlya_doma_bara_nastolnyy_112_vt_kompaktnyy_generator_dlya_palchikovogo_pustoletnogo_lda_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4660/ledogenerator_dlya_doma_bara_nastolnyy_112_vt_kompaktnyy_generator_dlya_palchikovogo_pustoletnogo_lda_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4660/ledogenerator_dlya_doma_bara_nastolnyy_112_vt_kompaktnyy_generator_dlya_palchikovogo_pustoletnogo_lda_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4660/ledogenerator_dlya_doma_bara_nastolnyy_112_vt_kompaktnyy_generator_dlya_palchikovogo_pustoletnogo_lda_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4660/ledogenerator_dlya_doma_bara_nastolnyy_112_vt_kompaktnyy_generator_dlya_palchikovogo_pustoletnogo_lda_9.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Хотите забыть о покупке льда в магазине и наслаждаться холодными напитками в любое время? Настольный льдогенератор SOKANY SK-03038 сделает процесс лёгким и быстрым. Он обеспечит вас свежими кубиками льда для коктейлей, лимонада, мороженого или праздничного стола &mdash; и всё это прямо у вас дома или в баре.  Особенности домашнего настольного мини-льдогенератора:   Размер:     28&times;21&times;25 см; Материал: пластик; Мощность: 112 Вт; Управление:     сенсорное; Форма льда: круглая; Подача воды: ручная; Длина сетевого шнура: 1.5 м; Время 1 цикла приготовления льда: 6 минут; Количество кубиков: 9 (2 размера); Тип резервуара для льда: съемный.   Особенности компактного льдогенератора для дома, для бара:   Скорость приготовления &mdash; первая порция льда уже через 6 минут. Два формата кубиков &mdash; выбирайте подходящий размер для разных напитков. Съёмная корзина &mdash; легко доставать и пересыпать лёд. Прозрачная крышка &mdash; всегда видно процесс и готовый результат. Удобное управление &mdash; сенсорная панель для интуитивного пользования. Программа самоочистки &mdash; меньше забот по уходу. Компактный дизайн &mdash; стильный корпус отлично смотрится на кухне или в баре.   Ледогенератор для дома &mdash; это сочетание скорости, удобства и практичности. Он создаёт лёд там, где он нужен: дома, на даче, в кафе или во время вечеринки. С таким устройством ваши напитки всегда будут освежающими, а любое событие &mdash; по-настоящему праздничным. Это решение для тех, кто ценит комфорт, стиль и качество в каждой детали.]]></description>
+<quantity_in_stock>90</quantity_in_stock>
+<vendorCode>SK-03038</vendorCode>
+<param name="Материал">Пластик</param>
+<param name="Высота">25 см</param>
+<param name="Гарантийный срок">3 мес</param>
+<param name="Вес">6.6 кг</param>
+<param name="Вид льда">Пальчиковый пустотелый</param>
+<param name="Тип охлаждения">Вентилируемый</param>
+<param name="Ширина">21 см</param>
+<param name="Длина">28 см</param>
+<param name="Номинальная потребляемая мощность">112 Вт</param>
+<param name="Сфера использования">Для бара|HoReCa|Офисы организаций|Fast-food</param>
+<param name="Цвет корпуса">Черный</param>
+<param name="Тип резервуара для льда">Съемный</param>
+<param name="Возможность подключения к водопроводу">Нет</param>
+<param name="Тип управления">Сенсорное</param>
 </offer>
 <offer id="HP-21-2" available="true">
 <name>Набор посуды для пикника на 4 персоны 24 предмета Золотистый HP-21-2</name>
@@ -64598,31 +64598,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Форма">Квадратная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-14-21" available="true">
-<name>Термосумка-холодильник для рыбалки, пикника, пляжа 25 (л) холодильник походный термосумка для пива HP-14-21</name>
-<price>1109</price>
-<vendorprice>855</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>155</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4570/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_25_l_holodilnik_pohodnyy_termosumka_dlya_piva.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4570/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_25_l_holodilnik_pohodnyy_termosumka_dlya_piva_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4570/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_25_l_holodilnik_pohodnyy_termosumka_dlya_piva_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4570/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_25_l_holodilnik_pohodnyy_termosumka_dlya_piva_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4570/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_25_l_holodilnik_pohodnyy_termosumka_dlya_piva_4.jpg</picture>
-<vendor>Sannea</vendor>
-<description><![CDATA[Термосумка SANNEA - это практичное решение для сохранения температуры продуктов во время путешествий, отдыха на природе, рыбалки или кемпинга. Благодаря совей конструкции, сумка эффективно сохраняет холод или тепло содержимого в течение нескольких часов, обеспечивая комфорт в любых условиях.  Сумка оснащена удобной ручкой для ношения в руке и регулируемым наплечным ремнем. Дополнительные боковые сечатые карманы подходят для хранения салфеток или мелких вещей. Компактная, но вместительная конструкция позволяет брать с собой все необходимое для отдыха на природе или путешествий: бутылки с водой, еду, перекусы или медикаменты.   Основные характеристики термосумки для рыбалки, пикника, пляжа:   Размер: 36&times;26&times;29 см; Материал: полиэстер+EPE+PEVA; Застежка: молния; Корпус: мягкий; Ручки: верхние ручки для переноски и плечевой ремень; Дополнительные элементы: боковые карманы.   Особенности    сумки-холодильника на 25 (л):   Износостойкий материал защищает содержимое от влаги, пыли и грязи; Теплоизоляционный слой обеспечивает сохранение температуры в течение нескольких часов; Прочное усиленное дно обеспечивает устойчивость на разных поверхностях; Удобные ручки для переноски в руке и длинный регулируемый ремень через плечо; Боковые карманы для мелочей, салфеток или документов; Надежная герметичная молния с удобными пулерами.   Для чего подойдет    термосумка-холодильник:   Пикники, рыбалка, кемпинг, пляж; Длительные путешествия или поездки на автомобиле; Перенос обедов на работу или учебу; Хранение охлажденных напитков в жаркое время.   Термосумка SANNEA - это сочетание стиля и функциональности, которая станет незаменимым помощником в любой ситуации, когда важно сохранить свежесть продуктов. Благодаря своим характеристикам и универсальному дизайну она идеально подойдет для ежедневного использования или активного отдыха на природе.]]></description>
-<quantity_in_stock>36</quantity_in_stock>
-<vendorCode>HP-14-21</vendorCode>
-<param name="Материал">Полиэстер</param>
-<param name="Высота">29</param>
-<param name="Вес">600</param>
-<param name="Глубина">36</param>
-<param name="Особенности термосумки">Герметическая подкладка|Влагозащита</param>
-<param name="Ширина">26</param>
-<param name="Объем">25</param>
-<param name="Цвет">Серый</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-55-9B" available="true">
 <name>Детская силиконовая сумка Минни Маус 15×13×3 (см) через плечо Черный HP-55-9B</name>
 <price>249</price>
@@ -65491,6 +65466,31 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Материал корпуса">Нержавеющая сталь|Пластик</param>
 <param name="Цвет">Белый</param>
 <param name="Длина">350</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-14-21" available="true">
+<name>Термосумка-холодильник для рыбалки, пикника, пляжа 25 (л) холодильник походный термосумка для пива HP-14-21</name>
+<price>1109</price>
+<vendorprice>855</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>155</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4570/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_25_l_holodilnik_pohodnyy_termosumka_dlya_piva.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4570/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_25_l_holodilnik_pohodnyy_termosumka_dlya_piva_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4570/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_25_l_holodilnik_pohodnyy_termosumka_dlya_piva_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4570/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_25_l_holodilnik_pohodnyy_termosumka_dlya_piva_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4570/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_25_l_holodilnik_pohodnyy_termosumka_dlya_piva_4.jpg</picture>
+<vendor>Sannea</vendor>
+<description><![CDATA[Термосумка SANNEA - это практичное решение для сохранения температуры продуктов во время путешествий, отдыха на природе, рыбалки или кемпинга. Благодаря совей конструкции, сумка эффективно сохраняет холод или тепло содержимого в течение нескольких часов, обеспечивая комфорт в любых условиях.  Сумка оснащена удобной ручкой для ношения в руке и регулируемым наплечным ремнем. Дополнительные боковые сечатые карманы подходят для хранения салфеток или мелких вещей. Компактная, но вместительная конструкция позволяет брать с собой все необходимое для отдыха на природе или путешествий: бутылки с водой, еду, перекусы или медикаменты.   Основные характеристики термосумки для рыбалки, пикника, пляжа:   Размер: 36&times;26&times;29 см; Материал: полиэстер+EPE+PEVA; Застежка: молния; Корпус: мягкий; Ручки: верхние ручки для переноски и плечевой ремень; Дополнительные элементы: боковые карманы.   Особенности    сумки-холодильника на 25 (л):   Износостойкий материал защищает содержимое от влаги, пыли и грязи; Теплоизоляционный слой обеспечивает сохранение температуры в течение нескольких часов; Прочное усиленное дно обеспечивает устойчивость на разных поверхностях; Удобные ручки для переноски в руке и длинный регулируемый ремень через плечо; Боковые карманы для мелочей, салфеток или документов; Надежная герметичная молния с удобными пулерами.   Для чего подойдет    термосумка-холодильник:   Пикники, рыбалка, кемпинг, пляж; Длительные путешествия или поездки на автомобиле; Перенос обедов на работу или учебу; Хранение охлажденных напитков в жаркое время.   Термосумка SANNEA - это сочетание стиля и функциональности, которая станет незаменимым помощником в любой ситуации, когда важно сохранить свежесть продуктов. Благодаря своим характеристикам и универсальному дизайну она идеально подойдет для ежедневного использования или активного отдыха на природе.]]></description>
+<quantity_in_stock>35</quantity_in_stock>
+<vendorCode>HP-14-21</vendorCode>
+<param name="Материал">Полиэстер</param>
+<param name="Высота">29</param>
+<param name="Вес">600</param>
+<param name="Глубина">36</param>
+<param name="Особенности термосумки">Герметическая подкладка|Влагозащита</param>
+<param name="Ширина">26</param>
+<param name="Объем">25</param>
+<param name="Цвет">Серый</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-23-4G" available="true">
@@ -70159,32 +70159,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Тип поверхности">Блеск</param>
 <param name="Цвет">Айвори</param>
 </offer>
-<offer id="HP-11-126" available="true">
-<name>Автомобильный ручной пылесос аккумуляторный 6000 мАч 6 насадок HP-11-126</name>
-<price>2379</price>
-<vendorprice>1821</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>6</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_2.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_3.png</picture>
-<vendor>ABS</vendor>
-<description><![CDATA[Беспроводной пылесос &mdash; компактное и мощное решение для быстрой уборки в автомобиле и дома. Устройство выполнено из прочного ABS-пластика, имеет эргономичную форму и удобно лежит в руке.  Пылесос для авто оснащён бесщеточным DC-мотором, который обеспечивает силу всасывания до 17 000 Па и стабильную работу в двух скоростных режимах. Поддерживает режим всасывания и выдувания, что позволяет не только собирать пыль и мусор, но и продувать труднодоступные места.  Основные характеристики автомобильного аккумуляторного пылесоса:   Тип: Автомобильный пылесос аккумуляторный Емкость аккумулятора: 6000 мАч Выходное напряжение: 11В Входное напряжение: 5В&ndash;2А Объем резервуара: 450 мл Интерфейс зарядки: Type-C Материал корпуса: ABC-пластик Тип мотора: Двигатель постоянного тока без щеток Фильтр: HEPA Мощность: 100 Вт (35 Вт низкая скорость; 65 Вт высокая скорость) Мощность всасывания: до 17000 Па Время работы: до 30 мин Время зарядки: 4-3 ч Особенности: LED-дисплей, режим продувки и сбора пыли, не включать во время зарядки   Насадки (6 шт.):   Круглая щётка Угловая насадка Насадка с щёткой Щелевая насадка короткая Щелевая насадка длинная Конусная насадка (для продувания)   Комплектация:   Автомобильный пылесос Зарядный кабель USB Type-C Шланг удлинитель Круглая щётка Угловая насадка Насадка с щёткой Щелевая насадка короткая Щелевая насадка длинная Конусная насадка для выдувания   Этот аккумуляторный портативный пылесос для машины &mdash; универсальный помощник для быстрой и удобной уборки в любых условиях. Он идеально подойдёт для очистки салона автомобиля от пыли, песка, крошек и шерсти животных, поможет навести порядок в багажнике, детском автокресле и труднодоступных щелях.  Также устройство отлично справляется с бытовыми задачами: уборкой мебели, клавиатуры, полок, подоконников, мастерской, гаража или рабочего стола. Функция продувки будет полезна для очистки техники, инструментов и узких отверстий от пыли.  Компактный размер, автономная работа и широкий набор насадок делают его удобным решением как для водителей, так и для дома &mdash; когда нужна быстрая уборка без лишних проводов и громоздкой техники.]]></description>
-<quantity_in_stock>29</quantity_in_stock>
-<vendorCode>HP-11-126</vendorCode>
-<param name="Мощность">100 Вт (35 Вт низкая скорость; 65 Вт высокая скорость)</param>
-<param name="Время работы от аккумулятора">30</param>
-<param name="Объем пылесборника">0.45</param>
-<param name="Количество насадок">6</param>
-<param name="Тип уборки">Сухая</param>
-<param name="Тип насадки">Для труднодоступных мест</param>
-<param name="Индикатор заряда батареи">Да</param>
-<param name="Регулировка мощности всасывания">Да</param>
-<param name="Состояние">Новое</param>
-<param name="Тип питания">Аккумулятор</param>
-<param name="Гарантия">3 месяца</param>
-</offer>
 <offer id="HP-42-30" available="true">
 <name>Коврик универсальный с 3D-эффектом Garden Mirage 58*38 см диатомитовый HP-42-30</name>
 <price>169</price>
@@ -71100,6 +71074,32 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Размеры">10*11 см</param>
 <param name="Тип поверхности">Блеск</param>
 <param name="Цвет">Мокко</param>
+</offer>
+<offer id="HP-11-126" available="true">
+<name>Автомобильный ручной пылесос аккумуляторный 6000 мАч 6 насадок HP-11-126</name>
+<price>2379</price>
+<vendorprice>1821</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>6</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_2.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_3.png</picture>
+<vendor>ABS</vendor>
+<description><![CDATA[Беспроводной пылесос &mdash; компактное и мощное решение для быстрой уборки в автомобиле и дома. Устройство выполнено из прочного ABS-пластика, имеет эргономичную форму и удобно лежит в руке.  Пылесос для авто оснащён бесщеточным DC-мотором, который обеспечивает силу всасывания до 17 000 Па и стабильную работу в двух скоростных режимах. Поддерживает режим всасывания и выдувания, что позволяет не только собирать пыль и мусор, но и продувать труднодоступные места.  Основные характеристики автомобильного аккумуляторного пылесоса:   Тип: Автомобильный пылесос аккумуляторный Емкость аккумулятора: 6000 мАч Выходное напряжение: 11В Входное напряжение: 5В&ndash;2А Объем резервуара: 450 мл Интерфейс зарядки: Type-C Материал корпуса: ABC-пластик Тип мотора: Двигатель постоянного тока без щеток Фильтр: HEPA Мощность: 100 Вт (35 Вт низкая скорость; 65 Вт высокая скорость) Мощность всасывания: до 17000 Па Время работы: до 30 мин Время зарядки: 4-3 ч Особенности: LED-дисплей, режим продувки и сбора пыли, не включать во время зарядки   Насадки (6 шт.):   Круглая щётка Угловая насадка Насадка с щёткой Щелевая насадка короткая Щелевая насадка длинная Конусная насадка (для продувания)   Комплектация:   Автомобильный пылесос Зарядный кабель USB Type-C Шланг удлинитель Круглая щётка Угловая насадка Насадка с щёткой Щелевая насадка короткая Щелевая насадка длинная Конусная насадка для выдувания   Этот аккумуляторный портативный пылесос для машины &mdash; универсальный помощник для быстрой и удобной уборки в любых условиях. Он идеально подойдёт для очистки салона автомобиля от пыли, песка, крошек и шерсти животных, поможет навести порядок в багажнике, детском автокресле и труднодоступных щелях.  Также устройство отлично справляется с бытовыми задачами: уборкой мебели, клавиатуры, полок, подоконников, мастерской, гаража или рабочего стола. Функция продувки будет полезна для очистки техники, инструментов и узких отверстий от пыли.  Компактный размер, автономная работа и широкий набор насадок делают его удобным решением как для водителей, так и для дома &mdash; когда нужна быстрая уборка без лишних проводов и громоздкой техники.]]></description>
+<quantity_in_stock>28</quantity_in_stock>
+<vendorCode>HP-11-126</vendorCode>
+<param name="Мощность">100 Вт (35 Вт низкая скорость; 65 Вт высокая скорость)</param>
+<param name="Время работы от аккумулятора">30</param>
+<param name="Объем пылесборника">0.45</param>
+<param name="Количество насадок">6</param>
+<param name="Тип уборки">Сухая</param>
+<param name="Тип насадки">Для труднодоступных мест</param>
+<param name="Индикатор заряда батареи">Да</param>
+<param name="Регулировка мощности всасывания">Да</param>
+<param name="Состояние">Новое</param>
+<param name="Тип питания">Аккумулятор</param>
+<param name="Гарантия">3 месяца</param>
 </offer>
 <offer id="529-1P" available="true">
 <name>Фартук кухонный из полиэстера 68*75 см, водонепроницаемый, розовый</name>
@@ -78050,30 +78050,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="KS-644" available="true">
-<name>Форма для выпечки фарфоровая с ручками прямоугольная 23х17х5 см серый KS-644</name>
-<price>279</price>
-<vendorprice>215</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>18</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6918/forma_dlya_vypechki_farforovaya_s_ruchkami_pryamougolnaya_23h17h5_sm_posuda_dlya_duhovki_zapekaniya_kuhonnyy_pryamougolnyy_chernyy.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6918/forma_dlya_vypechki_farforovaya_s_ruchkami_pryamougolnaya_23h17h5_sm_posuda_dlya_duhovki_zapekaniya_kuhonnyy_pryamougolnyy_chernyy_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6918/forma_dlya_vypechki_farforovaya_s_ruchkami_pryamougolnaya_23h17h5_sm_posuda_dlya_duhovki_zapekaniya_kuhonnyy_pryamougolnyy_chernyy_2.png</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Фарфоровая форма для выпечки квадратной формы предназначена для приготовления и подачи разнообразных блюд в духовке. Благодаря универсальному дизайну она подходит для запеканок, мяса, овощей, десертов и выпечки. Квадратная форма обеспечивает равномерное распределение блюда и удобное порционирование.  Форма изготовлена из фарфора, которая хорошо выдерживает высокие температуры и способствует равномерному прогреву продуктов. Гладкая поверхность облегчает очищение после использования и не впитывает запахи. Материал подходит для ежедневного использования в домашних условиях.  Удобные ручки по бокам позволяют безопасно доставать форму из духовки и переносить ее на стол для подачи. Изделие можно использовать как для приготовления, так и для сервировки готовых блюд, что делает его практичным элементом кухонной посуды.  Характеристики:   Тип изделия: форма для выпечки Материал: фарфор Форма: квадратная Наличие ручек: да]]></description>
-<quantity_in_stock>21</quantity_in_stock>
-<vendorCode>KS-644</vendorCode>
-<param name="Материал">Фарфор</param>
-<param name="Высота стенок">5</param>
-<param name="Ширина">17</param>
-<param name="Количество ячеек">1</param>
-<param name="Конструкция формы">Цельная</param>
-<param name="Цвет">Серый</param>
-<param name="Длина">23</param>
-<param name="Общий объем формы">1.2</param>
-<param name="Состояние">Новое</param>
-<param name="Тип формы">Прямоугольная</param>
-</offer>
 <offer id="ML2086" available="true">
 <name>Фруктовница квадратная 23х23х23 см двухъярусная фарфоровая стойка для закусок белая ML2086</name>
 <price>819</price>
@@ -79379,6 +79355,30 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Длина">31</param>
 <param name="Форм-фактор">Переносной</param>
 <param name="Форма">Прямоугольная</param>
+</offer>
+<offer id="KS-644" available="true">
+<name>Форма для выпечки фарфоровая с ручками прямоугольная 23х17х5 см серый KS-644</name>
+<price>279</price>
+<vendorprice>215</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>18</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6918/forma_dlya_vypechki_farforovaya_s_ruchkami_pryamougolnaya_23h17h5_sm_posuda_dlya_duhovki_zapekaniya_kuhonnyy_pryamougolnyy_chernyy.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6918/forma_dlya_vypechki_farforovaya_s_ruchkami_pryamougolnaya_23h17h5_sm_posuda_dlya_duhovki_zapekaniya_kuhonnyy_pryamougolnyy_chernyy_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6918/forma_dlya_vypechki_farforovaya_s_ruchkami_pryamougolnaya_23h17h5_sm_posuda_dlya_duhovki_zapekaniya_kuhonnyy_pryamougolnyy_chernyy_2.png</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Фарфоровая форма для выпечки квадратной формы предназначена для приготовления и подачи разнообразных блюд в духовке. Благодаря универсальному дизайну она подходит для запеканок, мяса, овощей, десертов и выпечки. Квадратная форма обеспечивает равномерное распределение блюда и удобное порционирование.  Форма изготовлена из фарфора, которая хорошо выдерживает высокие температуры и способствует равномерному прогреву продуктов. Гладкая поверхность облегчает очищение после использования и не впитывает запахи. Материал подходит для ежедневного использования в домашних условиях.  Удобные ручки по бокам позволяют безопасно доставать форму из духовки и переносить ее на стол для подачи. Изделие можно использовать как для приготовления, так и для сервировки готовых блюд, что делает его практичным элементом кухонной посуды.  Характеристики:   Тип изделия: форма для выпечки Материал: фарфор Форма: квадратная Наличие ручек: да]]></description>
+<quantity_in_stock>20</quantity_in_stock>
+<vendorCode>KS-644</vendorCode>
+<param name="Материал">Фарфор</param>
+<param name="Высота стенок">5</param>
+<param name="Ширина">17</param>
+<param name="Количество ячеек">1</param>
+<param name="Конструкция формы">Цельная</param>
+<param name="Цвет">Серый</param>
+<param name="Длина">23</param>
+<param name="Общий объем формы">1.2</param>
+<param name="Состояние">Новое</param>
+<param name="Тип формы">Прямоугольная</param>
 </offer>
 <offer id="ML1106-11" available="true">
 <name>Мармит настольный прямоугольный с подогревом 31х16х11 см ML1106-11</name>
