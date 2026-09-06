@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-05 19:46">
+<yml_catalog date="2026-09-06 02:01">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -261,7 +261,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/88/127/blender_ruchnoy_pogruzhnoy_iz_nerzhaveyki_800_vt_8_rezhimov_skorosti_touch_screen_sokany_sk_1729_1.jpg</picture>
 <vendor>Sokany</vendor>
 <description><![CDATA[Sokany SK-1729 - это мощный и стильный погружной блендер, который поможет легко и быстро готовить разнообразные блюда и напитки. Благодаря мощному мотору 800 Вт блендер легко измельчает даже самые твердые ингредиенты. 8 режимов скорости и турборежим позволяют точно настроить процесс смешивания, чтобы достичь желаемой консистенции. Сенсорное управление блендера делает его удобным и стильным, ведь можно легко выбрать нужную скорость или режим одним касанием. Корпус блендера изготовлен из высококачественных материалов, что делает его легким и прочным. Все насадки легко снимаются и моются в посудомоечной машине.   Характеристики:   Мощность: 800 Вт Напряжение: 220-240 В Частота: 50/60 Гц Материал корпуса: Нержавеющая сталь Материал лезвий: Нержавеющая сталь Управление: Сенсорное]]></description>
-<quantity_in_stock>229</quantity_in_stock>
+<quantity_in_stock>228</quantity_in_stock>
 <vendorCode>SK1729BST</vendorCode>
 <param name="Материал корпуса">Пластик</param>
 <param name="Колка льда">Да</param>
@@ -2682,47 +2682,6 @@
 <param name="Прорезиненные ножки">Да</param>
 <param name="Тип управления">Механическое</param>
 </offer>
-<offer id="SK186SS" available="true">
-<name>Блендер со стеклянной чашей 1.5 литра для коктейлей и смузи портативный 4 режима скорости 800 Вт Sokany SK186SS</name>
-<price>3229</price>
-<vendorprice>1977</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>7</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/SK186SS/snapedit_1715272026308-1200x1200.jpeg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/123/blender_so_steklyannoy_chashey_1_5_litra_dlya_kokteyley_i_smuzi_portativnyy_4_rezhima_skorosti_800_vt_sokany_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/123/blender_so_steklyannoy_chashey_1_5_litra_dlya_kokteyley_i_smuzi_portativnyy_4_rezhima_skorosti_800_vt_sokany_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/123/blender_so_steklyannoy_chashey_1_5_litra_dlya_kokteyley_i_smuzi_portativnyy_4_rezhima_skorosti_800_vt_sokany_3.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Блендер для смузи Sokany - это исключительный 2 в 1 блендер, который объединяет в себе мощный блендер и удобную кофемолку. С его мощностью 800 Вт вы можете не только приготовить вкусные смузи и коктейли, но и помолоть свежие зерна кофе, наслаждаясь ароматом и вкусом свежеобжаренного кофе.  Основные характеристики мультиблендера миксера Sokany   мощность - блендер 800 вт; чаша из толстого стекла объемом 1.5 литра; 4 режима скорости; помол кофе; колка льда; функция пульсации.   Чаша объемом 1.5 литра Sokany SK-186 позволяет вам готовить достаточное количество напитков или блюд для всей семьи или друзей. Вам не нужно переживать отсутствием объема при приготовлении, ведь этот блендер поможет вам легко справиться даже с большими объемами.  Функции блендера Sokany  Многофункциональность кухонного блендера Sokany SK-186 делает его незаменимым ассистентом на кухне. Вы можете эффективно использовать его как блендер или кофемолку в зависимости от вашей потребности. Блендер Sokany SK-186 также имеет специальный режим для колки льда.  Блендер имеет функцию импульсный режим, что позволяет создавать кратковременные мощные импульсы смешивания. Эта функция идеально подходит для быстрого измельчения твердых продуктов или создания более грубой текстуры. Стильный дизайн придает ему эстетическую привлекательность, делая его идеальным объектом для кухни, где качество и элегантность объединяются в одном устройстве. Купить блендер в интернет магазине пром можно с доставкой по всей Украине.]]></description>
-<quantity_in_stock>57</quantity_in_stock>
-<vendorCode>SK186SS</vendorCode>
-<param name="Вес">3.5 кг</param>
-<param name="Потребляемая мощность">800 Вт</param>
-<param name="Длина сетевого шнура">1.3 м</param>
-<param name="Материал корпуса">Металл</param>
-<param name="Питание">Сеть 220В</param>
-<param name="Импульсный режим">Да</param>
-<param name="Колка льда">Да</param>
-<param name="Количество скоростей">4</param>
-<param name="Материал корпуса">Металл</param>
-<param name="Цвет">Серебристый</param>
-<param name="Крепление на стену">Нет</param>
-<param name="Материал кувшина блендера">стекло</param>
-<param name="Материал чаши">Стекло</param>
-<param name="Мини-мельничка">Да</param>
-<param name="Состояние">Новое</param>
-<param name="Объем чаши">1.5 л</param>
-<param name="Цвет корпуса">Серебристый</param>
-<param name="Режим Турбо">Нет</param>
-<param name="Многофункциональная чаша-измельчитель">Да</param>
-<param name="Плавная регулировка скорости">Да</param>
-<param name="Гарантия">6 мес</param>
-<param name="Потребляємая мощность">800 Вт</param>
-<param name="Отверстие для добавления ингредиентов">Да</param>
-<param name="Тип блендера">Стационарный</param>
-<param name="Тип управления">Механическое</param>
-<param name="Универсальный измельчитель">Да</param>
-</offer>
 <offer id="HP-4-439" available="true">
 <name>Сотейник с антипригарным покрытием 1,65 л с толстым дном Ø 16 см MGC HP-4-439</name>
 <price>1909</price>
@@ -2801,6 +2760,47 @@
 <param name="Гарантия">14 дней</param>
 <param name="Толщина стенки">5 мм</param>
 <param name="Многослойное дно">Да</param>
+</offer>
+<offer id="SK186SS" available="true">
+<name>Блендер со стеклянной чашей 1.5 литра для коктейлей и смузи портативный 4 режима скорости 800 Вт Sokany SK186SS</name>
+<price>3229</price>
+<vendorprice>1977</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>7</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/SK186SS/snapedit_1715272026308-1200x1200.jpeg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/123/blender_so_steklyannoy_chashey_1_5_litra_dlya_kokteyley_i_smuzi_portativnyy_4_rezhima_skorosti_800_vt_sokany_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/123/blender_so_steklyannoy_chashey_1_5_litra_dlya_kokteyley_i_smuzi_portativnyy_4_rezhima_skorosti_800_vt_sokany_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/123/blender_so_steklyannoy_chashey_1_5_litra_dlya_kokteyley_i_smuzi_portativnyy_4_rezhima_skorosti_800_vt_sokany_3.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Блендер для смузи Sokany - это исключительный 2 в 1 блендер, который объединяет в себе мощный блендер и удобную кофемолку. С его мощностью 800 Вт вы можете не только приготовить вкусные смузи и коктейли, но и помолоть свежие зерна кофе, наслаждаясь ароматом и вкусом свежеобжаренного кофе.  Основные характеристики мультиблендера миксера Sokany   мощность - блендер 800 вт; чаша из толстого стекла объемом 1.5 литра; 4 режима скорости; помол кофе; колка льда; функция пульсации.   Чаша объемом 1.5 литра Sokany SK-186 позволяет вам готовить достаточное количество напитков или блюд для всей семьи или друзей. Вам не нужно переживать отсутствием объема при приготовлении, ведь этот блендер поможет вам легко справиться даже с большими объемами.  Функции блендера Sokany  Многофункциональность кухонного блендера Sokany SK-186 делает его незаменимым ассистентом на кухне. Вы можете эффективно использовать его как блендер или кофемолку в зависимости от вашей потребности. Блендер Sokany SK-186 также имеет специальный режим для колки льда.  Блендер имеет функцию импульсный режим, что позволяет создавать кратковременные мощные импульсы смешивания. Эта функция идеально подходит для быстрого измельчения твердых продуктов или создания более грубой текстуры. Стильный дизайн придает ему эстетическую привлекательность, делая его идеальным объектом для кухни, где качество и элегантность объединяются в одном устройстве. Купить блендер в интернет магазине пром можно с доставкой по всей Украине.]]></description>
+<quantity_in_stock>56</quantity_in_stock>
+<vendorCode>SK186SS</vendorCode>
+<param name="Вес">3.5 кг</param>
+<param name="Потребляемая мощность">800 Вт</param>
+<param name="Длина сетевого шнура">1.3 м</param>
+<param name="Материал корпуса">Металл</param>
+<param name="Питание">Сеть 220В</param>
+<param name="Импульсный режим">Да</param>
+<param name="Колка льда">Да</param>
+<param name="Количество скоростей">4</param>
+<param name="Материал корпуса">Металл</param>
+<param name="Цвет">Серебристый</param>
+<param name="Крепление на стену">Нет</param>
+<param name="Материал кувшина блендера">стекло</param>
+<param name="Материал чаши">Стекло</param>
+<param name="Мини-мельничка">Да</param>
+<param name="Состояние">Новое</param>
+<param name="Объем чаши">1.5 л</param>
+<param name="Цвет корпуса">Серебристый</param>
+<param name="Режим Турбо">Нет</param>
+<param name="Многофункциональная чаша-измельчитель">Да</param>
+<param name="Плавная регулировка скорости">Да</param>
+<param name="Гарантия">6 мес</param>
+<param name="Потребляємая мощность">800 Вт</param>
+<param name="Отверстие для добавления ингредиентов">Да</param>
+<param name="Тип блендера">Стационарный</param>
+<param name="Тип управления">Механическое</param>
+<param name="Универсальный измельчитель">Да</param>
 </offer>
 <offer id="SKLF9957" available="true">
 <name>Машинка для стрижки Sokany аккумуляторная SKLF9957</name>
@@ -2908,38 +2908,6 @@
 <param name="Толщина стенки">5 мм</param>
 <param name="Многослойное дно">Да</param>
 </offer>
-<offer id="SK-749" available="true">
-<name>Машинка для стрижки волос Sokany 4 насадки на аккумуляторе SK-749</name>
-<price>659</price>
-<vendorprice>352</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>76</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3513/mashinka_dlya_strizhki_volos_sokany_4_nasadki_na_akkumulyatore.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/130/SK-749/SK-749-%2811%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/130/SK-749/SK-749-%2810%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/130/SK-749/SK-749-%2812%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/130/SK-749/SK-749-%2813%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/130/SK-749/SK-749-%288%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/130/SK-749/SK-749-%289%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/130/SK-749/SK-749-%2814%29.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Машинка для стрижки Sokany  - устройство, разработанное для профессионального использования, обеспечивающее чистый срез при любой манере работы. В комплекте идут регулируемые насадки различной длины - 1 мм, 2 мм, 3 мм, 12 мм позволяющие выбрать нужную длину стрижки волос в зависимости от вашего предпочтения.  Характеристики машинки для стрижки Sokany   Размер 18х4х3.5 см. Емкость аккумулятора: 800 мАч. Тип питания: аккумулятор/сеть. Продолжительность работы на одном заряде -  180 мин  Продолжительность зарядки - 2 часа.   Мотор с режимом турбо обладает оптимальной мощностью, отлично сбалансирован в корпусе и гарантирует комфортную работу с минимальным уровнем вибрации. Устройство оснащено аккумулятором емкостью 800 мАч, рассчитанным на 180 мин автономной работы, есть возможность работы от электросети.  Комплектация машинки для стрижки Sokany   Защитный колпачок. Насадки 1, 3, 6, 12 мм. Масло. Щеточка для чистки. USB.   Машинка имеет компактный и эргономичный дизайн. Этот триммер подходит не только для стрижки волос, но и для коррекции бороды, усов и других участков лица и тела.]]></description>
-<quantity_in_stock>55</quantity_in_stock>
-<vendorCode>SK-749</vendorCode>
-<param name="Гарантийный срок">3 мес</param>
-<param name="Вес">0.32</param>
-<param name="Время заряда аккумулятора">2</param>
-<param name="Время работы от аккумулятора">180</param>
-<param name="Количество насадок">4</param>
-<param name="Количество установок длины">4</param>
-<param name="Состояние">Новое</param>
-<param name="Тип питания">Аккумулятор</param>
-<param name="Максимальная длина стрижки">12</param>
-<param name="Цвет корпуса">Красный</param>
-<param name="Минимальная длина стрижки">1</param>
-<param name="Регулировка длины">Сменные насадки</param>
-<param name="Тип прибора">Универсальная машинка для стрижки</param>
-</offer>
 <offer id="SK-3069B" available="true">
 <name>Отпариватель Sokany Ручной 1200 Вт синий SK-3069B</name>
 <price>1679</price>
@@ -2973,6 +2941,38 @@
 <param name="Регулировка силы пара">Да</param>
 <param name="Съемный бак для воды">Нет</param>
 <param name="Тип управления">Механическое</param>
+</offer>
+<offer id="SK-749" available="true">
+<name>Машинка для стрижки волос Sokany 4 насадки на аккумуляторе SK-749</name>
+<price>659</price>
+<vendorprice>352</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>76</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3513/mashinka_dlya_strizhki_volos_sokany_4_nasadki_na_akkumulyatore.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/130/SK-749/SK-749-%2811%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/130/SK-749/SK-749-%2810%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/130/SK-749/SK-749-%2812%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/130/SK-749/SK-749-%2813%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/130/SK-749/SK-749-%288%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/130/SK-749/SK-749-%289%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/130/SK-749/SK-749-%2814%29.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Машинка для стрижки Sokany  - устройство, разработанное для профессионального использования, обеспечивающее чистый срез при любой манере работы. В комплекте идут регулируемые насадки различной длины - 1 мм, 2 мм, 3 мм, 12 мм позволяющие выбрать нужную длину стрижки волос в зависимости от вашего предпочтения.  Характеристики машинки для стрижки Sokany   Размер 18х4х3.5 см. Емкость аккумулятора: 800 мАч. Тип питания: аккумулятор/сеть. Продолжительность работы на одном заряде -  180 мин  Продолжительность зарядки - 2 часа.   Мотор с режимом турбо обладает оптимальной мощностью, отлично сбалансирован в корпусе и гарантирует комфортную работу с минимальным уровнем вибрации. Устройство оснащено аккумулятором емкостью 800 мАч, рассчитанным на 180 мин автономной работы, есть возможность работы от электросети.  Комплектация машинки для стрижки Sokany   Защитный колпачок. Насадки 1, 3, 6, 12 мм. Масло. Щеточка для чистки. USB.   Машинка имеет компактный и эргономичный дизайн. Этот триммер подходит не только для стрижки волос, но и для коррекции бороды, усов и других участков лица и тела.]]></description>
+<quantity_in_stock>54</quantity_in_stock>
+<vendorCode>SK-749</vendorCode>
+<param name="Гарантийный срок">3 мес</param>
+<param name="Вес">0.32</param>
+<param name="Время заряда аккумулятора">2</param>
+<param name="Время работы от аккумулятора">180</param>
+<param name="Количество насадок">4</param>
+<param name="Количество установок длины">4</param>
+<param name="Состояние">Новое</param>
+<param name="Тип питания">Аккумулятор</param>
+<param name="Максимальная длина стрижки">12</param>
+<param name="Цвет корпуса">Красный</param>
+<param name="Минимальная длина стрижки">1</param>
+<param name="Регулировка длины">Сменные насадки</param>
+<param name="Тип прибора">Универсальная машинка для стрижки</param>
 </offer>
 <offer id="SK-BBQ-837" available="true">
 <name>Кексница электрическая 1800 Вт с антипригарным покрытием 37×17×18 (см) Черный SK-BBQ-837</name>
@@ -4893,43 +4893,6 @@
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Мощность, Вт">601-1000</param>
 </offer>
-<offer id="HP-4-431CO" available="true">
-<name>Сотейник с антипригарным покрытием 2,9 л с толстым дном Ø 18 см MGC HP-4-431CO</name>
-<price>1729</price>
-<vendorprice>795</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>48</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2841/soteynik_s_antiprigarnym_pokrytiem_2_9_l_kastryulya_s_tolstym_dnom_18_sm_mgc.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2841/soteynik_s_antiprigarnym_pokrytiem_2_9_l_kastryulya_s_tolstym_dnom_18_sm_mgc_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2841/soteynik_s_antiprigarnym_pokrytiem_2_9_l_kastryulya_s_tolstym_dnom_18_sm_mgc_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2841/soteynik_s_antiprigarnym_pokrytiem_2_9_l_kastryulya_s_tolstym_dnom_18_sm_mgc_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2841/soteynik_s_antiprigarnym_pokrytiem_2_9_l_kastryulya_s_tolstym_dnom_18_sm_mgc_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2841/soteynik_s_antiprigarnym_pokrytiem_2_9_l_kastryulya_s_tolstym_dnom_18_sm_mgc_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2841/soteynik_s_antiprigarnym_pokrytiem_2_9_l_kastryulya_s_tolstym_dnom_18_sm_mgc_6.jpg</picture>
-<vendor>MGC</vendor>
-<description><![CDATA[Сотейник с антипригарным покрытием - необходимый аксессуар для любой  кухни. Сотейники с крышкой позволяют равномерно распределять тепло,  обеспечивая приготовление блюд при идеальной температуре и сохранение  вкусовых качеств. Сотейник из алюминия с антипригарным покрытием и толстым дном  обеспечивает идеальную теплоотдачу для равномерного приготовления и  превосходного вкуса.   Основные характеристики сотейника    Объем 2,9 л  Диаметр 18 см  Высота сотейника без крышки 9 см  Высота сотейника с крышкой 14 см  Толщина дна 5 мм     Преимущества сотейника    Подходит для газовых, электрических и индукционных плит;  Не вступает в реакцию с пищей;     Меры предосторожности при использовании     Перед первым использованием вымойте сотейник в теплой  воде с использованием мягкого моющего средства и губки и вытрите насухо.  После полного высыхания протрите антипригарное покрытие небольшим  количеством растительного масла.  Используйте силиконовые или деревянные столовые приборы, чтобы  защитить поверхность от царапин. Категорически не рекомендуется  использовать металлические ложки или лопатки.  Не оставляйте пустой сотейник на огне.  Во избежание повреждений дайте сотейнику полностью остыть перед  мытьем. Не используйте жесткие губки, щетки, абразивные пасты,  чистящие порошки и агрессивные вещества.]]></description>
-<quantity_in_stock>33</quantity_in_stock>
-<vendorCode>HP-4-431CO</vendorCode>
-<param name="Материал">Алюминий</param>
-<param name="Антипригарное покрытие">Есть</param>
-<param name="Верхний диаметр посуды">18 см</param>
-<param name="Вес">1.4 кг</param>
-<param name="Высота стенок">9 см</param>
-<param name="Количество ручек">1</param>
-<param name="Крышка">жаропрочное стекло</param>
-<param name="Крышка с отверстием для выхода пара">Да</param>
-<param name="Сливной носик">Да</param>
-<param name="Съемная ручка">Нет</param>
-<param name="Цвет">Кофейный</param>
-<param name="Тип посуды">Сотейник</param>
-<param name="Материал ручек">Бакелит</param>
-<param name="Подходит для индукционных плит">Да</param>
-<param name="Форма">Круглая</param>
-<param name="Толщина дна">5 мм</param>
-<param name="Гарантия">14 дней</param>
-<param name="Толщина стенки">5 мм</param>
-<param name="Многослойное дно">Да</param>
-</offer>
 <offer id="HP-4-436B" available="true">
 <name>Алюминиевый сотейник 2,7 л с мраморным антипригарным покрытием Ø 24 см черный HP-4-436B</name>
 <price>2089</price>
@@ -5042,6 +5005,43 @@
 <param name="Тип привода">Электропривод</param>
 <param name="Состояние">Новое</param>
 <param name="Цвет корпуса">Черный</param>
+</offer>
+<offer id="HP-4-431CO" available="true">
+<name>Сотейник с антипригарным покрытием 2,9 л с толстым дном Ø 18 см MGC HP-4-431CO</name>
+<price>1729</price>
+<vendorprice>795</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>48</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2841/soteynik_s_antiprigarnym_pokrytiem_2_9_l_kastryulya_s_tolstym_dnom_18_sm_mgc.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2841/soteynik_s_antiprigarnym_pokrytiem_2_9_l_kastryulya_s_tolstym_dnom_18_sm_mgc_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2841/soteynik_s_antiprigarnym_pokrytiem_2_9_l_kastryulya_s_tolstym_dnom_18_sm_mgc_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2841/soteynik_s_antiprigarnym_pokrytiem_2_9_l_kastryulya_s_tolstym_dnom_18_sm_mgc_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2841/soteynik_s_antiprigarnym_pokrytiem_2_9_l_kastryulya_s_tolstym_dnom_18_sm_mgc_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2841/soteynik_s_antiprigarnym_pokrytiem_2_9_l_kastryulya_s_tolstym_dnom_18_sm_mgc_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2841/soteynik_s_antiprigarnym_pokrytiem_2_9_l_kastryulya_s_tolstym_dnom_18_sm_mgc_6.jpg</picture>
+<vendor>MGC</vendor>
+<description><![CDATA[Сотейник с антипригарным покрытием - необходимый аксессуар для любой  кухни. Сотейники с крышкой позволяют равномерно распределять тепло,  обеспечивая приготовление блюд при идеальной температуре и сохранение  вкусовых качеств. Сотейник из алюминия с антипригарным покрытием и толстым дном  обеспечивает идеальную теплоотдачу для равномерного приготовления и  превосходного вкуса.   Основные характеристики сотейника    Объем 2,9 л  Диаметр 18 см  Высота сотейника без крышки 9 см  Высота сотейника с крышкой 14 см  Толщина дна 5 мм     Преимущества сотейника    Подходит для газовых, электрических и индукционных плит;  Не вступает в реакцию с пищей;     Меры предосторожности при использовании     Перед первым использованием вымойте сотейник в теплой  воде с использованием мягкого моющего средства и губки и вытрите насухо.  После полного высыхания протрите антипригарное покрытие небольшим  количеством растительного масла.  Используйте силиконовые или деревянные столовые приборы, чтобы  защитить поверхность от царапин. Категорически не рекомендуется  использовать металлические ложки или лопатки.  Не оставляйте пустой сотейник на огне.  Во избежание повреждений дайте сотейнику полностью остыть перед  мытьем. Не используйте жесткие губки, щетки, абразивные пасты,  чистящие порошки и агрессивные вещества.]]></description>
+<quantity_in_stock>32</quantity_in_stock>
+<vendorCode>HP-4-431CO</vendorCode>
+<param name="Материал">Алюминий</param>
+<param name="Антипригарное покрытие">Есть</param>
+<param name="Верхний диаметр посуды">18 см</param>
+<param name="Вес">1.4 кг</param>
+<param name="Высота стенок">9 см</param>
+<param name="Количество ручек">1</param>
+<param name="Крышка">жаропрочное стекло</param>
+<param name="Крышка с отверстием для выхода пара">Да</param>
+<param name="Сливной носик">Да</param>
+<param name="Съемная ручка">Нет</param>
+<param name="Цвет">Кофейный</param>
+<param name="Тип посуды">Сотейник</param>
+<param name="Материал ручек">Бакелит</param>
+<param name="Подходит для индукционных плит">Да</param>
+<param name="Форма">Круглая</param>
+<param name="Толщина дна">5 мм</param>
+<param name="Гарантия">14 дней</param>
+<param name="Толщина стенки">5 мм</param>
+<param name="Многослойное дно">Да</param>
 </offer>
 <offer id="HP-4-432CO" available="true">
 <name>Алюминиевая кастрюля объемом 3 литра с крышкой Ø 20 см, мраморное антипригарное покрытие MGC кофейного цвета HP-4-432CO</name>
@@ -6173,47 +6173,6 @@
 <param name="Толщина стенки">5 мм</param>
 <param name="Многослойное дно">Да</param>
 </offer>
-<offer id="HP-4-435G" available="true">
-<name>Большая алюминиевая кастрюля объемом 11 литров с антипригарной крышкой Ø32 см HP-4-435G</name>
-<price>5379</price>
-<vendorprice>2467</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>48</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2853/kastryulya_alyuminievaya_bolshaya_na_11_litrov_s_kryshkoy_32_sm_s_antiprigarnym_pokrytiem.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2853/kastryulya_alyuminievaya_bolshaya_na_11_litrov_s_kryshkoy_32_sm_s_antiprigarnym_pokrytiem_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2853/kastryulya_alyuminievaya_bolshaya_na_11_litrov_s_kryshkoy_32_sm_s_antiprigarnym_pokrytiem_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2853/kastryulya_alyuminievaya_bolshaya_na_11_litrov_s_kryshkoy_32_sm_s_antiprigarnym_pokrytiem_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2853/kastryulya_alyuminievaya_bolshaya_na_11_litrov_s_kryshkoy_32_sm_s_antiprigarnym_pokrytiem_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2853/kastryulya_alyuminievaya_bolshaya_na_11_litrov_s_kryshkoy_32_sm_s_antiprigarnym_pokrytiem_5.jpg</picture>
-<vendor>MGC</vendor>
-<description><![CDATA[Кастрюля из алюминиевого сплава станет отличным дополнением к вашей  кухне благодаря своему современному дизайну и функциональности.  Мраморное антипригарное покрытие обеспечивает равномерный нагрев и  предотвращает пригорание пищи, что делает ее идеальной для ежедневного  использования. Объем 11 литров позволяет готовить не большие порции  блюд. Кастрюля легко чистится благодаря антипригарному покрытию, что  также повышает ее долговечность. Вы сможете наслаждаться приготовлением  любимых блюд без лишних усилий по уходу за посудой.    Основные характеристики кастрюли      Объем 11 л   Диаметр 32 см   Высота сковороды без крышки 16,8 см   Высота кастрюли с крышкой 21,8 см;   Толщина дна 5,5 мм.      Преимущества кастрюли.      Подходит для газовых, электрических и индукционных плит;   Не вступает в реакцию с пищей;   Имеет толстое дно для идеального распространения тепла.      Меры предосторожности     Перед первым использованием вымойте в теплой воде с  мягким моющим средством, протрите губкой и вытрите насухо. После полного  высыхания протрите антипригарное покрытие небольшим количеством  растительного масла.   Используйте силиконовые или деревянные столовые приборы, чтобы  защитить поверхность от царапин. Категорически не рекомендуется  использовать металлические ложки или лопатки.  Не оставляйте пустую кастрюлю на огне.  Не используйте жесткие губки и щетки, абразивные пасты и порошки, а также агрессивные чистящие средства.]]></description>
-<quantity_in_stock>27</quantity_in_stock>
-<vendorCode>HP-4-435G</vendorCode>
-<param name="Тип">Кастрюля</param>
-<param name="Материал">Алюминий</param>
-<param name="Антипригарное покрытие">Да</param>
-<param name="Вес">4.4 кг</param>
-<param name="Внутреннее покрытие">мрамор</param>
-<param name="Внешнее покрытие">мрамор</param>
-<param name="Диаметр кастрюли">32 см</param>
-<param name="Тип плиты">Электрическая|Индукционная|Газовая</param>
-<param name="Крышка">жаропрочное стекло</param>
-<param name="Крышка с отверстием для выхода пара">Да</param>
-<param name="Толщина стенок посуды">5 мм</param>
-<param name="Объем">11 л</param>
-<param name="Ручка">Бакелит</param>
-<param name="Высота кастрюли без крышки">16.8 см</param>
-<param name="Мерная шкала">Нет</param>
-<param name="Высота кастрюли с крышкой">21.8 см</param>
-<param name="Способ крепления ручек">Литые (цельнолитые)</param>
-<param name="Тип дна">Многослойное</param>
-<param name="Цвет">Серый</param>
-<param name="Утолщенное дно">Да</param>
-<param name="Состояние">Новое</param>
-<param name="Диаметр под крышку">32 см</param>
-<param name="Толщина дна">5.5 мм</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-4-435B" available="true">
 <name>Большая алюминиевая кастрюля объемом 11 литров с крышкой Ø32 см с антипригарным покрытием MGC HP-4-435B</name>
 <price>5379</price>
@@ -6335,6 +6294,47 @@
 <param name="Состояние">Новое</param>
 <param name="Диаметр под крышку">20 см</param>
 <param name="Толщина дна">5 мм</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-4-435G" available="true">
+<name>Большая алюминиевая кастрюля объемом 11 литров с антипригарной крышкой Ø32 см HP-4-435G</name>
+<price>5379</price>
+<vendorprice>2467</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>48</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2853/kastryulya_alyuminievaya_bolshaya_na_11_litrov_s_kryshkoy_32_sm_s_antiprigarnym_pokrytiem.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2853/kastryulya_alyuminievaya_bolshaya_na_11_litrov_s_kryshkoy_32_sm_s_antiprigarnym_pokrytiem_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2853/kastryulya_alyuminievaya_bolshaya_na_11_litrov_s_kryshkoy_32_sm_s_antiprigarnym_pokrytiem_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2853/kastryulya_alyuminievaya_bolshaya_na_11_litrov_s_kryshkoy_32_sm_s_antiprigarnym_pokrytiem_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2853/kastryulya_alyuminievaya_bolshaya_na_11_litrov_s_kryshkoy_32_sm_s_antiprigarnym_pokrytiem_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2853/kastryulya_alyuminievaya_bolshaya_na_11_litrov_s_kryshkoy_32_sm_s_antiprigarnym_pokrytiem_5.jpg</picture>
+<vendor>MGC</vendor>
+<description><![CDATA[Кастрюля из алюминиевого сплава станет отличным дополнением к вашей  кухне благодаря своему современному дизайну и функциональности.  Мраморное антипригарное покрытие обеспечивает равномерный нагрев и  предотвращает пригорание пищи, что делает ее идеальной для ежедневного  использования. Объем 11 литров позволяет готовить не большие порции  блюд. Кастрюля легко чистится благодаря антипригарному покрытию, что  также повышает ее долговечность. Вы сможете наслаждаться приготовлением  любимых блюд без лишних усилий по уходу за посудой.    Основные характеристики кастрюли      Объем 11 л   Диаметр 32 см   Высота сковороды без крышки 16,8 см   Высота кастрюли с крышкой 21,8 см;   Толщина дна 5,5 мм.      Преимущества кастрюли.      Подходит для газовых, электрических и индукционных плит;   Не вступает в реакцию с пищей;   Имеет толстое дно для идеального распространения тепла.      Меры предосторожности     Перед первым использованием вымойте в теплой воде с  мягким моющим средством, протрите губкой и вытрите насухо. После полного  высыхания протрите антипригарное покрытие небольшим количеством  растительного масла.   Используйте силиконовые или деревянные столовые приборы, чтобы  защитить поверхность от царапин. Категорически не рекомендуется  использовать металлические ложки или лопатки.  Не оставляйте пустую кастрюлю на огне.  Не используйте жесткие губки и щетки, абразивные пасты и порошки, а также агрессивные чистящие средства.]]></description>
+<quantity_in_stock>26</quantity_in_stock>
+<vendorCode>HP-4-435G</vendorCode>
+<param name="Тип">Кастрюля</param>
+<param name="Материал">Алюминий</param>
+<param name="Антипригарное покрытие">Да</param>
+<param name="Вес">4.4 кг</param>
+<param name="Внутреннее покрытие">мрамор</param>
+<param name="Внешнее покрытие">мрамор</param>
+<param name="Диаметр кастрюли">32 см</param>
+<param name="Тип плиты">Электрическая|Индукционная|Газовая</param>
+<param name="Крышка">жаропрочное стекло</param>
+<param name="Крышка с отверстием для выхода пара">Да</param>
+<param name="Толщина стенок посуды">5 мм</param>
+<param name="Объем">11 л</param>
+<param name="Ручка">Бакелит</param>
+<param name="Высота кастрюли без крышки">16.8 см</param>
+<param name="Мерная шкала">Нет</param>
+<param name="Высота кастрюли с крышкой">21.8 см</param>
+<param name="Способ крепления ручек">Литые (цельнолитые)</param>
+<param name="Тип дна">Многослойное</param>
+<param name="Цвет">Серый</param>
+<param name="Утолщенное дно">Да</param>
+<param name="Состояние">Новое</param>
+<param name="Диаметр под крышку">32 см</param>
+<param name="Толщина дна">5.5 мм</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-4-435CO" available="true">
@@ -8981,39 +8981,6 @@
 <param name="Потребляємая мощность">1800 Вт</param>
 <param name="Тип управления">Механическое</param>
 </offer>
-<offer id="SK-19027GR" available="true">
-<name>Весы для кухни Sokany до 5 кг электронные на батарейках Зеленый Lugi SK-19027GR</name>
-<price>369</price>
-<vendorprice>232</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4652/vesy_dlya_kuhni_do_5_kg_elektronnye_tochnye_pishchevye_dlya_produktov_bytovye_bez_chashi_na_batareykah_sokany_lugi.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4652/vesy_dlya_kuhni_do_5_kg_elektronnye_tochnye_pishchevye_dlya_produktov_bytovye_bez_chashi_na_batareykah_sokany_lugi_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4652/vesy_dlya_kuhni_do_5_kg_elektronnye_tochnye_pishchevye_dlya_produktov_bytovye_bez_chashi_na_batareykah_sokany_lugi_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4652/vesy_dlya_kuhni_do_5_kg_elektronnye_tochnye_pishchevye_dlya_produktov_bytovye_bez_chashi_na_batareykah_sokany_lugi_3.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Кухонные весы Sokany &ndash; это неотъемлемый помощник в каждой кухне, который обеспечит точность и легкость при измерении ингредиентов. Удобные и стильные они станут неотъемлемой частью вашего кулинарного процесса.  Характеристики кухонных весов Sokany   размер 22&times;15&times;1 см; максимально допустимый вес 5 кг; современный дизайн; дополнительная функция "тара"; автоматическое отключение; индикация перегрузки.   Благодаря высокоточным сенсорам и системе автоматического отключения вы можете легко измерять вес ингредиентов от 1 г до 5 кг. Компактный дизайн и возможность использования 1 батарейки позволяют использовать эти весы в любом месте вашей кухни. Легкость очистки и хранения делают эти весы идеальным выбором для любой хозяйки, ценящей качество и комфорт в приготовлении блюд.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
-<vendorCode>SK-19027GR</vendorCode>
-<param name="Высота">1 см</param>
-<param name="Вид кухонных весов">электронные</param>
-<param name="Гарантийный срок">14 дней</param>
-<param name="Вес">0.5 кг</param>
-<param name="Дисплей">Да</param>
-<param name="Единицы измерения">Грамм|Килограммы</param>
-<param name="Ширина">15 см</param>
-<param name="Индикация перегрузки">Да</param>
-<param name="Компенсация тары">Да</param>
-<param name="Материал корпуса">Пластик/Стекло</param>
-<param name="Конструкция тары">платформа</param>
-<param name="Максимальный вес">5 кг</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Зеленый</param>
-<param name="Съемная тара">Нет</param>
-<param name="Функция автоотключения">Да</param>
-<param name="Точность измерения">1</param>
-<param name="Тип элементов питания">CR2032</param>
-</offer>
 <offer id="HP-4-413B" available="true">
 <name>Алюминиевая кастрюля Ø 30 см 2-ступенчатое мраморное антипригарное покрытие Черный MGC HP-4-413B</name>
 <price>3129</price>
@@ -9155,6 +9122,39 @@
 <param name="Регулировка силы пара">Да</param>
 <param name="Потребляємая мощность">1800 Вт</param>
 <param name="Тип управления">Механическое</param>
+</offer>
+<offer id="SK-19027GR" available="true">
+<name>Весы для кухни Sokany до 5 кг электронные на батарейках Зеленый Lugi SK-19027GR</name>
+<price>369</price>
+<vendorprice>232</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4652/vesy_dlya_kuhni_do_5_kg_elektronnye_tochnye_pishchevye_dlya_produktov_bytovye_bez_chashi_na_batareykah_sokany_lugi.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4652/vesy_dlya_kuhni_do_5_kg_elektronnye_tochnye_pishchevye_dlya_produktov_bytovye_bez_chashi_na_batareykah_sokany_lugi_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4652/vesy_dlya_kuhni_do_5_kg_elektronnye_tochnye_pishchevye_dlya_produktov_bytovye_bez_chashi_na_batareykah_sokany_lugi_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4652/vesy_dlya_kuhni_do_5_kg_elektronnye_tochnye_pishchevye_dlya_produktov_bytovye_bez_chashi_na_batareykah_sokany_lugi_3.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Кухонные весы Sokany &ndash; это неотъемлемый помощник в каждой кухне, который обеспечит точность и легкость при измерении ингредиентов. Удобные и стильные они станут неотъемлемой частью вашего кулинарного процесса.  Характеристики кухонных весов Sokany   размер 22&times;15&times;1 см; максимально допустимый вес 5 кг; современный дизайн; дополнительная функция "тара"; автоматическое отключение; индикация перегрузки.   Благодаря высокоточным сенсорам и системе автоматического отключения вы можете легко измерять вес ингредиентов от 1 г до 5 кг. Компактный дизайн и возможность использования 1 батарейки позволяют использовать эти весы в любом месте вашей кухни. Легкость очистки и хранения делают эти весы идеальным выбором для любой хозяйки, ценящей качество и комфорт в приготовлении блюд.]]></description>
+<quantity_in_stock>9</quantity_in_stock>
+<vendorCode>SK-19027GR</vendorCode>
+<param name="Высота">1 см</param>
+<param name="Вид кухонных весов">электронные</param>
+<param name="Гарантийный срок">14 дней</param>
+<param name="Вес">0.5 кг</param>
+<param name="Дисплей">Да</param>
+<param name="Единицы измерения">Грамм|Килограммы</param>
+<param name="Ширина">15 см</param>
+<param name="Индикация перегрузки">Да</param>
+<param name="Компенсация тары">Да</param>
+<param name="Материал корпуса">Пластик/Стекло</param>
+<param name="Конструкция тары">платформа</param>
+<param name="Максимальный вес">5 кг</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Зеленый</param>
+<param name="Съемная тара">Нет</param>
+<param name="Функция автоотключения">Да</param>
+<param name="Точность измерения">1</param>
+<param name="Тип элементов питания">CR2032</param>
 </offer>
 <offer id="SK-03029" available="true">
 <name>Кухонный комбайн с соковыжималкой и кофемолкой 4 в 1 блендер 800 Вт Sokany SK-03029</name>
@@ -12617,7 +12617,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/111/USB200L20MGW-1%281%29.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Гирлянда USB роса идеально подходит для окон, дверей, стен, картин, елок, фотозоны. Гирлянда оснащена 100 яркими светодиодами, которые обеспечивают превосходное освещение.   Основные характеристики гирлянды роса   гирлянда роса 10 метров; 100 led светодиодов;  класс защиты IP44.   Особенностью этой гирлянды является ее питание от usb, что обеспечивает максимальную мобильность и удобство в эксплуатации. Новогодняя гирлянда Роса - это не только декоративный элемент, но и практичный инструмент для создания особого атмосферного света в вашем доме или на мероприятии любого уровня.  Купить гирлянду капли росы 10 метров можно с доставкой по всей Украине. Гирлянда подлежит возврату только в том случае, когда ее исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>2207</quantity_in_stock>
+<quantity_in_stock>2206</quantity_in_stock>
 <vendorCode>USB100L10MWW</vendorCode>
 <param name="Режим работы">Динамический</param>
 <param name="Количество светодиодов">100</param>
@@ -22336,33 +22336,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Разъемы">USB-C, USB-A</param>
 <param name="Гарантия">3 мес</param>
 </offer>
-<offer id="SJ-0029-2" available="true">
-<name>Подстилка под палатку 195х195 см с фольгированным покрытием SJ-0029-2</name>
-<price>429</price>
-<vendorprice>291</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>165</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_9.jpg</picture>
-<vendor>Lugi</vendor>
-<description><![CDATA[Подкладка влагозащитная имеет размеры 195х195 см метра, что делает ее удобной для использования под палатками или другими походными аксессуарами. Она обеспечивает дополнительную защиту от влаги, предотвращая попадание влаги с земли на внутреннюю поверхность палатки или другого снаряжения.  Основные характеристики:    Размеры: 195х195х0.3 см; Материал: утеплитель с фольгированным покрытием; Количество шаров: 1; Наличие чехла: есть.   Материал подкладки изготовлен из водонепроницаемых материалов, эффективно защищающих от влаги и сырости. Это позволяет создать комфортные условия для отдыха на природе, даже во влажную погоду.  Подкладка является легкой и компактной, что позволяет без труда транспортировать ее в сложенном виде. Она также удобна для использования на любых природных поверхностях, добавляя защиту от грязи и влаги.]]></description>
-<quantity_in_stock>198</quantity_in_stock>
-<vendorCode>SJ-0029-2</vendorCode>
-<param name="Материал">Алюминизированный полиетилен</param>
-<param name="Комплектующие для палаток">Подкладка</param>
-<param name="Цвет">Серебристый</param>
-<param name="Длина">195</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-42-107" available="true">
 <name>Коврик диатомитовый универсальный 58×38 см с цветочным принтом Yiwu HP-42-107</name>
 <price>199</price>
@@ -22505,6 +22478,33 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Угол свечения">360</param>
 <param name="Цвет свечения">Синий</param>
 <param name="Форма лампочки">Капля</param>
+</offer>
+<offer id="SJ-0029-2" available="true">
+<name>Подстилка под палатку 195х195 см с фольгированным покрытием SJ-0029-2</name>
+<price>429</price>
+<vendorprice>291</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>165</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_9.jpg</picture>
+<vendor>Lugi</vendor>
+<description><![CDATA[Подкладка влагозащитная имеет размеры 195х195 см метра, что делает ее удобной для использования под палатками или другими походными аксессуарами. Она обеспечивает дополнительную защиту от влаги, предотвращая попадание влаги с земли на внутреннюю поверхность палатки или другого снаряжения.  Основные характеристики:    Размеры: 195х195х0.3 см; Материал: утеплитель с фольгированным покрытием; Количество шаров: 1; Наличие чехла: есть.   Материал подкладки изготовлен из водонепроницаемых материалов, эффективно защищающих от влаги и сырости. Это позволяет создать комфортные условия для отдыха на природе, даже во влажную погоду.  Подкладка является легкой и компактной, что позволяет без труда транспортировать ее в сложенном виде. Она также удобна для использования на любых природных поверхностях, добавляя защиту от грязи и влаги.]]></description>
+<quantity_in_stock>197</quantity_in_stock>
+<vendorCode>SJ-0029-2</vendorCode>
+<param name="Материал">Алюминизированный полиетилен</param>
+<param name="Комплектующие для палаток">Подкладка</param>
+<param name="Цвет">Серебристый</param>
+<param name="Длина">195</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="36МBW" available="true">
 <name>Новогодняя гирлянда уличная Бахрома 36 м 600 LED черный провод Белый 36МBW</name>
@@ -29968,30 +29968,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Чувствительность">40 дБ</param>
 <param name="Гарантия">3 мес</param>
 </offer>
-<offer id="HP-8-42" available="true">
-<name>Ложка для риса 32.5 (см) из нержавейки с деревянной ручкой HP-8-42</name>
-<price>469</price>
-<vendorprice>361</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>88</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4518/lozhka_dlya_risa_32_5_sm_iz_nerzhaveyki_s_derevyannoy_rchkoy_lozhka_dlya_plova.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4518/lozhka_dlya_risa_32_5_sm_iz_nerzhaveyki_s_derevyannoy_rchkoy_lozhka_dlya_plova_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4518/lozhka_dlya_risa_32_5_sm_iz_nerzhaveyki_s_derevyannoy_rchkoy_lozhka_dlya_plova_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4518/lozhka_dlya_risa_32_5_sm_iz_nerzhaveyki_s_derevyannoy_rchkoy_lozhka_dlya_plova_3.jpg</picture>
-<vendor>Ding Lanfang</vendor>
-<description><![CDATA[Ложка для риса &mdash; это удобный и надёжный инструмент для приготовления и подачи блюд в процессе приготовления.   Рабочая часть изготовлена из нержавеющей стали &mdash; прочного, термостойкого материала, который не деформируется при нагревании, не впитывает запахи и легко очищается. Деревянная ручка обеспечивает комфортный захват, не нагревается и придаёт изделию эстетичный, тёплый вид. Общая длина 32.5 см позволяет безопасно использовать лопатку при жарке и запекании, не рискуя обжечься.  Основные характеристики металлической лопатки для сковороды:   Размер: 32.5&times;7.5 см; Длина: 32.5 см; Материал рабочей части: нержавеющая сталь; Материал ручки: дерево.   Благодаря прочным материалам и продуманной конструкции, лопатка подойдёт как для повседневной домашней кухни, так и для профессионального использования. Это практичное и долговечное решение для каждого, кто ценит удобство и качество на кухне.]]></description>
-<quantity_in_stock>130</quantity_in_stock>
-<vendorCode>HP-8-42</vendorCode>
-<param name="Тип">Ложка</param>
-<param name="Материал">Нержавеющая сталь</param>
-<param name="Ширина">7.5 см</param>
-<param name="Количество в наборе">1</param>
-<param name="Подходит для посуды с тефлоновым покрытием">Нет</param>
-<param name="Цвет">Коричневый</param>
-<param name="Длина">32.5 см</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-8-46" available="true">
 <name>Сито 27×22×10 (см) на раковину Серый HP-8-46</name>
 <price>229</price>
@@ -30237,6 +30213,30 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Форма лампочки">Классическая</param>
 <param name="Форма сечения">Круглая</param>
 <param name="Цветовая гамма">RGB</param>
+</offer>
+<offer id="HP-8-42" available="true">
+<name>Ложка для риса 32.5 (см) из нержавейки с деревянной ручкой HP-8-42</name>
+<price>469</price>
+<vendorprice>361</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>88</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4518/lozhka_dlya_risa_32_5_sm_iz_nerzhaveyki_s_derevyannoy_rchkoy_lozhka_dlya_plova.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4518/lozhka_dlya_risa_32_5_sm_iz_nerzhaveyki_s_derevyannoy_rchkoy_lozhka_dlya_plova_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4518/lozhka_dlya_risa_32_5_sm_iz_nerzhaveyki_s_derevyannoy_rchkoy_lozhka_dlya_plova_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4518/lozhka_dlya_risa_32_5_sm_iz_nerzhaveyki_s_derevyannoy_rchkoy_lozhka_dlya_plova_3.jpg</picture>
+<vendor>Ding Lanfang</vendor>
+<description><![CDATA[Ложка для риса &mdash; это удобный и надёжный инструмент для приготовления и подачи блюд в процессе приготовления.   Рабочая часть изготовлена из нержавеющей стали &mdash; прочного, термостойкого материала, который не деформируется при нагревании, не впитывает запахи и легко очищается. Деревянная ручка обеспечивает комфортный захват, не нагревается и придаёт изделию эстетичный, тёплый вид. Общая длина 32.5 см позволяет безопасно использовать лопатку при жарке и запекании, не рискуя обжечься.  Основные характеристики металлической лопатки для сковороды:   Размер: 32.5&times;7.5 см; Длина: 32.5 см; Материал рабочей части: нержавеющая сталь; Материал ручки: дерево.   Благодаря прочным материалам и продуманной конструкции, лопатка подойдёт как для повседневной домашней кухни, так и для профессионального использования. Это практичное и долговечное решение для каждого, кто ценит удобство и качество на кухне.]]></description>
+<quantity_in_stock>129</quantity_in_stock>
+<vendorCode>HP-8-42</vendorCode>
+<param name="Тип">Ложка</param>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Ширина">7.5 см</param>
+<param name="Количество в наборе">1</param>
+<param name="Подходит для посуды с тефлоновым покрытием">Нет</param>
+<param name="Цвет">Коричневый</param>
+<param name="Длина">32.5 см</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-42-33" available="true">
 <name>Коврик диатомитовый с 3D-эффектом Sunset Meadow 58*38 см универсальный HP-42-33</name>
@@ -35137,69 +35137,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Форма">Круглая</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-YH-22" available="true">
-<name>Конфетница трехъярусная стеклянная  Ø 10 см с крышкой HP-YH-22</name>
-<price>359</price>
-<vendorprice>281</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>171</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3592/konfetnitsa_trehyarusnaya_steklyannaya_10_sm_s_kryshkoy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3592/konfetnitsa_trehyarusnaya_steklyannaya_10_sm_s_kryshkoy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3592/konfetnitsa_trehyarusnaya_steklyannaya_10_sm_s_kryshkoy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3592/konfetnitsa_trehyarusnaya_steklyannaya_10_sm_s_kryshkoy_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3592/konfetnitsa_trehyarusnaya_steklyannaya_10_sm_s_kryshkoy_4.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Трехуровневая стеклянная конфетница с крышкой - это изысканный и практичный элемент для сервировки, который добавляет элегантности любому столу. Благодаря трехуровневой конструкции, она позволяет красиво организовать разнообразные сладости, конфеты или даже мини-угощения, обеспечивая удобный доступ к ним. Хрустальное стекло делает это изделие не только функциональным, но и стильным акцентом для любого дома или праздничного события.  Основные характеристики:   Материал: стекло; Диаметр: 10 см; Высота: 20 см.   Конфетница идеально подходит для использования на вечеринках, праздничных мероприятиях или как украшение в гостиной. Благодаря ее многофункциональности, вы сможете организовать декор и угощение одновременно. Крышка предоставляет дополнительное удобство, защищая содержимое и позволяя дольше сохранять свежесть и аромат сладостей.  Данное изделие имеет практичные размеры и стильный вид, что позволяет сочетать его с различными интерьерами и праздничными темами, создавая атмосферу торжественности и уюта.]]></description>
-<quantity_in_stock>105</quantity_in_stock>
-<vendorCode>HP-YH-22</vendorCode>
-<param name="Материал">Стекло</param>
-<param name="Высота">200</param>
-<param name="Диаметр">100</param>
-<param name="Крышка">есть</param>
-<param name="Ширина">100</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Тематика декора, рисунка">Без декора</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Тип посуды">Конфетница</param>
-<param name="Состояние">Новое</param>
-<param name="Форма">Круглая</param>
-<param name="Гарантия">14 дней</param>
-</offer>
-<offer id="JY-6040" available="true">
-<name>Стол для пикника раскладной 60*40*25,5 см Lugi JY-6040</name>
-<price>1059</price>
-<vendorprice>784</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>77</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-6040/JY6040_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-6040/JY6040_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-6040/JY6040_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-6040/JY6040_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-6040/JY6040_9.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-6040/JY6040_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-6040/JY6040_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-6040/JY6040_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-6040/JY6040_2.jpg</picture>
-<vendor>Lugi</vendor>
-<description><![CDATA[Складной туристический стол &mdash; универсальный помощник для пикников, кемпинга, отдыха на природе или даже для использования дома как столик для ноутбука или завтраков. Компактный, лёгкий и удобный, он легко складывается в тонкий кейс и не занимает много места при хранении и транспортировке. Благодаря легкой и прочной конструкции стол быстро складывается в компактный кейс с удобной ручкой для переноски, занимая минимум места при хранении и транспортировке.  Материал столешницы устойчив к влаге и загрязнениям, что позволяет использовать стол даже вблизи воды &mdash; на пляже или в лодке. Каркас из алюминиевой трубки обеспечивает надежность и стабильность конструкции, а ножки с защитными накладками предотвращают скольжение на любой поверхности. Этот стол сочетает в себе легкость, прочность и универсальность: он подходит для размещения посуды, ноутбука, книг или других необходимых вещей. Быстрое складывание и раскладывание делают его удобным в использовании в любых условиях.  Основные характеристики туристического складного стола:      Размер в сложенном виде:    30&times;4&times;40 см; Размер в разложенном виде:    60&times;40&times;25.5 см; Материал столешницы: МДФ; Материал каркаса: алюминиевая трубка (&Oslash;13, толщина 0.6 мм).   Преимущества стола для пикника   Ультракомпактный &mdash; удобно брать с собой; Лёгкий вес &mdash; идеально для пеших прогулок и выездов; Устойчивый и прочный каркас из алюминия; Столешница устойчива к влаге и загрязнениям;  Универсальное применение &mdash; для еды, ноутбука, книг и пр.; Быстро складывается и раскладывается.   Такой туристический столик станет отличным выбором для тех, кто ценит практичность и мобильность, обеспечивая комфорт в дороге и на природе. Благодаря компактным размерам и эргономичному дизайну он всегда будет под рукой. Вы можете купить столик на природу и другие товары в нашем интернет-магазине по доступной цене с доставкой по Украине.]]></description>
-<quantity_in_stock>105</quantity_in_stock>
-<vendorCode>JY-6040</vendorCode>
-<param name="Высота">25.5 см</param>
-<param name="Материал столешницы">МДФ</param>
-<param name="Материал каркаса (опор)">Алюминий</param>
-<param name="Возможность регулировки опор по высоте">Нет</param>
-<param name="Ширина">40 см</param>
-<param name="Отверстие в столешнице для зонта">Нет</param>
-<param name="Складная конструкция для хранения и транспортировки">Да</param>
-<param name="Цвет">Черный</param>
-<param name="Длина">60 см</param>
-<param name="Ширина в сложенном виде">4 см</param>
-<param name="Форма стола">Прямоугольный</param>
-<param name="Состояние">Новое</param>
-<param name="Глубина в сложенном виде">30 см</param>
-<param name="Высота в сложенном виде">40 см</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="16788-6" available="true">
 <name>Вертикальный шприц для колбасы 2.5 л из нержавеющей стали шприц колбасный 4 насадки 16788-6</name>
 <price>3929</price>
@@ -35427,6 +35364,69 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Объем">450 мл</param>
 <param name="Цвет">Голубой</param>
 <param name="Нижний диаметр">6.5 см</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-YH-22" available="true">
+<name>Конфетница трехъярусная стеклянная  Ø 10 см с крышкой HP-YH-22</name>
+<price>359</price>
+<vendorprice>281</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>171</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3592/konfetnitsa_trehyarusnaya_steklyannaya_10_sm_s_kryshkoy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3592/konfetnitsa_trehyarusnaya_steklyannaya_10_sm_s_kryshkoy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3592/konfetnitsa_trehyarusnaya_steklyannaya_10_sm_s_kryshkoy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3592/konfetnitsa_trehyarusnaya_steklyannaya_10_sm_s_kryshkoy_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3592/konfetnitsa_trehyarusnaya_steklyannaya_10_sm_s_kryshkoy_4.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Трехуровневая стеклянная конфетница с крышкой - это изысканный и практичный элемент для сервировки, который добавляет элегантности любому столу. Благодаря трехуровневой конструкции, она позволяет красиво организовать разнообразные сладости, конфеты или даже мини-угощения, обеспечивая удобный доступ к ним. Хрустальное стекло делает это изделие не только функциональным, но и стильным акцентом для любого дома или праздничного события.  Основные характеристики:   Материал: стекло; Диаметр: 10 см; Высота: 20 см.   Конфетница идеально подходит для использования на вечеринках, праздничных мероприятиях или как украшение в гостиной. Благодаря ее многофункциональности, вы сможете организовать декор и угощение одновременно. Крышка предоставляет дополнительное удобство, защищая содержимое и позволяя дольше сохранять свежесть и аромат сладостей.  Данное изделие имеет практичные размеры и стильный вид, что позволяет сочетать его с различными интерьерами и праздничными темами, создавая атмосферу торжественности и уюта.]]></description>
+<quantity_in_stock>104</quantity_in_stock>
+<vendorCode>HP-YH-22</vendorCode>
+<param name="Материал">Стекло</param>
+<param name="Высота">200</param>
+<param name="Диаметр">100</param>
+<param name="Крышка">есть</param>
+<param name="Ширина">100</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Тематика декора, рисунка">Без декора</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Тип посуды">Конфетница</param>
+<param name="Состояние">Новое</param>
+<param name="Форма">Круглая</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="JY-6040" available="true">
+<name>Стол для пикника раскладной 60*40*25,5 см Lugi JY-6040</name>
+<price>1059</price>
+<vendorprice>784</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>77</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-6040/JY6040_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-6040/JY6040_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-6040/JY6040_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-6040/JY6040_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-6040/JY6040_9.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-6040/JY6040_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-6040/JY6040_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-6040/JY6040_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-6040/JY6040_2.jpg</picture>
+<vendor>Lugi</vendor>
+<description><![CDATA[Складной туристический стол &mdash; универсальный помощник для пикников, кемпинга, отдыха на природе или даже для использования дома как столик для ноутбука или завтраков. Компактный, лёгкий и удобный, он легко складывается в тонкий кейс и не занимает много места при хранении и транспортировке. Благодаря легкой и прочной конструкции стол быстро складывается в компактный кейс с удобной ручкой для переноски, занимая минимум места при хранении и транспортировке.  Материал столешницы устойчив к влаге и загрязнениям, что позволяет использовать стол даже вблизи воды &mdash; на пляже или в лодке. Каркас из алюминиевой трубки обеспечивает надежность и стабильность конструкции, а ножки с защитными накладками предотвращают скольжение на любой поверхности. Этот стол сочетает в себе легкость, прочность и универсальность: он подходит для размещения посуды, ноутбука, книг или других необходимых вещей. Быстрое складывание и раскладывание делают его удобным в использовании в любых условиях.  Основные характеристики туристического складного стола:      Размер в сложенном виде:    30&times;4&times;40 см; Размер в разложенном виде:    60&times;40&times;25.5 см; Материал столешницы: МДФ; Материал каркаса: алюминиевая трубка (&Oslash;13, толщина 0.6 мм).   Преимущества стола для пикника   Ультракомпактный &mdash; удобно брать с собой; Лёгкий вес &mdash; идеально для пеших прогулок и выездов; Устойчивый и прочный каркас из алюминия; Столешница устойчива к влаге и загрязнениям;  Универсальное применение &mdash; для еды, ноутбука, книг и пр.; Быстро складывается и раскладывается.   Такой туристический столик станет отличным выбором для тех, кто ценит практичность и мобильность, обеспечивая комфорт в дороге и на природе. Благодаря компактным размерам и эргономичному дизайну он всегда будет под рукой. Вы можете купить столик на природу и другие товары в нашем интернет-магазине по доступной цене с доставкой по Украине.]]></description>
+<quantity_in_stock>104</quantity_in_stock>
+<vendorCode>JY-6040</vendorCode>
+<param name="Высота">25.5 см</param>
+<param name="Материал столешницы">МДФ</param>
+<param name="Материал каркаса (опор)">Алюминий</param>
+<param name="Возможность регулировки опор по высоте">Нет</param>
+<param name="Ширина">40 см</param>
+<param name="Отверстие в столешнице для зонта">Нет</param>
+<param name="Складная конструкция для хранения и транспортировки">Да</param>
+<param name="Цвет">Черный</param>
+<param name="Длина">60 см</param>
+<param name="Ширина в сложенном виде">4 см</param>
+<param name="Форма стола">Прямоугольный</param>
+<param name="Состояние">Новое</param>
+<param name="Глубина в сложенном виде">30 см</param>
+<param name="Высота в сложенном виде">40 см</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-35015-57" available="true">
@@ -38560,37 +38560,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Длина">58</param>
 <param name="Форма">Квадратная</param>
 </offer>
-<offer id="HPBH17128W" available="true">
-<name>Увлажнитель воздуха USB 220ml Белый HPBH17128W</name>
-<price>379</price>
-<vendorprice>293</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>44</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17128/uvlazhnitel_vozduha_dlya_detskoy_komnaty_samoletik_220_ml_belyy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17128/5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17128/6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17128/hpbh17128w%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17128/hpbh17128w%283%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/1296/uvlazhnitel_vozduha_dlya_doma_samolet_portativnyy_usb_220_ml_aromaticheskiy_diffuzor_s_podsvetkoy_belyy_7.jpg</picture>
-<vendor>Happy Life</vendor>
-<description><![CDATA[Этот портативный увлажнитель воздуха в форме самолета с ароматическим диффузором и подсветкой обеспечивает не только комфорт и уют в вашем доме, но и станет интересным элементом декора, который порадует ваших детей.  Этот увлажнитель является компактным и легко переносимым, что делает его идеальным для использования дома, в офисе или даже во время путешествий. Благодаря возможности питания через USB, вы можете подключить его к любому порту USB, что обеспечивает удобство и мобильность в использовании.  Интегрированный ароматический диффузор позволяет добавлять в воздух приятные ароматы, создавая атмосферу расслабления и благополучия. Вы можете использовать детские эфирные масла или любимые ароматические жидкости, чтобы создать желаемое настроение.  Встроенная подсветка делает этот увлажнитель еще более привлекательным для ваших детей. Мягкий свет, излучаемый самолетом, создает уютную обстановку и способствует расслаблению и комфорту.     Технические характеристики:    Рабочая мощность: 2 Вт. Вход для зарядки: 5 В/1 А. Емкость резервуара для воды: 220 мл. Объем распыления: 30-40 мл/ч. Рабочий ток: 350 мА. Время использования: 4-8 часов  Рабочее напряжение: DC5V. Вес нетто/брутто: 121 г/192 г.]]></description>
-<quantity_in_stock>93</quantity_in_stock>
-<vendorCode>HPBH17128W</vendorCode>
-<param name="Тип">Увлажнитель</param>
-<param name="Автоотключение при отсутствии воды">Да</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Ночной режим работы">Да</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Объем резервуара для воды">0.22 л</param>
-<param name="Цвет">Белый</param>
-<param name="Индикатор работы">Да</param>
-<param name="Тип питания">Сеть 220 В</param>
-<param name="Тип увлажнителя">Ультразвуковой</param>
-<param name="Тип установки">Настольный</param>
-<param name="Гарантия">14 дней</param>
-<param name="Потребляємая мощность">2 Вт</param>
-<param name="Тип управления">Механическое</param>
-</offer>
 <offer id="HP-14-24W" available="true">
 <name>Термокружка Big Mac 1,2 л с трубочкой белая HP-14-24W</name>
 <price>949</price>
@@ -38765,6 +38734,37 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Ширина">30</param>
 <param name="Количество в наборе">1</param>
 <param name="Длина">40</param>
+</offer>
+<offer id="HPBH17128W" available="true">
+<name>Увлажнитель воздуха USB 220ml Белый HPBH17128W</name>
+<price>379</price>
+<vendorprice>293</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>44</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17128/uvlazhnitel_vozduha_dlya_detskoy_komnaty_samoletik_220_ml_belyy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17128/5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17128/6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17128/hpbh17128w%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17128/hpbh17128w%283%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/1296/uvlazhnitel_vozduha_dlya_doma_samolet_portativnyy_usb_220_ml_aromaticheskiy_diffuzor_s_podsvetkoy_belyy_7.jpg</picture>
+<vendor>Happy Life</vendor>
+<description><![CDATA[Этот портативный увлажнитель воздуха в форме самолета с ароматическим диффузором и подсветкой обеспечивает не только комфорт и уют в вашем доме, но и станет интересным элементом декора, который порадует ваших детей.  Этот увлажнитель является компактным и легко переносимым, что делает его идеальным для использования дома, в офисе или даже во время путешествий. Благодаря возможности питания через USB, вы можете подключить его к любому порту USB, что обеспечивает удобство и мобильность в использовании.  Интегрированный ароматический диффузор позволяет добавлять в воздух приятные ароматы, создавая атмосферу расслабления и благополучия. Вы можете использовать детские эфирные масла или любимые ароматические жидкости, чтобы создать желаемое настроение.  Встроенная подсветка делает этот увлажнитель еще более привлекательным для ваших детей. Мягкий свет, излучаемый самолетом, создает уютную обстановку и способствует расслаблению и комфорту.     Технические характеристики:    Рабочая мощность: 2 Вт. Вход для зарядки: 5 В/1 А. Емкость резервуара для воды: 220 мл. Объем распыления: 30-40 мл/ч. Рабочий ток: 350 мА. Время использования: 4-8 часов  Рабочее напряжение: DC5V. Вес нетто/брутто: 121 г/192 г.]]></description>
+<quantity_in_stock>92</quantity_in_stock>
+<vendorCode>HPBH17128W</vendorCode>
+<param name="Тип">Увлажнитель</param>
+<param name="Автоотключение при отсутствии воды">Да</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Ночной режим работы">Да</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Объем резервуара для воды">0.22 л</param>
+<param name="Цвет">Белый</param>
+<param name="Индикатор работы">Да</param>
+<param name="Тип питания">Сеть 220 В</param>
+<param name="Тип увлажнителя">Ультразвуковой</param>
+<param name="Тип установки">Настольный</param>
+<param name="Гарантия">14 дней</param>
+<param name="Потребляємая мощность">2 Вт</param>
+<param name="Тип управления">Механическое</param>
 </offer>
 <offer id="HPZSB120014BL" available="true">
 <name>Набор бутылок 3 в 1 Панда с поилкой и ручкой 0.3 (л) 0.7 (л) 2 (л) Синий HPZSB120014BL</name>
@@ -46982,49 +46982,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Подходит для мытья в посудомоечной машине">Нет</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-V-029" available="true">
-<name>Машинка для стрижки VGR аккумуляторная серебро HP-V-029</name>
-<price>1679</price>
-<vendorprice>1289</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>76</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/010/mashinka_dlya_strizhki_professionalnaya_vgr_v_029_akkumulyatornaya_s_nasadkami_serebro.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2678/mashinka_dlya_strizhki_professionalnaya_6_v_1_trimmer_akkumulyatornyy_nabor_dlya_strizhki_s_nasadkami_vgr_6.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2678/mashinka_dlya_strizhki_professionalnaya_6_v_1_trimmer_akkumulyatornyy_nabor_dlya_strizhki_s_nasadkami_vgr_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2678/mashinka_dlya_strizhki_professionalnaya_6_v_1_trimmer_akkumulyatornyy_nabor_dlya_strizhki_s_nasadkami_vgr_9.jpg</picture>
-<vendor>VGR</vendor>
-<description><![CDATA[Многофункциональная машинка для стрижки VGR - это портативное устройство для ухода за волосами. Он подходит для всех типов волос.     Триммер VGR подходит для использования в профессиональных салонах красоты и дома. Он оснащен двумя литий-ионными аккумуляторами и имеет два варианта зарядки. Красный индикатор сигнализирует о работе, также имеется индикатор заряда. Благодаря прочным лезвиям из нержавеющей стали, устойчивым к коррозии, машинка VGR даже круче, чем парикмахерская, и позволяет быстро и удобно подстригать волосы в домашних условиях.      Особенности машинки для стрижки VGR            Перезаряжаемый аккумулятор + USB-зарядка.     Основные части корпуса выполнены из металла.     Мощный литий-ионный аккумулятор 1000Mah.     Время работы до 60 минут.     Время зарядки до 8 часов.     Эргономичный корпус.     Подходит для всех типов волос.]]></description>
-<quantity_in_stock>67</quantity_in_stock>
-<vendorCode>HP-V-029</vendorCode>
-<param name="Бритвенная насадка">Да</param>
-<param name="Вес">0.4 кг</param>
-<param name="Длина сетевого шнура">1.5 м</param>
-<param name="Время заряда аккумулятора">8 час</param>
-<param name="Влагозащищенный корпус">Нет</param>
-<param name="Время работы от аккумулятора">60 мин</param>
-<param name="Количество насадок">6</param>
-<param name="Гипоаллергенное покрытие">Нет</param>
-<param name="Детская/тихая стрижка">Да</param>
-<param name="Индикатор заряда элементов питания">Да</param>
-<param name="Цвет">Хром</param>
-<param name="Количество установок длины">4</param>
-<param name="Тип питания">Аккумулятор|Сеть 220 В</param>
-<param name="Максимальная длина стрижки">12 мм</param>
-<param name="Цвет корпуса">Серебристый</param>
-<param name="Материал лезвий">Нержавеющая сталь</param>
-<param name="Минимальная длина стрижки">3 мм</param>
-<param name="Гарантия">3 мес</param>
-<param name="Прорезиненная рукоятка">Нет</param>
-<param name="Регулировка длины">Сменные насадки</param>
-<param name="Самозатачивающиеся лезвия">Нет</param>
-<param name="Насадка-триммер для тела">Нет</param>
-<param name="Стационарное зарядное устройство">Нет</param>
-<param name="Тип прибора">Универсальная машинка для стрижки</param>
-<param name="Тип элементов питания">Li-Ion</param>
-<param name="Триммер для окантовки">Да</param>
-<param name="Дорожный футляр">Нет</param>
-<param name="Щеточка для чистки">Да</param>
-</offer>
 <offer id="HP-14-55O" available="true">
 <name>Термос Vacuum с датчиком температуры на 820 мл оранжевый HP-14-55O</name>
 <price>1049</price>
@@ -47387,6 +47344,49 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Подходит для мытья в посудомоечной машине">Нет</param>
 <param name="Гарантия">14 дней</param>
 </offer>
+<offer id="HP-V-029" available="true">
+<name>Машинка для стрижки VGR аккумуляторная серебро HP-V-029</name>
+<price>1679</price>
+<vendorprice>1289</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>76</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/010/mashinka_dlya_strizhki_professionalnaya_vgr_v_029_akkumulyatornaya_s_nasadkami_serebro.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2678/mashinka_dlya_strizhki_professionalnaya_6_v_1_trimmer_akkumulyatornyy_nabor_dlya_strizhki_s_nasadkami_vgr_6.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2678/mashinka_dlya_strizhki_professionalnaya_6_v_1_trimmer_akkumulyatornyy_nabor_dlya_strizhki_s_nasadkami_vgr_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2678/mashinka_dlya_strizhki_professionalnaya_6_v_1_trimmer_akkumulyatornyy_nabor_dlya_strizhki_s_nasadkami_vgr_9.jpg</picture>
+<vendor>VGR</vendor>
+<description><![CDATA[Многофункциональная машинка для стрижки VGR - это портативное устройство для ухода за волосами. Он подходит для всех типов волос.     Триммер VGR подходит для использования в профессиональных салонах красоты и дома. Он оснащен двумя литий-ионными аккумуляторами и имеет два варианта зарядки. Красный индикатор сигнализирует о работе, также имеется индикатор заряда. Благодаря прочным лезвиям из нержавеющей стали, устойчивым к коррозии, машинка VGR даже круче, чем парикмахерская, и позволяет быстро и удобно подстригать волосы в домашних условиях.      Особенности машинки для стрижки VGR            Перезаряжаемый аккумулятор + USB-зарядка.     Основные части корпуса выполнены из металла.     Мощный литий-ионный аккумулятор 1000Mah.     Время работы до 60 минут.     Время зарядки до 8 часов.     Эргономичный корпус.     Подходит для всех типов волос.]]></description>
+<quantity_in_stock>66</quantity_in_stock>
+<vendorCode>HP-V-029</vendorCode>
+<param name="Бритвенная насадка">Да</param>
+<param name="Вес">0.4 кг</param>
+<param name="Длина сетевого шнура">1.5 м</param>
+<param name="Время заряда аккумулятора">8 час</param>
+<param name="Влагозащищенный корпус">Нет</param>
+<param name="Время работы от аккумулятора">60 мин</param>
+<param name="Количество насадок">6</param>
+<param name="Гипоаллергенное покрытие">Нет</param>
+<param name="Детская/тихая стрижка">Да</param>
+<param name="Индикатор заряда элементов питания">Да</param>
+<param name="Цвет">Хром</param>
+<param name="Количество установок длины">4</param>
+<param name="Тип питания">Аккумулятор|Сеть 220 В</param>
+<param name="Максимальная длина стрижки">12 мм</param>
+<param name="Цвет корпуса">Серебристый</param>
+<param name="Материал лезвий">Нержавеющая сталь</param>
+<param name="Минимальная длина стрижки">3 мм</param>
+<param name="Гарантия">3 мес</param>
+<param name="Прорезиненная рукоятка">Нет</param>
+<param name="Регулировка длины">Сменные насадки</param>
+<param name="Самозатачивающиеся лезвия">Нет</param>
+<param name="Насадка-триммер для тела">Нет</param>
+<param name="Стационарное зарядное устройство">Нет</param>
+<param name="Тип прибора">Универсальная машинка для стрижки</param>
+<param name="Тип элементов питания">Li-Ion</param>
+<param name="Триммер для окантовки">Да</param>
+<param name="Дорожный футляр">Нет</param>
+<param name="Щеточка для чистки">Да</param>
+</offer>
 <offer id="50MWML" available="true">
 <name>Уличная гирлянда Бахрома 50 м 600 LED белый провод Мультиколор 50MWML</name>
 <price>3379</price>
@@ -47534,33 +47534,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Форма">Круглая</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-34-25" available="true">
-<name>Банка для сыпучих продуктов с бамбуковой крышкой 800 мл емкость для сыпучих стекло HP-34-25</name>
-<price>389</price>
-<vendorprice>305</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>2</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4297/banka_dlya_sypuchih_produktov_s_bambukovoy_kryshkoy_800_ml_emkost_dlya_sypuchih_steklo.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4297/banka_dlya_sypuchih_produktov_s_bambukovoy_kryshkoy_800_ml_emkost_dlya_sypuchih_steklo_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4297/banka_dlya_sypuchih_produktov_s_bambukovoy_kryshkoy_800_ml_emkost_dlya_sypuchih_steklo_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4297/banka_dlya_sypuchih_produktov_s_bambukovoy_kryshkoy_800_ml_emkost_dlya_sypuchih_steklo_4.png</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Прозрачная банка предназначена для хранения разнообразных сыпучих продуктов: круп, бобовых, чая, кофе, специй или печенья. Благодаря квадратной форме ее удобно размещать в ящиках, на полках или в выдвижных контейнерах, что способствует организованному хранению продуктов на кухне.  Основные характеристики:   Объем емкостей: 800 мл;  Размер:    10&times;10&times;10.5 см;   Материал банки: стекло; Материал крышки: бамбук.   Стеклянные стенки позволяют легко видеть содержимое и контролировать остатки. Крышка изготовлена из бамбука - натурального материала, не впитывающего запахи. По краю крышки размещено силиконовое уплотнение, которое обеспечивает герметичное прилегание и защиту содержимого от влаги и посторонних запахов. Банка подходит как для домашнего использования, так и для организации кухонного пространства в кафе или пекарнях.]]></description>
-<quantity_in_stock>66</quantity_in_stock>
-<vendorCode>HP-34-25</vendorCode>
-<param name="Материал">Стекло</param>
-<param name="Высота">105</param>
-<param name="Количество предметов в наборе">1</param>
-<param name="Использование в микроволновке">Нет</param>
-<param name="Ширина">100</param>
-<param name="Объем">800</param>
-<param name="Хранение в холодильнике">Нет</param>
-<param name="Хранение в морозильной камере">Нет</param>
-<param name="Длина">100</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Форма">Квадратная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="WH046" available="true">
 <name>Блюдо декоративное в форме листика 40*21,5*5,5 см фарфоровое белое с золотом WH046</name>
 <price>799</price>
@@ -47642,33 +47615,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Поверхность">Глянцевая</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Упаковка">Блистер</param>
-<param name="Гарантия">14 дней</param>
-</offer>
-<offer id="HP-14-24" available="true">
-<name>Термосумка-холодильник для рыбалки, пикника, пляжа 12 (л) холодильник походный термосумка для пива HP-14-24</name>
-<price>909</price>
-<vendorprice>703</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>155</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4573/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_12_l_holodilnik_pohodnyy_termosumka_dlya_piva.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4573/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_12_l_holodilnik_pohodnyy_termosumka_dlya_piva_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4573/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_12_l_holodilnik_pohodnyy_termosumka_dlya_piva_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4573/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_12_l_holodilnik_pohodnyy_termosumka_dlya_piva_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4573/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_12_l_holodilnik_pohodnyy_termosumka_dlya_piva_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4573/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_12_l_holodilnik_pohodnyy_termosumka_dlya_piva_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4573/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_12_l_holodilnik_pohodnyy_termosumka_dlya_piva_6.jpg</picture>
-<vendor>Sannea</vendor>
-<description><![CDATA[Термосумка SANNEA - это практичное решение для сохранения температуры продуктов во время путешествий, отдыха на природе, рыбалки или кемпинга. Благодаря совей конструкции, сумка эффективно сохраняет холод или тепло содержимого в течение нескольких часов, обеспечивая комфорт в любых условиях.  Сумка оснащена удобной ручкой для ношения в руке и регулируемым наплечным ремнем. Внешний карман подходит для хранения салфеток или мелких вещей. Дополнительные боковые стропы позволяют крепить аксессуары или карабины. Компактная, но вместительная конструкция позволяет брать с собой все необходимое: бутылки с водой, еду, перекусы или медикаменты.   Основные характеристики термосумки для рыбалки, пикника, пляжа:   Размер: 28&times;16&times;33 см; Материал: полиэстер+EPE+PEVA; Застежка: молния; Корпус: мягкий; Ручки: верхняя ручка для переноски и плечевой ремень; Дополнительные элементы: фронтальный карман.   Особенности    сумки-холодильника:   Износостойкий материал защищает содержимое от влаги, пыли и грязи; Теплоизоляционный слой обеспечивает сохранение температуры в течение нескольких часов; Прочное усиленное дно обеспечивает устойчивость на разных поверхностях; Удобная мягкая ручка для переноски в руке и длинный регулируемый ремень через плечо; Фронтальный карман для мелочей, салфеток или документов; Надежная герметичная молния с удобными пулерами.   Для чего подойдет    термосумка-холодильник:   Пикники, рыбалка, кемпинг, пляж; Длительные путешествия или поездки на автомобиле; Перенос обедов на работу или учебу; Хранение охлажденных напитков в жаркое время.   Термосумка SANNEA - это сочетание стиля и функциональности, которая станет незаменимым помощником в любой ситуации, когда важно сохранить свежесть продуктов. Благодаря своим характеристикам и универсальному дизайну она идеально подойдет для ежедневного использования или активного отдыха на природе.]]></description>
-<quantity_in_stock>66</quantity_in_stock>
-<vendorCode>HP-14-24</vendorCode>
-<param name="Материал">Полиэстер</param>
-<param name="Высота">33</param>
-<param name="Вес">500</param>
-<param name="Глубина">28</param>
-<param name="Особенности термосумки">Герметическая подкладка|Влагозащита</param>
-<param name="Ширина">16</param>
-<param name="Объем">12</param>
-<param name="Цвет">Черный</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-3Y-2" available="true">
@@ -48136,6 +48082,33 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Форма">Квадратная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
+<offer id="HP-34-25" available="true">
+<name>Банка для сыпучих продуктов с бамбуковой крышкой 800 мл емкость для сыпучих стекло HP-34-25</name>
+<price>389</price>
+<vendorprice>305</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4297/banka_dlya_sypuchih_produktov_s_bambukovoy_kryshkoy_800_ml_emkost_dlya_sypuchih_steklo.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4297/banka_dlya_sypuchih_produktov_s_bambukovoy_kryshkoy_800_ml_emkost_dlya_sypuchih_steklo_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4297/banka_dlya_sypuchih_produktov_s_bambukovoy_kryshkoy_800_ml_emkost_dlya_sypuchih_steklo_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4297/banka_dlya_sypuchih_produktov_s_bambukovoy_kryshkoy_800_ml_emkost_dlya_sypuchih_steklo_4.png</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Прозрачная банка предназначена для хранения разнообразных сыпучих продуктов: круп, бобовых, чая, кофе, специй или печенья. Благодаря квадратной форме ее удобно размещать в ящиках, на полках или в выдвижных контейнерах, что способствует организованному хранению продуктов на кухне.  Основные характеристики:   Объем емкостей: 800 мл;  Размер:    10&times;10&times;10.5 см;   Материал банки: стекло; Материал крышки: бамбук.   Стеклянные стенки позволяют легко видеть содержимое и контролировать остатки. Крышка изготовлена из бамбука - натурального материала, не впитывающего запахи. По краю крышки размещено силиконовое уплотнение, которое обеспечивает герметичное прилегание и защиту содержимого от влаги и посторонних запахов. Банка подходит как для домашнего использования, так и для организации кухонного пространства в кафе или пекарнях.]]></description>
+<quantity_in_stock>65</quantity_in_stock>
+<vendorCode>HP-34-25</vendorCode>
+<param name="Материал">Стекло</param>
+<param name="Высота">105</param>
+<param name="Количество предметов в наборе">1</param>
+<param name="Использование в микроволновке">Нет</param>
+<param name="Ширина">100</param>
+<param name="Объем">800</param>
+<param name="Хранение в холодильнике">Нет</param>
+<param name="Хранение в морозильной камере">Нет</param>
+<param name="Длина">100</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Форма">Квадратная</param>
+<param name="Гарантия">14 дней</param>
+</offer>
 <offer id="ZBSY-16" available="true">
 <name>Менажница фарфоровая на 3 секции для закусок 40×25×7.5 (см) тарелка менажница Белый с золотом ZBSY-16</name>
 <price>889</price>
@@ -48182,6 +48155,33 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет">Коричневый</param>
 <param name="Длина">35</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-14-24" available="true">
+<name>Термосумка-холодильник для рыбалки, пикника, пляжа 12 (л) холодильник походный термосумка для пива HP-14-24</name>
+<price>909</price>
+<vendorprice>703</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>155</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4573/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_12_l_holodilnik_pohodnyy_termosumka_dlya_piva.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4573/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_12_l_holodilnik_pohodnyy_termosumka_dlya_piva_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4573/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_12_l_holodilnik_pohodnyy_termosumka_dlya_piva_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4573/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_12_l_holodilnik_pohodnyy_termosumka_dlya_piva_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4573/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_12_l_holodilnik_pohodnyy_termosumka_dlya_piva_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4573/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_12_l_holodilnik_pohodnyy_termosumka_dlya_piva_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4573/termosumka_holodilnik_dlya_rybalki_piknika_plyazha_12_l_holodilnik_pohodnyy_termosumka_dlya_piva_6.jpg</picture>
+<vendor>Sannea</vendor>
+<description><![CDATA[Термосумка SANNEA - это практичное решение для сохранения температуры продуктов во время путешествий, отдыха на природе, рыбалки или кемпинга. Благодаря совей конструкции, сумка эффективно сохраняет холод или тепло содержимого в течение нескольких часов, обеспечивая комфорт в любых условиях.  Сумка оснащена удобной ручкой для ношения в руке и регулируемым наплечным ремнем. Внешний карман подходит для хранения салфеток или мелких вещей. Дополнительные боковые стропы позволяют крепить аксессуары или карабины. Компактная, но вместительная конструкция позволяет брать с собой все необходимое: бутылки с водой, еду, перекусы или медикаменты.   Основные характеристики термосумки для рыбалки, пикника, пляжа:   Размер: 28&times;16&times;33 см; Материал: полиэстер+EPE+PEVA; Застежка: молния; Корпус: мягкий; Ручки: верхняя ручка для переноски и плечевой ремень; Дополнительные элементы: фронтальный карман.   Особенности    сумки-холодильника:   Износостойкий материал защищает содержимое от влаги, пыли и грязи; Теплоизоляционный слой обеспечивает сохранение температуры в течение нескольких часов; Прочное усиленное дно обеспечивает устойчивость на разных поверхностях; Удобная мягкая ручка для переноски в руке и длинный регулируемый ремень через плечо; Фронтальный карман для мелочей, салфеток или документов; Надежная герметичная молния с удобными пулерами.   Для чего подойдет    термосумка-холодильник:   Пикники, рыбалка, кемпинг, пляж; Длительные путешествия или поездки на автомобиле; Перенос обедов на работу или учебу; Хранение охлажденных напитков в жаркое время.   Термосумка SANNEA - это сочетание стиля и функциональности, которая станет незаменимым помощником в любой ситуации, когда важно сохранить свежесть продуктов. Благодаря своим характеристикам и универсальному дизайну она идеально подойдет для ежедневного использования или активного отдыха на природе.]]></description>
+<quantity_in_stock>65</quantity_in_stock>
+<vendorCode>HP-14-24</vendorCode>
+<param name="Материал">Полиэстер</param>
+<param name="Высота">33</param>
+<param name="Вес">500</param>
+<param name="Глубина">28</param>
+<param name="Особенности термосумки">Герметическая подкладка|Влагозащита</param>
+<param name="Ширина">16</param>
+<param name="Объем">12</param>
+<param name="Цвет">Черный</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-23-6B" available="true">
@@ -50581,31 +50581,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Длина">210</param>
 <param name="Поверхность">Глянцевая/матовая</param>
 </offer>
-<offer id="HP-5-36" available="true">
-<name>Сетевой фильтр-удлинитель 3 розетки 3хUSB-A 1xUSB-C 5м черный HP-5-36</name>
-<price>569</price>
-<vendorprice>439</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>80</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6988/setevoy_filtr_udlinitel_3_rozetki_3husb_a_1xusb_c_5m_chernyy_udlinitel_elektricheskoe_pitanie_zaryadka.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8342.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8345.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8347.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8344.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Сетевой фильтр-удлинитель черного цвета с тремя розетками, тремя USB-A портами и одним USB-C портом создан для универсального подключения бытовой техники и зарядки современных мобильных устройств в одном месте. Формат 3 розетки плюс 3 USB-A плюс 1 USB-C позволяет максимально оптимизировать использование доступного пространства и значительно уменьшить количество отдельных адаптеров, занимающих розетки. Кабель питания длиной 5 метров обеспечивает исключительную гибкость в размещении подключаемых устройств на большом расстоянии от основной стационарной точки электроснабжения, что особенно важно для просторных помещений, офисных зон и студий. Особенности сетевого фильтра-удлинителя:  Компактный вертикальный формат корпуса с тремя стандартными евророзетками — гарантирует надежное и стабильное подключение разнообразной бытовой техники и электронных приборов; Три USB-A порта и один современный USB-C порт на передней панели — дают возможность одновременно заряжать смартфоны, планшеты, беспроводные наушники, внешние аккумуляторы и другие цифровые гаджеты, включая устройства с новейшими интерфейсами зарядки; Кнопка питания с индикатором — обеспечивает быстрое и удобное отключение электропитания всех подключенных устройств одновременно одним нажатием, что экономит электроэнергию и повышает безопасность использования; Продуманное эргономичное расположение розеток и USB-портов — конструкция спроектирована таким образом, что при одновременном подключении нескольких устройств они не блокируют доступ друг к другу и не создают неудобств.  Характеристики сетевого фильтра-удлинителя:  Тип: сетевой фильтр-удлинитель; Количество выходных розеток: 3 шт.; Количество USB-портов: 3 шт. USB-A, 1 шт. USB-C; Длина кабеля: 5 м; Длина шнура: 5 м; Тип розеток: европейский стандарт; Кнопка питания: да, с индикатором; Входная вилка: евро; Выходная розетка: евро; Цвет корпуса: черный; Тип устройства: мережевий фільтр-подовжувач; Состояние: новый.  Удлинитель идеально подходит для использования в домашних условиях, офисных пространствах или учебных помещениях. Это оптимальное решение для организации эргономичного рабочего места или удобной зоны отдыха, где требуется одновременное подключение большого количества электронных устройств и современных гаджетов с различными типами зарядных портов.]]></description>
-<quantity_in_stock>59</quantity_in_stock>
-<vendorCode>HP-5-36</vendorCode>
-<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
-<param name="Длина шнура">5</param>
-<param name="Количество выходных розеток">3</param>
-<param name="Выключатель">Да</param>
-<param name="Входная вилка">ЕURO</param>
-<param name="Выходная розетка">Евро</param>
-<param name="Длина провода">5</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Черный</param>
-</offer>
 <offer id="HP-42-168" available="true">
 <name>Набор ковриков для ванной 2 штуки 80*50 см/50*40 см диатомитовых, серый Yiwu HP-42-168</name>
 <price>559</price>
@@ -50976,6 +50951,31 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет">Серебристый</param>
 <param name="Длина">145</param>
 <param name="Поверхность">Глянцевая</param>
+</offer>
+<offer id="HP-5-36" available="true">
+<name>Сетевой фильтр-удлинитель 3 розетки 3хUSB-A 1xUSB-C 5м черный HP-5-36</name>
+<price>569</price>
+<vendorprice>439</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>80</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6988/setevoy_filtr_udlinitel_3_rozetki_3husb_a_1xusb_c_5m_chernyy_udlinitel_elektricheskoe_pitanie_zaryadka.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8342.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8345.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8347.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8344.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Сетевой фильтр-удлинитель черного цвета с тремя розетками, тремя USB-A портами и одним USB-C портом создан для универсального подключения бытовой техники и зарядки современных мобильных устройств в одном месте. Формат 3 розетки плюс 3 USB-A плюс 1 USB-C позволяет максимально оптимизировать использование доступного пространства и значительно уменьшить количество отдельных адаптеров, занимающих розетки. Кабель питания длиной 5 метров обеспечивает исключительную гибкость в размещении подключаемых устройств на большом расстоянии от основной стационарной точки электроснабжения, что особенно важно для просторных помещений, офисных зон и студий. Особенности сетевого фильтра-удлинителя:  Компактный вертикальный формат корпуса с тремя стандартными евророзетками — гарантирует надежное и стабильное подключение разнообразной бытовой техники и электронных приборов; Три USB-A порта и один современный USB-C порт на передней панели — дают возможность одновременно заряжать смартфоны, планшеты, беспроводные наушники, внешние аккумуляторы и другие цифровые гаджеты, включая устройства с новейшими интерфейсами зарядки; Кнопка питания с индикатором — обеспечивает быстрое и удобное отключение электропитания всех подключенных устройств одновременно одним нажатием, что экономит электроэнергию и повышает безопасность использования; Продуманное эргономичное расположение розеток и USB-портов — конструкция спроектирована таким образом, что при одновременном подключении нескольких устройств они не блокируют доступ друг к другу и не создают неудобств.  Характеристики сетевого фильтра-удлинителя:  Тип: сетевой фильтр-удлинитель; Количество выходных розеток: 3 шт.; Количество USB-портов: 3 шт. USB-A, 1 шт. USB-C; Длина кабеля: 5 м; Длина шнура: 5 м; Тип розеток: европейский стандарт; Кнопка питания: да, с индикатором; Входная вилка: евро; Выходная розетка: евро; Цвет корпуса: черный; Тип устройства: мережевий фільтр-подовжувач; Состояние: новый.  Удлинитель идеально подходит для использования в домашних условиях, офисных пространствах или учебных помещениях. Это оптимальное решение для организации эргономичного рабочего места или удобной зоны отдыха, где требуется одновременное подключение большого количества электронных устройств и современных гаджетов с различными типами зарядных портов.]]></description>
+<quantity_in_stock>58</quantity_in_stock>
+<vendorCode>HP-5-36</vendorCode>
+<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+<param name="Длина шнура">5</param>
+<param name="Количество выходных розеток">3</param>
+<param name="Выключатель">Да</param>
+<param name="Входная вилка">ЕURO</param>
+<param name="Выходная розетка">Евро</param>
+<param name="Длина провода">5</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Черный</param>
 </offer>
 <offer id="HP-JW-2" available="true">
 <name>Зонт кемпинговый 150 см голубой прочный защита от дождя солнца HP-JW-2</name>
@@ -52824,32 +52824,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Форма">Треугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-14-6BR" available="true">
-<name>Термос из нержавеющей стали с мундштуком 800 мл Коричневый HP-14-6BR</name>
-<price>729</price>
-<vendorprice>558</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>158</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3072/termos_metallicheskiy_800_ml_iz_nerzhaveyushchey_stali_s_poilkoy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3072/termos_metallicheskiy_800_ml_iz_nerzhaveyushchey_stali_s_poilkoy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3072/termos_metallicheskiy_800_ml_iz_nerzhaveyushchey_stali_s_poilkoy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3072/termos_metallicheskiy_800_ml_iz_nerzhaveyushchey_stali_s_poilkoy_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3072/termos_metallicheskiy_800_ml_iz_nerzhaveyushchey_stali_s_poilkoy_4.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Термос 800 мл изготовлен из высококачественной нержавеющей стали, что делает его крепким, долговечным и устойчивым к коррозии. Благодаря двойным стенкам с вакуумной изоляцией термос способен сохранять тепло в течение 6 часов, а холод – в течение 12 часов.   Основные особенности термоса    Термос оснащен удобной крышкой с кнопочным механизмом, что позволяет легко открывать и закрывать термос одной рукой. Внутри крышки имеется герметичная силиконовая прокладка для предотвращения протекания. В комплект входит ручка, удобная для переноски и фиксации термоса на сумке или рюкзаке    Основные характеристики термоса    объем 800 мл; высота 25 см; диаметр 6.5 см; материал - нержавеющая сталь; сохранение тепла до 6 часов.   Термос – это универсальный и практичный аксессуар, который идеально подойдет для любителей активного отдыха, путешественников и просто тех, кто хочет всегда иметь под рукой горячий или холодный напиток.]]></description>
-<quantity_in_stock>53</quantity_in_stock>
-<vendorCode>HP-14-6BR</vendorCode>
-<param name="Высота">25 см</param>
-<param name="Время сохранения тепла">6 ч</param>
-<param name="Вес">460 г</param>
-<param name="Время сохранения холода">12 ч</param>
-<param name="Материал колбы">Нержавеющая сталь</param>
-<param name="Объем">800 мл</param>
-<param name="Цвет">Коричневый</param>
-<param name="Тип термоса">Питьевой</param>
-<param name="Нижний диаметр">6.5 см</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-14-31O" available="true">
 <name>Бутылка для воды 1 л бутылочка с мундштуком оранжевая HP-14-31O</name>
 <price>339</price>
@@ -53507,6 +53481,32 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет">Голубой</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Форма">Квадратная</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-14-6BR" available="true">
+<name>Термос из нержавеющей стали с мундштуком 800 мл Коричневый HP-14-6BR</name>
+<price>729</price>
+<vendorprice>558</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>158</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3072/termos_metallicheskiy_800_ml_iz_nerzhaveyushchey_stali_s_poilkoy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3072/termos_metallicheskiy_800_ml_iz_nerzhaveyushchey_stali_s_poilkoy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3072/termos_metallicheskiy_800_ml_iz_nerzhaveyushchey_stali_s_poilkoy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3072/termos_metallicheskiy_800_ml_iz_nerzhaveyushchey_stali_s_poilkoy_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3072/termos_metallicheskiy_800_ml_iz_nerzhaveyushchey_stali_s_poilkoy_4.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Термос 800 мл изготовлен из высококачественной нержавеющей стали, что делает его крепким, долговечным и устойчивым к коррозии. Благодаря двойным стенкам с вакуумной изоляцией термос способен сохранять тепло в течение 6 часов, а холод – в течение 12 часов.   Основные особенности термоса    Термос оснащен удобной крышкой с кнопочным механизмом, что позволяет легко открывать и закрывать термос одной рукой. Внутри крышки имеется герметичная силиконовая прокладка для предотвращения протекания. В комплект входит ручка, удобная для переноски и фиксации термоса на сумке или рюкзаке    Основные характеристики термоса    объем 800 мл; высота 25 см; диаметр 6.5 см; материал - нержавеющая сталь; сохранение тепла до 6 часов.   Термос – это универсальный и практичный аксессуар, который идеально подойдет для любителей активного отдыха, путешественников и просто тех, кто хочет всегда иметь под рукой горячий или холодный напиток.]]></description>
+<quantity_in_stock>52</quantity_in_stock>
+<vendorCode>HP-14-6BR</vendorCode>
+<param name="Высота">25 см</param>
+<param name="Время сохранения тепла">6 ч</param>
+<param name="Вес">460 г</param>
+<param name="Время сохранения холода">12 ч</param>
+<param name="Материал колбы">Нержавеющая сталь</param>
+<param name="Объем">800 мл</param>
+<param name="Цвет">Коричневый</param>
+<param name="Тип термоса">Питьевой</param>
+<param name="Нижний диаметр">6.5 см</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="X9P" available="true">
@@ -59757,33 +59757,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <vendorCode>HP-56-20B</vendorCode>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HM04-13" available="true">
-<name>Форма для запекания Vintage600 мл квадратная с ручками Красная HM04-13</name>
-<price>399</price>
-<vendorprice>301</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>170</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/HM04-13/HM04-13-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HM04-13/HM04-13-3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HM04-13/HM04-13-2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HM04-13/HM04-13-4.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Фарфоровая форма для запекания создана для тех, кто ценит удобство и красоту на кухне. Ее стильное оформление с  нежным растительным орнаментом делает подачу блюд особенно эффектной.  Основные характеристики формы для запекания:   Материал: фарфор; Размер: 20&times;16.5&times;4 см; Объем: 600 мл.   Особенности формы для выпечки:   равномерно распределяет тепло и сохраняет его длительное время; подходит для запекания мяса, рыбы, овощей и десертов; оснащена удобными ручками для безопасного переноса; можно использовать в духовке и микроволновке.   Такая форма станет незаменимой помощницей на вашей кухне &mdash; в ней удобно готовить как повседневные, так и праздничные блюда.  Благодаря стильному дизайну, она идеально подходит для сервировки: готовое блюдо можно подавать прямо на стол, не перекладывая в другую посуду.]]></description>
-<quantity_in_stock>42</quantity_in_stock>
-<vendorCode>HM04-13</vendorCode>
-<param name="Материал">Фарфор</param>
-<param name="Высота стенок">4</param>
-<param name="Использование в микроволновке">Да</param>
-<param name="Ширина">16.5</param>
-<param name="Количество в наборе">1</param>
-<param name="Цвет">Красный</param>
-<param name="Длина">20</param>
-<param name="Общий объем формы">0.6</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Состояние">Новое</param>
-<param name="Тип формы">Квадратная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-19-LJB-2" available="true">
 <name>Набор стеклянных стаканов 6 (шт) 250 (мл) для лимонадов, сока, воды, коктейлей HP-19-LJB-2</name>
 <price>489</price>
@@ -60354,6 +60327,33 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Ширина">9</param>
 <param name="Вес изделия">0.3</param>
 <param name="Длина">10</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HM04-13" available="true">
+<name>Форма для запекания Vintage600 мл квадратная с ручками Красная HM04-13</name>
+<price>399</price>
+<vendorprice>301</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>170</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/HM04-13/HM04-13-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HM04-13/HM04-13-3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HM04-13/HM04-13-2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HM04-13/HM04-13-4.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Фарфоровая форма для запекания создана для тех, кто ценит удобство и красоту на кухне. Ее стильное оформление с  нежным растительным орнаментом делает подачу блюд особенно эффектной.  Основные характеристики формы для запекания:   Материал: фарфор; Размер: 20&times;16.5&times;4 см; Объем: 600 мл.   Особенности формы для выпечки:   равномерно распределяет тепло и сохраняет его длительное время; подходит для запекания мяса, рыбы, овощей и десертов; оснащена удобными ручками для безопасного переноса; можно использовать в духовке и микроволновке.   Такая форма станет незаменимой помощницей на вашей кухне &mdash; в ней удобно готовить как повседневные, так и праздничные блюда.  Благодаря стильному дизайну, она идеально подходит для сервировки: готовое блюдо можно подавать прямо на стол, не перекладывая в другую посуду.]]></description>
+<quantity_in_stock>41</quantity_in_stock>
+<vendorCode>HM04-13</vendorCode>
+<param name="Материал">Фарфор</param>
+<param name="Высота стенок">4</param>
+<param name="Использование в микроволновке">Да</param>
+<param name="Ширина">16.5</param>
+<param name="Количество в наборе">1</param>
+<param name="Цвет">Красный</param>
+<param name="Длина">20</param>
+<param name="Общий объем формы">0.6</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Состояние">Новое</param>
+<param name="Тип формы">Квадратная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-19-L6" available="true">
@@ -62050,30 +62050,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Поверхность">Матовая</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Упаковка">Коробка</param>
-<param name="Гарантия">14 дней</param>
-</offer>
-<offer id="HP-5-27O" available="true">
-<name>Шкатулка для украшений 9×9×3.8 см мини органайзер для ювелирных изделий HP-5-27O</name>
-<price>129</price>
-<vendorprice>101</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>100</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0000000/HP-5-27/HP527_1_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000000/HP-5-27/HP527_1_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000000/HP-5-27/HP527_1_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000000/HP-5-27/HP527_1_2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Шкатулка для украшений &ndash; это идеальный органайзер для бережного хранения ваших ювелирных изделий. Компактный и функциональный дизайн с размерами 9&times;9&times;3.8 см обеспечивает удобство использования и легкость хранения. Шкатулка станет стильным дополнением любого интерьера, сочетая в себе практичность и элегантность.  Основные характеристики органайзера для хранения бижутерии   размеры шкатулки для украшений 9&times;9&times;3.8 см; количество ярусов - 1 шт; количество отсеков - 4 шт; материал корпуса - пластик; внутреннее покрытие - пластик; зеркало в комплекте.   Шкатулка оборудована 4 разнообразными отсеками. Это позволяет аккуратно разместить кольца, серьги, цепочки, браслеты и другие украшения, предотвращая их повреждения и спутывание.  Основные преимущества шкатулки для украшений   Современное исполнение и сдержанные цвета органично вписываются в любой интерьер, превращая органайзер в стильный элемент декора. Встроенное зеркало удобное для примерки украшений и ухода за собой. Благодаря 4 отдельным отсекам, все украшения аккуратно размещены и всегда находятся под рукой. Отличное решение для подарка по любому поводу: День рождения, 8 марта, годовщина, День святого Валентина или Новый год.   Органайзер для украшений отлично подходит в качестве подарка на любой праздник, а также будет полезным приобретением для личного использования. Купить шкатулку для ювелирных изделий можно с доставкой по всей Украине.]]></description>
-<quantity_in_stock>38</quantity_in_stock>
-<vendorCode>HP-5-27O</vendorCode>
-<param name="Материал">Пластик</param>
-<param name="Высота">38</param>
-<param name="Вес">100</param>
-<param name="Декоративное оформление">Без декора</param>
-<param name="Ширина">90</param>
-<param name="Цвет">Оранжевый</param>
-<param name="Состояние">Новое</param>
-<param name="Форма">Квадратная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-5-34P" available="true">
@@ -67832,6 +67808,30 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Поверхность">Матовая</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Упаковка">Коробка</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-5-27O" available="true">
+<name>Шкатулка для украшений 9×9×3.8 см мини органайзер для ювелирных изделий HP-5-27O</name>
+<price>129</price>
+<vendorprice>101</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>100</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0000000/HP-5-27/HP527_1_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000000/HP-5-27/HP527_1_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000000/HP-5-27/HP527_1_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000000/HP-5-27/HP527_1_2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Шкатулка для украшений &ndash; это идеальный органайзер для бережного хранения ваших ювелирных изделий. Компактный и функциональный дизайн с размерами 9&times;9&times;3.8 см обеспечивает удобство использования и легкость хранения. Шкатулка станет стильным дополнением любого интерьера, сочетая в себе практичность и элегантность.  Основные характеристики органайзера для хранения бижутерии   размеры шкатулки для украшений 9&times;9&times;3.8 см; количество ярусов - 1 шт; количество отсеков - 4 шт; материал корпуса - пластик; внутреннее покрытие - пластик; зеркало в комплекте.   Шкатулка оборудована 4 разнообразными отсеками. Это позволяет аккуратно разместить кольца, серьги, цепочки, браслеты и другие украшения, предотвращая их повреждения и спутывание.  Основные преимущества шкатулки для украшений   Современное исполнение и сдержанные цвета органично вписываются в любой интерьер, превращая органайзер в стильный элемент декора. Встроенное зеркало удобное для примерки украшений и ухода за собой. Благодаря 4 отдельным отсекам, все украшения аккуратно размещены и всегда находятся под рукой. Отличное решение для подарка по любому поводу: День рождения, 8 марта, годовщина, День святого Валентина или Новый год.   Органайзер для украшений отлично подходит в качестве подарка на любой праздник, а также будет полезным приобретением для личного использования. Купить шкатулку для ювелирных изделий можно с доставкой по всей Украине.]]></description>
+<quantity_in_stock>30</quantity_in_stock>
+<vendorCode>HP-5-27O</vendorCode>
+<param name="Материал">Пластик</param>
+<param name="Высота">38</param>
+<param name="Вес">100</param>
+<param name="Декоративное оформление">Без декора</param>
+<param name="Ширина">90</param>
+<param name="Цвет">Оранжевый</param>
+<param name="Состояние">Новое</param>
+<param name="Форма">Квадратная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-5-32TU" available="true">
@@ -74579,41 +74579,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Вес зонта">300 г</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-23-16B" available="true">
-<name>Классический зонт-трость с чехлом полуавтомат из полиэстера прочный надежный 12 спиц диаметр 120 см Черный HP-23-16B</name>
-<price>609</price>
-<vendorprice>465</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>101</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_9.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_8.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Классический зонт-трость полуавтомат &mdash; это надежный аксессуар для защиты от дождя и ветра. Современный дизайн и прочная конструкция обеспечивают удобство и долговечность в использовании. Основные характеристики зонта-трости: &bull; высота зонта в сложенном состоянии &mdash; 94 см; &bull; материал купола &mdash; полиэстер с водоотталкивающими свойствами; &bull; материал основы &mdash; металл для прочности и надежности; &bull; материал спиц &mdash; пластик; &bull; длина основы в раскрытом виде &mdash; 82 см; &bull; механизм открытия &mdash; полуавтомат для удобного использования; &bull; диаметр купола в открытом виде &mdash; 120 см; &bull; длина спиц &mdash; 64 см; &bull; наличие защитного чехла &mdash; нет; &bull; количество спиц &mdash; 12. Преимущества классического зонта-трости: &bull; универсальный дизайн, подходящий к любому стилю одежды; &bull; полуавтоматический механизм для быстрого раскрытия и закрытия; &bull; купол из прочного полиэстера с влагозащитой; &bull; усиленный каркас с двенадцатью спицами для устойчивости к ветру; &bull; удобная эргономичная ручка для комфортного захвата; &bull; качественные материалы гарантируют долговечность изделия.]]></description>
-<quantity_in_stock>23</quantity_in_stock>
-<vendorCode>HP-23-16B</vendorCode>
-<param name="Тип зонта">Трость</param>
-<param name="Механизм">Полуавтомат</param>
-<param name="Материал купола">Полиэстер</param>
-<param name="Материал корпуса зонта">Сталь</param>
-<param name="Материал спиц">Пластик</param>
-<param name="Цвет">Черный</param>
-<param name="Количество спиц купола">12</param>
-<param name="Наличие чехла">Нет</param>
-<param name="Диаметр купола зонта">120 см</param>
-<param name="Состояние">Новое</param>
-<param name="Длина в сложенном виде">94 см</param>
-<param name="Длина спицы">64 см</param>
-<param name="Пол">Унисекс</param>
-<param name="Вес зонта">500 г</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-26-1G" available="true">
 <name>Набор фарфоровых банок для сыпучих 3 шт по 800 мл с крышками Серый HP-26-1G</name>
 <price>1509</price>
@@ -75676,6 +75641,41 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Длина спицы">47 см</param>
 <param name="Пол">Унисекс</param>
 <param name="Вес зонта">300 г</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-23-16B" available="true">
+<name>Классический зонт-трость с чехлом полуавтомат из полиэстера прочный надежный 12 спиц диаметр 120 см Черный HP-23-16B</name>
+<price>609</price>
+<vendorprice>465</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>101</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_9.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_8.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Классический зонт-трость полуавтомат &mdash; это надежный аксессуар для защиты от дождя и ветра. Современный дизайн и прочная конструкция обеспечивают удобство и долговечность в использовании. Основные характеристики зонта-трости: &bull; высота зонта в сложенном состоянии &mdash; 94 см; &bull; материал купола &mdash; полиэстер с водоотталкивающими свойствами; &bull; материал основы &mdash; металл для прочности и надежности; &bull; материал спиц &mdash; пластик; &bull; длина основы в раскрытом виде &mdash; 82 см; &bull; механизм открытия &mdash; полуавтомат для удобного использования; &bull; диаметр купола в открытом виде &mdash; 120 см; &bull; длина спиц &mdash; 64 см; &bull; наличие защитного чехла &mdash; нет; &bull; количество спиц &mdash; 12. Преимущества классического зонта-трости: &bull; универсальный дизайн, подходящий к любому стилю одежды; &bull; полуавтоматический механизм для быстрого раскрытия и закрытия; &bull; купол из прочного полиэстера с влагозащитой; &bull; усиленный каркас с двенадцатью спицами для устойчивости к ветру; &bull; удобная эргономичная ручка для комфортного захвата; &bull; качественные материалы гарантируют долговечность изделия.]]></description>
+<quantity_in_stock>22</quantity_in_stock>
+<vendorCode>HP-23-16B</vendorCode>
+<param name="Тип зонта">Трость</param>
+<param name="Механизм">Полуавтомат</param>
+<param name="Материал купола">Полиэстер</param>
+<param name="Материал корпуса зонта">Сталь</param>
+<param name="Материал спиц">Пластик</param>
+<param name="Цвет">Черный</param>
+<param name="Количество спиц купола">12</param>
+<param name="Наличие чехла">Нет</param>
+<param name="Диаметр купола зонта">120 см</param>
+<param name="Состояние">Новое</param>
+<param name="Длина в сложенном виде">94 см</param>
+<param name="Длина спицы">64 см</param>
+<param name="Пол">Унисекс</param>
+<param name="Вес зонта">500 г</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-46-1" available="true">
@@ -80922,41 +80922,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Использование в духовке">Да</param>
 <param name="Высота кастрюли без крышки">12</param>
 </offer>
-<offer id="S14Y" available="true">
-<name>Гирлянда уличная в стиле ретро светодиодная желтая S14 на 10 LED ламп длиной 5 метров S14Y</name>
-<price>1189</price>
-<vendorprice>784</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/S14Y-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-2%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-3%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-4%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-5%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-6%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-7%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y11%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-9%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-13%281%29.jpg</picture>
-<vendor>Garlando</vendor>
-<description><![CDATA[Уличная гирлянда в ретро-стиле создаст теплую и уютную атмосферу в вашем саду или доме. Ее классический дизайн идеально подходит для украшения беседок, веранд, деревьев, кустарников, а также экстерьера кафе и ресторанов. Гирлянда может использоваться как стильный элемент интерьера или дополнительное освещение в помещениях. Водонепроницаемость IP43 обеспечивает защиту от дождя, снега и влаги, что делает ее универсальной для использования как внутри, так и снаружи.  Характеристики:   Количество лампочек: 10 Длина: 5 м Напряжение: 220 В Угол свечения: 300 ° Цвет: желтый Цоколь: E27   Преимущества:   Создает уютную атмосферу для праздничных мероприятий. Высокий класс водонепроницаемости для надежности в любую погоду. Легко устанавливается и подходит для различных типов оформления.   Меры безопасности:   Избегайте использования в местах с высокой влажностью без надлежащей защиты. Не разбирайте и не модифицируйте гирлянду без консультации со специалистом.]]></description>
-<quantity_in_stock>17</quantity_in_stock>
-<vendorCode>S14Y</vendorCode>
-<param name="Количество ламп">10</param>
-<param name="Вес">800 г</param>
-<param name="Количество режимов свечения">1</param>
-<param name="Режим работы">Статический</param>
-<param name="Напряжение">220 В</param>
-<param name="Длина">5 м</param>
-<param name="Тип гирлянды">Шарики Уличная|Комнатная гирлянда</param>
-<param name="Тип освещения">Электрическая гирлянда</param>
-<param name="Состояние">Новое</param>
-<param name="Тип питания">Сеть</param>
-<param name="Упаковка">Коробка</param>
-<param name="Цвет шнура питания">Черный</param>
-<param name="Цвет свечения">Желтый</param>
-<param name="Цветовая гамма">Желтый</param>
-</offer>
 <offer id="HP12271BR" available="true">
 <name>Детский ланч бокс на две секции 950 мл пластиковый с вилкой и ложкой &amp;quot;Пирожное&amp;quot; Коричневый HP12271BR</name>
 <price>219</price>
@@ -82090,6 +82055,41 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Объем">6.5</param>
 <param name="Использование в духовке">Да</param>
 <param name="Высота кастрюли без крышки">12</param>
+</offer>
+<offer id="S14Y" available="true">
+<name>Гирлянда уличная в стиле ретро светодиодная желтая S14 на 10 LED ламп длиной 5 метров S14Y</name>
+<price>1189</price>
+<vendorprice>784</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>126</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/S14Y-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-2%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-3%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-4%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-5%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-6%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-7%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y11%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-9%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-13%281%29.jpg</picture>
+<vendor>Garlando</vendor>
+<description><![CDATA[Уличная гирлянда в ретро-стиле создаст теплую и уютную атмосферу в вашем саду или доме. Ее классический дизайн идеально подходит для украшения беседок, веранд, деревьев, кустарников, а также экстерьера кафе и ресторанов. Гирлянда может использоваться как стильный элемент интерьера или дополнительное освещение в помещениях. Водонепроницаемость IP43 обеспечивает защиту от дождя, снега и влаги, что делает ее универсальной для использования как внутри, так и снаружи.  Характеристики:   Количество лампочек: 10 Длина: 5 м Напряжение: 220 В Угол свечения: 300 ° Цвет: желтый Цоколь: E27   Преимущества:   Создает уютную атмосферу для праздничных мероприятий. Высокий класс водонепроницаемости для надежности в любую погоду. Легко устанавливается и подходит для различных типов оформления.   Меры безопасности:   Избегайте использования в местах с высокой влажностью без надлежащей защиты. Не разбирайте и не модифицируйте гирлянду без консультации со специалистом.]]></description>
+<quantity_in_stock>16</quantity_in_stock>
+<vendorCode>S14Y</vendorCode>
+<param name="Количество ламп">10</param>
+<param name="Вес">800 г</param>
+<param name="Количество режимов свечения">1</param>
+<param name="Режим работы">Статический</param>
+<param name="Напряжение">220 В</param>
+<param name="Длина">5 м</param>
+<param name="Тип гирлянды">Шарики Уличная|Комнатная гирлянда</param>
+<param name="Тип освещения">Электрическая гирлянда</param>
+<param name="Состояние">Новое</param>
+<param name="Тип питания">Сеть</param>
+<param name="Упаковка">Коробка</param>
+<param name="Цвет шнура питания">Черный</param>
+<param name="Цвет свечения">Желтый</param>
+<param name="Цветовая гамма">Желтый</param>
 </offer>
 <offer id="HP1321" available="true">
 <name>Набор для специй на подставке 12 баночек по 120 мл, хром с золотом HP1321</name>
@@ -86414,32 +86414,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Длина">35</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-11-126" available="true">
-<name>Автомобильный ручной пылесос аккумуляторный 6000 мАч 6 насадок HP-11-126</name>
-<price>2379</price>
-<vendorprice>1821</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>6</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_2.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_3.png</picture>
-<vendor>ABS</vendor>
-<description><![CDATA[Беспроводной пылесос &mdash; компактное и мощное решение для быстрой уборки в автомобиле и дома. Устройство выполнено из прочного ABS-пластика, имеет эргономичную форму и удобно лежит в руке.  Пылесос для авто оснащён бесщеточным DC-мотором, который обеспечивает силу всасывания до 17 000 Па и стабильную работу в двух скоростных режимах. Поддерживает режим всасывания и выдувания, что позволяет не только собирать пыль и мусор, но и продувать труднодоступные места.  Основные характеристики автомобильного аккумуляторного пылесоса:   Тип: Автомобильный пылесос аккумуляторный Емкость аккумулятора: 6000 мАч Выходное напряжение: 11В Входное напряжение: 5В&ndash;2А Объем резервуара: 450 мл Интерфейс зарядки: Type-C Материал корпуса: ABC-пластик Тип мотора: Двигатель постоянного тока без щеток Фильтр: HEPA Мощность: 100 Вт (35 Вт низкая скорость; 65 Вт высокая скорость) Мощность всасывания: до 17000 Па Время работы: до 30 мин Время зарядки: 4-3 ч Особенности: LED-дисплей, режим продувки и сбора пыли, не включать во время зарядки   Насадки (6 шт.):   Круглая щётка Угловая насадка Насадка с щёткой Щелевая насадка короткая Щелевая насадка длинная Конусная насадка (для продувания)   Комплектация:   Автомобильный пылесос Зарядный кабель USB Type-C Шланг удлинитель Круглая щётка Угловая насадка Насадка с щёткой Щелевая насадка короткая Щелевая насадка длинная Конусная насадка для выдувания   Этот аккумуляторный портативный пылесос для машины &mdash; универсальный помощник для быстрой и удобной уборки в любых условиях. Он идеально подойдёт для очистки салона автомобиля от пыли, песка, крошек и шерсти животных, поможет навести порядок в багажнике, детском автокресле и труднодоступных щелях.  Также устройство отлично справляется с бытовыми задачами: уборкой мебели, клавиатуры, полок, подоконников, мастерской, гаража или рабочего стола. Функция продувки будет полезна для очистки техники, инструментов и узких отверстий от пыли.  Компактный размер, автономная работа и широкий набор насадок делают его удобным решением как для водителей, так и для дома &mdash; когда нужна быстрая уборка без лишних проводов и громоздкой техники.]]></description>
-<quantity_in_stock>13</quantity_in_stock>
-<vendorCode>HP-11-126</vendorCode>
-<param name="Мощность">100 Вт (35 Вт низкая скорость; 65 Вт высокая скорость)</param>
-<param name="Время работы от аккумулятора">30</param>
-<param name="Объем пылесборника">0.45</param>
-<param name="Количество насадок">6</param>
-<param name="Тип уборки">Сухая</param>
-<param name="Тип насадки">Для труднодоступных мест</param>
-<param name="Индикатор заряда батареи">Да</param>
-<param name="Регулировка мощности всасывания">Да</param>
-<param name="Состояние">Новое</param>
-<param name="Тип питания">Аккумулятор</param>
-<param name="Гарантия">3 месяца</param>
-</offer>
 <offer id="HP-42-51" available="true">
 <name>Коврик диатомитовый прямоугольный 78*48 см универсальный HP-42-51</name>
 <price>279</price>
@@ -87336,6 +87310,32 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет">Серый</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-11-126" available="true">
+<name>Автомобильный ручной пылесос аккумуляторный 6000 мАч 6 насадок HP-11-126</name>
+<price>2379</price>
+<vendorprice>1821</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>6</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_2.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_3.png</picture>
+<vendor>ABS</vendor>
+<description><![CDATA[Беспроводной пылесос &mdash; компактное и мощное решение для быстрой уборки в автомобиле и дома. Устройство выполнено из прочного ABS-пластика, имеет эргономичную форму и удобно лежит в руке.  Пылесос для авто оснащён бесщеточным DC-мотором, который обеспечивает силу всасывания до 17 000 Па и стабильную работу в двух скоростных режимах. Поддерживает режим всасывания и выдувания, что позволяет не только собирать пыль и мусор, но и продувать труднодоступные места.  Основные характеристики автомобильного аккумуляторного пылесоса:   Тип: Автомобильный пылесос аккумуляторный Емкость аккумулятора: 6000 мАч Выходное напряжение: 11В Входное напряжение: 5В&ndash;2А Объем резервуара: 450 мл Интерфейс зарядки: Type-C Материал корпуса: ABC-пластик Тип мотора: Двигатель постоянного тока без щеток Фильтр: HEPA Мощность: 100 Вт (35 Вт низкая скорость; 65 Вт высокая скорость) Мощность всасывания: до 17000 Па Время работы: до 30 мин Время зарядки: 4-3 ч Особенности: LED-дисплей, режим продувки и сбора пыли, не включать во время зарядки   Насадки (6 шт.):   Круглая щётка Угловая насадка Насадка с щёткой Щелевая насадка короткая Щелевая насадка длинная Конусная насадка (для продувания)   Комплектация:   Автомобильный пылесос Зарядный кабель USB Type-C Шланг удлинитель Круглая щётка Угловая насадка Насадка с щёткой Щелевая насадка короткая Щелевая насадка длинная Конусная насадка для выдувания   Этот аккумуляторный портативный пылесос для машины &mdash; универсальный помощник для быстрой и удобной уборки в любых условиях. Он идеально подойдёт для очистки салона автомобиля от пыли, песка, крошек и шерсти животных, поможет навести порядок в багажнике, детском автокресле и труднодоступных щелях.  Также устройство отлично справляется с бытовыми задачами: уборкой мебели, клавиатуры, полок, подоконников, мастерской, гаража или рабочего стола. Функция продувки будет полезна для очистки техники, инструментов и узких отверстий от пыли.  Компактный размер, автономная работа и широкий набор насадок делают его удобным решением как для водителей, так и для дома &mdash; когда нужна быстрая уборка без лишних проводов и громоздкой техники.]]></description>
+<quantity_in_stock>12</quantity_in_stock>
+<vendorCode>HP-11-126</vendorCode>
+<param name="Мощность">100 Вт (35 Вт низкая скорость; 65 Вт высокая скорость)</param>
+<param name="Время работы от аккумулятора">30</param>
+<param name="Объем пылесборника">0.45</param>
+<param name="Количество насадок">6</param>
+<param name="Тип уборки">Сухая</param>
+<param name="Тип насадки">Для труднодоступных мест</param>
+<param name="Индикатор заряда батареи">Да</param>
+<param name="Регулировка мощности всасывания">Да</param>
+<param name="Состояние">Новое</param>
+<param name="Тип питания">Аккумулятор</param>
+<param name="Гарантия">3 месяца</param>
 </offer>
 <offer id="HP-19-166" available="true">
 <name>Набор бокалов для вина 6 штук 240 мл винные бокалы на ножке стеклянные фужеры для вина подарочные HP-19-166</name>
@@ -90891,35 +90891,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Объем мисок">700 мл</param>
 <param name="Объем чашек">350 мл</param>
 </offer>
-<offer id="HP-35015-48G" available="true">
-<name>Комплект аксессуаров для туалета с подставкой 13×5.5×42 (см) Серый HP-35015-48G</name>
-<price>409</price>
-<vendorprice>319</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>160</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_6.jpg</picture>
-<vendor>Household</vendor>
-<description><![CDATA[Настенный набор для ухода за туалетом состоит из щетки с длинной ручкой и компактного держателя с круглым отверстием для хранения. Ручка щетки имеет петлю на верхнем конце, что позволяет ее подвесить отдельно или использовать для удобного захвата. Рабочая часть щетки снабжена щетиной средней жесткости, расположенной плотно для эффективной очистки внутренних поверхностей унитаза.  Держатель имеет отверстия в нижней части, что способствует вентиляции и ускоренному высыханию щетки после использования. Конструкция позволяет щетке стоять вертикально, не прикасаясь к стенкам, что уменьшает контакт с остатками влаги. Монтаж производится на вертикальную поверхность, что экономит пространство и обеспечивает легкий доступ к инструменту.  Основные характеристики настенного силиконового ершика для чистки унитаза:    Размер: 13&times;5.5&times;42 см; Материал: пластик; Способ установки: настенный, напольный.   Особенности     настенного силиконового ершика для туалета с щеткой:    В комплект входят силиконовый ершик с подставкой и щетка, обеспечивая полный уход за санузлом. Силиконовая щетина легко удаляет загрязнения и эффективно справляется с засорами, не повреждая поверхность унитаза. Подставка удерживает ершик в вертикальном положении, поддерживая чистоту и гигиеничность. Ершик и щетка оснащены эргономичными ручками для удобного захвата и безопасного использования. Компактная конструкция позволяет разместить набор рядом с унитазом, экономя пространство. Силикон легко очищается и быстро высыхает, предотвращая появление неприятного запаха и бактерий. Набор подходит для повседневного использования в домашних и общественных санузлах.   Набор подходит для использования в санузлах с ограниченным пространством или в местах, где важна организованность и гигиена. Благодаря простой форме и функциональности он может быть интегрирован в бытовые или коммерческие интерьеры без необходимости в дополнительных аксессуарах. Универсальность конструкции позволяет использовать его как в домашних условиях, так и в гостиничных или офисных санитарных зонах.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
-<vendorCode>HP-35015-48G</vendorCode>
-<param name="Тип ершика">Универсально</param>
-<param name="Вес">400 г</param>
-<param name="Материал подставки">Пластик</param>
-<param name="Ширина подставки">55 см</param>
-<param name="Длина подставки">13 см</param>
-<param name="Материал ручки">Пластик</param>
-<param name="Цвет">Серый</param>
-<param name="Общая высота">42 см</param>
-<param name="Тематика декора, рисунка">Без декора</param>
-<param name="Наличие крышки">Нет</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-23-13BE" available="true">
 <name>Зонт детский механический элегантный с принтом прочный надежный из полиэстера диаметр 90 см Бежевый HP-23-13BE</name>
 <price>1059</price>
@@ -92410,6 +92381,35 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Тарелка суповая">6</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Чашка чайная">6</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-35015-48G" available="true">
+<name>Комплект аксессуаров для туалета с подставкой 13×5.5×42 (см) Серый HP-35015-48G</name>
+<price>409</price>
+<vendorprice>319</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>160</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4750/silikonovyy_ershik_dlya_tualeta_nastennyy_13_5_5_42_sm_ersh_dlya_unitaza_silikonovyy_s_shchetkoy_ershik_dlya_unitaza_6.jpg</picture>
+<vendor>Household</vendor>
+<description><![CDATA[Настенный набор для ухода за туалетом состоит из щетки с длинной ручкой и компактного держателя с круглым отверстием для хранения. Ручка щетки имеет петлю на верхнем конце, что позволяет ее подвесить отдельно или использовать для удобного захвата. Рабочая часть щетки снабжена щетиной средней жесткости, расположенной плотно для эффективной очистки внутренних поверхностей унитаза.  Держатель имеет отверстия в нижней части, что способствует вентиляции и ускоренному высыханию щетки после использования. Конструкция позволяет щетке стоять вертикально, не прикасаясь к стенкам, что уменьшает контакт с остатками влаги. Монтаж производится на вертикальную поверхность, что экономит пространство и обеспечивает легкий доступ к инструменту.  Основные характеристики настенного силиконового ершика для чистки унитаза:    Размер: 13&times;5.5&times;42 см; Материал: пластик; Способ установки: настенный, напольный.   Особенности     настенного силиконового ершика для туалета с щеткой:    В комплект входят силиконовый ершик с подставкой и щетка, обеспечивая полный уход за санузлом. Силиконовая щетина легко удаляет загрязнения и эффективно справляется с засорами, не повреждая поверхность унитаза. Подставка удерживает ершик в вертикальном положении, поддерживая чистоту и гигиеничность. Ершик и щетка оснащены эргономичными ручками для удобного захвата и безопасного использования. Компактная конструкция позволяет разместить набор рядом с унитазом, экономя пространство. Силикон легко очищается и быстро высыхает, предотвращая появление неприятного запаха и бактерий. Набор подходит для повседневного использования в домашних и общественных санузлах.   Набор подходит для использования в санузлах с ограниченным пространством или в местах, где важна организованность и гигиена. Благодаря простой форме и функциональности он может быть интегрирован в бытовые или коммерческие интерьеры без необходимости в дополнительных аксессуарах. Универсальность конструкции позволяет использовать его как в домашних условиях, так и в гостиничных или офисных санитарных зонах.]]></description>
+<quantity_in_stock>8</quantity_in_stock>
+<vendorCode>HP-35015-48G</vendorCode>
+<param name="Тип ершика">Универсально</param>
+<param name="Вес">400 г</param>
+<param name="Материал подставки">Пластик</param>
+<param name="Ширина подставки">55 см</param>
+<param name="Длина подставки">13 см</param>
+<param name="Материал ручки">Пластик</param>
+<param name="Цвет">Серый</param>
+<param name="Общая высота">42 см</param>
+<param name="Тематика декора, рисунка">Без декора</param>
+<param name="Наличие крышки">Нет</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HB-40-8" available="true">
@@ -96324,38 +96324,6 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Материал приборов">Нержавеющая сталь</param>
 <param name="Упаковка">Блистер</param>
 </offer>
-<offer id="C52W250400Y" available="true">
-<name>Доска для нарезки разделочная 25x45 см Домино из ясеня Lugi C52W250400Y</name>
-<price>859</price>
-<vendorprice>682</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>99</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/0011-600x600.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4613/doska_dlya_narezki_razdelochnaya_45x25_sm_doska_kuhonnaya_derevyannaya_domino_iz_yasenya_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4613/doska_dlya_narezki_razdelochnaya_45x25_sm_doska_kuhonnaya_derevyannaya_domino_iz_yasenya_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4613/doska_dlya_narezki_razdelochnaya_45x25_sm_doska_kuhonnaya_derevyannaya_domino_iz_yasenya_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4613/doska_dlya_narezki_razdelochnaya_45x25_sm_doska_kuhonnaya_derevyannaya_domino_iz_yasenya_5.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4613/doska_dlya_narezki_razdelochnaya_45x25_sm_doska_kuhonnaya_derevyannaya_domino_iz_yasenya_6.png</picture>
-<vendor>Lugi</vendor>
-<description><![CDATA[Деревянная доска – это незаменимый элемент кухонного инвентаря, который сочетает в себе экологичность, долговечность и практичность. Прямоугольная разделочная доска размером 25x45 см, выполненная из натурального ясеня, станет отличным выбором для любой кухни. Эта доска не только функциональна, но и эстетически привлекательна благодаря естественной деревянной текстуре и продуманному дизайну.  Преимущества разделочных досок из дерева   Деревянные доски для нарезки, изготовленные из дуба, отличаются высокой прочностью и стойкостью к механическим повреждениям. Этот материал славится своей плотной структурой, минимизирующей появление глубоких порезов и трещин. Такая конструкция не только увеличивает срок службы изделия, но обеспечивает удобство использования. Доски для нарезки из дерева, в частности из ясеня, обладают низкой гигроскопичностью, что предотвращает впитывание влаги и способствует защите от деформации.   Основные характеристики деревянной кухонной доски   Материал - натуральный ясень – экологически чистая древесина, которая безопасна для контакта с пищевыми продуктами. Размер 25x45 см – компактный формат, удобный для обработки продуктов. Покрытие – защитное масло, предотвращающее впитывание запахов и жира.   Уход за изделием   Чтобы отделочная деревянная доска сохраняла свои свойства долгие годы, необходимо соблюдать несколько простых рекомендаций по уходу: Используйте мягкую губку и теплую воду. Избегайте агрессивных моющих средств и длительного замачивания. После мытья следует тщательно вытирать и оставлять сушиться в вертикальном положении. Для поддержания внешнего вида и предотвращения растрескивания рекомендуется периодически обрабатывать доску минеральным или растительным маслом.   Деревянные доски идеально подходят для нарезки различных продуктов: мяса, рыбы, овощей, фруктов и хлеба. Они не впитывают запахи и не окрашиваются, что делает их удобными для повседневного использования. Природная текстура дуба принесет нотку уюта и природной гармонии в интерьер вашей кухни.  Почему выбирают деревянные доски?  Кухонные доски из дерева обладают рядом преимуществ перед пластиковыми и стеклянными аналогами: они не тупят ножи благодаря мягкой, но плотной текстуре древесины; естественная антибактериальная защита: дерево, особенно десны, обладает природными свойствами, препятствующими размножению бактерий; доска из дерева не выделяет токсичных веществ при контакте с горячими продуктами, что делает ее абсолютно безопасной для здоровья.  Разделочные доски из дерева – это инвестиция в качество и комфорт вашей кухни. Они практичны, безопасны и долговечны. Данная доска из ясеня размером 25x45 см – отличный пример оптимального соотношения цены и качества. Она станет не только надежным помощником в приготовлении блюд, но и стильным дополнением к вашему пространству.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
-<vendorCode>C52W250400Y</vendorCode>
-<param name="Материал">Дерево</param>
-<param name="Желобок по периметру рабочей поверхности">Нет</param>
-<param name="Крышка">Нет</param>
-<param name="Ширина">25 см</param>
-<param name="Количество в наборе">1</param>
-<param name="Ручка">Нет</param>
-<param name="Толщина">40</param>
-<param name="Бортик по периметру рабочей поверхности">Нет</param>
-<param name="Цвет">Коричневый</param>
-<param name="Длина">40 см</param>
-<param name="Встроенная заточка для ножей">Нет</param>
-<param name="Нескользящее основание">Нет</param>
-<param name="Подходит для мытья в посудомоечной машине">Нет</param>
-<param name="Форма">Прямоугольная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-23-3M" available="true">
 <name>Зонт механический с принтом надежный из полиэстера диаметр 99 см Розовый HP-23-3M</name>
 <price>1179</price>
@@ -98430,6 +98398,38 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Бортик по периметру рабочей поверхности">Нет</param>
 <param name="Цвет">Коричневый</param>
 <param name="Длина">50 см</param>
+<param name="Встроенная заточка для ножей">Нет</param>
+<param name="Нескользящее основание">Нет</param>
+<param name="Подходит для мытья в посудомоечной машине">Нет</param>
+<param name="Форма">Прямоугольная</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="C52W250400Y" available="true">
+<name>Доска для нарезки разделочная 25x45 см Домино из ясеня Lugi C52W250400Y</name>
+<price>859</price>
+<vendorprice>682</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>99</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0000/000/0011-600x600.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4613/doska_dlya_narezki_razdelochnaya_45x25_sm_doska_kuhonnaya_derevyannaya_domino_iz_yasenya_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4613/doska_dlya_narezki_razdelochnaya_45x25_sm_doska_kuhonnaya_derevyannaya_domino_iz_yasenya_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4613/doska_dlya_narezki_razdelochnaya_45x25_sm_doska_kuhonnaya_derevyannaya_domino_iz_yasenya_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4613/doska_dlya_narezki_razdelochnaya_45x25_sm_doska_kuhonnaya_derevyannaya_domino_iz_yasenya_5.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/60677/4613/doska_dlya_narezki_razdelochnaya_45x25_sm_doska_kuhonnaya_derevyannaya_domino_iz_yasenya_6.png</picture>
+<vendor>Lugi</vendor>
+<description><![CDATA[Деревянная доска – это незаменимый элемент кухонного инвентаря, который сочетает в себе экологичность, долговечность и практичность. Прямоугольная разделочная доска размером 25x45 см, выполненная из натурального ясеня, станет отличным выбором для любой кухни. Эта доска не только функциональна, но и эстетически привлекательна благодаря естественной деревянной текстуре и продуманному дизайну.  Преимущества разделочных досок из дерева   Деревянные доски для нарезки, изготовленные из дуба, отличаются высокой прочностью и стойкостью к механическим повреждениям. Этот материал славится своей плотной структурой, минимизирующей появление глубоких порезов и трещин. Такая конструкция не только увеличивает срок службы изделия, но обеспечивает удобство использования. Доски для нарезки из дерева, в частности из ясеня, обладают низкой гигроскопичностью, что предотвращает впитывание влаги и способствует защите от деформации.   Основные характеристики деревянной кухонной доски   Материал - натуральный ясень – экологически чистая древесина, которая безопасна для контакта с пищевыми продуктами. Размер 25x45 см – компактный формат, удобный для обработки продуктов. Покрытие – защитное масло, предотвращающее впитывание запахов и жира.   Уход за изделием   Чтобы отделочная деревянная доска сохраняла свои свойства долгие годы, необходимо соблюдать несколько простых рекомендаций по уходу: Используйте мягкую губку и теплую воду. Избегайте агрессивных моющих средств и длительного замачивания. После мытья следует тщательно вытирать и оставлять сушиться в вертикальном положении. Для поддержания внешнего вида и предотвращения растрескивания рекомендуется периодически обрабатывать доску минеральным или растительным маслом.   Деревянные доски идеально подходят для нарезки различных продуктов: мяса, рыбы, овощей, фруктов и хлеба. Они не впитывают запахи и не окрашиваются, что делает их удобными для повседневного использования. Природная текстура дуба принесет нотку уюта и природной гармонии в интерьер вашей кухни.  Почему выбирают деревянные доски?  Кухонные доски из дерева обладают рядом преимуществ перед пластиковыми и стеклянными аналогами: они не тупят ножи благодаря мягкой, но плотной текстуре древесины; естественная антибактериальная защита: дерево, особенно десны, обладает природными свойствами, препятствующими размножению бактерий; доска из дерева не выделяет токсичных веществ при контакте с горячими продуктами, что делает ее абсолютно безопасной для здоровья.  Разделочные доски из дерева – это инвестиция в качество и комфорт вашей кухни. Они практичны, безопасны и долговечны. Данная доска из ясеня размером 25x45 см – отличный пример оптимального соотношения цены и качества. Она станет не только надежным помощником в приготовлении блюд, но и стильным дополнением к вашему пространству.]]></description>
+<quantity_in_stock>4</quantity_in_stock>
+<vendorCode>C52W250400Y</vendorCode>
+<param name="Материал">Дерево</param>
+<param name="Желобок по периметру рабочей поверхности">Нет</param>
+<param name="Крышка">Нет</param>
+<param name="Ширина">25 см</param>
+<param name="Количество в наборе">1</param>
+<param name="Ручка">Нет</param>
+<param name="Толщина">40</param>
+<param name="Бортик по периметру рабочей поверхности">Нет</param>
+<param name="Цвет">Коричневый</param>
+<param name="Длина">40 см</param>
 <param name="Встроенная заточка для ножей">Нет</param>
 <param name="Нескользящее основание">Нет</param>
 <param name="Подходит для мытья в посудомоечной машине">Нет</param>
@@ -106293,37 +106293,6 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Материал палатки">Оксфорд</param>
 <param name="Материал нижнего слоя">Оксфорд</param>
 </offer>
-<offer id="LU-026" available="true">
-<name>Надувной матрас автоматический 190*65*3 см с подушкой, бежевый</name>
-<url>https://lugi.com.ua/ru/naduvnoj-matras-avtomaticheskij-190-65-3-sm-s-podushkoj-bezhevyj/</url>
-<price>1539</price>
-<vendorprice>1190</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>77</categoryId>
-<picture>https://lugi.com.ua/image/cache/external/ac26ff3334c8fce28d9a3ecdfecbc2c2-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/a6cbc1822fa1acbb736f8688b57f02fa-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/9f7b8c606c9996299041194347f25271-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/c22c47b399aa1853167527a90831b9ea-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/206cd7f981d02f06735716d3ffbecab7-600x600.webp</picture>
-<description><![CDATA[<p>Надувной матрас автоматический с подушкой — идеальное решение для комфортного отдыха на природе, кемпинга или путешествий. Благодаря автоматическому надуванию, вам больше не придется тратить время и силы на надувание матраса вручную — достаточно лишь накачать подголовник. Матрас изготовлен из прочного и водостойкого материала, что гарантирует долговечность и надежность даже в сложных условиях.
-</p><p>Компактность — еще одно преимущество этого матраса. В сложенном виде он имеет габариты всего 69×13×13 см, что позволяет удобно хранить его в рюкзаке или автомобиле. В разложенном состоянии размеры составляют 190×65×3 см, что обеспечивает достаточно пространства для одного взрослого. Толщина в 3 см обеспечивает базовую изоляцию и комфорт на неровной поверхности.
-</p><p>Особого внимания заслуживает встроенный подголовник высотой 19 см, который добавляет эргономичности и удобства во время сна или отдыха. Этот одноместный самонадувной матрас станет надежным спутником в любом путешествии, обеспечивая комфорт и удобство без лишних усилий.</p><p><b>Внимание!</b></p><p>В качестве наполнителя использован материал Memory Foam, который расширяется при разворачивании матраца и открывании клапана. Подушка надувается отдельно. Достаточно пары вдохов или ручного насоса. Компрессор использовать не рекомендуется во избежание повреждений.</p><p>
-</p><p><b>Характеристики:
-</b></p><ul><li>Размеры в разложенном виде: 190×65×3 см
-</li><li>Размеры в сложенном виде: 69×13×13 см
-</li><li>Толщина: 3 см
-</li><li>Высота подголовника: 19 см
-</li><li>Тип: одноместный
-</li><li>Механизм надувания: самонадувной (накачивать только подголовник)</li></ul>]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<vendorCode>LU-026</vendorCode>
-<param name="Вес">1.2 кг</param>
-<param name="Гарантийный срок">14 дней</param>
-<param name="Материал коврика">Полиэстер</param>
-<param name="Размеры">190*65*3 см</param>
-<param name="Цвет">Бежевый</param>
-<param name="Толщина коврика">3 см</param>
-</offer>
 <offer id="MD-16-3B" available="true">
 <name>Столовый сервиз из фарфора Marble Clara 16 предметов на 4 персоны</name>
 <url>https://lugi.com.ua/ru/stolovyj-serviz-iz-farfora-marble-clara-16-predmetov-na-4-persony/</url>
@@ -112434,48 +112403,6 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Количество ярусов">13</param>
 <param name="Материал">ПЭ</param>
 </offer>
-<offer id="C9W200" available="true">
-<name>Доска для подачи круглая 20 см, ясень</name>
-<url>https://lugi.com.ua/ru/doska_dlya_podachi_kruglaya_20_sm_yasen/</url>
-<price>179</price>
-<vendorprice>133</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>34</categoryId>
-<picture>https://lugi.com.ua/image/cache/external/e795b20a069c2443e477feba0e0ef0cc-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/aaff31d67a4db1a5fc46a8dbf7efbec8-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/d345204aff0d912e7e2d98a7db3be752-600x600.webp</picture>
-<description><![CDATA[<p>Круглая кухонная доска из натурального ясеня &mdash; это элегантный и практичный инструмент для вашей кухни. Благодаря качественной древесине она отличается прочностью и долговечностью, сохраняя естественную текстуру дерева. Идеально подходит как для нарезки продуктов, так и для сервировки мясной нарезки, сыра или пиццы, добавляя эстетичности вашему столу.<br />
-<br />
-Специальная обработка поверхности защищает доску от влаги и запахов, что делает ее удобной и безопасной для ежедневного использования. Благодаря компактному размеру она не занимает много места, но обеспечивает достаточно рабочей площади для комфортного приготовления и подачи блюд.<br />
-<br />
-Эта доска станет не только функциональным, но и стильным элементом вашего кухонного интерьера, дополняя его натуральными материалами и оригинальным дизайном.<br />
-<br />
-<strong>Характеристики:</strong></p>
-<ul>
-	<li>Круглая форма</li>
-	<li>Изготовлена из массива ясеня</li>
-	<li>Подходит для нарезки и сервировки</li>
-	<li>Диаметр: 20 см</li>
-</ul>
-<p><br />
-<strong>Особенности ухода:</strong></p>
-<ul>
-	<li>Деревянные изделия можно мыть только вручную, мягкими губками под струей теплой воды.</li>
-	<li>Нельзя надолго замачивать в воде, а после мытья следует немедленно вытереть и оставить для просушки.</li>
-	<li>Не хранить изделия в помещениях с большой влажностью.&nbsp;</li>
-	<li>Периодически (раз в месяц) изделия стоит продезинфицировать водкой или спиртом для уничтожения микробов, а также для предотвращения неприятного запаха. Если запах появился, то можно протереть поверхность слабым раствором уксуса или лимона.</li>
-	<li>Нельзя ставить деревянные изделия в духовку, микроволновую печь, а также на плиту.&nbsp;</li>
-</ul>]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<vendorCode>C9W200</vendorCode>
-<param name="Гарантийный срок">14 дней</param>
-<param name="Покрытие">Масло</param>
-<param name="Наличие желобка">Есть</param>
-<param name="Наличие подвесного крюка/ручки">Нет</param>
-<param name="Диаметр">20 см</param>
-<param name="Форма">Круглая</param>
-<param name="Материал">Ясен</param>
-</offer>
 <offer id="HP-19-6" available="true">
 <name>Корзинка сервировочная для фри и снеков 9х9 см, хром</name>
 <url>https://lugi.com.ua/ru/korzinka_servirovochnaya_dlya_fri_i_snekov_9h9_sm_hrom/</url>
@@ -113888,6 +113815,37 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Длина гирлянды">6 м</param>
 <param name="Тип гирлянды">Бахрома</param>
 <param name="Цвет оболочки">Черный</param>
+</offer>
+<offer id="LU-026" available="true">
+<name>Надувной матрас автоматический 190*65*3 см с подушкой, бежевый</name>
+<url>https://lugi.com.ua/ru/naduvnoj-matras-avtomaticheskij-190-65-3-sm-s-podushkoj-bezhevyj/</url>
+<price>1539</price>
+<vendorprice>1190</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>77</categoryId>
+<picture>https://lugi.com.ua/image/cache/external/ac26ff3334c8fce28d9a3ecdfecbc2c2-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/a6cbc1822fa1acbb736f8688b57f02fa-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/9f7b8c606c9996299041194347f25271-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/c22c47b399aa1853167527a90831b9ea-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/206cd7f981d02f06735716d3ffbecab7-600x600.webp</picture>
+<description><![CDATA[<p>Надувной матрас автоматический с подушкой — идеальное решение для комфортного отдыха на природе, кемпинга или путешествий. Благодаря автоматическому надуванию, вам больше не придется тратить время и силы на надувание матраса вручную — достаточно лишь накачать подголовник. Матрас изготовлен из прочного и водостойкого материала, что гарантирует долговечность и надежность даже в сложных условиях.
+</p><p>Компактность — еще одно преимущество этого матраса. В сложенном виде он имеет габариты всего 69×13×13 см, что позволяет удобно хранить его в рюкзаке или автомобиле. В разложенном состоянии размеры составляют 190×65×3 см, что обеспечивает достаточно пространства для одного взрослого. Толщина в 3 см обеспечивает базовую изоляцию и комфорт на неровной поверхности.
+</p><p>Особого внимания заслуживает встроенный подголовник высотой 19 см, который добавляет эргономичности и удобства во время сна или отдыха. Этот одноместный самонадувной матрас станет надежным спутником в любом путешествии, обеспечивая комфорт и удобство без лишних усилий.</p><p><b>Внимание!</b></p><p>В качестве наполнителя использован материал Memory Foam, который расширяется при разворачивании матраца и открывании клапана. Подушка надувается отдельно. Достаточно пары вдохов или ручного насоса. Компрессор использовать не рекомендуется во избежание повреждений.</p><p>
+</p><p><b>Характеристики:
+</b></p><ul><li>Размеры в разложенном виде: 190×65×3 см
+</li><li>Размеры в сложенном виде: 69×13×13 см
+</li><li>Толщина: 3 см
+</li><li>Высота подголовника: 19 см
+</li><li>Тип: одноместный
+</li><li>Механизм надувания: самонадувной (накачивать только подголовник)</li></ul>]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<vendorCode>LU-026</vendorCode>
+<param name="Вес">1.2 кг</param>
+<param name="Гарантийный срок">14 дней</param>
+<param name="Материал коврика">Полиэстер</param>
+<param name="Размеры">190*65*3 см</param>
+<param name="Цвет">Бежевый</param>
+<param name="Толщина коврика">3 см</param>
 </offer>
 <offer id="LB-1566B" available="true">
 <name>Блюдо сервировочное на металлической подставке 25*10.5*9 см, черный</name>
