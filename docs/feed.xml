@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-06 20:01">
+<yml_catalog date="2026-09-07 02:09">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -3432,47 +3432,6 @@
 <param name="Толщина стенки">5 мм</param>
 <param name="Многослойное дно">Да</param>
 </offer>
-<offer id="SK-3377" available="true">
-<name>Ручной пылесос на аккумуляторе для дома для сухой уборки 2000 Вт беспроводной пылесос Sokany SK-3377</name>
-<price>4779</price>
-<vendorprice>2563</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>103</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3480/ruchnoy_pylesos_na_akkumulyatore_dlya_doma_dlya_suhoy_uborki_2000_vt_besprovodnoy_pylesos_sokany.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/130/SK-3377/SK-3377-%2810%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/130/SK-3377/SK-3377-%2812%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/130/SK-3377/SK-3377-%2813%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/130/SK-3377/SK-3377-%2827%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/130/SK-3377/SK-3377-%2828%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/130/SK-3377/SK-3377-%285%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/130/SK-3377/SK-3377-%287%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/130/SK-3377/SK-3377-%288%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/130/SK-3377/SK-3377-%286%29.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Вертикальный пылесос SOKANY SK-3377 &ndash; это современное решение для тщательной и комфортной уборки. Мощность 2000 Вт в сочетании с циклонной технологией обеспечивает высокую эффективность всасывания даже мельчайших частиц пыли. Благодаря технологии разделения пылевых газов устройство поддерживает стабильную мощность даже при наполненном контейнере для мусора.  Основные характеристики:   Потребляемая мощность: 2000 Вт; Высота: 1 м; Тип уборки: Сухая; Количество насадок: 4 шт; Тип пылесборника: Контейнер.   Этот пылесос оснащен фильтрами для пыли и послемоторным фильтром, которые помогают улавливать мелкую пыль и аллергены. Фильтры можно мыть и использовать повторно, что делает устройство не только удобным, но и экономичным. Долгое время автономной работы позволяет провести полноценную уборку без перерыва, а компактный и стильный дизайн обеспечивает легкость в использовании и хранении.  Благодаря циклонной системе очистки воздуха пылесос SOKANY SK-3377 идеально подходит для семей с детьми или аллергиками. Его функциональность и надежность делают его хорошим выбором для современного дома.]]></description>
-<quantity_in_stock>48</quantity_in_stock>
-<vendorCode>SK-3377</vendorCode>
-<param name="Тип">Вертикальный</param>
-<param name="Высота">100</param>
-<param name="Гарантийный срок">3 мес</param>
-<param name="Вес">2.44</param>
-<param name="Потребляемая мощность">2000</param>
-<param name="Длина сетевого шнура">1.1</param>
-<param name="Количество щеток в комплекте">4</param>
-<param name="Особенности">Регулировка мощности всасывания</param>
-<param name="Ширина">250</param>
-<param name="Питание">Аккумулятор</param>
-<param name="Тип уборки">Сухая</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Положение регулятора мощности всасывания">ручка</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Серебристый</param>
-<param name="Тип аккумулятора">Li-Ion</param>
-<param name="Тип пылесборника">Контейнер</param>
-<param name="Тип трубы всасывания">Телескопическая</param>
-<param name="Рабочая ширина">250</param>
-<param name="Режимы движения">назад-вперед</param>
-</offer>
 <offer id="SK-119GR" available="true">
 <name>Утюг Sokany с керамической подошвой SK-119GR</name>
 <price>739</price>
@@ -3532,6 +3491,47 @@
 <param name="Гарантия">6 мес</param>
 <param name="Тип блендера">Стационарный</param>
 <param name="Тип управления">Механическое</param>
+</offer>
+<offer id="SK-3377" available="true">
+<name>Ручной пылесос на аккумуляторе для дома для сухой уборки 2000 Вт беспроводной пылесос Sokany SK-3377</name>
+<price>4779</price>
+<vendorprice>2563</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>103</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3480/ruchnoy_pylesos_na_akkumulyatore_dlya_doma_dlya_suhoy_uborki_2000_vt_besprovodnoy_pylesos_sokany.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/130/SK-3377/SK-3377-%2810%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/130/SK-3377/SK-3377-%2812%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/130/SK-3377/SK-3377-%2813%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/130/SK-3377/SK-3377-%2827%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/130/SK-3377/SK-3377-%2828%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/130/SK-3377/SK-3377-%285%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/130/SK-3377/SK-3377-%287%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/130/SK-3377/SK-3377-%288%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/130/SK-3377/SK-3377-%286%29.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Вертикальный пылесос SOKANY SK-3377 &ndash; это современное решение для тщательной и комфортной уборки. Мощность 2000 Вт в сочетании с циклонной технологией обеспечивает высокую эффективность всасывания даже мельчайших частиц пыли. Благодаря технологии разделения пылевых газов устройство поддерживает стабильную мощность даже при наполненном контейнере для мусора.  Основные характеристики:   Потребляемая мощность: 2000 Вт; Высота: 1 м; Тип уборки: Сухая; Количество насадок: 4 шт; Тип пылесборника: Контейнер.   Этот пылесос оснащен фильтрами для пыли и послемоторным фильтром, которые помогают улавливать мелкую пыль и аллергены. Фильтры можно мыть и использовать повторно, что делает устройство не только удобным, но и экономичным. Долгое время автономной работы позволяет провести полноценную уборку без перерыва, а компактный и стильный дизайн обеспечивает легкость в использовании и хранении.  Благодаря циклонной системе очистки воздуха пылесос SOKANY SK-3377 идеально подходит для семей с детьми или аллергиками. Его функциональность и надежность делают его хорошим выбором для современного дома.]]></description>
+<quantity_in_stock>47</quantity_in_stock>
+<vendorCode>SK-3377</vendorCode>
+<param name="Тип">Вертикальный</param>
+<param name="Высота">100</param>
+<param name="Гарантийный срок">3 мес</param>
+<param name="Вес">2.44</param>
+<param name="Потребляемая мощность">2000</param>
+<param name="Длина сетевого шнура">1.1</param>
+<param name="Количество щеток в комплекте">4</param>
+<param name="Особенности">Регулировка мощности всасывания</param>
+<param name="Ширина">250</param>
+<param name="Питание">Аккумулятор</param>
+<param name="Тип уборки">Сухая</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Положение регулятора мощности всасывания">ручка</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Серебристый</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Тип пылесборника">Контейнер</param>
+<param name="Тип трубы всасывания">Телескопическая</param>
+<param name="Рабочая ширина">250</param>
+<param name="Режимы движения">назад-вперед</param>
 </offer>
 <offer id="SK-19023ML" available="true">
 <name>Весы кухонные до 5 кг электронные на батарейках SK-19023ML</name>
@@ -5163,47 +5163,6 @@
 <param name="Толщина дна">5 мм</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="SK-09022" available="true">
-<name>Электрочайник с автоматическим отключением 2.3 л Sokany дисковый бытовой 1500 Вт SK-09022</name>
-<price>709</price>
-<vendorprice>381</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>39</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3546/elektrochaynik_s_avtomaticheskim_otklyucheniem_2_3_l_sokany_diskovyy_bytovoy_1500_vt.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_6.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Электрочайник Sokany – практичное и удобное устройство, которое дает возможность в считанные минуты вскипятить воду и станет стильным дополнением любой кухни. Чайник отличается оптимальным объемом для приготовления горячих напитков для всей семьи, имеет дисковый нагревательный элемент и поворотное основание.  Основные характеристики электро чайника   объем 2.3 литра; мощность 1500 Вт; материал корпуса - нержавеющая сталь; дисковый нагревательный элемент.   Особенности электрического чайника   Авто отключение при снятии с подставки. Защита от включения без воды. Защита от перегрева.   Чайник изготовлен из безопасных материалов, имеет защиту от включения без воды и удобную ручку, которая не нагревается и обеспечивает защиту от ожогов. Закрытый нагревательный элемент гарантирует длительный срок службы и простую очистку от накипи.]]></description>
-<quantity_in_stock>32</quantity_in_stock>
-<vendorCode>SK-09022</vendorCode>
-<param name="Тип">Электрочайник</param>
-<param name="Высота">230</param>
-<param name="Автоотключение при отсутствии воды">Да</param>
-<param name="Гарантийный срок">3 мес</param>
-<param name="Вес">0.8</param>
-<param name="Глубина">200</param>
-<param name="Потребляемая мощность">1500</param>
-<param name="Длина сетевого шнура">0.55</param>
-<param name="Дисплей">Нет</param>
-<param name="Ширина">150</param>
-<param name="Звуковой сигнал">Нет</param>
-<param name="Объем">2.3</param>
-<param name="Материал корпуса">Нержавеющая сталь</param>
-<param name="Наличие фильтра">Нет</param>
-<param name="Индикатор работы">Да</param>
-<param name="Поворот на 360 градусов">Да</param>
-<param name="Подсветка чайника">Нет</param>
-<param name="Состояние">Новое</param>
-<param name="Рисунок на корпусе">Нет</param>
-<param name="Цвет корпуса">Серебристый</param>
-<param name="Таймер">Нет</param>
-<param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
-<param name="Функция автоотключения">Да</param>
-</offer>
 <offer id="SK-08051" available="true">
 <name>Сендвичница  — бутербродница с антипригарным покрытием Sokany SK-08051</name>
 <price>889</price>
@@ -5433,6 +5392,47 @@
 <param name="Складная ручка">Нет</param>
 <param name="Функция автоотключения">Да</param>
 <param name="Сухая глажка">Да</param>
+</offer>
+<offer id="SK-09022" available="true">
+<name>Электрочайник с автоматическим отключением 2.3 л Sokany дисковый бытовой 1500 Вт SK-09022</name>
+<price>709</price>
+<vendorprice>381</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>39</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3546/elektrochaynik_s_avtomaticheskim_otklyucheniem_2_3_l_sokany_diskovyy_bytovoy_1500_vt.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/125/SK-09022/sk09022_6.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Электрочайник Sokany – практичное и удобное устройство, которое дает возможность в считанные минуты вскипятить воду и станет стильным дополнением любой кухни. Чайник отличается оптимальным объемом для приготовления горячих напитков для всей семьи, имеет дисковый нагревательный элемент и поворотное основание.  Основные характеристики электро чайника   объем 2.3 литра; мощность 1500 Вт; материал корпуса - нержавеющая сталь; дисковый нагревательный элемент.   Особенности электрического чайника   Авто отключение при снятии с подставки. Защита от включения без воды. Защита от перегрева.   Чайник изготовлен из безопасных материалов, имеет защиту от включения без воды и удобную ручку, которая не нагревается и обеспечивает защиту от ожогов. Закрытый нагревательный элемент гарантирует длительный срок службы и простую очистку от накипи.]]></description>
+<quantity_in_stock>31</quantity_in_stock>
+<vendorCode>SK-09022</vendorCode>
+<param name="Тип">Электрочайник</param>
+<param name="Высота">230</param>
+<param name="Автоотключение при отсутствии воды">Да</param>
+<param name="Гарантийный срок">3 мес</param>
+<param name="Вес">0.8</param>
+<param name="Глубина">200</param>
+<param name="Потребляемая мощность">1500</param>
+<param name="Длина сетевого шнура">0.55</param>
+<param name="Дисплей">Нет</param>
+<param name="Ширина">150</param>
+<param name="Звуковой сигнал">Нет</param>
+<param name="Объем">2.3</param>
+<param name="Материал корпуса">Нержавеющая сталь</param>
+<param name="Наличие фильтра">Нет</param>
+<param name="Индикатор работы">Да</param>
+<param name="Поворот на 360 градусов">Да</param>
+<param name="Подсветка чайника">Нет</param>
+<param name="Состояние">Новое</param>
+<param name="Рисунок на корпусе">Нет</param>
+<param name="Цвет корпуса">Серебристый</param>
+<param name="Таймер">Нет</param>
+<param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
+<param name="Функция автоотключения">Да</param>
 </offer>
 <offer id="HP-4-431B" available="true">
 <name>Сотейник с антипригарным покрытием 2,9 л с толстым дном Ø 18 см HP-4-431B</name>
@@ -6340,41 +6340,6 @@
 <param name="Толщина дна">5.5 мм</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="SK-09013" available="true">
-<name>Чайник электрический Sokany SK-09013 2.5 литра прозрачный</name>
-<price>1339</price>
-<vendorprice>722</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>39</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2533/chaynik_elektricheskiy_2_5_litra_elektrochaynik_sokany.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2533/chaynik_elektricheskiy_2_5_litra_elektrochaynik_sokany_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2533/chaynik_elektricheskiy_2_5_litra_elektrochaynik_sokany_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2533/chaynik_elektricheskiy_2_5_litra_elektrochaynik_sokany_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2533/chaynik_elektricheskiy_2_5_litra_elektrochaynik_sokany_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2533/chaynik_elektricheskiy_2_5_litra_elektrochaynik_sokany_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2533/chaynik_elektricheskiy_2_5_litra_elektrochaynik_sokany_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2533/chaynik_elektricheskiy_2_5_litra_elektrochaynik_sokany_7.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Электрический чайник Sokany – это удобное и надежное кухонное устройство, которое быстро и комфортно доведет воду до кипения. Благодаря ручке с защитным покрытием от ожогов, использование чайника безопасно и удобно. Чайник автоматически отключается после завершения кипячения воды, что обеспечивает дополнительное удобство и безопасность.  Характеристики:   Объем: 2,5 литра Высота: 25 см Диаметр: 14 см Мощность: 2200 - 2400 Вт Частота: 50/60 Гц Функции: автоматическое отключение, защита от перегрева, индикатор работы   Преимущества:   Автоматическое отключение и защита от перегрева для безопасного использования Удобная ручка с защитным покрытием от ожогов Доступная цена и стильный дизайн   Уход:   Легкий в уходе благодаря простой конструкции  Чайник Sokany сочетает стильный дизайн, высокое качество и функциональность, что делает его идеальным выбором для любой кухни.]]></description>
-<quantity_in_stock>25</quantity_in_stock>
-<vendorCode>SK-09013</vendorCode>
-<param name="Тип">Электрочайник</param>
-<param name="Высота">250 мм</param>
-<param name="Автоотключение при отсутствии воды">Да</param>
-<param name="Вес">1.1 кг</param>
-<param name="Длина сетевого шнура">0.5 м</param>
-<param name="Индикатор уровня воды">Да</param>
-<param name="Объем">2.5 л</param>
-<param name="Материал корпуса">Стекло/Нержавеющая сталь</param>
-<param name="Индикатор работы">Да</param>
-<param name="Поворот на 360 градусов">Да</param>
-<param name="Подсветка чайника">Да</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантия">3 мес</param>
-<param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
-<param name="Функция автоотключения">Да</param>
-<param name="Потребляємая мощность">1500 Вт</param>
-</offer>
 <offer id="SKYM7032B" available="true">
 <name>Чоппер измельчитель Sokany SKYM7032B 2в1 с чашами 0.5 и 1,5 литра 800 Вт</name>
 <price>2599</price>
@@ -6555,6 +6520,41 @@
 <param name="Цвет корпуса">Черный</param>
 <param name="Регулировка скорости">Да</param>
 <param name="Тип управления">Механическое</param>
+</offer>
+<offer id="SK-09013" available="true">
+<name>Чайник электрический Sokany SK-09013 2.5 литра прозрачный</name>
+<price>1339</price>
+<vendorprice>722</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>39</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2533/chaynik_elektricheskiy_2_5_litra_elektrochaynik_sokany.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2533/chaynik_elektricheskiy_2_5_litra_elektrochaynik_sokany_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2533/chaynik_elektricheskiy_2_5_litra_elektrochaynik_sokany_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2533/chaynik_elektricheskiy_2_5_litra_elektrochaynik_sokany_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2533/chaynik_elektricheskiy_2_5_litra_elektrochaynik_sokany_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2533/chaynik_elektricheskiy_2_5_litra_elektrochaynik_sokany_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2533/chaynik_elektricheskiy_2_5_litra_elektrochaynik_sokany_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2533/chaynik_elektricheskiy_2_5_litra_elektrochaynik_sokany_7.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Электрический чайник Sokany – это удобное и надежное кухонное устройство, которое быстро и комфортно доведет воду до кипения. Благодаря ручке с защитным покрытием от ожогов, использование чайника безопасно и удобно. Чайник автоматически отключается после завершения кипячения воды, что обеспечивает дополнительное удобство и безопасность.  Характеристики:   Объем: 2,5 литра Высота: 25 см Диаметр: 14 см Мощность: 2200 - 2400 Вт Частота: 50/60 Гц Функции: автоматическое отключение, защита от перегрева, индикатор работы   Преимущества:   Автоматическое отключение и защита от перегрева для безопасного использования Удобная ручка с защитным покрытием от ожогов Доступная цена и стильный дизайн   Уход:   Легкий в уходе благодаря простой конструкции  Чайник Sokany сочетает стильный дизайн, высокое качество и функциональность, что делает его идеальным выбором для любой кухни.]]></description>
+<quantity_in_stock>24</quantity_in_stock>
+<vendorCode>SK-09013</vendorCode>
+<param name="Тип">Электрочайник</param>
+<param name="Высота">250 мм</param>
+<param name="Автоотключение при отсутствии воды">Да</param>
+<param name="Вес">1.1 кг</param>
+<param name="Длина сетевого шнура">0.5 м</param>
+<param name="Индикатор уровня воды">Да</param>
+<param name="Объем">2.5 л</param>
+<param name="Материал корпуса">Стекло/Нержавеющая сталь</param>
+<param name="Индикатор работы">Да</param>
+<param name="Поворот на 360 градусов">Да</param>
+<param name="Подсветка чайника">Да</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантия">3 мес</param>
+<param name="Тип нагревательного элемента">Скрытый нагревательный элемент</param>
+<param name="Функция автоотключения">Да</param>
+<param name="Потребляємая мощность">1500 Вт</param>
 </offer>
 <offer id="SK-094" available="true">
 <name>Электромясорубка Sokany SK-094 3200 Вт</name>
@@ -12548,7 +12548,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5738/pakety_dlya_vakuumatora_30_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Вакуумные пакеты 30*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования.  Основные характеристики пакетов для вакууматора:  размер: 30*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен.  Преимущества:  Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки.  Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.]]></description>
-<quantity_in_stock>1894</quantity_in_stock>
+<quantity_in_stock>1893</quantity_in_stock>
 <vendorCode>HP-11-23</vendorCode>
 <param name="Тип">Пакет</param>
 <param name="Материал">Полиэтилен</param>
@@ -12930,7 +12930,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/129/USB100L10MWY-1%282%29.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Гирлянда USB роса идеально подходит для окон, дверей, стен, картин, елок, фотозоны. Гирлянда оснащена 100 яркими светодиодами, которые обеспечивают превосходное освещение.  Основные характеристики гирлянды роса   гирлянда роса 10 метров; 100 led светодиодов; класс защиты IP44.   Особенностью этой гирлянды является ее питание от usb, что обеспечивает максимальную мобильность и удобство в эксплуатации. Новогодняя гирлянда Роса - это не только декоративный элемент, но и практичный инструмент для создания особого атмосферного света в вашем доме или на мероприятии любого уровня.  Купить гирлянду капли росы 10 метров можно с доставкой по всей Украине. Гирлянда подлежит возврату только в том случае, когда ее исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>1202</quantity_in_stock>
+<quantity_in_stock>1200</quantity_in_stock>
 <vendorCode>USB100L10MWY</vendorCode>
 <param name="Режим работы">Динамический</param>
 <param name="Количество светодиодов">100</param>
@@ -13249,7 +13249,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/88/481/udlinitel_dlya_girlyand_5_metrov_prozrachnyy_provod_220v_4.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Удлинитель для гирлянды длиной 5 метров Удлинитель для гирлянды длиной 5 метров – это надежное и удобное решение для увеличения длины кабеля вашей гирлянды, позволяющее легко разместить её в нужном месте, даже если розетка находится на расстоянии. Он изготовлен из прозрачного ПВХ-материала, что делает его практически незаметным в любом интерьере или экстерьере.  Преимущества:   Удобство использования: Удлинитель обеспечивает простое подключение вашей гирлянды к розетке на расстоянии, что делает его идеальным для украшения вокруг дома, сада или веранды без лишних хлопот. Прозрачный ПВХ-материал: Прозрачный ПВХ делает удлинитель практически невидимым, обеспечивая дискретность в размещении вашей гирлянды. Надежность: Удлинитель оснащён защитой от перенапряжений и изготовлен из высококачественных материалов, что позволяет ему работать в диапазоне температур от -25 до +45 градусов, обеспечивая надёжную работу в различных климатических условиях.   Характеристики:   Длина: 5 метров Материал: прозрачный ПВХ Температурный диапазон: от -25 до +45 градусов   Уход:   Избегайте контакта с водой Храните в сухом месте Регулярно проверяйте состояние кабеля  С этим удлинителем для гирлянды длиной 5 метров вы сможете легко разместить и подключить вашу гирлянду в любом месте, предоставляя праздничным украшениям больше свободы и возможностей. Этот практичный аксессуар поможет создать незабываемую атмосферу света и радости на праздничных мероприятиях или рождественском декоре.]]></description>
-<quantity_in_stock>987</quantity_in_stock>
+<quantity_in_stock>986</quantity_in_stock>
 <vendorCode>5МTR</vendorCode>
 <param name="Длина шнура питания">5 м</param>
 <param name="Напряжение">220 В</param>
@@ -13267,7 +13267,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5735/pakety_dlya_vakuumatora_15_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Вакуумные пакеты 15*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования.  Основные характеристики пакетов для вакууматора:  размер: 15*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен.  Преимущества:  Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки.  Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.]]></description>
-<quantity_in_stock>963</quantity_in_stock>
+<quantity_in_stock>960</quantity_in_stock>
 <vendorCode>HP-11-20</vendorCode>
 <param name="Материал">Полиэтилен</param>
 <param name="Вес">100</param>
@@ -14124,7 +14124,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3642/konfetnitsa_s_kryshkoy_steklyannaya_10_sm_kruglaya_5.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Стеклянная конфетница с крышкой &ndash; это стильный и удобный сервировочный элемент, который идеально подойдет для хранения и подачи сладостей, печенья или других небольших угощений. Ее прозрачный дизайн позволяет любоваться содержимым и придает изяществу к любому интерьеру.  Основные характеристики:   Материал: стекло; Высота: 10 см; Диаметр: 10 см; Назначение: для конфет, печенья, сладостей; Особенности: с крышкой, удобная в уходе, стильный дизайн.   Изготовленная из прочного стекла, конфетница имеет гладкую поверхность, что делает ее устойчивой к царапинам и легкой в ​​уходе. Крышка обеспечивает защиту содержимого от пыли и сохраняет свежесть сладостей, что особенно важно при длительном хранении.  Размеры изделия &ndash; высота 10 см и диаметр 10 см &ndash; делают конфетницу компактной, но в то же время достаточно вместительной для хранения небольших порций угощений. Это универсальный и практичный выбор для праздничного стола или ежедневного использования.]]></description>
-<quantity_in_stock>648</quantity_in_stock>
+<quantity_in_stock>647</quantity_in_stock>
 <vendorCode>HP-YH-72</vendorCode>
 <param name="Материал">Стекло</param>
 <param name="Высота">100</param>
@@ -14507,7 +14507,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4720/shchetka_dlya_mytya_okon_s_raspylitelem_skrebok_shchetka_dlya_mytya_okon_i_stekol_5.jpg</picture>
 <vendor>Household</vendor>
 <description><![CDATA[Инструмент сочетает функции распыления и очистки стеклянных поверхностей. Конструкция состоит из распылителя, насадки из микрофибры и резинового скребка. Такой формат позволяет производить полный цикл очистки &ndash; от нанесения средства до удаления остатков жидкости &ndash; без надобности в дополнительных аксессуарах.  Основные характеристики щетки для мытья окон с распылителем:  Приемущества щетки для мытья стекол:   Встроенный распылитель позволяет равномерно наносить воду или моющее средство. Удобная щётка с мягкой насадкой обеспечивает деликатное очищение без царапин. Совмещает сразу два действия &mdash; распыление и очистку, что экономит время. Подходит для стекол, зеркал, витрин и гладких поверхностей. Эргономичная ручка облегчает использование и делает уборку комфортной. Компактный и практичный аксессуар для дома, офиса или автомобиля.   Микрофибровая насадка закреплена на пластиковой основе, что обеспечивает равномерное прилегание к поверхности. Скребок изготовлен из гибкого материала, плотно контактирующего со стеклом, уменьшая остатки воды и следы. Распылитель оснащен курком эргономичной формы, что позволяет контролировать количество жидкости при использовании.  Подходит для ухода за окнами, зеркалами, душевыми перегородками и другими гладкими поверхностями. Благодаря компактному дизайну инструмент удобно хранить и транспортировать. Модель ориентирована на бытовое использование, позволяет сократить время уборки и уменьшить расход моющих средств.]]></description>
-<quantity_in_stock>528</quantity_in_stock>
+<quantity_in_stock>527</quantity_in_stock>
 <vendorCode>HP-35015-25</vendorCode>
 <param name="Назначение">Для мытья окон</param>
 <param name="Ширина рабочей части">26</param>
@@ -14638,7 +14638,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5741/pakety_dlya_vakuumatora_20_4_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Вакуумные пакеты 20*300 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования.  Основные характеристики пакетов для вакууматора:  тип: рулон; габарити рулону: 20*300 см; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен.  Преимущества:  Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки.  Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.]]></description>
-<quantity_in_stock>519</quantity_in_stock>
+<quantity_in_stock>518</quantity_in_stock>
 <vendorCode>HP-11-26</vendorCode>
 <param name="Тип">Пакет</param>
 <param name="Материал">Полиэтилен</param>
@@ -17469,7 +17469,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-11-29BL/HP-11-29BL_2.jpg</picture>
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/68190/6623/vakuumator_bytovoy_sensornyy_dlya_suhih_i_vlazhnyh_produktov_120_vt_so_vstroennym_rezakom_upakovshchik_vakuumnyy_8.jpg</picture>
 <description><![CDATA[Вакуумный упаковщик  &ndash; это современное решение для безопасного и длительного хранения продуктов. Мощное всасывание и широкая запаивающая поверхность гарантируют надежную герметизацию, предотвращая попадание воздуха и продлевая срок хранения продуктов. Вакууматор поддерживает сухие и влажные режимы, подходит для вакуумирования различных продуктов.  Основные характеристики    вакууматора кухонного:   длина шва запаивания: 300 мм; мощность: 120 Вт; размер:     35&times;10.5&times;5 см; давление вакуума: 65 кПа; управление: сенсорная панель; функции: для сухого и влажного вакуумирования; дополнительные возможности: встроенный резак для пакетов; комплектация: 10 вакуумных пакетов.   Комплектация:   вакууматор; 10 пакетов для вакуумирования.   Правила упаковки вакууматора бытового:   используйте только специальные пакеты; кладите пакет максимально ровно; заполняйте пакет не больше, чем на 3/4 объема; жирную пищу упаковывайте в пакет, предварительно подвернув его края, чтобы жир не попал в насос; при упаковке мягких продуктов (например, клубники) следите за процессом, чтобы не повредить ягоды.   Для удобства использования прибор оснащен водонепроницаемым сенсорным экраном и встроенным резаком, что упрощает процесс упаковки и ухода за устройством. Это идеальный выбор для тех, кто хочет сохранить продукты свежими дольше и использовать их для приготовления.]]></description>
-<quantity_in_stock>303</quantity_in_stock>
+<quantity_in_stock>302</quantity_in_stock>
 <vendorCode>HP-11-29BL</vendorCode>
 <param name="Максимальная ширина пакета">300</param>
 <param name="Цвет">Серый</param>
@@ -19276,7 +19276,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3651/konfetnitsa_steklyannaya_s_kryshkoy_dvuhurovnevaya_10_sm_vaza_konfetnitsa_korichnevaya_4.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Двухуровневая конфетница из толстого стекла под хрусталь &ndash; это стильный и практичный аксессуар для вашего стола. Ее изящный дизайн и прозрачность материала создают эффект роскоши, напоминая хрустальные изделия. Благодаря двухуровневой конструкции конфета обеспечивает удобное размещение сладостей, фруктов или других угощений, оптимально используя пространство.  Основные характеристики:   Материал: стекло; Диаметр: 10 см; Высота: 15 см.   Изделие дополнено крышкой, плотно закрывающей верхний уровень, что позволяет сохранять содержимое свежим и защищенным от внешних воздействий. Компактные размеры делают конфетницу универсальным элементом декора, который подойдет как для повседневного использования, так и для праздничных событий. Ее текстурированная поверхность добавляет изделию шарма, делая его идеальным подарком для любого случая.  Конфетницу гармонично сочетается с интерьерами разных стилей, придавая им нотку элегантности. Прочное толстое стекло обеспечивает длительный срок службы, позволяя вам наслаждаться его функциональностью и красотой в течение многих лет.]]></description>
-<quantity_in_stock>260</quantity_in_stock>
+<quantity_in_stock>259</quantity_in_stock>
 <vendorCode>HP-YH-81</vendorCode>
 <param name="Материал">Стекло</param>
 <param name="Высота">150</param>
@@ -19394,7 +19394,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-55/HP-5-55-4.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 8 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 8 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 27 × 11 × 4 см]]></description>
-<quantity_in_stock>257</quantity_in_stock>
+<quantity_in_stock>256</quantity_in_stock>
 <vendorCode>HP-5-55</vendorCode>
 <param name="Длина шнура">5</param>
 <param name="Количество выходных розеток">6</param>
@@ -20750,30 +20750,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Форма">Фигурная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-8-57" available="true">
-<name>Силиконовая ложка для спагетти с деревянной ручкой 30 (см) ложка для макарон, пасты лопатка для спагетти HP-8-57</name>
-<price>199</price>
-<vendorprice>154</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>88</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4532/silikonovaya_lozhka_dlya_spagetti_s_derevyannoy_ruchkoy_30_sm_lozhka_dlya_makaron_pasty_lopatka_dlya_spagetti.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4532/silikonovaya_lozhka_dlya_spagetti_s_derevyannoy_ruchkoy_30_sm_lozhka_dlya_makaron_pasty_lopatka_dlya_spagetti_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4532/silikonovaya_lozhka_dlya_spagetti_s_derevyannoy_ruchkoy_30_sm_lozhka_dlya_makaron_pasty_lopatka_dlya_spagetti_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4532/silikonovaya_lozhka_dlya_spagetti_s_derevyannoy_ruchkoy_30_sm_lozhka_dlya_makaron_pasty_lopatka_dlya_spagetti_3.jpg</picture>
-<vendor>Ding Lanfang</vendor>
-<description><![CDATA[Силиконовая ложка для спагетти &mdash; незаменимый аксессуар для любителей пасты. Изготовлена из пищевого силикона, она бережно взаимодействует с антипригарной посудой, не оставляя царапин. Широкие зубцы аккуратно захватывают спагетти или лапшу, а продуманное отверстие в центре позволяет эффективно сливать воду.  Ложка оснащена длинной деревянной ручкой, которая удобно лежит в руке и защищает от ожогов при работе с горячими продуктами. Такой аксессуар станет отличным помощником на кухне и подойдет как для домашнего, так и для профессионального использования.  Основные характеристики силиконовой ложки для спагетти:   Размер: 30&times;7.5см; Длина: 30 см; Материал рабочей части: силикон; Материал ручки: дерево.   Силиконовая ложка для спагетти с деревянной ручкой &mdash; это удачное сочетание функциональности, безопасности и стильного дизайна. Она обеспечит комфорт в приготовлении пасты, прослужит долго и легко впишется в кухонный инвентарь любой хозяйки.]]></description>
-<quantity_in_stock>222</quantity_in_stock>
-<vendorCode>HP-8-57</vendorCode>
-<param name="Тип">Ложка для спагетти</param>
-<param name="Материал">Силикон</param>
-<param name="Ширина">75</param>
-<param name="Количество в наборе">1</param>
-<param name="Подходит для посуды с тефлоновым покрытием">Да</param>
-<param name="Цвет">Черный</param>
-<param name="Длина">300</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-1351" available="true">
 <name>Бутылка для масла с дозатором 550 мл стеклянная бутылка для оливкового и подсолнечного масла HP-1351</name>
 <price>259</price>
@@ -20802,6 +20778,30 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет">Зелёный</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Форма">Цилиндрическая</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-8-57" available="true">
+<name>Силиконовая ложка для спагетти с деревянной ручкой 30 (см) ложка для макарон, пасты лопатка для спагетти HP-8-57</name>
+<price>199</price>
+<vendorprice>154</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>88</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4532/silikonovaya_lozhka_dlya_spagetti_s_derevyannoy_ruchkoy_30_sm_lozhka_dlya_makaron_pasty_lopatka_dlya_spagetti.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4532/silikonovaya_lozhka_dlya_spagetti_s_derevyannoy_ruchkoy_30_sm_lozhka_dlya_makaron_pasty_lopatka_dlya_spagetti_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4532/silikonovaya_lozhka_dlya_spagetti_s_derevyannoy_ruchkoy_30_sm_lozhka_dlya_makaron_pasty_lopatka_dlya_spagetti_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4532/silikonovaya_lozhka_dlya_spagetti_s_derevyannoy_ruchkoy_30_sm_lozhka_dlya_makaron_pasty_lopatka_dlya_spagetti_3.jpg</picture>
+<vendor>Ding Lanfang</vendor>
+<description><![CDATA[Силиконовая ложка для спагетти &mdash; незаменимый аксессуар для любителей пасты. Изготовлена из пищевого силикона, она бережно взаимодействует с антипригарной посудой, не оставляя царапин. Широкие зубцы аккуратно захватывают спагетти или лапшу, а продуманное отверстие в центре позволяет эффективно сливать воду.  Ложка оснащена длинной деревянной ручкой, которая удобно лежит в руке и защищает от ожогов при работе с горячими продуктами. Такой аксессуар станет отличным помощником на кухне и подойдет как для домашнего, так и для профессионального использования.  Основные характеристики силиконовой ложки для спагетти:   Размер: 30&times;7.5см; Длина: 30 см; Материал рабочей части: силикон; Материал ручки: дерево.   Силиконовая ложка для спагетти с деревянной ручкой &mdash; это удачное сочетание функциональности, безопасности и стильного дизайна. Она обеспечит комфорт в приготовлении пасты, прослужит долго и легко впишется в кухонный инвентарь любой хозяйки.]]></description>
+<quantity_in_stock>221</quantity_in_stock>
+<vendorCode>HP-8-57</vendorCode>
+<param name="Тип">Ложка для спагетти</param>
+<param name="Материал">Силикон</param>
+<param name="Ширина">75</param>
+<param name="Количество в наборе">1</param>
+<param name="Подходит для посуды с тефлоновым покрытием">Да</param>
+<param name="Цвет">Черный</param>
+<param name="Длина">300</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="64486-1" available="true">
@@ -21711,32 +21711,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Упаковка">Кейс</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="64486-10" available="true">
-<name>Медовница стеклянная с крышкой и ложкой 320 (мл) 64486-10</name>
-<price>369</price>
-<vendorprice>281</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>2</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/64486-10/64486-10-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/64486-10/64486-10-2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Эта изящная медовница &mdash; стильное и практичное дополнение к вашему столу. Прозрачная стеклянная ёмкость оригинальной формы позволяет видеть содержимое и контролировать количество мёда, а крышка и подставка из натурального дерева придают изделию уют и теплоту. Благодаря удобной деревянной палочке-дозатору вы сможете аккуратно добавлять мёд в чай, десерты или кашу, не проливая и не пачкая руки.  Медовница идеально подойдёт как для повседневного использования, так и в качестве красивого подарка любителям натуральных продуктов и домашнего уюта.  Основные характеристики медовницы   Диаметр: 8 см; Высота: 10 см; Материал: стекло + бамбук; Объем: 320 мл.   Эта медовница сочетает в себе эстетику, функциональность и удобство. Она станет не только практичной посудой для хранения мёда, но и стильным акцентом на вашем кухонном столе. Подходит для ежедневного использования и станет прекрасным подарком для ценителей уюта и натуральных материалов.]]></description>
-<quantity_in_stock>203</quantity_in_stock>
-<vendorCode>64486-10</vendorCode>
-<param name="Тип">Банка</param>
-<param name="Материал">Стекло</param>
-<param name="Высота">10</param>
-<param name="Количество предметов в наборе">1</param>
-<param name="Диаметр">8</param>
-<param name="Использование в микроволновке">Нет</param>
-<param name="Объем">0.32</param>
-<param name="Хранение в холодильнике">Да</param>
-<param name="Хранение в морозильной камере">Нет</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Форма">Круглая</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="D1500L50MWW" available="true">
 <name>Новогодняя гирлянда комнатная роса Хвойная лапа 50 м 1500 LED белый провод Белое сияние D1500L50MWW</name>
 <price>1839</price>
@@ -21800,6 +21774,32 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Тип емкости">Кувшин</param>
 <param name="Объем стакана/рюмки/бокала/стопки">200</param>
 <param name="Нижний диаметр">11</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="64486-10" available="true">
+<name>Медовница стеклянная с крышкой и ложкой 320 (мл) 64486-10</name>
+<price>369</price>
+<vendorprice>281</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/64486-10/64486-10-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/64486-10/64486-10-2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Эта изящная медовница &mdash; стильное и практичное дополнение к вашему столу. Прозрачная стеклянная ёмкость оригинальной формы позволяет видеть содержимое и контролировать количество мёда, а крышка и подставка из натурального дерева придают изделию уют и теплоту. Благодаря удобной деревянной палочке-дозатору вы сможете аккуратно добавлять мёд в чай, десерты или кашу, не проливая и не пачкая руки.  Медовница идеально подойдёт как для повседневного использования, так и в качестве красивого подарка любителям натуральных продуктов и домашнего уюта.  Основные характеристики медовницы   Диаметр: 8 см; Высота: 10 см; Материал: стекло + бамбук; Объем: 320 мл.   Эта медовница сочетает в себе эстетику, функциональность и удобство. Она станет не только практичной посудой для хранения мёда, но и стильным акцентом на вашем кухонном столе. Подходит для ежедневного использования и станет прекрасным подарком для ценителей уюта и натуральных материалов.]]></description>
+<quantity_in_stock>202</quantity_in_stock>
+<vendorCode>64486-10</vendorCode>
+<param name="Тип">Банка</param>
+<param name="Материал">Стекло</param>
+<param name="Высота">10</param>
+<param name="Количество предметов в наборе">1</param>
+<param name="Диаметр">8</param>
+<param name="Использование в микроволновке">Нет</param>
+<param name="Объем">0.32</param>
+<param name="Хранение в холодильнике">Да</param>
+<param name="Хранение в морозильной камере">Нет</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Форма">Круглая</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP34541S" available="true">
@@ -25125,31 +25125,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Эргономичные ручки">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-5-53" available="true">
-<name>Сетевой фильтр-удлинитель 6 розеток 4xUSB-A 2xUSB-C 5м белая HP-5-53</name>
-<price>729</price>
-<vendorprice>562</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>80</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7005/setevoy_filtr_udlinitel_6_rozetok_4xusb_a_2xusb_c_5m_belaya_knopka_otklyucheniya_udlinitel_elektricheskaya_zaryadka.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_1.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 6 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 6 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 23 × 11 × 4 см]]></description>
-<quantity_in_stock>173</quantity_in_stock>
-<vendorCode>HP-5-53</vendorCode>
-<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
-<param name="Длина шнура">5</param>
-<param name="Количество выходных розеток">6</param>
-<param name="Выключатель">Да</param>
-<param name="Входная вилка">ЕURO</param>
-<param name="Выходная розетка">Евро</param>
-<param name="Длина провода">5</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Белый</param>
-</offer>
 <offer id="HP-42-81" available="true">
 <name>Коврик для ванной комнаты влагопоглощающий 58*38 см под зелёный мрамор Yiwu HP-42-81</name>
 <price>199</price>
@@ -25218,6 +25193,31 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Способ закрывания">Крышка</param>
 <param name="Тип емкости">Графин</param>
 <param name="Нижний диаметр">7.5</param>
+</offer>
+<offer id="HP-5-53" available="true">
+<name>Сетевой фильтр-удлинитель 6 розеток 4xUSB-A 2xUSB-C 5м белая HP-5-53</name>
+<price>729</price>
+<vendorprice>562</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>80</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7005/setevoy_filtr_udlinitel_6_rozetok_4xusb_a_2xusb_c_5m_belaya_knopka_otklyucheniya_udlinitel_elektricheskaya_zaryadka.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_1.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 6 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 6 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 23 × 11 × 4 см]]></description>
+<quantity_in_stock>172</quantity_in_stock>
+<vendorCode>HP-5-53</vendorCode>
+<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+<param name="Длина шнура">5</param>
+<param name="Количество выходных розеток">6</param>
+<param name="Выключатель">Да</param>
+<param name="Входная вилка">ЕURO</param>
+<param name="Выходная розетка">Евро</param>
+<param name="Длина провода">5</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Белый</param>
 </offer>
 <offer id="HP-14-40P" available="true">
 <name>Термос стеклянный Hexagram с двойными стенками и заварником 240 мл розовый HP-14-40P</name>
@@ -26269,31 +26269,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Длина">35 см</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-5-56" available="true">
-<name>Сетевой фильтр-удлинитель 8 розеток 4xUSB-A 2xUSB-C 5м черный HP-5-56</name>
-<price>829</price>
-<vendorprice>644</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>80</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7008/setevoy_filtr_udlinitel_8_rozetok_4xusb_a_2xusb_c_5m_knopka_otklyucheniya_chernyy_udlinitel_elektricheskoy_zaryadki.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-56/HP-5-56_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-56/HP-5-56_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-56/HP-5-56_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-56/HP-5-56_2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 8 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 8 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 27 &times; 11 &times; 4 см]]></description>
-<quantity_in_stock>161</quantity_in_stock>
-<vendorCode>HP-5-56</vendorCode>
-<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
-<param name="Длина шнура">5</param>
-<param name="Количество выходных розеток">6</param>
-<param name="Выключатель">Да</param>
-<param name="Входная вилка">ЕURO</param>
-<param name="Выходная розетка">Евро</param>
-<param name="Длина провода">5</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Черный</param>
-</offer>
 <offer id="HP-34-121" available="true">
 <name>Сотейник из боросиликатного стекла 1.8 л 15.5х15.5х9 см с деревянной ручкой кастрюля для соусов блюд HP-34-121</name>
 <price>949</price>
@@ -26394,6 +26369,31 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Длина">33</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-5-56" available="true">
+<name>Сетевой фильтр-удлинитель 8 розеток 4xUSB-A 2xUSB-C 5м черный HP-5-56</name>
+<price>829</price>
+<vendorprice>644</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>80</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7008/setevoy_filtr_udlinitel_8_rozetok_4xusb_a_2xusb_c_5m_knopka_otklyucheniya_chernyy_udlinitel_elektricheskoy_zaryadki.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-56/HP-5-56_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-56/HP-5-56_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-56/HP-5-56_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-56/HP-5-56_2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 8 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 8 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 27 &times; 11 &times; 4 см]]></description>
+<quantity_in_stock>160</quantity_in_stock>
+<vendorCode>HP-5-56</vendorCode>
+<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+<param name="Длина шнура">5</param>
+<param name="Количество выходных розеток">6</param>
+<param name="Выключатель">Да</param>
+<param name="Входная вилка">ЕURO</param>
+<param name="Выходная розетка">Евро</param>
+<param name="Длина провода">5</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Черный</param>
 </offer>
 <offer id="HP-YH-76" available="true">
 <name>Конфетница трехуровневая стеклянная с крышкой Ø 10 см Серая HP-YH-76</name>
@@ -27306,30 +27306,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Материал ручек">Нержавеющая сталь</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-FM-352-2" available="true">
-<name>Термочашка 520 мл с отверстием для трубочки и двойным открыванием розовый HP-FM-352-2</name>
-<price>519</price>
-<vendorprice>407</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>158</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-2/HP-FM-352-2-5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-2/HP-FM-352-2-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-2/HP-FM-352-2-2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-2/HP-FM-352-2-3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-2/HP-FM-352-2-4.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Термочашка 520 мл сочетает функциональность и продуманную конструкцию для ежедневного использования. На корпусе размещен цветочный принт с надписью. Модель оснащена герметичной крышкой с двойным открыванием: отдельный клапан для питья и дополнительное отверстие для использования трубочки. Сбоку закреплен текстильный ремешок с надписью “COFFEE”.  Двойная стенка помогает сохранять температуру напитков дольше, уменьшая нагрев внешней поверхности. Объем 520 мл подходит для кофе, чая, воды или других напитков в течение рабочего дня или прогулки. Конструкция предусматривает плотное закрывание, что снижает риск протеканий в суке или рюкзаке. Нижняя часть имеет усиленную основу для большей устойчивости.     Термочашка подходит для офиса, учебы, путешествий или ежедневного использования в городе. Компактная форма позволяет удобно держать ее в руке и размещать в большинстве подстаканников. Практичное решение для тех, кто ищет удобный формат многоразовой чашки с продуманными деталями.   Характеристики:       Тип: термочашка Объем: 520 мл Конструкция: двойная стенка Крышка: двойное открывание Дополнительно: отверстие для трубочки]]></description>
-<quantity_in_stock>150</quantity_in_stock>
-<vendorCode>HP-FM-352-2</vendorCode>
-<param name="Тип">Термокружка</param>
-<param name="Высота">20</param>
-<param name="Верхний диаметр">8</param>
-<param name="Помповый механизм">Нет</param>
-<param name="Ширина">6.5</param>
-<param name="Объем">520</param>
-<param name="Состояние">Новое</param>
-<param name="Нижний диаметр">6.5</param>
-</offer>
 <offer id="HP-34-125" available="true">
 <name>Заварочный чайник стеклянный 1л заварник с бамбуковой крышкой термостойкая посуда для чаепития HP-34-125</name>
 <price>299</price>
@@ -27483,6 +27459,30 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Длина">195</param>
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-FM-352-2" available="true">
+<name>Термочашка 520 мл с отверстием для трубочки и двойным открыванием розовый HP-FM-352-2</name>
+<price>519</price>
+<vendorprice>407</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>158</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-2/HP-FM-352-2-5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-2/HP-FM-352-2-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-2/HP-FM-352-2-2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-2/HP-FM-352-2-3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-2/HP-FM-352-2-4.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Термочашка 520 мл сочетает функциональность и продуманную конструкцию для ежедневного использования. На корпусе размещен цветочный принт с надписью. Модель оснащена герметичной крышкой с двойным открыванием: отдельный клапан для питья и дополнительное отверстие для использования трубочки. Сбоку закреплен текстильный ремешок с надписью “COFFEE”.  Двойная стенка помогает сохранять температуру напитков дольше, уменьшая нагрев внешней поверхности. Объем 520 мл подходит для кофе, чая, воды или других напитков в течение рабочего дня или прогулки. Конструкция предусматривает плотное закрывание, что снижает риск протеканий в суке или рюкзаке. Нижняя часть имеет усиленную основу для большей устойчивости.     Термочашка подходит для офиса, учебы, путешествий или ежедневного использования в городе. Компактная форма позволяет удобно держать ее в руке и размещать в большинстве подстаканников. Практичное решение для тех, кто ищет удобный формат многоразовой чашки с продуманными деталями.   Характеристики:       Тип: термочашка Объем: 520 мл Конструкция: двойная стенка Крышка: двойное открывание Дополнительно: отверстие для трубочки]]></description>
+<quantity_in_stock>149</quantity_in_stock>
+<vendorCode>HP-FM-352-2</vendorCode>
+<param name="Тип">Термокружка</param>
+<param name="Высота">20</param>
+<param name="Верхний диаметр">8</param>
+<param name="Помповый механизм">Нет</param>
+<param name="Ширина">6.5</param>
+<param name="Объем">520</param>
+<param name="Состояние">Новое</param>
+<param name="Нижний диаметр">6.5</param>
 </offer>
 <offer id="LU-015DB" available="true">
 <name>Палатка душ-туалет для кемпинга автомат 120×120×190 (см) тент для душа и туалета туристический LU-015DB Черный</name>
@@ -28553,29 +28553,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Форма">Круглая</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-35015-14" available="true">
-<name>Швабра с самовыжимом из микрофибры, универсальная, вращающаяся 360°, телескопическая ручка HP-35015-14</name>
-<price>289</price>
-<vendorprice>231</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>160</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4709/shvabra_s_samovyzhimom_iz_mikrofibry_universalnaya_vrashchayushchayasya_360_teleskopicheskaya_ruchka.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4709/shvabra_s_samovyzhimom_iz_mikrofibry_universalnaya_vrashchayushchayasya_360_teleskopicheskaya_ruchka_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4709/shvabra_s_samovyzhimom_iz_mikrofibry_universalnaya_vrashchayushchayasya_360_teleskopicheskaya_ruchka_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4709/shvabra_s_samovyzhimom_iz_mikrofibry_universalnaya_vrashchayushchayasya_360_teleskopicheskaya_ruchka_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4709/shvabra_s_samovyzhimom_iz_mikrofibry_universalnaya_vrashchayushchayasya_360_teleskopicheskaya_ruchka_4.jpg</picture>
-<vendor>Household</vendor>
-<description><![CDATA[Швабра с самовыжимом &ndash; удобный и практичный инструмент для уборки пола. Подходит для плитки, линолеума, ламината, паркета и других покрытий. Насадка из микрофибры эффективно впитывает влагу, удерживает грязь и обеспечивает качественное очищение. Благодаря встроенному механизму отжима руки остаются сухими и чистыми. Конструкция из прочного металла и пластика гарантирует долговечность и удобство использования.  Характеристики швабры телескопической с самоотжимом:   Вес: 0,5 кг; Материал: пластик + нержавеющая сталь; Максимальная длина ручки: 140 см; Назначение: уборка полов разных типов с функцией самоотжима; Компактное хранение: да.   Преимущества швабры с самовыжимом:   высокая способность впитывать воду; вращающаяся головка на 360 градусов; прочный материал из микрофибры; регулируемая телескопическая ручка; простая сборка и разборка; универсальность для разных напольных покрытий.]]></description>
-<quantity_in_stock>138</quantity_in_stock>
-<vendorCode>HP-35015-14</vendorCode>
-<param name="Материал">Сталь</param>
-<param name="Длина ручки">140</param>
-<param name="Материал насадки">Ткань-веревки</param>
-<param name="Наличие механизма отжима">Нет</param>
-<param name="Материал ручки">Нержавеющая сталь</param>
-<param name="Комплектация ведром">Нет</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-41-14" available="true">
 <name>Подвесной органайзер с 3 карманами 20×58 (см) HP-41-14</name>
 <price>169</price>
@@ -28752,6 +28729,29 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет">Зелёный</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Форма">Цилиндрическая</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-35015-14" available="true">
+<name>Швабра с самовыжимом из микрофибры, универсальная, вращающаяся 360°, телескопическая ручка HP-35015-14</name>
+<price>289</price>
+<vendorprice>231</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>160</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4709/shvabra_s_samovyzhimom_iz_mikrofibry_universalnaya_vrashchayushchayasya_360_teleskopicheskaya_ruchka.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4709/shvabra_s_samovyzhimom_iz_mikrofibry_universalnaya_vrashchayushchayasya_360_teleskopicheskaya_ruchka_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4709/shvabra_s_samovyzhimom_iz_mikrofibry_universalnaya_vrashchayushchayasya_360_teleskopicheskaya_ruchka_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4709/shvabra_s_samovyzhimom_iz_mikrofibry_universalnaya_vrashchayushchayasya_360_teleskopicheskaya_ruchka_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4709/shvabra_s_samovyzhimom_iz_mikrofibry_universalnaya_vrashchayushchayasya_360_teleskopicheskaya_ruchka_4.jpg</picture>
+<vendor>Household</vendor>
+<description><![CDATA[Швабра с самовыжимом &ndash; удобный и практичный инструмент для уборки пола. Подходит для плитки, линолеума, ламината, паркета и других покрытий. Насадка из микрофибры эффективно впитывает влагу, удерживает грязь и обеспечивает качественное очищение. Благодаря встроенному механизму отжима руки остаются сухими и чистыми. Конструкция из прочного металла и пластика гарантирует долговечность и удобство использования.  Характеристики швабры телескопической с самоотжимом:   Вес: 0,5 кг; Материал: пластик + нержавеющая сталь; Максимальная длина ручки: 140 см; Назначение: уборка полов разных типов с функцией самоотжима; Компактное хранение: да.   Преимущества швабры с самовыжимом:   высокая способность впитывать воду; вращающаяся головка на 360 градусов; прочный материал из микрофибры; регулируемая телескопическая ручка; простая сборка и разборка; универсальность для разных напольных покрытий.]]></description>
+<quantity_in_stock>137</quantity_in_stock>
+<vendorCode>HP-35015-14</vendorCode>
+<param name="Материал">Сталь</param>
+<param name="Длина ручки">140</param>
+<param name="Материал насадки">Ткань-веревки</param>
+<param name="Наличие механизма отжима">Нет</param>
+<param name="Материал ручки">Нержавеющая сталь</param>
+<param name="Комплектация ведром">Нет</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-35015-17" available="true">
@@ -31321,26 +31321,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет свечения">Синий</param>
 <param name="Форма лампочки">Капля</param>
 </offer>
-<offer id="CYT-W" available="true">
-<name>Масленка фарфоровая с бамбуковой крышкой и ножом для масла, белый</name>
-<url>https://lugi.com.ua/ru/ru-maslyanka-cyt-w/</url>
-<price>499</price>
-<vendorprice>384</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>74</categoryId>
-<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/maslenki/CYT-W/CYT-W_1-600x600.jpg</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/maslenki/CYT-W/_T5B0232-600x600.jpg</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/maslenki/CYT-W/CYT-W_3-600x600.jpg</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/maslenki/CYT-W/CYT-W_2-600x600.jpg</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/maslenki/CYT-W/CYT-W_4-600x600.jpg</picture>
-<description><![CDATA[<p>Стильный и практичный аксессуар для хранения сливочного масла, который поможет сохранить его свежесть и обеспечит эстетичную подачу к столу.&nbsp;</p><p><b>Особенности:</b></p><ol><li>Материал корпуса: Качественный фарфор с матовым покрытием. Материал экологичен, не впитывает запахи и легко моется. Толстые стенки помогают дольше сохранять оптимальную температуру масла после извлечения из холодильника.</li><li>Бамбуковая крышка: Плотно прилегает к корпусу, защищая продукт от обветривания и посторонних запахов. Крышка также может использоваться в качестве мини-доски для нарезки масла.</li><li>Нож для масла: В верхней части крышки предусмотрено специальное углубление для хранения ножа. Нож-шпатель имеет стальное лезвие и керамическую ручку в цвет корпуса, что делает набор завершенным и удобным — всё необходимое для сервировки всегда под рукой.</li><li>Вместительность: Размеры масленки позволяют свободно разместить стандартную пачку масла весом 200–250 г.</li></ol><p><b>Характеристики:</b></p><ul><li>Материал: фарфор, бамбук, нержавеющая сталь</li><li>Размеры: 19*10*8 см</li><li>Вес: 900 г</li></ul>]]></description>
-<quantity_in_stock>120</quantity_in_stock>
-<vendorCode>CYT-W</vendorCode>
-<param name="Вес">900 г</param>
-<param name="Материал крышки">бамбук</param>
-<param name="Размеры">19*10*8 см</param>
-<param name="Материал маслёнки">фарфор</param>
-</offer>
 <offer id="173-8Y" available="true">
 <name>Полотенце-игрушка для рук детское 20*26 см, желтый Colorful Home 173-8Y</name>
 <price>49</price>
@@ -31592,6 +31572,26 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Длина">25</param>
 <param name="Форма">Фигурная</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="CYT-W" available="true">
+<name>Масленка фарфоровая с бамбуковой крышкой и ножом для масла, белый</name>
+<url>https://lugi.com.ua/ru/ru-maslyanka-cyt-w/</url>
+<price>499</price>
+<vendorprice>384</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>74</categoryId>
+<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/maslenki/CYT-W/CYT-W_1-600x600.jpg</picture>
+<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/maslenki/CYT-W/_T5B0232-600x600.jpg</picture>
+<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/maslenki/CYT-W/CYT-W_3-600x600.jpg</picture>
+<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/maslenki/CYT-W/CYT-W_2-600x600.jpg</picture>
+<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/maslenki/CYT-W/CYT-W_4-600x600.jpg</picture>
+<description><![CDATA[<p>Стильный и практичный аксессуар для хранения сливочного масла, который поможет сохранить его свежесть и обеспечит эстетичную подачу к столу.&nbsp;</p><p><b>Особенности:</b></p><ol><li>Материал корпуса: Качественный фарфор с матовым покрытием. Материал экологичен, не впитывает запахи и легко моется. Толстые стенки помогают дольше сохранять оптимальную температуру масла после извлечения из холодильника.</li><li>Бамбуковая крышка: Плотно прилегает к корпусу, защищая продукт от обветривания и посторонних запахов. Крышка также может использоваться в качестве мини-доски для нарезки масла.</li><li>Нож для масла: В верхней части крышки предусмотрено специальное углубление для хранения ножа. Нож-шпатель имеет стальное лезвие и керамическую ручку в цвет корпуса, что делает набор завершенным и удобным — всё необходимое для сервировки всегда под рукой.</li><li>Вместительность: Размеры масленки позволяют свободно разместить стандартную пачку масла весом 200–250 г.</li></ol><p><b>Характеристики:</b></p><ul><li>Материал: фарфор, бамбук, нержавеющая сталь</li><li>Размеры: 19*10*8 см</li><li>Вес: 900 г</li></ul>]]></description>
+<quantity_in_stock>119</quantity_in_stock>
+<vendorCode>CYT-W</vendorCode>
+<param name="Вес">900 г</param>
+<param name="Материал крышки">бамбук</param>
+<param name="Размеры">19*10*8 см</param>
+<param name="Материал маслёнки">фарфор</param>
 </offer>
 <offer id="HP-35015-4" available="true">
 <name>Швабра для уборки с телескопической ручкой, для пола, плитки, ламината, паркета, линолеума, регулируемая HP-35015-4</name>
@@ -33306,30 +33306,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Ширина насадки">7</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-41-6" available="true">
-<name>Органайзер для хранения вещей текстильный 38*26*20 см HP-41-6</name>
-<price>169</price>
-<vendorprice>128</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>60</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4875/organayzer_dlya_belya_38_26_20_sm_korob_hraneniya_dlya_nizhnego_belya_19_l_korzina_dlya_belya.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4875/organayzer_dlya_belya_38_26_20_sm_korob_hraneniya_dlya_nizhnego_belya_19_l_korzina_dlya_belya_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4875/organayzer_dlya_belya_38_26_20_sm_korob_hraneniya_dlya_nizhnego_belya_19_l_korzina_dlya_belya_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4875/organayzer_dlya_belya_38_26_20_sm_korob_hraneniya_dlya_nizhnego_belya_19_l_korzina_dlya_belya_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4875/organayzer_dlya_belya_38_26_20_sm_korob_hraneniya_dlya_nizhnego_belya_19_l_korzina_dlya_belya_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4875/organayzer_dlya_belya_38_26_20_sm_korob_hraneniya_dlya_nizhnego_belya_19_l_korzina_dlya_belya_5.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Удобный и стильный органайзер станет незаменимым помощником в хранении вещей. Благодаря компактной форме и ручкам по бокам его легко переносить и размещать в любом удобном месте &mdash; на полке, в шкафу или в ванной комнате.  Корзина выполнена из прочного текстиля, который держит форму и прост в уходе. Светлый фон с принтом хвойных деревьев и мотивирующей надписью добавляет интерьеру уюта и свежести.  Основные характеристики органайзера для белья в шкаф:   Размер в разложенном состоянии: 38&times;26&times;20 см; Размер в сложенном состоянии: 38&times;26&times;3 см; Материал: текстиль; Объем: 19 л.   Особенности ящика для нижнего белья:   Вместительный и компактный формат. Удобные ручки для переноса. Стильный дизайн с лесным принтом. Прочный материал, устойчивый к износу. Легкость ухода &mdash; достаточно протереть влажной тканью.   Такой органайзер станет практичным решением для хранения белья, одежды или мелочей, а также гармонично впишется в любой интерьер дома.]]></description>
-<quantity_in_stock>113</quantity_in_stock>
-<vendorCode>HP-41-6</vendorCode>
-<param name="Тип">Контейнер</param>
-<param name="Высота">20 см</param>
-<param name="Ширина">26 см</param>
-<param name="Объем">19 л</param>
-<param name="Цвет">Бежевый</param>
-<param name="Длина">38 см</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="CR-1-20" available="true">
 <name>Новогодняя фарфоровая чашка с крышкой Merry Christmas 350 (мл) CR-1-20</name>
 <price>429</price>
@@ -33569,6 +33545,30 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Нескользящее основание">Да</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Состояние">Новое</param>
+</offer>
+<offer id="HP-41-6" available="true">
+<name>Органайзер для хранения вещей текстильный 38*26*20 см HP-41-6</name>
+<price>169</price>
+<vendorprice>128</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>60</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4875/organayzer_dlya_belya_38_26_20_sm_korob_hraneniya_dlya_nizhnego_belya_19_l_korzina_dlya_belya.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4875/organayzer_dlya_belya_38_26_20_sm_korob_hraneniya_dlya_nizhnego_belya_19_l_korzina_dlya_belya_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4875/organayzer_dlya_belya_38_26_20_sm_korob_hraneniya_dlya_nizhnego_belya_19_l_korzina_dlya_belya_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4875/organayzer_dlya_belya_38_26_20_sm_korob_hraneniya_dlya_nizhnego_belya_19_l_korzina_dlya_belya_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4875/organayzer_dlya_belya_38_26_20_sm_korob_hraneniya_dlya_nizhnego_belya_19_l_korzina_dlya_belya_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4875/organayzer_dlya_belya_38_26_20_sm_korob_hraneniya_dlya_nizhnego_belya_19_l_korzina_dlya_belya_5.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Удобный и стильный органайзер станет незаменимым помощником в хранении вещей. Благодаря компактной форме и ручкам по бокам его легко переносить и размещать в любом удобном месте &mdash; на полке, в шкафу или в ванной комнате.  Корзина выполнена из прочного текстиля, который держит форму и прост в уходе. Светлый фон с принтом хвойных деревьев и мотивирующей надписью добавляет интерьеру уюта и свежести.  Основные характеристики органайзера для белья в шкаф:   Размер в разложенном состоянии: 38&times;26&times;20 см; Размер в сложенном состоянии: 38&times;26&times;3 см; Материал: текстиль; Объем: 19 л.   Особенности ящика для нижнего белья:   Вместительный и компактный формат. Удобные ручки для переноса. Стильный дизайн с лесным принтом. Прочный материал, устойчивый к износу. Легкость ухода &mdash; достаточно протереть влажной тканью.   Такой органайзер станет практичным решением для хранения белья, одежды или мелочей, а также гармонично впишется в любой интерьер дома.]]></description>
+<quantity_in_stock>111</quantity_in_stock>
+<vendorCode>HP-41-6</vendorCode>
+<param name="Тип">Контейнер</param>
+<param name="Высота">20 см</param>
+<param name="Ширина">26 см</param>
+<param name="Объем">19 л</param>
+<param name="Цвет">Бежевый</param>
+<param name="Длина">38 см</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-55-6P" available="true">
 <name>Детская силиконовая сумочка-кошелёк 15*10*3 см Розовый HP-55-6P</name>
@@ -35624,28 +35624,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-11-21" available="true">
-<name>Пакеты для вакууматора 20*500 см пакеты для вакуумирования продуктов в рулоне HP-11-21</name>
-<price>109</price>
-<vendorprice>93</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>14</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5736/pakety_dlya_vakuumatora_20_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5736/pakety_dlya_vakuumatora_20_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.png</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Вакуумные пакеты 20*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования.  Основные характеристики пакетов для вакууматора:  размер: 20*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен.  Преимущества:  Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки.  Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.]]></description>
-<quantity_in_stock>103</quantity_in_stock>
-<vendorCode>HP-11-21</vendorCode>
-<param name="Материал">Полиэтилен</param>
-<param name="Вес">200</param>
-<param name="Ширина">500</param>
-<param name="Применение">Универсальное</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Длина">20</param>
-<param name="Наличие индикатора">Нет</param>
-<param name="Комплектация насосом">Нет</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="64486-66" available="true">
 <name>Банка для сыпучих продуктов с бамбуковой крышкой 900 мл 64486-66</name>
 <price>299</price>
@@ -36809,6 +36787,28 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Состояние">Новое</param>
 <param name="Принцип работы">Электронный</param>
 <param name="Гарантия">3 месяца</param>
+</offer>
+<offer id="HP-11-21" available="true">
+<name>Пакеты для вакууматора 20*500 см пакеты для вакуумирования продуктов в рулоне HP-11-21</name>
+<price>109</price>
+<vendorprice>93</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>14</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5736/pakety_dlya_vakuumatora_20_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5736/pakety_dlya_vakuumatora_20_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.png</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Вакуумные пакеты 20*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования.  Основные характеристики пакетов для вакууматора:  размер: 20*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен.  Преимущества:  Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки.  Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.]]></description>
+<quantity_in_stock>99</quantity_in_stock>
+<vendorCode>HP-11-21</vendorCode>
+<param name="Материал">Полиэтилен</param>
+<param name="Вес">200</param>
+<param name="Ширина">500</param>
+<param name="Применение">Универсальное</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Длина">20</param>
+<param name="Наличие индикатора">Нет</param>
+<param name="Комплектация насосом">Нет</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="FM-21B" available="true">
 <name>Чашка фарфоровая Labubu The Monsters 400 (мл) подарочная кружка прикольная чашка для детей на подарок FM-21B</name>
@@ -49921,32 +49921,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <quantity_in_stock>60</quantity_in_stock>
 <vendorCode>HP-19-302</vendorCode>
 </offer>
-<offer id="HP-5-43" available="true">
-<name>Сетевой фильтр-удлинитель 5 розеток 3xUSB-A 1xUSB-C 5м белый HP-5-43</name>
-<price>659</price>
-<vendorprice>500</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>80</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-43/HP-5-43-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-43/HP-5-43_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-43/HP-5-43_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-43/HP-5-43_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-43/HP-5-43_1.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Удлинитель-фильтр на пять розеток с тремя USB-A портами и одним разъёмом USB Type-C создан для удобного подключения бытовых приборов и одновременной зарядки мобильных девайсов. Компоновка 5 розеток + 3 USB + Type-C даёт возможность максимально рационально использовать единственную точку электропитания, исключая потребность в дополнительных адаптерах. Кабель длиной 5 метров предоставляет свободу размещения техники в разных зонах комнаты или рабочего пространства. Особенности сетевого фильтра-удлинителя:  Корпус из огнестойкого ABS-пластика вертикального формата — обеспечивает безопасность эксплуатации и экономит место; Пять евророзеток с эргономичным размещением — позволяют комфортно подключать несколько устройств одновременно без взаимного перекрытия; Три USB-A и один USB Type-C порт на передней панели — подходят для зарядки смартфонов, планшетов, беспроводных наушников, повербанков и других портативных гаджетов; Кнопка питания с индикатором — обеспечивает возможность одновременного отключения всех подсоединённых приборов для экономии энергии; Удлинённый 5-метровый кабель — предоставляет гибкость в организации подключения техники на значительном расстоянии от основной розетки.  Характеристики сетевого фильтра-удлинителя:  Тип устройства: сетевой фильтр-удлинитель; Количество выходных розеток: 5 шт.; Наличие выключателя: Да; Длина шнура: 5 м; Длина провода: 5 м; Входная вилка: Евро; Выходная розетка: Евро; Цвет корпуса: Белый; Тип удлинителя: Сетевой фильтр-удлинитель; Состояние: Новый; Цвет: Белый.  Эта модель превосходно подходит для использования в домашней обстановке, офисных или учебных помещениях, где требуется продуманная организация рабочего места и надёжное подключение электротехники.]]></description>
-<quantity_in_stock>60</quantity_in_stock>
-<vendorCode>HP-5-43</vendorCode>
-<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
-<param name="Длина шнура">5</param>
-<param name="Количество выходных розеток">5</param>
-<param name="Выключатель">Да</param>
-<param name="Входная вилка">ЕURO</param>
-<param name="Выходная розетка">Евро</param>
-<param name="Цвет">Белый</param>
-<param name="Длина провода">5</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Белый</param>
-</offer>
 <offer id="510-24-H-600H" available="true">
 <name>Полотенце для кухни вафельное 40*60 см из хлопка кофейный Colorful Home 510-24-H-600H</name>
 <price>89</price>
@@ -50358,6 +50332,32 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет">Серебристый</param>
 <param name="Длина">210</param>
 <param name="Поверхность">Глянцевая/матовая</param>
+</offer>
+<offer id="HP-5-43" available="true">
+<name>Сетевой фильтр-удлинитель 5 розеток 3xUSB-A 1xUSB-C 5м белый HP-5-43</name>
+<price>659</price>
+<vendorprice>500</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>80</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-43/HP-5-43-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-43/HP-5-43_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-43/HP-5-43_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-43/HP-5-43_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-43/HP-5-43_1.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Удлинитель-фильтр на пять розеток с тремя USB-A портами и одним разъёмом USB Type-C создан для удобного подключения бытовых приборов и одновременной зарядки мобильных девайсов. Компоновка 5 розеток + 3 USB + Type-C даёт возможность максимально рационально использовать единственную точку электропитания, исключая потребность в дополнительных адаптерах. Кабель длиной 5 метров предоставляет свободу размещения техники в разных зонах комнаты или рабочего пространства. Особенности сетевого фильтра-удлинителя:  Корпус из огнестойкого ABS-пластика вертикального формата — обеспечивает безопасность эксплуатации и экономит место; Пять евророзеток с эргономичным размещением — позволяют комфортно подключать несколько устройств одновременно без взаимного перекрытия; Три USB-A и один USB Type-C порт на передней панели — подходят для зарядки смартфонов, планшетов, беспроводных наушников, повербанков и других портативных гаджетов; Кнопка питания с индикатором — обеспечивает возможность одновременного отключения всех подсоединённых приборов для экономии энергии; Удлинённый 5-метровый кабель — предоставляет гибкость в организации подключения техники на значительном расстоянии от основной розетки.  Характеристики сетевого фильтра-удлинителя:  Тип устройства: сетевой фильтр-удлинитель; Количество выходных розеток: 5 шт.; Наличие выключателя: Да; Длина шнура: 5 м; Длина провода: 5 м; Входная вилка: Евро; Выходная розетка: Евро; Цвет корпуса: Белый; Тип удлинителя: Сетевой фильтр-удлинитель; Состояние: Новый; Цвет: Белый.  Эта модель превосходно подходит для использования в домашней обстановке, офисных или учебных помещениях, где требуется продуманная организация рабочего места и надёжное подключение электротехники.]]></description>
+<quantity_in_stock>59</quantity_in_stock>
+<vendorCode>HP-5-43</vendorCode>
+<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+<param name="Длина шнура">5</param>
+<param name="Количество выходных розеток">5</param>
+<param name="Выключатель">Да</param>
+<param name="Входная вилка">ЕURO</param>
+<param name="Выходная розетка">Евро</param>
+<param name="Цвет">Белый</param>
+<param name="Длина провода">5</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Белый</param>
 </offer>
 <offer id="HP-42-168" available="true">
 <name>Набор ковриков для ванной 2 штуки 80*50 см/50*40 см диатомитовых, серый Yiwu HP-42-168</name>
@@ -84693,35 +84693,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Упаковка">Чехол</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-5-16CR" available="true">
-<name>Шкатулка для украшений из эко кожи 3 яруса органайзер для ювелирных изделий HP-5-16CR</name>
-<price>2519</price>
-<vendorprice>1932</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>100</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3864/shkatulka_dlya_ukrasheniy_iz_eko_kozhi_3_yarusa_organayzer_dlya_yuvelirnyh_izdeliy_7.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Шкатулка для украшений из эко кожи, 3 яруса &ndash; идеальный органайзер для бережного хранения ваших ювелирных изделий. Компактный и функциональный дизайн с размерами 23&times;20&times;15 см обеспечивает удобство использования и легкость хранения. Выполненная из качественной эко кожи, эта шкатулка станет стильным дополнением любого интерьера, сочетая в себе практичность и элегантность.  Основные характеристики органайзера для хранения бижутерии   размеры шкатулки для украшений 23&times;20&times;15 см; количество ярусов - 3 шт; количество отсеков - 9 шт; материал корпуса - экокожа; внутреннее покрытие - велюр.   Шкатулка оборудована тремя вместительными ярусами, предлагающими 9 разнообразных отсеков. Это позволяет аккуратно разместить кольца, серьги, цепочки, браслеты и другие украшения, предотвращая их повреждения и спутывание. Внутреннее покрытие из мягкого велюра обеспечивает дополнительную защиту от царапин и повреждений.  Основные преимущества шкатулки для украшений из эко-кожи   Экологичная кожа приятна на ощупь, долговечна и устойчива к внешним повреждениям, а велюровое покрытие внутри бережно хранит драгоценности и предотвращает появление царапин. Благодаря 9 отдельным отсекам и трем просторным ярусам, все украшения аккуратно размещены и всегда находятся под рукой. Современное исполнение и сдержанные цвета органично вписываются в любой интерьер, превращая органайзер в стильный элемент декора. Отличное решение для подарка по любому поводу: День рождения, 8 марта, годовщина, День святого Валентина или Новый год.   Шкатулка из эко кожи отлично подходит в качестве подарка на любой праздник, а также будет полезным приобретением для личного использования. Купить шкатулку для ювелирных изделий можно с доставкой по всей Украине.]]></description>
-<quantity_in_stock>14</quantity_in_stock>
-<vendorCode>HP-5-16CR</vendorCode>
-<param name="Материал">Экокожа</param>
-<param name="Высота">15</param>
-<param name="Внутренняя отделка">Велюр</param>
-<param name="Вес">1.9</param>
-<param name="Декоративное оформление">Без декора</param>
-<param name="Ширина">20</param>
-<param name="Цвет">Бежевый</param>
-<param name="Состояние">Новое</param>
-<param name="Форма">Квадратная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-14-42W" available="true">
 <name>Бутылка для воды 600 мл с трубочкой и ручкой Белая HP-14-42W</name>
 <price>249</price>
@@ -85674,6 +85645,35 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Тип емкости">Чашка</param>
 <param name="Подарочная упаковка">Да</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-5-16CR" available="true">
+<name>Шкатулка для украшений из эко кожи 3 яруса органайзер для ювелирных изделий HP-5-16CR</name>
+<price>2519</price>
+<vendorprice>1932</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>100</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3864/shkatulka_dlya_ukrasheniy_iz_eko_kozhi_3_yarusa_organayzer_dlya_yuvelirnyh_izdeliy_7.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Шкатулка для украшений из эко кожи, 3 яруса &ndash; идеальный органайзер для бережного хранения ваших ювелирных изделий. Компактный и функциональный дизайн с размерами 23&times;20&times;15 см обеспечивает удобство использования и легкость хранения. Выполненная из качественной эко кожи, эта шкатулка станет стильным дополнением любого интерьера, сочетая в себе практичность и элегантность.  Основные характеристики органайзера для хранения бижутерии   размеры шкатулки для украшений 23&times;20&times;15 см; количество ярусов - 3 шт; количество отсеков - 9 шт; материал корпуса - экокожа; внутреннее покрытие - велюр.   Шкатулка оборудована тремя вместительными ярусами, предлагающими 9 разнообразных отсеков. Это позволяет аккуратно разместить кольца, серьги, цепочки, браслеты и другие украшения, предотвращая их повреждения и спутывание. Внутреннее покрытие из мягкого велюра обеспечивает дополнительную защиту от царапин и повреждений.  Основные преимущества шкатулки для украшений из эко-кожи   Экологичная кожа приятна на ощупь, долговечна и устойчива к внешним повреждениям, а велюровое покрытие внутри бережно хранит драгоценности и предотвращает появление царапин. Благодаря 9 отдельным отсекам и трем просторным ярусам, все украшения аккуратно размещены и всегда находятся под рукой. Современное исполнение и сдержанные цвета органично вписываются в любой интерьер, превращая органайзер в стильный элемент декора. Отличное решение для подарка по любому поводу: День рождения, 8 марта, годовщина, День святого Валентина или Новый год.   Шкатулка из эко кожи отлично подходит в качестве подарка на любой праздник, а также будет полезным приобретением для личного использования. Купить шкатулку для ювелирных изделий можно с доставкой по всей Украине.]]></description>
+<quantity_in_stock>13</quantity_in_stock>
+<vendorCode>HP-5-16CR</vendorCode>
+<param name="Материал">Экокожа</param>
+<param name="Высота">15</param>
+<param name="Внутренняя отделка">Велюр</param>
+<param name="Вес">1.9</param>
+<param name="Декоративное оформление">Без декора</param>
+<param name="Ширина">20</param>
+<param name="Цвет">Бежевый</param>
+<param name="Состояние">Новое</param>
+<param name="Форма">Квадратная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-5-31BE" available="true">
@@ -88379,32 +88379,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-11-126" available="true">
-<name>Автомобильный ручной пылесос аккумуляторный 6000 мАч 6 насадок HP-11-126</name>
-<price>2379</price>
-<vendorprice>1821</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>6</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_2.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_3.png</picture>
-<vendor>ABS</vendor>
-<description><![CDATA[Беспроводной пылесос &mdash; компактное и мощное решение для быстрой уборки в автомобиле и дома. Устройство выполнено из прочного ABS-пластика, имеет эргономичную форму и удобно лежит в руке.  Пылесос для авто оснащён бесщеточным DC-мотором, который обеспечивает силу всасывания до 17 000 Па и стабильную работу в двух скоростных режимах. Поддерживает режим всасывания и выдувания, что позволяет не только собирать пыль и мусор, но и продувать труднодоступные места.  Основные характеристики автомобильного аккумуляторного пылесоса:   Тип: Автомобильный пылесос аккумуляторный Емкость аккумулятора: 6000 мАч Выходное напряжение: 11В Входное напряжение: 5В&ndash;2А Объем резервуара: 450 мл Интерфейс зарядки: Type-C Материал корпуса: ABC-пластик Тип мотора: Двигатель постоянного тока без щеток Фильтр: HEPA Мощность: 100 Вт (35 Вт низкая скорость; 65 Вт высокая скорость) Мощность всасывания: до 17000 Па Время работы: до 30 мин Время зарядки: 4-3 ч Особенности: LED-дисплей, режим продувки и сбора пыли, не включать во время зарядки   Насадки (6 шт.):   Круглая щётка Угловая насадка Насадка с щёткой Щелевая насадка короткая Щелевая насадка длинная Конусная насадка (для продувания)   Комплектация:   Автомобильный пылесос Зарядный кабель USB Type-C Шланг удлинитель Круглая щётка Угловая насадка Насадка с щёткой Щелевая насадка короткая Щелевая насадка длинная Конусная насадка для выдувания   Этот аккумуляторный портативный пылесос для машины &mdash; универсальный помощник для быстрой и удобной уборки в любых условиях. Он идеально подойдёт для очистки салона автомобиля от пыли, песка, крошек и шерсти животных, поможет навести порядок в багажнике, детском автокресле и труднодоступных щелях.  Также устройство отлично справляется с бытовыми задачами: уборкой мебели, клавиатуры, полок, подоконников, мастерской, гаража или рабочего стола. Функция продувки будет полезна для очистки техники, инструментов и узких отверстий от пыли.  Компактный размер, автономная работа и широкий набор насадок делают его удобным решением как для водителей, так и для дома &mdash; когда нужна быстрая уборка без лишних проводов и громоздкой техники.]]></description>
-<quantity_in_stock>11</quantity_in_stock>
-<vendorCode>HP-11-126</vendorCode>
-<param name="Мощность">100 Вт (35 Вт низкая скорость; 65 Вт высокая скорость)</param>
-<param name="Время работы от аккумулятора">30</param>
-<param name="Объем пылесборника">0.45</param>
-<param name="Количество насадок">6</param>
-<param name="Тип уборки">Сухая</param>
-<param name="Тип насадки">Для труднодоступных мест</param>
-<param name="Индикатор заряда батареи">Да</param>
-<param name="Регулировка мощности всасывания">Да</param>
-<param name="Состояние">Новое</param>
-<param name="Тип питания">Аккумулятор</param>
-<param name="Гарантия">3 месяца</param>
-</offer>
 <offer id="HP-42-13" available="true">
 <name>Коврик для ванной комнаты Beautiful 58*58 см диатомитовый HP-42-13</name>
 <price>259</price>
@@ -89314,37 +89288,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-34-32" available="true">
-<name>Заварник стеклянный для чая 2 л чайник для заваривания с ручкой прозрачный HP-34-32</name>
-<price>599</price>
-<vendorprice>460</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>42</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4301/zavarnik_steklyannyy_dlya_chaya_2_l_chaynik_dlya_zavarivaniya_s_ruchkoy_prozrachnyy.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4301/zavarnik_steklyannyy_dlya_chaya_2_l_chaynik_dlya_zavarivaniya_s_ruchkoy_prozrachnyy_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4301/zavarnik_steklyannyy_dlya_chaya_2_l_chaynik_dlya_zavarivaniya_s_ruchkoy_prozrachnyy_2.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4301/zavarnik_steklyannyy_dlya_chaya_2_l_chaynik_dlya_zavarivaniya_s_ruchkoy_prozrachnyy_3.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4301/zavarnik_steklyannyy_dlya_chaya_2_l_chaynik_dlya_zavarivaniya_s_ruchkoy_prozrachnyy_4.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4301/zavarnik_steklyannyy_dlya_chaya_2_l_chaynik_dlya_zavarivaniya_s_ruchkoy_prozrachnyy_5.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4301/zavarnik_steklyannyy_dlya_chaya_2_l_chaynik_dlya_zavarivaniya_s_ruchkoy_prozrachnyy_6.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4301/zavarnik_steklyannyy_dlya_chaya_2_l_chaynik_dlya_zavarivaniya_s_ruchkoy_prozrachnyy_7.png</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Заварочный чайник из термостойкого стекла объёмом 2 литра — это идеальное решение для тех, кто ценит эстетику, чистый вкус и комфорт в процессе чаепития. Прозрачные стенки позволяют наблюдать за процессом заваривания, а удобная деревянная ручка обеспечивает безопасное использование без риска ожогов.  Характеристики стеклянного чайника для заваривания   тип: заварник стеклянный с крышкой; материал корпуса: стекло; объём: 2 литра; высота с крышкой: 23 см; высота без крышки: 22.5 см; диаметр дна: 12 см; диаметр горлышка: 7.5 см; ручка: эргономичная, деревянная; термостойкость: подходит для кипятка и горячего заваривания.   Преимущества стеклянного заварника   Чистый вкус чая: стекло не впитывает запахи и не влияет на аромат напитка. Эргономичная ручка: безопасный захват без риска обжечься. Термостойкость: устойчив к высоким температурам, подходит для кипятка. Прозрачность: вы контролируете степень заваривания в реальном времени. Эстетичный дизайн: отлично смотрится на кухне и сервировочном столе. Универсальность: подходит для чёрного, зелёного, травяного чая и цветочных сборов.   Этот заварочный чайник — практичный аксессуар для повседневного и церемониального чаепития. Его гармоничное сочетание стекла, металла и дерева создаёт атмосферу уюта и натуральной простоты.  Добавьте изысканности и комфорта в каждый момент вашего чаепития вместе с нашим стеклянным заварником.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
-<vendorCode>HP-34-32</vendorCode>
-<param name="Материал">Стекло</param>
-<param name="Высота">22.5</param>
-<param name="Диаметр">12</param>
-<param name="Пресс-фильтр">Нет</param>
-<param name="Материал крышки">Металл</param>
-<param name="Ширина">12</param>
-<param name="Объем">2</param>
-<param name="Ситечко">Нет</param>
-<param name="Материал ручки">Дерево</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-19-118" available="true">
 <name>Набор креманок на ножке 6 шт 300 (мл) Серый HP-19-118</name>
 <price>939</price>
@@ -89691,6 +89634,32 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Материал">Пластик</param>
 <param name="Тип поверхности">Блеск</param>
 <param name="Цвет">Карамель</param>
+</offer>
+<offer id="HP-11-126" available="true">
+<name>Автомобильный ручной пылесос аккумуляторный 6000 мАч 6 насадок HP-11-126</name>
+<price>2379</price>
+<vendorprice>1821</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>6</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_2.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6440/avtomobilnyy_ruchnoy_pylesos_akkumulyatornyy_6000_mach_6_nasadok_avtopylesos_malenkiy_potrativnyy_mini_pylesos_dlya_doma_v_mashinu_3.png</picture>
+<vendor>ABS</vendor>
+<description><![CDATA[Беспроводной пылесос &mdash; компактное и мощное решение для быстрой уборки в автомобиле и дома. Устройство выполнено из прочного ABS-пластика, имеет эргономичную форму и удобно лежит в руке.  Пылесос для авто оснащён бесщеточным DC-мотором, который обеспечивает силу всасывания до 17 000 Па и стабильную работу в двух скоростных режимах. Поддерживает режим всасывания и выдувания, что позволяет не только собирать пыль и мусор, но и продувать труднодоступные места.  Основные характеристики автомобильного аккумуляторного пылесоса:   Тип: Автомобильный пылесос аккумуляторный Емкость аккумулятора: 6000 мАч Выходное напряжение: 11В Входное напряжение: 5В&ndash;2А Объем резервуара: 450 мл Интерфейс зарядки: Type-C Материал корпуса: ABC-пластик Тип мотора: Двигатель постоянного тока без щеток Фильтр: HEPA Мощность: 100 Вт (35 Вт низкая скорость; 65 Вт высокая скорость) Мощность всасывания: до 17000 Па Время работы: до 30 мин Время зарядки: 4-3 ч Особенности: LED-дисплей, режим продувки и сбора пыли, не включать во время зарядки   Насадки (6 шт.):   Круглая щётка Угловая насадка Насадка с щёткой Щелевая насадка короткая Щелевая насадка длинная Конусная насадка (для продувания)   Комплектация:   Автомобильный пылесос Зарядный кабель USB Type-C Шланг удлинитель Круглая щётка Угловая насадка Насадка с щёткой Щелевая насадка короткая Щелевая насадка длинная Конусная насадка для выдувания   Этот аккумуляторный портативный пылесос для машины &mdash; универсальный помощник для быстрой и удобной уборки в любых условиях. Он идеально подойдёт для очистки салона автомобиля от пыли, песка, крошек и шерсти животных, поможет навести порядок в багажнике, детском автокресле и труднодоступных щелях.  Также устройство отлично справляется с бытовыми задачами: уборкой мебели, клавиатуры, полок, подоконников, мастерской, гаража или рабочего стола. Функция продувки будет полезна для очистки техники, инструментов и узких отверстий от пыли.  Компактный размер, автономная работа и широкий набор насадок делают его удобным решением как для водителей, так и для дома &mdash; когда нужна быстрая уборка без лишних проводов и громоздкой техники.]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<vendorCode>HP-11-126</vendorCode>
+<param name="Мощность">100 Вт (35 Вт низкая скорость; 65 Вт высокая скорость)</param>
+<param name="Время работы от аккумулятора">30</param>
+<param name="Объем пылесборника">0.45</param>
+<param name="Количество насадок">6</param>
+<param name="Тип уборки">Сухая</param>
+<param name="Тип насадки">Для труднодоступных мест</param>
+<param name="Индикатор заряда батареи">Да</param>
+<param name="Регулировка мощности всасывания">Да</param>
+<param name="Состояние">Новое</param>
+<param name="Тип питания">Аккумулятор</param>
+<param name="Гарантия">3 месяца</param>
 </offer>
 <offer id="HP-19-193" available="true">
 <name>Набор креманок на ножке 6 штук 340 мл стеклянные Золотистый Yiwu HP-19-193</name>
@@ -90480,6 +90449,37 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Материал">Пластик</param>
 <param name="Размеры">22*5*35 см</param>
 <param name="Тип шнура для зарядки">USB</param>
+</offer>
+<offer id="HP-34-32" available="true">
+<name>Заварник стеклянный для чая 2 л чайник для заваривания с ручкой прозрачный HP-34-32</name>
+<price>599</price>
+<vendorprice>460</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>42</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4301/zavarnik_steklyannyy_dlya_chaya_2_l_chaynik_dlya_zavarivaniya_s_ruchkoy_prozrachnyy.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4301/zavarnik_steklyannyy_dlya_chaya_2_l_chaynik_dlya_zavarivaniya_s_ruchkoy_prozrachnyy_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4301/zavarnik_steklyannyy_dlya_chaya_2_l_chaynik_dlya_zavarivaniya_s_ruchkoy_prozrachnyy_2.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4301/zavarnik_steklyannyy_dlya_chaya_2_l_chaynik_dlya_zavarivaniya_s_ruchkoy_prozrachnyy_3.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4301/zavarnik_steklyannyy_dlya_chaya_2_l_chaynik_dlya_zavarivaniya_s_ruchkoy_prozrachnyy_4.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4301/zavarnik_steklyannyy_dlya_chaya_2_l_chaynik_dlya_zavarivaniya_s_ruchkoy_prozrachnyy_5.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4301/zavarnik_steklyannyy_dlya_chaya_2_l_chaynik_dlya_zavarivaniya_s_ruchkoy_prozrachnyy_6.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56727/4301/zavarnik_steklyannyy_dlya_chaya_2_l_chaynik_dlya_zavarivaniya_s_ruchkoy_prozrachnyy_7.png</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Заварочный чайник из термостойкого стекла объёмом 2 литра — это идеальное решение для тех, кто ценит эстетику, чистый вкус и комфорт в процессе чаепития. Прозрачные стенки позволяют наблюдать за процессом заваривания, а удобная деревянная ручка обеспечивает безопасное использование без риска ожогов.  Характеристики стеклянного чайника для заваривания   тип: заварник стеклянный с крышкой; материал корпуса: стекло; объём: 2 литра; высота с крышкой: 23 см; высота без крышки: 22.5 см; диаметр дна: 12 см; диаметр горлышка: 7.5 см; ручка: эргономичная, деревянная; термостойкость: подходит для кипятка и горячего заваривания.   Преимущества стеклянного заварника   Чистый вкус чая: стекло не впитывает запахи и не влияет на аромат напитка. Эргономичная ручка: безопасный захват без риска обжечься. Термостойкость: устойчив к высоким температурам, подходит для кипятка. Прозрачность: вы контролируете степень заваривания в реальном времени. Эстетичный дизайн: отлично смотрится на кухне и сервировочном столе. Универсальность: подходит для чёрного, зелёного, травяного чая и цветочных сборов.   Этот заварочный чайник — практичный аксессуар для повседневного и церемониального чаепития. Его гармоничное сочетание стекла, металла и дерева создаёт атмосферу уюта и натуральной простоты.  Добавьте изысканности и комфорта в каждый момент вашего чаепития вместе с нашим стеклянным заварником.]]></description>
+<quantity_in_stock>9</quantity_in_stock>
+<vendorCode>HP-34-32</vendorCode>
+<param name="Материал">Стекло</param>
+<param name="Высота">22.5</param>
+<param name="Диаметр">12</param>
+<param name="Пресс-фильтр">Нет</param>
+<param name="Материал крышки">Металл</param>
+<param name="Ширина">12</param>
+<param name="Объем">2</param>
+<param name="Ситечко">Нет</param>
+<param name="Материал ручки">Дерево</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-5-3MF" available="true">
 <name>Сетевой фильтр удлинитель 4.8 м с лампой на 6 универсальных розеток с 2 USB, 1 Type-C, беспроводная зарядка HP-5-3MF</name>
