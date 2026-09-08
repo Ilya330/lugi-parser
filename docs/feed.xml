@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-07 21:09">
+<yml_catalog date="2026-09-08 02:22">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -11660,51 +11660,6 @@ Sokany SK-1722 имеет 2 скорости, которые позволяют 
 <param name="Резервуар для сока">Встроенный</param>
 <param name="Объем резервуара для сока">0.3 л</param>
 </offer>
-<offer id="SK117W" available="true">
-<name>Воскоплав баночный SOKANY SK-117 с терморегулятором для воска в банках таблетках и гранулах 500 мл, белый</name>
-<url>https://lugi.com.ua/ru/voskoplav_banochnyj_sokany_sk-117_s_termoregulyatorom_dlya_voska_v_bankah_tabletkah_i_granulah_500_ml_belyj/</url>
-<price>489</price>
-<vendorprice>187</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>17</categoryId>
-<picture>https://lugi.com.ua/image/cache/catalog/images/Voskoplavy/SK117V/SK117W-600x600.jpg</picture>
-<picture>https://lugi.com.ua/image/cache/external/c203041d427a8b27367c3c023c4ea4cb-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/19e36487ebe39edd08b0e9be97f3d64f-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/afa0becb8e87e7829f774efb8bd4a5b4-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/0e12de0dc8576aca8e314c1a8b60af49-600x600.webp</picture>
-<picture>https://lugi.com.ua/image/cache/external/6e477ff118ca078acc7f7d490c450c29-600x600.webp</picture>
-<description><![CDATA[<p>Воскоплав&nbsp;SOKANY SK-117 - отличный вариант для салонного и домашнего использования. Устройство подходит для разогревания воска для депиляции в баночках, гранулах, таблетках и дисках до нужной консистенции, а также для поддержания температуры продукта во время процедуры.<br />
-<br />
-Нагреватель для воска отличается компактной конструкцией и привлекательным дизайном, устойчив и не нагревает поверхность, на которой установлен. На корпусе есть регулятор температуры, который позволяет задавать оптимальный температурный режим для растапливания воска, или предотвращения его остывания во время депиляции.<br />
-<br />
-Воскоплав также подойдет для нагревания парафина, пасты для шугаринга и других косметических средств, которые должны быть теплыми для качественного проведения уходовых процедур.<br />
-<br />
-<strong>Принцип эксплуатации воскоплава очень простой:</strong></p>
-<ol>
-	<li>Поместить нужное количество воска в контейнер.</li>
-	<li>Включить воскоплав и задать необходимую температуру.</li>
-	<li>Подождать нагрева косметического средства.</li>
-	<li>Выставить терморегулятор на оптимальную температуру чтобы воск не остыл</li>
-</ol>
-<p><strong>Характеристики:</strong></p>
-<ul>
-	<li>Максимальна температура 360 градусов</li>
-	<li>Мощность 50 Вт</li>
-	<li>Регулируемый термостат</li>
-	<li>Совместим со всеми видами воска</li>
-</ul>]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<vendorCode>SK117W</vendorCode>
-<param name="Гарантийный срок">6 мес</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Источник питания">От сети</param>
-<param name="Вид средства для депиляции">Горячий воск</param>
-<param name="Мощность">65 Вт</param>
-<param name="Объем">0,5 л</param>
-<param name="Вид">Баночный</param>
-<param name="Особенности">С терморегулятором/Поддержка температуры/С переключателем мощностей</param>
-<param name="Цвет">Белый</param>
-</offer>
 <offer id="SK117NB" available="true">
 <name>Воскоплав баночный SOKANY SK-117 с терморегулятором для воска в банках таблетках и гранулах 500 мл, синий</name>
 <url>https://lugi.com.ua/ru/voskoplav_banochnyj_sokany_sk-117_s_termoregulyatorom_dlya_voska_v_bankah_tabletkah_i_granulah_500_ml_sinij/</url>
@@ -13156,28 +13111,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Тип питания">Сеть</param>
 <param name="Упаковка">Коробка</param>
 </offer>
-<offer id="HP-11-20" available="true">
-<name>Пакеты для вакууматора 15*500 см пакеты для вакуумирования продуктов в рулоне HP-11-20</name>
-<price>99</price>
-<vendorprice>86</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>14</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5735/pakety_dlya_vakuumatora_15_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5735/pakety_dlya_vakuumatora_15_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Вакуумные пакеты 15*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования.  Основные характеристики пакетов для вакууматора:  размер: 15*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен.  Преимущества:  Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки.  Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.]]></description>
-<quantity_in_stock>955</quantity_in_stock>
-<vendorCode>HP-11-20</vendorCode>
-<param name="Материал">Полиэтилен</param>
-<param name="Вес">100</param>
-<param name="Ширина">500</param>
-<param name="Применение">Универсальное</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Длина">15</param>
-<param name="Наличие индикатора">Нет</param>
-<param name="Комплектация насосом">Нет</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="1733043GR" available="true">
 <name>Умная гирлянда Smart 250 LED длина 2,5 м с управлением со смартфона зеленая, мультиколор 1733043GR</name>
 <price>1419</price>
@@ -13209,6 +13142,28 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Угол свечения">360</param>
 <param name="Цвет свечения">Мультиколор</param>
 <param name="Форма лампочки">Капля</param>
+</offer>
+<offer id="HP-11-20" available="true">
+<name>Пакеты для вакууматора 15*500 см пакеты для вакуумирования продуктов в рулоне HP-11-20</name>
+<price>99</price>
+<vendorprice>86</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>14</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5735/pakety_dlya_vakuumatora_15_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5735/pakety_dlya_vakuumatora_15_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Вакуумные пакеты 15*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования.  Основные характеристики пакетов для вакууматора:  размер: 15*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен.  Преимущества:  Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки.  Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.]]></description>
+<quantity_in_stock>952</quantity_in_stock>
+<vendorCode>HP-11-20</vendorCode>
+<param name="Материал">Полиэтилен</param>
+<param name="Вес">100</param>
+<param name="Ширина">500</param>
+<param name="Применение">Универсальное</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Длина">15</param>
+<param name="Наличие индикатора">Нет</param>
+<param name="Комплектация насосом">Нет</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="W220LED22MBW" available="true">
 <name>Новогодняя гирлянда комнатная нить 22 м 220 LED черный провод Белый W220LED22MBW</name>
@@ -22756,33 +22711,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Нижний диаметр">6.5 см</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="SJ-0029-2" available="true">
-<name>Подстилка под палатку 195х195 см с фольгированным покрытием SJ-0029-2</name>
-<price>429</price>
-<vendorprice>291</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>166</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_9.jpg</picture>
-<vendor>Lugi</vendor>
-<description><![CDATA[Подкладка влагозащитная имеет размеры 195х195 см метра, что делает ее удобной для использования под палатками или другими походными аксессуарами. Она обеспечивает дополнительную защиту от влаги, предотвращая попадание влаги с земли на внутреннюю поверхность палатки или другого снаряжения.  Основные характеристики:    Размеры: 195х195х0.3 см; Материал: утеплитель с фольгированным покрытием; Количество шаров: 1; Наличие чехла: есть.   Материал подкладки изготовлен из водонепроницаемых материалов, эффективно защищающих от влаги и сырости. Это позволяет создать комфортные условия для отдыха на природе, даже во влажную погоду.  Подкладка является легкой и компактной, что позволяет без труда транспортировать ее в сложенном виде. Она также удобна для использования на любых природных поверхностях, добавляя защиту от грязи и влаги.]]></description>
-<quantity_in_stock>193</quantity_in_stock>
-<vendorCode>SJ-0029-2</vendorCode>
-<param name="Материал">Алюминизированный полиетилен</param>
-<param name="Комплектующие для палаток">Подкладка</param>
-<param name="Цвет">Серебристый</param>
-<param name="Длина">195</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="LU-017" available="true">
 <name>Палатка двухместная 210×160×120 (см) кемпинговая туристическая LU-017 Хаки</name>
 <price>5679</price>
@@ -22873,6 +22801,33 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет корпуса">Оранжевый</param>
 <param name="Гарантия">3 мес</param>
 <param name="Щеточка для чистки">Да</param>
+</offer>
+<offer id="SJ-0029-2" available="true">
+<name>Подстилка под палатку 195х195 см с фольгированным покрытием SJ-0029-2</name>
+<price>429</price>
+<vendorprice>291</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>166</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_9.jpg</picture>
+<vendor>Lugi</vendor>
+<description><![CDATA[Подкладка влагозащитная имеет размеры 195х195 см метра, что делает ее удобной для использования под палатками или другими походными аксессуарами. Она обеспечивает дополнительную защиту от влаги, предотвращая попадание влаги с земли на внутреннюю поверхность палатки или другого снаряжения.  Основные характеристики:    Размеры: 195х195х0.3 см; Материал: утеплитель с фольгированным покрытием; Количество шаров: 1; Наличие чехла: есть.   Материал подкладки изготовлен из водонепроницаемых материалов, эффективно защищающих от влаги и сырости. Это позволяет создать комфортные условия для отдыха на природе, даже во влажную погоду.  Подкладка является легкой и компактной, что позволяет без труда транспортировать ее в сложенном виде. Она также удобна для использования на любых природных поверхностях, добавляя защиту от грязи и влаги.]]></description>
+<quantity_in_stock>190</quantity_in_stock>
+<vendorCode>SJ-0029-2</vendorCode>
+<param name="Материал">Алюминизированный полиетилен</param>
+<param name="Комплектующие для палаток">Подкладка</param>
+<param name="Цвет">Серебристый</param>
+<param name="Длина">195</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="29116601" available="true">
 <name>Набор новогодних подвесок на елку Фонарь 3 (шт) 6*6*7 (см) Белый Dashuri 29116601</name>
@@ -27561,32 +27516,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Высота (см)">22</param>
 <param name="Вес изделия">0.1</param>
 </offer>
-<offer id="SJ-0029-1" available="true">
-<name>Подстилка под палатку 195х143 см с фольгированным покрытием SJ-0029-1</name>
-<price>349</price>
-<vendorprice>239</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>166</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_9.jpg</picture>
-<vendor>Lugi</vendor>
-<description><![CDATA[Подкладка влагозащитная имеет размеры 195х143 см, что делает ее удобной для использования под палатками или другими походными аксессуарами. Она обеспечивает дополнительную защиту от влаги, предотвращая попадание влаги с земли на внутреннюю поверхность палатки или другого снаряжения.  Основные характеристики:    Размеры: 195х143х0.3 см; Материал: утеплитель с фольгированным покрытием; Количество шаров: 1; Наличие чехла: есть.   Материал подкладки изготовлен из водонепроницаемых материалов, эффективно защищающих от влаги и сырости. Это позволяет создать комфортные условия для отдыха на природе, даже во влажную погоду.  Подкладка является легкой и компактной, что позволяет без труда транспортировать ее в сложенном виде. Она также удобна для использования на любых природных поверхностях, добавляя защиту от грязи и влаги.]]></description>
-<quantity_in_stock>146</quantity_in_stock>
-<vendorCode>SJ-0029-1</vendorCode>
-<param name="Комплектующие для палаток">Подкладка</param>
-<param name="Цвет">Серебристый</param>
-<param name="Длина">195</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-11-6703BB" available="true">
 <name>Автомобильный мини пылесос аккумуляторный 6000 мАч беспроводной Черный HP-11-6703BB</name>
 <price>2059</price>
@@ -28132,6 +28061,32 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Наличие крышки">Нет</param>
 <param name="Форма">Прямоугольная</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="SJ-0029-1" available="true">
+<name>Подстилка под палатку 195х143 см с фольгированным покрытием SJ-0029-1</name>
+<price>349</price>
+<vendorprice>239</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>166</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_9.jpg</picture>
+<vendor>Lugi</vendor>
+<description><![CDATA[Подкладка влагозащитная имеет размеры 195х143 см, что делает ее удобной для использования под палатками или другими походными аксессуарами. Она обеспечивает дополнительную защиту от влаги, предотвращая попадание влаги с земли на внутреннюю поверхность палатки или другого снаряжения.  Основные характеристики:    Размеры: 195х143х0.3 см; Материал: утеплитель с фольгированным покрытием; Количество шаров: 1; Наличие чехла: есть.   Материал подкладки изготовлен из водонепроницаемых материалов, эффективно защищающих от влаги и сырости. Это позволяет создать комфортные условия для отдыха на природе, даже во влажную погоду.  Подкладка является легкой и компактной, что позволяет без труда транспортировать ее в сложенном виде. Она также удобна для использования на любых природных поверхностях, добавляя защиту от грязи и влаги.]]></description>
+<quantity_in_stock>141</quantity_in_stock>
+<vendorCode>SJ-0029-1</vendorCode>
+<param name="Комплектующие для палаток">Подкладка</param>
+<param name="Цвет">Серебристый</param>
+<param name="Длина">195</param>
+<param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-35015-16" available="true">
@@ -39023,28 +38978,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Упаковка">Чехол</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-11-21" available="true">
-<name>Пакеты для вакууматора 20*500 см пакеты для вакуумирования продуктов в рулоне HP-11-21</name>
-<price>109</price>
-<vendorprice>93</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>14</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5736/pakety_dlya_vakuumatora_20_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5736/pakety_dlya_vakuumatora_20_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.png</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Вакуумные пакеты 20*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования.  Основные характеристики пакетов для вакууматора:  размер: 20*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен.  Преимущества:  Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки.  Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.]]></description>
-<quantity_in_stock>90</quantity_in_stock>
-<vendorCode>HP-11-21</vendorCode>
-<param name="Материал">Полиэтилен</param>
-<param name="Вес">200</param>
-<param name="Ширина">500</param>
-<param name="Применение">Универсальное</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Длина">20</param>
-<param name="Наличие индикатора">Нет</param>
-<param name="Комплектация насосом">Нет</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-36327-21" available="true">
 <name>Коврик для сервировки стола Snowflake 38 см серебро HP-36327-21</name>
 <price>99</price>
@@ -39427,6 +39360,28 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Количество отделений">5</param>
 <param name="Ширина">10 см</param>
 <param name="Цвет">Синий</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-11-21" available="true">
+<name>Пакеты для вакууматора 20*500 см пакеты для вакуумирования продуктов в рулоне HP-11-21</name>
+<price>109</price>
+<vendorprice>93</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>14</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5736/pakety_dlya_vakuumatora_20_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5736/pakety_dlya_vakuumatora_20_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.png</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Вакуумные пакеты 20*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования.  Основные характеристики пакетов для вакууматора:  размер: 20*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен.  Преимущества:  Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки.  Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.]]></description>
+<quantity_in_stock>89</quantity_in_stock>
+<vendorCode>HP-11-21</vendorCode>
+<param name="Материал">Полиэтилен</param>
+<param name="Вес">200</param>
+<param name="Ширина">500</param>
+<param name="Применение">Универсальное</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Длина">20</param>
+<param name="Наличие индикатора">Нет</param>
+<param name="Комплектация насосом">Нет</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="64486-18" available="true">
@@ -41310,46 +41265,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Гарантия">14 дней</param>
 <param name="Цвет свечения">Синий</param>
 </offer>
-<offer id="LU-030GR" available="true">
-<name>Палатка туристическая  245×145×100 (см) кемпинговая для рыбалки 2 х местная Зеленый LU-030GR</name>
-<price>4379</price>
-<vendorprice>3347</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>92</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../1733053ML/LU-BD18G/LU-030GR-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4579/palatka_turisticheskaya_245_145_100_sm_kempingovaya_dlya_rybalki_2_h_mestnaya_zelenyy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4579/palatka_turisticheskaya_245_145_100_sm_kempingovaya_dlya_rybalki_2_h_mestnaya_zelenyy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4579/palatka_turisticheskaya_245_145_100_sm_kempingovaya_dlya_rybalki_2_h_mestnaya_zelenyy_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4579/palatka_turisticheskaya_245_145_100_sm_kempingovaya_dlya_rybalki_2_h_mestnaya_zelenyy_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4579/palatka_turisticheskaya_245_145_100_sm_kempingovaya_dlya_rybalki_2_h_mestnaya_zelenyy_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4579/palatka_turisticheskaya_245_145_100_sm_kempingovaya_dlya_rybalki_2_h_mestnaya_zelenyy_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4579/palatka_turisticheskaya_245_145_100_sm_kempingovaya_dlya_rybalki_2_h_mestnaya_zelenyy_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4579/palatka_turisticheskaya_245_145_100_sm_kempingovaya_dlya_rybalki_2_h_mestnaya_zelenyy_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4579/palatka_turisticheskaya_245_145_100_sm_kempingovaya_dlya_rybalki_2_h_mestnaya_zelenyy_9.jpg</picture>
-<vendor>Lugi</vendor>
-<description><![CDATA[Легкая палатка тоннельного типа с автоматической системой установки "Pop-Up" - отличный выбор не только для пикников и кемпинга, но также для рыбалки или другого отдыха на природе.   Палатка имеет простую конструкцию, дуги уже вшиты в каркас, что позволяет разложить ее за считанные секунды. Среди преимуществ, которые выгодно отличают такую палатку от многих других - вентиляция 360&deg;. На боковых стенках расположены большие окна с москитными сетками, которые обеспечивают отличную циркуляцию воздуха. Входы в палатку также продублированы москитной сеткой.  Палатка изготовлена из Оксфорда, что обеспечивает высокую водонепроницаемость и блокирует ультрафиолет. Благодаря этому в палатке сохраняется комфортная температура даже под прямыми солнечными лучами.   Основные характеристики палатки для туризма:   Количество спальных мест: 2 ; Внешний размер палатки: 245&times;145&times;100 см; Внутренний размер палатки:       240&times;145&times;100 см; Размер в сложенном состоянии:       75&times;75&times;5 см; Внешний материал: оксфорд; Материал пола: оксфорд; Внутренний материал палатки: оксфорд; Система раскладывания: самораскладная "Pop-Up"; Сезонность: лето; Наличие чехла: есть; Комплектация: палатка, 4 веревки, 8 колышек, сумка-чехол для транспортировки.    Обратите внимание!    Проверяйте целостность палатки и элементов конструкции перед каждым использованием для обеспечения собственной безопасности. Устанавливайте палатку на ровном участке без камней, веток и острых предметов, которые могут повредить ткань. Устанавливайте палатку на безопасном расстоянии от костра. Чтобы избежать дискомфорта во время сна, для установки выбирайте максимально плоский участок, покрытый травой или песком. Если местность холмистая, ложитесь ногами вниз по склону. Если во время кемпинга собирается дождь, выкопайте дренажную канаву вокруг палатки для отвода воды. Канава должна располагаться максимально близко к внешнему краю палатки. Для дополнительной влагозащиты используйте футпринт.   Уход за палаткой  Очистка палатки от загрязнений после использования - важный аспект, который напрямую влияет на срок и качество ее службы. Чтобы сохранить снаряжение:   Тщательно очистите дно и нижнюю часть палатки от песка и загрязнений. Чтобы избежать появления плесени, не складывайте палатку до полного высыхания или просушите ткань при первой возможности. Не используйте моющие средства для очистки, чтобы избежать потери водонепроницаемых свойств. Не стирайте палатку в стиральной машине. Храните палатку в сухом месте.]]></description>
-<quantity_in_stock>83</quantity_in_stock>
-<vendorCode>LU-030GR</vendorCode>
-<param name="Высота">100</param>
-<param name="Вес">2.1</param>
-<param name="Тип изделия">Палатка</param>
-<param name="Сезон">Лето</param>
-<param name="Количество спальных мест">2</param>
-<param name="Ширина">145</param>
-<param name="Количество входов">2</param>
-<param name="Количество комнат">1</param>
-<param name="Цвет">Зелёный</param>
-<param name="Длина">245</param>
-<param name="Окна вентиляции">2</param>
-<param name="Особенности палатки/тента">Антимоскитная сетка|Вентиляционные окна</param>
-<param name="Материал дна">Оксфорд</param>
-<param name="Форма">Полусфера</param>
-<param name="Гарантия">14 дней</param>
-<param name="Материал тента">Оксфорд</param>
-<param name="Длина в упаковке">75</param>
-<param name="Ширина в упаковке">75</param>
-<param name="Высота в упаковке">5</param>
-</offer>
 <offer id="1733012Y" available="true">
 <name>Гирлянда Конский хвост 2 м 10 линий на 200 led лампочек на медном проводе от сети Желтая 1733012Y</name>
 <price>469</price>
@@ -41669,6 +41584,46 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Ширина">13</param>
 <param name="Цвет">Зелёный</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="LU-030GR" available="true">
+<name>Палатка туристическая  245×145×100 (см) кемпинговая для рыбалки 2 х местная Зеленый LU-030GR</name>
+<price>4379</price>
+<vendorprice>3347</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>92</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../1733053ML/LU-BD18G/LU-030GR-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4579/palatka_turisticheskaya_245_145_100_sm_kempingovaya_dlya_rybalki_2_h_mestnaya_zelenyy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4579/palatka_turisticheskaya_245_145_100_sm_kempingovaya_dlya_rybalki_2_h_mestnaya_zelenyy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4579/palatka_turisticheskaya_245_145_100_sm_kempingovaya_dlya_rybalki_2_h_mestnaya_zelenyy_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4579/palatka_turisticheskaya_245_145_100_sm_kempingovaya_dlya_rybalki_2_h_mestnaya_zelenyy_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4579/palatka_turisticheskaya_245_145_100_sm_kempingovaya_dlya_rybalki_2_h_mestnaya_zelenyy_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4579/palatka_turisticheskaya_245_145_100_sm_kempingovaya_dlya_rybalki_2_h_mestnaya_zelenyy_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4579/palatka_turisticheskaya_245_145_100_sm_kempingovaya_dlya_rybalki_2_h_mestnaya_zelenyy_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4579/palatka_turisticheskaya_245_145_100_sm_kempingovaya_dlya_rybalki_2_h_mestnaya_zelenyy_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4579/palatka_turisticheskaya_245_145_100_sm_kempingovaya_dlya_rybalki_2_h_mestnaya_zelenyy_9.jpg</picture>
+<vendor>Lugi</vendor>
+<description><![CDATA[Легкая палатка тоннельного типа с автоматической системой установки "Pop-Up" - отличный выбор не только для пикников и кемпинга, но также для рыбалки или другого отдыха на природе.   Палатка имеет простую конструкцию, дуги уже вшиты в каркас, что позволяет разложить ее за считанные секунды. Среди преимуществ, которые выгодно отличают такую палатку от многих других - вентиляция 360&deg;. На боковых стенках расположены большие окна с москитными сетками, которые обеспечивают отличную циркуляцию воздуха. Входы в палатку также продублированы москитной сеткой.  Палатка изготовлена из Оксфорда, что обеспечивает высокую водонепроницаемость и блокирует ультрафиолет. Благодаря этому в палатке сохраняется комфортная температура даже под прямыми солнечными лучами.   Основные характеристики палатки для туризма:   Количество спальных мест: 2 ; Внешний размер палатки: 245&times;145&times;100 см; Внутренний размер палатки:       240&times;145&times;100 см; Размер в сложенном состоянии:       75&times;75&times;5 см; Внешний материал: оксфорд; Материал пола: оксфорд; Внутренний материал палатки: оксфорд; Система раскладывания: самораскладная "Pop-Up"; Сезонность: лето; Наличие чехла: есть; Комплектация: палатка, 4 веревки, 8 колышек, сумка-чехол для транспортировки.    Обратите внимание!    Проверяйте целостность палатки и элементов конструкции перед каждым использованием для обеспечения собственной безопасности. Устанавливайте палатку на ровном участке без камней, веток и острых предметов, которые могут повредить ткань. Устанавливайте палатку на безопасном расстоянии от костра. Чтобы избежать дискомфорта во время сна, для установки выбирайте максимально плоский участок, покрытый травой или песком. Если местность холмистая, ложитесь ногами вниз по склону. Если во время кемпинга собирается дождь, выкопайте дренажную канаву вокруг палатки для отвода воды. Канава должна располагаться максимально близко к внешнему краю палатки. Для дополнительной влагозащиты используйте футпринт.   Уход за палаткой  Очистка палатки от загрязнений после использования - важный аспект, который напрямую влияет на срок и качество ее службы. Чтобы сохранить снаряжение:   Тщательно очистите дно и нижнюю часть палатки от песка и загрязнений. Чтобы избежать появления плесени, не складывайте палатку до полного высыхания или просушите ткань при первой возможности. Не используйте моющие средства для очистки, чтобы избежать потери водонепроницаемых свойств. Не стирайте палатку в стиральной машине. Храните палатку в сухом месте.]]></description>
+<quantity_in_stock>82</quantity_in_stock>
+<vendorCode>LU-030GR</vendorCode>
+<param name="Высота">100</param>
+<param name="Вес">2.1</param>
+<param name="Тип изделия">Палатка</param>
+<param name="Сезон">Лето</param>
+<param name="Количество спальных мест">2</param>
+<param name="Ширина">145</param>
+<param name="Количество входов">2</param>
+<param name="Количество комнат">1</param>
+<param name="Цвет">Зелёный</param>
+<param name="Длина">245</param>
+<param name="Окна вентиляции">2</param>
+<param name="Особенности палатки/тента">Антимоскитная сетка|Вентиляционные окна</param>
+<param name="Материал дна">Оксфорд</param>
+<param name="Форма">Полусфера</param>
+<param name="Гарантия">14 дней</param>
+<param name="Материал тента">Оксфорд</param>
+<param name="Длина в упаковке">75</param>
+<param name="Ширина в упаковке">75</param>
+<param name="Высота в упаковке">5</param>
 </offer>
 <offer id="64486-40" available="true">
 <name>Чашка стеклянная с двойными стенками и новогодним декором 350 мл 64486-40</name>
@@ -46286,31 +46241,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Нож универсальный">6</param>
 <param name="Самозатачивающиеся лезвия">Нет</param>
 </offer>
-<offer id="HP-5-41" available="true">
-<name>Сетевой фильтр-удлинитель 5 розеток 3xUSB-A 1xUSB-C 3м белый HP-5-41</name>
-<price>589</price>
-<vendorprice>451</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>80</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-41/HP-5-41_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-41/HP-5-41_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-41/HP-5-41_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-41/HP-5-41_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-41/HP-5-41_1.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Сетевой фильтр-удлинитель белого цвета объединяет пять розеток, три USB-A порта и один USB-C разъём — практичное решение для одновременного подключения бытовых приборов и зарядки мобильной электроники. Формат с пятью розетками и четырьмя USB-портами даёт возможность рационально использовать одну точку электропитания, избавляя от необходимости использовать дополнительные адаптеры. Кабель длиной 3 метра обеспечивает комфортное подключение в пределах комнаты или рабочей зоны. Особенности сетевого фильтра-удлинителя:  Огнестойкий ABS-пластик — материал корпуса обеспечивает безопасность и долговечность использования; Вертикальный формат конструкции — помогает экономить пространство и удобно организовать расположение устройства; Пять евророзеток — размещены таким образом, чтобы обеспечить комфортное одновременное использование нескольких приборов; Три USB-A и один USB-C на передней панели — удобная зарядка смартфонов, наушников, пауэрбанков и прочих гаджетов; Кнопка питания с индикатором — позволяет одним движением выключить все подключённые устройства.  Характеристики сетевого фильтра-удлинителя:  Количество выходных розеток: 6 шт; Выключатель: Да; Длина шнура: 3 м; Входная вилка: Евро; Выходная розетка: Евро; Цвет корпуса: Белый; Тип удлинителя: Сетевой фильтр-удлинитель; Состояние: Новый; Длина провода: 3 м.  Удлинитель идеально подходит для домашнего использования, офисных помещений или учебных пространств. Обеспечивает удобную организацию рабочего места и упорядоченное подключение техники, создавая функциональную и аккуратную зону для работы или отдыха с множеством доступных разъёмов.]]></description>
-<quantity_in_stock>69</quantity_in_stock>
-<vendorCode>HP-5-41</vendorCode>
-<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
-<param name="Длина шнура">3</param>
-<param name="Количество выходных розеток">6</param>
-<param name="Выключатель">Да</param>
-<param name="Входная вилка">ЕURO</param>
-<param name="Выходная розетка">Евро</param>
-<param name="Длина провода">3</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Белый</param>
-</offer>
 <offer id="HP-34-71" available="true">
 <name>Пепельница стеклянная 15 см Yiwu HP-34-71</name>
 <price>579</price>
@@ -46510,6 +46440,31 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет">Пудровый</param>
 <param name="Количество">1</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-5-41" available="true">
+<name>Сетевой фильтр-удлинитель 5 розеток 3xUSB-A 1xUSB-C 3м белый HP-5-41</name>
+<price>589</price>
+<vendorprice>451</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>80</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-41/HP-5-41_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-41/HP-5-41_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-41/HP-5-41_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-41/HP-5-41_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HP-5-41/HP-5-41_1.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Сетевой фильтр-удлинитель белого цвета объединяет пять розеток, три USB-A порта и один USB-C разъём — практичное решение для одновременного подключения бытовых приборов и зарядки мобильной электроники. Формат с пятью розетками и четырьмя USB-портами даёт возможность рационально использовать одну точку электропитания, избавляя от необходимости использовать дополнительные адаптеры. Кабель длиной 3 метра обеспечивает комфортное подключение в пределах комнаты или рабочей зоны. Особенности сетевого фильтра-удлинителя:  Огнестойкий ABS-пластик — материал корпуса обеспечивает безопасность и долговечность использования; Вертикальный формат конструкции — помогает экономить пространство и удобно организовать расположение устройства; Пять евророзеток — размещены таким образом, чтобы обеспечить комфортное одновременное использование нескольких приборов; Три USB-A и один USB-C на передней панели — удобная зарядка смартфонов, наушников, пауэрбанков и прочих гаджетов; Кнопка питания с индикатором — позволяет одним движением выключить все подключённые устройства.  Характеристики сетевого фильтра-удлинителя:  Количество выходных розеток: 6 шт; Выключатель: Да; Длина шнура: 3 м; Входная вилка: Евро; Выходная розетка: Евро; Цвет корпуса: Белый; Тип удлинителя: Сетевой фильтр-удлинитель; Состояние: Новый; Длина провода: 3 м.  Удлинитель идеально подходит для домашнего использования, офисных помещений или учебных пространств. Обеспечивает удобную организацию рабочего места и упорядоченное подключение техники, создавая функциональную и аккуратную зону для работы или отдыха с множеством доступных разъёмов.]]></description>
+<quantity_in_stock>68</quantity_in_stock>
+<vendorCode>HP-5-41</vendorCode>
+<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+<param name="Длина шнура">3</param>
+<param name="Количество выходных розеток">6</param>
+<param name="Выключатель">Да</param>
+<param name="Входная вилка">ЕURO</param>
+<param name="Выходная розетка">Евро</param>
+<param name="Длина провода">3</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Белый</param>
 </offer>
 <offer id="HP-34-115" available="true">
 <name>Фруктовница на ножке стеклянная 18 см круглая Yiwu HP-34-115</name>
@@ -52008,34 +51963,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Гарантия">14 дней</param>
 <param name="Тип подставки">Многоразовая</param>
 </offer>
-<offer id="HP-41-1" available="true">
-<name>Корзина для белья 40×33×36 (см) мягкая 47 (л) Коричневый HP-41-1</name>
-<price>409</price>
-<vendorprice>310</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>60</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4869/korzina_dlya_belya_40_33_36_sm_myagkaya_korzina_v_vannuyu_dlya_gryaznogo_belya_47_l_korichnevyy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4869/korzina_dlya_belya_40_33_36_sm_myagkaya_korzina_v_vannuyu_dlya_gryaznogo_belya_47_l_korichnevyy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4869/korzina_dlya_belya_40_33_36_sm_myagkaya_korzina_v_vannuyu_dlya_gryaznogo_belya_47_l_korichnevyy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4869/korzina_dlya_belya_40_33_36_sm_myagkaya_korzina_v_vannuyu_dlya_gryaznogo_belya_47_l_korichnevyy_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4869/korzina_dlya_belya_40_33_36_sm_myagkaya_korzina_v_vannuyu_dlya_gryaznogo_belya_47_l_korichnevyy_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4869/korzina_dlya_belya_40_33_36_sm_myagkaya_korzina_v_vannuyu_dlya_gryaznogo_belya_47_l_korichnevyy_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4869/korzina_dlya_belya_40_33_36_sm_myagkaya_korzina_v_vannuyu_dlya_gryaznogo_belya_47_l_korichnevyy_6.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Корзина для белья из мешковины &mdash; это практичное и стильное решение для хранения белья дома. Лёгкая, но прочная конструкция выдерживает ежедневное использование, а удобные верёвочные ручки позволяют легко переносить её даже при полной загрузке.  Основные характеристики корзины для белья:   Размер:     40&times;33&times;36 см; Материал:     мешковина; Объем: 47 л.   Особенности бельевой корзины для грязного белья:   Вместительная и лёгкая. Прочная складная конструкция. Удобные ручки для переноски. Легко чистится и быстро сохнет. Универсальный дизайн, подходящий к любому интерьеру.   Такая корзина для белья станет незаменимым помощником в быту, сочетая функциональность, практичность и стиль. Она позволит поддерживать порядок, не занимая лишнего места, и будет гармонично смотреться в любой комнате вашего дома.]]></description>
-<quantity_in_stock>54</quantity_in_stock>
-<vendorCode>HP-41-1</vendorCode>
-<param name="Материал">Мешковина</param>
-<param name="Высота">36 см</param>
-<param name="Вес">400 г</param>
-<param name="Крышка">Нет</param>
-<param name="Ширина">33 см</param>
-<param name="Объем">47 л</param>
-<param name="Цвет">Коричневый</param>
-<param name="Длина">40 см</param>
-<param name="Форма">Прямоугольная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-41-4" available="true">
 <name>Корзина-органайзер для белья на каркасе 95 (л) на 3 отделения HP-41-4</name>
 <price>819</price>
@@ -52232,31 +52159,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Подарочная упаковка">Нет</param>
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
-</offer>
-<offer id="HP-5-36" available="true">
-<name>Сетевой фильтр-удлинитель 3 розетки 3хUSB-A 1xUSB-C 5м черный HP-5-36</name>
-<price>569</price>
-<vendorprice>439</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>80</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6988/setevoy_filtr_udlinitel_3_rozetki_3husb_a_1xusb_c_5m_chernyy_udlinitel_elektricheskoe_pitanie_zaryadka.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8342.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8345.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8347.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8344.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Сетевой фильтр-удлинитель черного цвета с тремя розетками, тремя USB-A портами и одним USB-C портом создан для универсального подключения бытовой техники и зарядки современных мобильных устройств в одном месте. Формат 3 розетки плюс 3 USB-A плюс 1 USB-C позволяет максимально оптимизировать использование доступного пространства и значительно уменьшить количество отдельных адаптеров, занимающих розетки. Кабель питания длиной 5 метров обеспечивает исключительную гибкость в размещении подключаемых устройств на большом расстоянии от основной стационарной точки электроснабжения, что особенно важно для просторных помещений, офисных зон и студий. Особенности сетевого фильтра-удлинителя:  Компактный вертикальный формат корпуса с тремя стандартными евророзетками — гарантирует надежное и стабильное подключение разнообразной бытовой техники и электронных приборов; Три USB-A порта и один современный USB-C порт на передней панели — дают возможность одновременно заряжать смартфоны, планшеты, беспроводные наушники, внешние аккумуляторы и другие цифровые гаджеты, включая устройства с новейшими интерфейсами зарядки; Кнопка питания с индикатором — обеспечивает быстрое и удобное отключение электропитания всех подключенных устройств одновременно одним нажатием, что экономит электроэнергию и повышает безопасность использования; Продуманное эргономичное расположение розеток и USB-портов — конструкция спроектирована таким образом, что при одновременном подключении нескольких устройств они не блокируют доступ друг к другу и не создают неудобств.  Характеристики сетевого фильтра-удлинителя:  Тип: сетевой фильтр-удлинитель; Количество выходных розеток: 3 шт.; Количество USB-портов: 3 шт. USB-A, 1 шт. USB-C; Длина кабеля: 5 м; Длина шнура: 5 м; Тип розеток: европейский стандарт; Кнопка питания: да, с индикатором; Входная вилка: евро; Выходная розетка: евро; Цвет корпуса: черный; Тип устройства: мережевий фільтр-подовжувач; Состояние: новый.  Удлинитель идеально подходит для использования в домашних условиях, офисных пространствах или учебных помещениях. Это оптимальное решение для организации эргономичного рабочего места или удобной зоны отдыха, где требуется одновременное подключение большого количества электронных устройств и современных гаджетов с различными типами зарядных портов.]]></description>
-<quantity_in_stock>54</quantity_in_stock>
-<vendorCode>HP-5-36</vendorCode>
-<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
-<param name="Длина шнура">5</param>
-<param name="Количество выходных розеток">3</param>
-<param name="Выключатель">Да</param>
-<param name="Входная вилка">ЕURO</param>
-<param name="Выходная розетка">Евро</param>
-<param name="Длина провода">5</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Черный</param>
 </offer>
 <offer id="HP-5-51" available="true">
 <name>Сетевой фильтр-удлинитель 5 розеток 4хUSB-A 1хUSB-C 5м белая HP-5-51</name>
@@ -52597,6 +52499,34 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Триммер для окантовки">Да</param>
 <param name="Щеточка для чистки">Да</param>
 </offer>
+<offer id="HP-41-1" available="true">
+<name>Корзина для белья 40×33×36 (см) мягкая 47 (л) Коричневый HP-41-1</name>
+<price>409</price>
+<vendorprice>310</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>60</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4869/korzina_dlya_belya_40_33_36_sm_myagkaya_korzina_v_vannuyu_dlya_gryaznogo_belya_47_l_korichnevyy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4869/korzina_dlya_belya_40_33_36_sm_myagkaya_korzina_v_vannuyu_dlya_gryaznogo_belya_47_l_korichnevyy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4869/korzina_dlya_belya_40_33_36_sm_myagkaya_korzina_v_vannuyu_dlya_gryaznogo_belya_47_l_korichnevyy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4869/korzina_dlya_belya_40_33_36_sm_myagkaya_korzina_v_vannuyu_dlya_gryaznogo_belya_47_l_korichnevyy_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4869/korzina_dlya_belya_40_33_36_sm_myagkaya_korzina_v_vannuyu_dlya_gryaznogo_belya_47_l_korichnevyy_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4869/korzina_dlya_belya_40_33_36_sm_myagkaya_korzina_v_vannuyu_dlya_gryaznogo_belya_47_l_korichnevyy_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4869/korzina_dlya_belya_40_33_36_sm_myagkaya_korzina_v_vannuyu_dlya_gryaznogo_belya_47_l_korichnevyy_6.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Корзина для белья из мешковины &mdash; это практичное и стильное решение для хранения белья дома. Лёгкая, но прочная конструкция выдерживает ежедневное использование, а удобные верёвочные ручки позволяют легко переносить её даже при полной загрузке.  Основные характеристики корзины для белья:   Размер:     40&times;33&times;36 см; Материал:     мешковина; Объем: 47 л.   Особенности бельевой корзины для грязного белья:   Вместительная и лёгкая. Прочная складная конструкция. Удобные ручки для переноски. Легко чистится и быстро сохнет. Универсальный дизайн, подходящий к любому интерьеру.   Такая корзина для белья станет незаменимым помощником в быту, сочетая функциональность, практичность и стиль. Она позволит поддерживать порядок, не занимая лишнего места, и будет гармонично смотреться в любой комнате вашего дома.]]></description>
+<quantity_in_stock>53</quantity_in_stock>
+<vendorCode>HP-41-1</vendorCode>
+<param name="Материал">Мешковина</param>
+<param name="Высота">36 см</param>
+<param name="Вес">400 г</param>
+<param name="Крышка">Нет</param>
+<param name="Ширина">33 см</param>
+<param name="Объем">47 л</param>
+<param name="Цвет">Коричневый</param>
+<param name="Длина">40 см</param>
+<param name="Форма">Прямоугольная</param>
+<param name="Гарантия">14 дней</param>
+</offer>
 <offer id="HP-41-15BL" available="true">
 <name>Корзина для игрушек тканевая 47 см Синий HP-41-15BL</name>
 <price>409</price>
@@ -52788,6 +52718,31 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Тип емкости">Чашка</param>
 <param name="Подарочная упаковка">Да</param>
 <param name="Состояние">Новое</param>
+</offer>
+<offer id="HP-5-36" available="true">
+<name>Сетевой фильтр-удлинитель 3 розетки 3хUSB-A 1xUSB-C 5м черный HP-5-36</name>
+<price>569</price>
+<vendorprice>439</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>80</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6988/setevoy_filtr_udlinitel_3_rozetki_3husb_a_1xusb_c_5m_chernyy_udlinitel_elektricheskoe_pitanie_zaryadka.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8342.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8345.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8347.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8344.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Сетевой фильтр-удлинитель черного цвета с тремя розетками, тремя USB-A портами и одним USB-C портом создан для универсального подключения бытовой техники и зарядки современных мобильных устройств в одном месте. Формат 3 розетки плюс 3 USB-A плюс 1 USB-C позволяет максимально оптимизировать использование доступного пространства и значительно уменьшить количество отдельных адаптеров, занимающих розетки. Кабель питания длиной 5 метров обеспечивает исключительную гибкость в размещении подключаемых устройств на большом расстоянии от основной стационарной точки электроснабжения, что особенно важно для просторных помещений, офисных зон и студий. Особенности сетевого фильтра-удлинителя:  Компактный вертикальный формат корпуса с тремя стандартными евророзетками — гарантирует надежное и стабильное подключение разнообразной бытовой техники и электронных приборов; Три USB-A порта и один современный USB-C порт на передней панели — дают возможность одновременно заряжать смартфоны, планшеты, беспроводные наушники, внешние аккумуляторы и другие цифровые гаджеты, включая устройства с новейшими интерфейсами зарядки; Кнопка питания с индикатором — обеспечивает быстрое и удобное отключение электропитания всех подключенных устройств одновременно одним нажатием, что экономит электроэнергию и повышает безопасность использования; Продуманное эргономичное расположение розеток и USB-портов — конструкция спроектирована таким образом, что при одновременном подключении нескольких устройств они не блокируют доступ друг к другу и не создают неудобств.  Характеристики сетевого фильтра-удлинителя:  Тип: сетевой фильтр-удлинитель; Количество выходных розеток: 3 шт.; Количество USB-портов: 3 шт. USB-A, 1 шт. USB-C; Длина кабеля: 5 м; Длина шнура: 5 м; Тип розеток: европейский стандарт; Кнопка питания: да, с индикатором; Входная вилка: евро; Выходная розетка: евро; Цвет корпуса: черный; Тип устройства: мережевий фільтр-подовжувач; Состояние: новый.  Удлинитель идеально подходит для использования в домашних условиях, офисных пространствах или учебных помещениях. Это оптимальное решение для организации эргономичного рабочего места или удобной зоны отдыха, где требуется одновременное подключение большого количества электронных устройств и современных гаджетов с различными типами зарядных портов.]]></description>
+<quantity_in_stock>53</quantity_in_stock>
+<vendorCode>HP-5-36</vendorCode>
+<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+<param name="Длина шнура">5</param>
+<param name="Количество выходных розеток">3</param>
+<param name="Выключатель">Да</param>
+<param name="Входная вилка">ЕURO</param>
+<param name="Выходная розетка">Евро</param>
+<param name="Длина провода">5</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Черный</param>
 </offer>
 <offer id="503-106-M-336G" available="true">
 <name>Полотенце для кухни 34*74 см из микрофибры серый Colorful Home 503-106-M-336G</name>
@@ -53429,27 +53384,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Длина">58</param>
 <param name="Форма">Квадратная</param>
 <param name="Гарантия">14 дней</param>
-</offer>
-<offer id="HP-17-36" available="true">
-<name>Набор рюмок для крепких напитков Shot glass 6 штук по 75 мл HP-17-36</name>
-<price>179</price>
-<vendorprice>132</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>174</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-17-36/HP-17-36-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7138/nabor_ryumok_dlya_krepkih_napitkov_shot_glass_6_shtuk_po_75_ml_stakan_dlya_napitkov_s_tolstymi_stenkami_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-17-36/HP-17-36-2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Набор из шести рюмок для крепких напитков объемом 75 мл отличается классическим рельефным узором, который часто ассоциируется с винтажным хрусталем. Текстура состоит из перекрестных ромбов и звездчатых граней, формирующих многогранную поверхность и подчеркивающих прозрачность стекла.  Благодаря большому количеству граней свет активно преломляется на поверхности рюмок, создавая выразительные блики и переливы. Такой рельеф подчеркивает цвет напитка и придает глубины его облик при подаче.  Глубокая фактура делает рюмки приятными на ощупь и удобными в использовании, позволяя надежно держать их в руке. Компактная форма и устойчивое дно обеспечивают стабильность на поверхности стола и практичность при ежедневном использовании или праздничной сервировке.   Характеристики:    Количество: 6 штук Тип: рюмки для крепких напитков Объем: 75 мл Высота: 6 см Верхний диаметр: 5,2 см Диаметр дна: 4,1 см]]></description>
-<quantity_in_stock>52</quantity_in_stock>
-<vendorCode>HP-17-36</vendorCode>
-<param name="Материал">Стекло</param>
-<param name="Высота">6</param>
-<param name="Верхний диаметр">5.2</param>
-<param name="Количество в наборе">6</param>
-<param name="Объем">7.5</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Тип емкости">Рюмка</param>
 </offer>
 <offer id="501-207-C-720GW" available="true">
 <name>Полотенце для кухни 25×50 см из микрофибры светло-серый Colorful Home 501-207-C-720GW</name>
@@ -54337,42 +54271,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Тип подсветки">Диодная</param>
 <param name="Тип выключателя">Сенсорный</param>
 </offer>
-<offer id="G03-2" available="true">
-<name>Складной алюминиевый стол трансформер + 4 стула для пикника в чемодане набор туристической складной мебели G03-2</name>
-<price>4649</price>
-<vendorprice>3558</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>77</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53718/4036/skladnoy_alyuminievyy_stol_transformer_4_stula_dlya_piknika_v_chemodane_nabor_turisticheskoy_skladnoy_mebeli.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000000000/G03-2/G03-2_10.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000000000/G03-2/G03-2_12.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000000000/G03-2/G03-2_16.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000000000/G03-2/G03-2_18.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000000000/G03-2/G03-2_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000000000/G03-2/G03-2_21.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000000000/G03-2/G03-2_22.jpg</picture>
-<vendor>Lugi</vendor>
-<description><![CDATA[Туристический складной набор: стол и 4 стула &ndash; идеальный выбор для отдыха на природе Этот универсальный туристический комплект &ndash; незаменимый помощник для любителей активного отдыха, кемпинга, рыбалки, пикников и путешествий. В набор входит удобный складной стол и четыре компактных стула, которые обеспечат комфорт во время отдыха на свежем воздухе. Благодаря своей функциональности, прочности и практичности, этот комплект станет вашим надежным спутником в любых условиях!  Основные характеристики:   Размер стола в разложенном состоянии: 86х67х67 см; Размер стола в сложенном состоянии: 86х34х10 см; Размер стульев: 29х27.5х40 см; Материал столешницы стола: фанера; Материал каркаса стола: алюминий; Материал стульев: алюминий; Рекомендуемая нагрузка: 35 кг.   Комплектация:       Стол; 4 стула; Кейс для транспортировки и хранения.   Преимущества туристического набора:    Высокое качество материалов &ndash; каркас изготовлен из прочного алюминия, а столешница выполнена из качественной фанеры, что гарантирует долговечность и устойчивость к внешним воздействиям.  Компактность и удобство транспортировки &ndash; набор легко складывается в удобный чемодан, благодаря чему его можно без проблем переносить и хранить.  Функциональность и практичность &ndash; конструкция стола и стульев продумана до мелочей. Сиденья расположены по бокам, что обеспечивает свободный доступ к столу, не мешая окружающим.  Дополнительные возможности &ndash; в центре стола предусмотрено специальное отверстие для установки зонта, что делает использование набора еще более комфортным в солнечную или дождливую погоду.  Простота в уходе &ndash; все элементы набора легко чистятся и не требуют сложного ухода.   Этот складной туристический набор станет вашим лучшим выбором для отдыха на природе. Его легкость, прочность и компактность делают его идеальным решением для семейных поездок, выездов с друзьями и активного отдыха на свежем воздухе. Наслаждайтесь комфортом где угодно &ndash; будь то лес, пляж или дача!]]></description>
-<quantity_in_stock>50</quantity_in_stock>
-<vendorCode>G03-2</vendorCode>
-<param name="Материал столешницы">МДФ</param>
-<param name="Состав комплекта">Стол + стулья без спинки</param>
-<param name="Количество персон">6</param>
-<param name="Материал каркаса (опор)">Алюминий</param>
-<param name="Материал сиденья">Алюминий</param>
-<param name="Количество стульев">4</param>
-<param name="Отверстие в столешнице для зонта">Да</param>
-<param name="Ширина стула">27.5 см</param>
-<param name="Цвет">Серый</param>
-<param name="Высота сиденья стула">40 см</param>
-<param name="Допустимая нагрузка на стол">35 кг</param>
-<param name="Глубина стула">29 см</param>
-<param name="Длина стола">86 см</param>
-<param name="Ширина стола">67 см</param>
-<param name="Высота стола">67 см</param>
-<param name="Гарантия">14 дней</param>
-<param name="Чехол для хранения и транспортировки">Да</param>
-</offer>
 <offer id="HP-19-50" available="true">
 <name>Кружка стеклянная с крышкой и трубочкой 750 (мл) Серый HP-19-50</name>
 <price>299</price>
@@ -54777,6 +54675,27 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Тип стакана">Высокий</param>
 <param name="Нижний диаметр">6</param>
 </offer>
+<offer id="HP-17-36" available="true">
+<name>Набор рюмок для крепких напитков Shot glass 6 штук по 75 мл HP-17-36</name>
+<price>179</price>
+<vendorprice>132</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>174</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-17-36/HP-17-36-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7138/nabor_ryumok_dlya_krepkih_napitkov_shot_glass_6_shtuk_po_75_ml_stakan_dlya_napitkov_s_tolstymi_stenkami_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-17-36/HP-17-36-2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Набор из шести рюмок для крепких напитков объемом 75 мл отличается классическим рельефным узором, который часто ассоциируется с винтажным хрусталем. Текстура состоит из перекрестных ромбов и звездчатых граней, формирующих многогранную поверхность и подчеркивающих прозрачность стекла.  Благодаря большому количеству граней свет активно преломляется на поверхности рюмок, создавая выразительные блики и переливы. Такой рельеф подчеркивает цвет напитка и придает глубины его облик при подаче.  Глубокая фактура делает рюмки приятными на ощупь и удобными в использовании, позволяя надежно держать их в руке. Компактная форма и устойчивое дно обеспечивают стабильность на поверхности стола и практичность при ежедневном использовании или праздничной сервировке.   Характеристики:    Количество: 6 штук Тип: рюмки для крепких напитков Объем: 75 мл Высота: 6 см Верхний диаметр: 5,2 см Диаметр дна: 4,1 см]]></description>
+<quantity_in_stock>50</quantity_in_stock>
+<vendorCode>HP-17-36</vendorCode>
+<param name="Материал">Стекло</param>
+<param name="Высота">6</param>
+<param name="Верхний диаметр">5.2</param>
+<param name="Количество в наборе">6</param>
+<param name="Объем">7.5</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Тип емкости">Рюмка</param>
+</offer>
 <offer id="503-73-A-72G" available="true">
 <name>Банное полотенце 70×140 см махровое серый Colorful Home 503-73-A-72G</name>
 <price>499</price>
@@ -55159,6 +55078,42 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="G03-2" available="true">
+<name>Складной алюминиевый стол трансформер + 4 стула для пикника в чемодане набор туристической складной мебели G03-2</name>
+<price>4649</price>
+<vendorprice>3558</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>77</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53718/4036/skladnoy_alyuminievyy_stol_transformer_4_stula_dlya_piknika_v_chemodane_nabor_turisticheskoy_skladnoy_mebeli.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000000000/G03-2/G03-2_10.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000000000/G03-2/G03-2_12.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000000000/G03-2/G03-2_16.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000000000/G03-2/G03-2_18.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000000000/G03-2/G03-2_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000000000/G03-2/G03-2_21.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000000000/G03-2/G03-2_22.jpg</picture>
+<vendor>Lugi</vendor>
+<description><![CDATA[Туристический складной набор: стол и 4 стула &ndash; идеальный выбор для отдыха на природе Этот универсальный туристический комплект &ndash; незаменимый помощник для любителей активного отдыха, кемпинга, рыбалки, пикников и путешествий. В набор входит удобный складной стол и четыре компактных стула, которые обеспечат комфорт во время отдыха на свежем воздухе. Благодаря своей функциональности, прочности и практичности, этот комплект станет вашим надежным спутником в любых условиях!  Основные характеристики:   Размер стола в разложенном состоянии: 86х67х67 см; Размер стола в сложенном состоянии: 86х34х10 см; Размер стульев: 29х27.5х40 см; Материал столешницы стола: фанера; Материал каркаса стола: алюминий; Материал стульев: алюминий; Рекомендуемая нагрузка: 35 кг.   Комплектация:       Стол; 4 стула; Кейс для транспортировки и хранения.   Преимущества туристического набора:    Высокое качество материалов &ndash; каркас изготовлен из прочного алюминия, а столешница выполнена из качественной фанеры, что гарантирует долговечность и устойчивость к внешним воздействиям.  Компактность и удобство транспортировки &ndash; набор легко складывается в удобный чемодан, благодаря чему его можно без проблем переносить и хранить.  Функциональность и практичность &ndash; конструкция стола и стульев продумана до мелочей. Сиденья расположены по бокам, что обеспечивает свободный доступ к столу, не мешая окружающим.  Дополнительные возможности &ndash; в центре стола предусмотрено специальное отверстие для установки зонта, что делает использование набора еще более комфортным в солнечную или дождливую погоду.  Простота в уходе &ndash; все элементы набора легко чистятся и не требуют сложного ухода.   Этот складной туристический набор станет вашим лучшим выбором для отдыха на природе. Его легкость, прочность и компактность делают его идеальным решением для семейных поездок, выездов с друзьями и активного отдыха на свежем воздухе. Наслаждайтесь комфортом где угодно &ndash; будь то лес, пляж или дача!]]></description>
+<quantity_in_stock>49</quantity_in_stock>
+<vendorCode>G03-2</vendorCode>
+<param name="Материал столешницы">МДФ</param>
+<param name="Состав комплекта">Стол + стулья без спинки</param>
+<param name="Количество персон">6</param>
+<param name="Материал каркаса (опор)">Алюминий</param>
+<param name="Материал сиденья">Алюминий</param>
+<param name="Количество стульев">4</param>
+<param name="Отверстие в столешнице для зонта">Да</param>
+<param name="Ширина стула">27.5 см</param>
+<param name="Цвет">Серый</param>
+<param name="Высота сиденья стула">40 см</param>
+<param name="Допустимая нагрузка на стол">35 кг</param>
+<param name="Глубина стула">29 см</param>
+<param name="Длина стола">86 см</param>
+<param name="Ширина стола">67 см</param>
+<param name="Высота стола">67 см</param>
+<param name="Гарантия">14 дней</param>
+<param name="Чехол для хранения и транспортировки">Да</param>
 </offer>
 <offer id="HP-4-29L" available="true">
 <name>Подсвечник стеклянный 16.5 см на одну свечу подсвечник бокал на ножке декоративный прозрачный HP-4-29L</name>
