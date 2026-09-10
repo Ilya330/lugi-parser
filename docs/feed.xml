@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-09 20:25">
+<yml_catalog date="2026-09-10 02:24">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -4016,45 +4016,6 @@
 <param name="Тип блендера">Погружной</param>
 <param name="Тип управления">Механическое</param>
 </offer>
-<offer id="HP-4-465G" available="true">
-<name>Сковорода алюминиевая 3.5 литра глубокая со стеклянной крышкой Ø 28 см серая MGC HP-4-465G</name>
-<price>2379</price>
-<vendorprice>1092</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>140</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2906/skovoroda_alyuminievaya_3_5_litra_glubokaya_so_steklyannoy_kryshkoy_i_semnoy_ruchkoy_28_sm_seraya_mgc.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2906/skovoroda_alyuminievaya_3_5_litra_glubokaya_so_steklyannoy_kryshkoy_i_semnoy_ruchkoy_28_sm_seraya_mgc_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2906/skovoroda_alyuminievaya_3_5_litra_glubokaya_so_steklyannoy_kryshkoy_i_semnoy_ruchkoy_28_sm_seraya_mgc_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2906/skovoroda_alyuminievaya_3_5_litra_glubokaya_so_steklyannoy_kryshkoy_i_semnoy_ruchkoy_28_sm_seraya_mgc_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2906/skovoroda_alyuminievaya_3_5_litra_glubokaya_so_steklyannoy_kryshkoy_i_semnoy_ruchkoy_28_sm_seraya_mgc_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2906/skovoroda_alyuminievaya_3_5_litra_glubokaya_so_steklyannoy_kryshkoy_i_semnoy_ruchkoy_28_sm_seraya_mgc_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2906/skovoroda_alyuminievaya_3_5_litra_glubokaya_so_steklyannoy_kryshkoy_i_semnoy_ruchkoy_28_sm_seraya_mgc_6.jpg</picture>
-<vendor>MGC</vendor>
-<description><![CDATA[Алюминиевая сковорода с антипригарным покрытием станет незаменимым помощником на вашей кухне. Сковорода оснащена крышкой из жаропрочного стекла, которая гарантирует сохранение тепла и равномерное приготовление пищи. Крышка имеет отверстия для выхода пара, которые позволяют регулировать количество влаги в сковороде для достижения идеальных результатов приготовления. Сковорода с керамическим покрытием равномерно распределяет тепло и быстро готовит без риска пригорания. Удобные не нагревающиеся ручки защитят ваши руки от ожогов. Уникальная конструкция дна обеспечивает отличную теплопроводность и равномерное распределение температуры по всей поверхности.   Основные характеристики сковороды    Диаметр 28 см  Высота 7,5 см  Объем 3,5 л.  Толщина дна 5 мм.    Преимущества сковороды MGC     Подходит для газовых, электрических и индукционных плит;  Безопасное антипригарное покрытие, не содержащее вредных соединений;  Керамическое покрытие предотвращает прилипание пищи и обеспечивает равномерное распределение тепла;  Эргономичная ручка, которая не нагревается во время приготовления пищи.     Меры предосторожности при использовании.     Перед первым использованием вымойте сковороду в теплой воде с мягким моющим средством и губкой и вытрите насухо. После полного высыхания протрите антипригарное покрытие небольшим количеством растительного масла.  Используйте силиконовые или деревянные столовые приборы, чтобы защитить поверхность от царапин. Категорически не рекомендуется использовать металлические ложки или лопатки.  Чтобы избежать повреждений, мойте сковороду после полного остывания. Не используйте жесткие губки, щетки, абразивные пасты, чистящие порошки и агрессивные вещества.    Эта сковорода сочетает в себе высокую функциональность и стильный дизайн.]]></description>
-<quantity_in_stock>39</quantity_in_stock>
-<vendorCode>HP-4-465G</vendorCode>
-<param name="Материал">Алюминий</param>
-<param name="Антипригарное покрытие">Есть</param>
-<param name="Верхний диаметр посуды">28 см</param>
-<param name="Вес">2 кг</param>
-<param name="Высота стенок">7.5 см</param>
-<param name="Количество ручек">1</param>
-<param name="Крышка">жаропрочное стекло</param>
-<param name="Количество в наборе">1</param>
-<param name="Крышка с отверстием для выхода пара">Да</param>
-<param name="Съемная ручка">Да</param>
-<param name="Цвет">Серый</param>
-<param name="Индикатор нагрева">Нет</param>
-<param name="Тип посуды">Сковорода глубокая</param>
-<param name="Состояние">Новое</param>
-<param name="Материал ручек">Бакелит</param>
-<param name="Подходит для индукционных плит">Да</param>
-<param name="Форма">Круглая</param>
-<param name="Толщина дна">5 мм</param>
-<param name="Гарантия">14 дней</param>
-<param name="Толщина стенки">5 мм</param>
-<param name="Многослойное дно">Да</param>
-</offer>
 <offer id="HP-4-445R" available="true">
 <name>Алюминиевая кастрюля объемом 3 литра с крышкой Ø 20 (см), с антипригарным покрытием MGC HP-4-445R</name>
 <price>2409</price>
@@ -4126,6 +4087,45 @@
 <param name="Цвет">Серый</param>
 <param name="Индикатор нагрева">Нет</param>
 <param name="Тип посуды">Сковорода универсальная (классическая)</param>
+<param name="Состояние">Новое</param>
+<param name="Материал ручек">Бакелит</param>
+<param name="Подходит для индукционных плит">Да</param>
+<param name="Форма">Круглая</param>
+<param name="Толщина дна">5 мм</param>
+<param name="Гарантия">14 дней</param>
+<param name="Толщина стенки">5 мм</param>
+<param name="Многослойное дно">Да</param>
+</offer>
+<offer id="HP-4-465G" available="true">
+<name>Сковорода алюминиевая 3.5 литра глубокая со стеклянной крышкой Ø 28 см серая MGC HP-4-465G</name>
+<price>2379</price>
+<vendorprice>1092</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>140</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2906/skovoroda_alyuminievaya_3_5_litra_glubokaya_so_steklyannoy_kryshkoy_i_semnoy_ruchkoy_28_sm_seraya_mgc.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2906/skovoroda_alyuminievaya_3_5_litra_glubokaya_so_steklyannoy_kryshkoy_i_semnoy_ruchkoy_28_sm_seraya_mgc_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2906/skovoroda_alyuminievaya_3_5_litra_glubokaya_so_steklyannoy_kryshkoy_i_semnoy_ruchkoy_28_sm_seraya_mgc_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2906/skovoroda_alyuminievaya_3_5_litra_glubokaya_so_steklyannoy_kryshkoy_i_semnoy_ruchkoy_28_sm_seraya_mgc_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2906/skovoroda_alyuminievaya_3_5_litra_glubokaya_so_steklyannoy_kryshkoy_i_semnoy_ruchkoy_28_sm_seraya_mgc_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2906/skovoroda_alyuminievaya_3_5_litra_glubokaya_so_steklyannoy_kryshkoy_i_semnoy_ruchkoy_28_sm_seraya_mgc_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2906/skovoroda_alyuminievaya_3_5_litra_glubokaya_so_steklyannoy_kryshkoy_i_semnoy_ruchkoy_28_sm_seraya_mgc_6.jpg</picture>
+<vendor>MGC</vendor>
+<description><![CDATA[Алюминиевая сковорода с антипригарным покрытием станет незаменимым помощником на вашей кухне. Сковорода оснащена крышкой из жаропрочного стекла, которая гарантирует сохранение тепла и равномерное приготовление пищи. Крышка имеет отверстия для выхода пара, которые позволяют регулировать количество влаги в сковороде для достижения идеальных результатов приготовления. Сковорода с керамическим покрытием равномерно распределяет тепло и быстро готовит без риска пригорания. Удобные не нагревающиеся ручки защитят ваши руки от ожогов. Уникальная конструкция дна обеспечивает отличную теплопроводность и равномерное распределение температуры по всей поверхности.   Основные характеристики сковороды    Диаметр 28 см  Высота 7,5 см  Объем 3,5 л.  Толщина дна 5 мм.    Преимущества сковороды MGC     Подходит для газовых, электрических и индукционных плит;  Безопасное антипригарное покрытие, не содержащее вредных соединений;  Керамическое покрытие предотвращает прилипание пищи и обеспечивает равномерное распределение тепла;  Эргономичная ручка, которая не нагревается во время приготовления пищи.     Меры предосторожности при использовании.     Перед первым использованием вымойте сковороду в теплой воде с мягким моющим средством и губкой и вытрите насухо. После полного высыхания протрите антипригарное покрытие небольшим количеством растительного масла.  Используйте силиконовые или деревянные столовые приборы, чтобы защитить поверхность от царапин. Категорически не рекомендуется использовать металлические ложки или лопатки.  Чтобы избежать повреждений, мойте сковороду после полного остывания. Не используйте жесткие губки, щетки, абразивные пасты, чистящие порошки и агрессивные вещества.    Эта сковорода сочетает в себе высокую функциональность и стильный дизайн.]]></description>
+<quantity_in_stock>38</quantity_in_stock>
+<vendorCode>HP-4-465G</vendorCode>
+<param name="Материал">Алюминий</param>
+<param name="Антипригарное покрытие">Есть</param>
+<param name="Верхний диаметр посуды">28 см</param>
+<param name="Вес">2 кг</param>
+<param name="Высота стенок">7.5 см</param>
+<param name="Количество ручек">1</param>
+<param name="Крышка">жаропрочное стекло</param>
+<param name="Количество в наборе">1</param>
+<param name="Крышка с отверстием для выхода пара">Да</param>
+<param name="Съемная ручка">Да</param>
+<param name="Цвет">Серый</param>
+<param name="Индикатор нагрева">Нет</param>
+<param name="Тип посуды">Сковорода глубокая</param>
 <param name="Состояние">Новое</param>
 <param name="Материал ручек">Бакелит</param>
 <param name="Подходит для индукционных плит">Да</param>
@@ -10010,33 +10010,6 @@ Sokany SK-1722 имеет 2 скорости, которые позволяют 
 <param name="Мощность (Вт)">300</param>
 <param name="Цвет">Розовый</param>
 </offer>
-<offer id="SK201AW" available="true">
-<name>Капучинатор для молока Sokany белый SK201AW</name>
-<price>449</price>
-<vendorprice>173</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>47</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/141/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_201a.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/141/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_201a_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/141/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_201a_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/141/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_201a_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/141/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_201a_5.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Sokany SK-1772 - это бесшумный аккумуляторный капучинатор, который поможет легко и быстро приготовить кофе с пышной молочной пенкой. Благодаря мощности 20 Вт и венчику из нержавеющей стали можно за считанные секунды взбить молоко в густую пену для капучино, латте или других кофейных напитков. Капучинатор оборудован аккумулятором емкостью 1200 мАч, что обеспечивает до 30 минут автономной работы. Он также имеет 3 режима скорости, что позволяет регулировать плотность пены.   Технические характеристики:.  Мощность: 20 Вт Частота: 50/60 Гц Емкость аккумулятора: 1200 мАч Время зарядки:6 часов]]></description>
-<quantity_in_stock>4</quantity_in_stock>
-<vendorCode>SK201AW</vendorCode>
-<param name="Тип">Бытовой</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Питание">Сеть 220В</param>
-<param name="Количество насадок">2</param>
-<param name="Количество скоростей">3</param>
-<param name="Цвет">Белый</param>
-<param name="Аккумулятор">1200 мАч</param>
-<param name="Тип миксера">Ручной</param>
-<param name="Время зарядки">6 ч</param>
-<param name="Гарантия">6 мес</param>
-<param name="Потребляємая мощность">20 Вт</param>
-</offer>
 <offer id="HP-4-420CO" available="true">
 <name>Алюминиевая сковорода 2,8 л с мраморным антипригарным покрытием Ø 28 см, толстое дно MGC кофейный HP-4-420CO</name>
 <price>1679</price>
@@ -10141,6 +10114,33 @@ Sokany SK-1722 имеет 2 скорости, которые позволяют 
 <param name="Материал корпуса">Пластик</param>
 <param name="Мощность">1400 Вт</param>
 <param name="Объем">700 мл</param>
+</offer>
+<offer id="SK201AW" available="true">
+<name>Капучинатор для молока Sokany белый SK201AW</name>
+<price>449</price>
+<vendorprice>173</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>47</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/141/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_201a.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/141/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_201a_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/141/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_201a_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/141/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_201a_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/141/kapuchinator_akkumulyatornyy_1200_mach_besshumnyy_s_usb_zaryadkoy_2_nasadki_sokany_sk_201a_5.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Sokany SK-1772 - это бесшумный аккумуляторный капучинатор, который поможет легко и быстро приготовить кофе с пышной молочной пенкой. Благодаря мощности 20 Вт и венчику из нержавеющей стали можно за считанные секунды взбить молоко в густую пену для капучино, латте или других кофейных напитков. Капучинатор оборудован аккумулятором емкостью 1200 мАч, что обеспечивает до 30 минут автономной работы. Он также имеет 3 режима скорости, что позволяет регулировать плотность пены.   Технические характеристики:.  Мощность: 20 Вт Частота: 50/60 Гц Емкость аккумулятора: 1200 мАч Время зарядки:6 часов]]></description>
+<quantity_in_stock>3</quantity_in_stock>
+<vendorCode>SK201AW</vendorCode>
+<param name="Тип">Бытовой</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Питание">Сеть 220В</param>
+<param name="Количество насадок">2</param>
+<param name="Количество скоростей">3</param>
+<param name="Цвет">Белый</param>
+<param name="Аккумулятор">1200 мАч</param>
+<param name="Тип миксера">Ручной</param>
+<param name="Время зарядки">6 ч</param>
+<param name="Гарантия">6 мес</param>
+<param name="Потребляємая мощность">20 Вт</param>
 </offer>
 <offer id="SK1733" available="true">
 <name>Капучинатор ручной Sokany SK-1733, белый</name>
@@ -12117,7 +12117,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_1.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Лампочка на аккумуляторах с откидной крышкой и встроенным отсеком для батарей — это эстетичное и функциональное решение для вашего дома, дачи, кемпинга или гаража. Она совмещает в себе дизайн классической лампы и современные технологии автономного освещения. Уникальный корпус с легким доступом к аккумуляторам делает обслуживание быстрым и удобным.  Характеристики лампочки   тип: аварийная лампочка со встроенным аккумулятором; встроенный отсек для двух аккумуляторов; высота лампочки 16 см; диаметр 7 см; тип цоколя E27; мощность 15/20 Вт; напряжение 85-265 В; время работы 3-4 часа; время зарядки 4 часа; частота 50/60 Гц; корпус: ABS-пластик с откидной панелью для замены батарей; цвет: белый глянец.   Преимущества электролампочки   Быстрый доступ к аккумуляторам — удобная крышка для замены батарей за секунды. Работает при отключении света — автономная система освещения на случай ЧП. Универсальное применение — подходит для любого помещения и уличного освещения.   Эта электролампочка с аккумулятором станет вашим верным помощником в ситуациях, когда внезапно отключается свет. Незаменима для дачников, туристов, жителей с нестабильным электроснабжением и всех, кто ценит автономность и комфорт.  Сделайте свой дом независимым от сети — добавьте в корзину аварийную лампочку на аккумуляторах уже сегодня и будьте готовы к любой непредвиденной ситуации.]]></description>
-<quantity_in_stock>4736</quantity_in_stock>
+<quantity_in_stock>4735</quantity_in_stock>
 <vendorCode>HP-5-31</vendorCode>
 <param name="Мощность">15 / 20 Вт</param>
 <param name="Диаметр">7</param>
@@ -12151,7 +12151,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/111/USB200L20MGW-1%281%29.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Гирлянда USB роса идеально подходит для окон, дверей, стен, картин, елок, фотозоны. Гирлянда оснащена 100 яркими светодиодами, которые обеспечивают превосходное освещение.   Основные характеристики гирлянды роса   гирлянда роса 10 метров; 100 led светодиодов;  класс защиты IP44.   Особенностью этой гирлянды является ее питание от usb, что обеспечивает максимальную мобильность и удобство в эксплуатации. Новогодняя гирлянда Роса - это не только декоративный элемент, но и практичный инструмент для создания особого атмосферного света в вашем доме или на мероприятии любого уровня.  Купить гирлянду капли росы 10 метров можно с доставкой по всей Украине. Гирлянда подлежит возврату только в том случае, когда ее исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>2199</quantity_in_stock>
+<quantity_in_stock>2198</quantity_in_stock>
 <vendorCode>USB100L10MWW</vendorCode>
 <param name="Режим работы">Динамический</param>
 <param name="Количество светодиодов">100</param>
@@ -12426,7 +12426,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/124/100L10MWW-3%281%29.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Гирлянда на батарейках роса идеально подходит для окон, дверей, стен, картин, елок, фотозоны. Гирлянда оснащена 100 яркими светодиодами, которые обеспечивают превосходное освещение.   Основные характеристики гирлянды роса   гирлянда роса 10 метров; 100 led светодиодов; класс защиты IP65.   Особенностью этой гирлянды является ее питание от трех батареек типа АА, что обеспечивает максимальную мобильность и удобство в эксплуатации. Не нужно искать электрическую розетку или подключать ее к сети - просто вставьте батарейки, и гирлянда готова к использованию.  Купить гирлянду капли росы можно с доставкой по всей Украине. Гирлянда подлежит возврату только в том случае, когда ее исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>1485</quantity_in_stock>
+<quantity_in_stock>1484</quantity_in_stock>
 <vendorCode>100L10MWW</vendorCode>
 <param name="Вес">100 г</param>
 <param name="Количество режимов свечения">8</param>
@@ -13021,7 +13021,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5735/pakety_dlya_vakuumatora_15_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Вакуумные пакеты 15*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования.  Основные характеристики пакетов для вакууматора:  размер: 15*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен.  Преимущества:  Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки.  Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.]]></description>
-<quantity_in_stock>946</quantity_in_stock>
+<quantity_in_stock>945</quantity_in_stock>
 <vendorCode>HP-11-20</vendorCode>
 <param name="Материал">Полиэтилен</param>
 <param name="Вес">100</param>
@@ -14153,7 +14153,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/53723/4180/pakety_dlya_vakuumatora_19_15_sm_pakety_dlya_vakuumirovaniya_produktov_100_sht.png</picture>
 <vendor>Huizhou Shunzhou Technology</vendor>
 <description><![CDATA[Вакуумные пакеты 19&times;15 см (100 шт.) &ndash; это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи.  Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования.   Основные характеристики пакетов для вакууматора:   размер: 19&times;15 см; количество в упаковке: 100 штук; материал: пищевой полиэтилен.   Преимущества:   Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность &ndash; подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки.   Вакуумные пакеты &ndash; это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.]]></description>
-<quantity_in_stock>534</quantity_in_stock>
+<quantity_in_stock>533</quantity_in_stock>
 <vendorCode>HP-11-6</vendorCode>
 <param name="Тип">Набор пакетов</param>
 <param name="Материал">Полиэтилен</param>
@@ -20850,7 +20850,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 </li><li>Наличие зубцов на совке: да
 </li><li>Держатель для щетки: да
 </li><li>Особенности: эргономичная форма, плотное прилегание совка к полу, вертикальное хранение</li></ul>]]></description>
-<quantity_in_stock>215</quantity_in_stock>
+<quantity_in_stock>214</quantity_in_stock>
 <vendorCode>HP-35015-8G</vendorCode>
 <param name="Вес">800 г</param>
 <param name="Гарантийный срок">14 дней</param>
@@ -24873,37 +24873,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Тип термоса">Питьевой</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-DS3-9" available="true">
-<name>Газовая горелка 2800 Вт HP-DS3-9 таганок газовый туристический красный</name>
-<price>409</price>
-<vendorprice>318</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>164</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-DS3-9/HP-DS3-9-6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-DS3-9/HP-DS3-9-2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-DS3-9/HP-DS3-9-8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-DS3-9/HP-DS3-9-4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-DS3-9/HP-DS3-9-3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-DS3-9/HP-DS3-9-5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-DS3-9/HP-DS3-9-1.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Самое популярное решение для путешественников, рыбаков и любителей быстрых пикников. Главная особенность этой модели &mdash; складная ветрозащита из нержавеющей стали, которая позволяет эффективно готовить даже при сильном ветре, не тратя лишний газ.  Преимущества:   Ветрозащита &laquo;лепестки&raquo;: Стальные лепестки раскрываются под диаметр посуды, создавая закрытую камеру сгорания. Это значительно повышает КПД и защищает пламя от задувания. Оптимальная мощность: 2800 Вт в таком компактном корпусе позволяют вскипятить литр воды за 3&ndash;5 минут. Пьезоподжиг: горелка запускается нажатием одной кнопки на корпусе. Точная регулировка: Удобный поворотный клапан позволяет выставить идеальное пламя от режима &laquo;турбо&raquo; до медленного тления.   Конструкция и использование:   Складные ножки: Обеспечивают устойчивость на любой поверхности, будь то камни, песок или трава. Компактная сборка: В собранном виде &laquo;лепестки&raquo; плотно прилегают к корпусу, превращая горелку в небольшой пакет, который поместится в любой рюкзак. Тип топлива: Рассчитана на работу с самыми доступными цанговыми (&laquo;дихлофосными&raquo;) баллонами. Баллон просто вставляется в боковой разъем и фиксируется поворотом.]]></description>
-<quantity_in_stock>171</quantity_in_stock>
-<vendorCode>HP-DS3-9</vendorCode>
-<param name="Высота">120</param>
-<param name="Гарантийный срок">3</param>
-<param name="Типы топлива">Газ</param>
-<param name="Тип газа">Пропан/Бутан</param>
-<param name="Ширина">210</param>
-<param name="Пьезорозжиг">Да</param>
-<param name="Объем">0.5</param>
-<param name="Тип баллона">Цанговый</param>
-<param name="Материал газовой горелки">Алюминий</param>
-<param name="Цвет">Красный</param>
-<param name="Длина">210</param>
-<param name="Номинальная мощность">2800</param>
-<param name="Оптимально для количества человек">1</param>
-</offer>
 <offer id="LU-015DGR" available="true">
 <name>Палатка душ-туалет для кемпинга автомат 120×120×190 (см) тент для душа и туалета туристический LU-015DGR Хаки</name>
 <price>1899</price>
@@ -25084,6 +25053,37 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Состояние">Новое</param>
 <param name="Тип питания">Аккумулятор</param>
 <param name="Гарантия">3 месяца</param>
+</offer>
+<offer id="HP-DS3-9" available="true">
+<name>Газовая горелка 2800 Вт HP-DS3-9 таганок газовый туристический красный</name>
+<price>409</price>
+<vendorprice>318</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>164</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-DS3-9/HP-DS3-9-6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-DS3-9/HP-DS3-9-2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-DS3-9/HP-DS3-9-8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-DS3-9/HP-DS3-9-4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-DS3-9/HP-DS3-9-3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-DS3-9/HP-DS3-9-5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-DS3-9/HP-DS3-9-1.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Самое популярное решение для путешественников, рыбаков и любителей быстрых пикников. Главная особенность этой модели &mdash; складная ветрозащита из нержавеющей стали, которая позволяет эффективно готовить даже при сильном ветре, не тратя лишний газ.  Преимущества:   Ветрозащита &laquo;лепестки&raquo;: Стальные лепестки раскрываются под диаметр посуды, создавая закрытую камеру сгорания. Это значительно повышает КПД и защищает пламя от задувания. Оптимальная мощность: 2800 Вт в таком компактном корпусе позволяют вскипятить литр воды за 3&ndash;5 минут. Пьезоподжиг: горелка запускается нажатием одной кнопки на корпусе. Точная регулировка: Удобный поворотный клапан позволяет выставить идеальное пламя от режима &laquo;турбо&raquo; до медленного тления.   Конструкция и использование:   Складные ножки: Обеспечивают устойчивость на любой поверхности, будь то камни, песок или трава. Компактная сборка: В собранном виде &laquo;лепестки&raquo; плотно прилегают к корпусу, превращая горелку в небольшой пакет, который поместится в любой рюкзак. Тип топлива: Рассчитана на работу с самыми доступными цанговыми (&laquo;дихлофосными&raquo;) баллонами. Баллон просто вставляется в боковой разъем и фиксируется поворотом.]]></description>
+<quantity_in_stock>169</quantity_in_stock>
+<vendorCode>HP-DS3-9</vendorCode>
+<param name="Высота">120</param>
+<param name="Гарантийный срок">3</param>
+<param name="Типы топлива">Газ</param>
+<param name="Тип газа">Пропан/Бутан</param>
+<param name="Ширина">210</param>
+<param name="Пьезорозжиг">Да</param>
+<param name="Объем">0.5</param>
+<param name="Тип баллона">Цанговый</param>
+<param name="Материал газовой горелки">Алюминий</param>
+<param name="Цвет">Красный</param>
+<param name="Длина">210</param>
+<param name="Номинальная мощность">2800</param>
+<param name="Оптимально для количества человек">1</param>
 </offer>
 <offer id="HP-34-82" available="true">
 <name>Набор стеклянных трубочек 4 штуки с щеточкой для очистки экологичные соломинки для коктейлей напитков HP-34-82</name>
@@ -25452,26 +25452,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Форма лампочки">Классическая</param>
 <param name="Форма сечения">Круглая</param>
 </offer>
-<offer id="LB-1570G" available="true">
-<name>Блюдо сервировочное фарфоровое 20 см на подставке, золото</name>
-<url>https://lugi.com.ua/ru/tar-lka-lb-1570g/</url>
-<price>1329</price>
-<vendorprice>832</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>154</categoryId>
-<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/blyuda/LB-1570G/Bez-nazvi-1-600x600.jpg</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/blyuda/LB-1570G/LB-1570G(3)-600x600.png</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/blyuda/LB-1570G/LB-1570G(2)-600x600.png</picture>
-<description><![CDATA[<p>Элегантное фарфоровое блюдо на металлической подставке — идеальное решение для подачи десертов, закусок и фруктов. Оно сочетает лаконичный скандинавский дизайн и практичность. Качественное глазурованное покрытие легко чистится и не впитывает запахи, а прочная подставка из металла обеспечивает устойчивость. Оптимальные размеры делают изделие идеальным для порционных десертов, мини-тартов, закусок или подачи соусов и дипов. Подставка приподнимает блюдо над поверхностью, что выгодно подчёркивает презентацию блюд и защищает поверхность стола.</p><p><b>Преимущества</b></p><ol><li>Стильная подача: придаёт праздничный вид любому столу</li><li>Универсальность: подойдёт для десертов, закусок, фруктов и сервировки на фуршетах</li><li>Практичность: лёгкая очистка и надежная конструкция</li><li>Компактный размер: удобно хранить и использовать для маленьких порций</li></ol><p><b>Идеи использования:</b></p><ul><li>Подача мини-тортиков и пирожных на праздник</li><li>Сервировка закусок и сыра на фуршетах</li><li>Праздничная подача фруктов и ягод</li><li>Стильная подставка для свечи или декоративных композиций (не оставляйте без присмотра при использовании со свечой)</li></ul><p><b>Характеристики:</b></p><ul><li>Материал: фарфор</li><li>Объем: 250 мл</li><li>Диаметр: 20 см</li><li>Высота стенок: 2 см</li><li>Высота с подставкой: 9 см</li><li>Вес: 900 г</li></ul>]]></description>
-<quantity_in_stock>166</quantity_in_stock>
-<vendorCode>LB-1570G</vendorCode>
-<param name="Вес">900 г</param>
-<param name="Высота">9 см</param>
-<param name="Гарантийный срок">14 дней</param>
-<param name="Диаметр">20 см</param>
-<param name="Количество секций">1</param>
-<param name="Материал">Фарфор/Металл</param>
-</offer>
 <offer id="CF300L30MWBL" available="true">
 <name>Гирлянда Нить уличная 30 м 300 LED белый провод Синий CF300L30MWBL</name>
 <price>1349</price>
@@ -25508,6 +25488,26 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Форма лампочки">Классическая</param>
 <param name="Форма сечения">Круглая</param>
 <param name="Цветовая гамма">Синий</param>
+</offer>
+<offer id="LB-1570G" available="true">
+<name>Блюдо сервировочное фарфоровое 20 см на подставке, золото</name>
+<url>https://lugi.com.ua/ru/tar-lka-lb-1570g/</url>
+<price>1329</price>
+<vendorprice>832</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>154</categoryId>
+<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/blyuda/LB-1570G/Bez-nazvi-1-600x600.jpg</picture>
+<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/blyuda/LB-1570G/LB-1570G(3)-600x600.png</picture>
+<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/blyuda/LB-1570G/LB-1570G(2)-600x600.png</picture>
+<description><![CDATA[<p>Элегантное фарфоровое блюдо на металлической подставке — идеальное решение для подачи десертов, закусок и фруктов. Оно сочетает лаконичный скандинавский дизайн и практичность. Качественное глазурованное покрытие легко чистится и не впитывает запахи, а прочная подставка из металла обеспечивает устойчивость. Оптимальные размеры делают изделие идеальным для порционных десертов, мини-тартов, закусок или подачи соусов и дипов. Подставка приподнимает блюдо над поверхностью, что выгодно подчёркивает презентацию блюд и защищает поверхность стола.</p><p><b>Преимущества</b></p><ol><li>Стильная подача: придаёт праздничный вид любому столу</li><li>Универсальность: подойдёт для десертов, закусок, фруктов и сервировки на фуршетах</li><li>Практичность: лёгкая очистка и надежная конструкция</li><li>Компактный размер: удобно хранить и использовать для маленьких порций</li></ol><p><b>Идеи использования:</b></p><ul><li>Подача мини-тортиков и пирожных на праздник</li><li>Сервировка закусок и сыра на фуршетах</li><li>Праздничная подача фруктов и ягод</li><li>Стильная подставка для свечи или декоративных композиций (не оставляйте без присмотра при использовании со свечой)</li></ul><p><b>Характеристики:</b></p><ul><li>Материал: фарфор</li><li>Объем: 250 мл</li><li>Диаметр: 20 см</li><li>Высота стенок: 2 см</li><li>Высота с подставкой: 9 см</li><li>Вес: 900 г</li></ul>]]></description>
+<quantity_in_stock>165</quantity_in_stock>
+<vendorCode>LB-1570G</vendorCode>
+<param name="Вес">900 г</param>
+<param name="Высота">9 см</param>
+<param name="Гарантийный срок">14 дней</param>
+<param name="Диаметр">20 см</param>
+<param name="Количество секций">1</param>
+<param name="Материал">Фарфор/Металл</param>
 </offer>
 <offer id="FM-11A" available="true">
 <name>Чашка фарфоровая 500 (мл) оригинальная кружка на подарок чашка для чая и кофе Черный FM-11A</name>
@@ -31264,27 +31264,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Материал плафона, подвесок">Пластик</param>
 <param name="Материал каркаса">пластик</param>
 </offer>
-<offer id="173-8W" available="true">
-<name>Полотенце-игрушка для рук детское 20*26 см, белый Colorful Home 173-8W</name>
-<price>49</price>
-<vendorprice>42</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>64</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7399/polotentse_igrushka_dlya_ruk_detskoe_20_26_sm_belyy_hlopkovoe_dlya_vannoy_kuhni_doma.png</picture>
-<vendor>Colorful Home</vendor>
-<description><![CDATA[Полотенце-игрушка для рук 20×26 см из кораллового флиса — оригинальный и практичный аксессуар для повседневного использования. Мягкий коралловый флис приятен на ощупь, хорошо впитывает влагу и быстро сохнет. Необычный дизайн в форме игрушки придает изделию привлекательный вид, а подвесная петля обеспечивает удобное хранение и быстрый доступ во время использования.  Преимущества ткани:   Мягкий и нежный коралловый флис  Хорошо впитывает влагу  Быстро высыхает после использования  Приятный на ощупь материал  Подходит для ежедневного использования   Размер:   20×26 см   Правила ухода:   Стирать при температуре до 30°C  Не использовать отбеливатели  Не гладить  Сушить естественным способом   Как ухаживать  Стирайте при температуре до 40°C. Не используйте отбеливатель. Сушите при невысокой температуре. Гладьте при низкой температуре.  Общие рекомендации Подходит для ежедневного использования — в зависимости от назначения товара.]]></description>
-<quantity_in_stock>119</quantity_in_stock>
-<vendorCode>173-8W</vendorCode>
-<param name="Материал">Кораловий фліс</param>
-<param name="Размеры">20*26 см</param>
-<param name="Назначение">для витирання рук</param>
-<param name="Дизайн">у формі іграшки</param>
-<param name="Багаторазове використання">Да</param>
-<param name="Особенности">підвісна петелька</param>
-<param name="Количество в наборе">1</param>
-<param name="Цвет">Белый</param>
-<param name="Состояние">Новое</param>
-</offer>
 <offer id="173-8Y" available="true">
 <name>Полотенце-игрушка для рук детское 20*26 см, желтый Colorful Home 173-8Y</name>
 <price>49</price>
@@ -31703,6 +31682,27 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Ширина">180</param>
 <param name="Питание">Аккумулятор</param>
 <param name="Длина">850</param>
+</offer>
+<offer id="173-8W" available="true">
+<name>Полотенце-игрушка для рук детское 20*26 см, белый Colorful Home 173-8W</name>
+<price>49</price>
+<vendorprice>42</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>64</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7399/polotentse_igrushka_dlya_ruk_detskoe_20_26_sm_belyy_hlopkovoe_dlya_vannoy_kuhni_doma.png</picture>
+<vendor>Colorful Home</vendor>
+<description><![CDATA[Полотенце-игрушка для рук 20×26 см из кораллового флиса — оригинальный и практичный аксессуар для повседневного использования. Мягкий коралловый флис приятен на ощупь, хорошо впитывает влагу и быстро сохнет. Необычный дизайн в форме игрушки придает изделию привлекательный вид, а подвесная петля обеспечивает удобное хранение и быстрый доступ во время использования.  Преимущества ткани:   Мягкий и нежный коралловый флис  Хорошо впитывает влагу  Быстро высыхает после использования  Приятный на ощупь материал  Подходит для ежедневного использования   Размер:   20×26 см   Правила ухода:   Стирать при температуре до 30°C  Не использовать отбеливатели  Не гладить  Сушить естественным способом   Как ухаживать  Стирайте при температуре до 40°C. Не используйте отбеливатель. Сушите при невысокой температуре. Гладьте при низкой температуре.  Общие рекомендации Подходит для ежедневного использования — в зависимости от назначения товара.]]></description>
+<quantity_in_stock>118</quantity_in_stock>
+<vendorCode>173-8W</vendorCode>
+<param name="Материал">Кораловий фліс</param>
+<param name="Размеры">20*26 см</param>
+<param name="Назначение">для витирання рук</param>
+<param name="Дизайн">у формі іграшки</param>
+<param name="Багаторазове використання">Да</param>
+<param name="Особенности">підвісна петелька</param>
+<param name="Количество в наборе">1</param>
+<param name="Цвет">Белый</param>
+<param name="Состояние">Новое</param>
 </offer>
 <offer id="HP-34-51" available="true">
 <name>Лимонадница стеклянная с краном, 1,6 л на металлической подставке Yiwu HP-34-51</name>
@@ -36233,32 +36233,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-41-3" available="true">
-<name>Корзина для белья на подставке 36×30×55 (см) мягкая HP-41-3</name>
-<price>279</price>
-<vendorprice>217</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>60</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-41-3/HP-41-3-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-41-3/HP-41-3-2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-41-3/HP-41-3-3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-41-3/HP-41-3-4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-41-3/HP-41-3-5.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Корзина для белья с металлическим каркасом &mdash; практичное и стильное решение для хранения. Лёгкая тканевая основа в сочетании с прочным каркасом делает конструкцию устойчивой и удобной в эксплуатации. Её универсальный дизайн позволит гармонично разместить корзину в ванной, спальне или гардеробной.  Основные характеристики корзины для белья:   Размер: 36&times;30&times;55 см; Материал: текстиль + металл; Объем: 50 л.   Особенности бельевой корзины для грязного белья:   Вместительная и лёгкая. Прочная складная конструкция. Удобные ручки для переноски. Легко чистится и быстро сохнет.   Такая корзина для белья станет незаменимым помощником в быту, сочетая функциональность, практичность и стиль. Она позволит поддерживать порядок, не занимая лишнего места, и будет гармонично смотреться в любой комнате вашего дома.]]></description>
-<quantity_in_stock>99</quantity_in_stock>
-<vendorCode>HP-41-3</vendorCode>
-<param name="Материал">Текстиль/Металл</param>
-<param name="Высота">55 см</param>
-<param name="Вес">600 г</param>
-<param name="Крышка">Нет</param>
-<param name="Ширина">30 см</param>
-<param name="Объем">50 л</param>
-<param name="Цвет">Белый</param>
-<param name="Длина">36 см</param>
-<param name="Форма">Прямоугольная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-11-18" available="true">
 <name>Вакууматор бытовой + 10 пакетов  120 Вт 5 режимов работы Белый HP-11-18</name>
 <price>2029</price>
@@ -36609,6 +36583,32 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Комплектация ведром">Нет</param>
 <param name="Длина насадки">43</param>
 <param name="Ширина насадки">13</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-41-3" available="true">
+<name>Корзина для белья на подставке 36×30×55 (см) мягкая HP-41-3</name>
+<price>279</price>
+<vendorprice>217</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>60</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-41-3/HP-41-3-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-41-3/HP-41-3-2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-41-3/HP-41-3-3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-41-3/HP-41-3-4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-41-3/HP-41-3-5.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Корзина для белья с металлическим каркасом &mdash; практичное и стильное решение для хранения. Лёгкая тканевая основа в сочетании с прочным каркасом делает конструкцию устойчивой и удобной в эксплуатации. Её универсальный дизайн позволит гармонично разместить корзину в ванной, спальне или гардеробной.  Основные характеристики корзины для белья:   Размер: 36&times;30&times;55 см; Материал: текстиль + металл; Объем: 50 л.   Особенности бельевой корзины для грязного белья:   Вместительная и лёгкая. Прочная складная конструкция. Удобные ручки для переноски. Легко чистится и быстро сохнет.   Такая корзина для белья станет незаменимым помощником в быту, сочетая функциональность, практичность и стиль. Она позволит поддерживать порядок, не занимая лишнего места, и будет гармонично смотреться в любой комнате вашего дома.]]></description>
+<quantity_in_stock>98</quantity_in_stock>
+<vendorCode>HP-41-3</vendorCode>
+<param name="Материал">Текстиль/Металл</param>
+<param name="Высота">55 см</param>
+<param name="Вес">600 г</param>
+<param name="Крышка">Нет</param>
+<param name="Ширина">30 см</param>
+<param name="Объем">50 л</param>
+<param name="Цвет">Белый</param>
+<param name="Длина">36 см</param>
+<param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-19-TH-1" available="true">
@@ -47669,28 +47669,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Глубина вазы">140</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-11-21" available="true">
-<name>Пакеты для вакууматора 20*500 см пакеты для вакуумирования продуктов в рулоне HP-11-21</name>
-<price>109</price>
-<vendorprice>93</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>14</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5736/pakety_dlya_vakuumatora_20_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5736/pakety_dlya_vakuumatora_20_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.png</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Вакуумные пакеты 20*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования.  Основные характеристики пакетов для вакууматора:  размер: 20*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен.  Преимущества:  Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки.  Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.]]></description>
-<quantity_in_stock>64</quantity_in_stock>
-<vendorCode>HP-11-21</vendorCode>
-<param name="Материал">Полиэтилен</param>
-<param name="Вес">200</param>
-<param name="Ширина">500</param>
-<param name="Применение">Универсальное</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Длина">20</param>
-<param name="Наличие индикатора">Нет</param>
-<param name="Комплектация насосом">Нет</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="FM-CS-9C" available="true">
 <name>Супница фарфоровая Christmas новогодняя  800 (мл) с крышкой Yiwu FM-CS-9C</name>
 <price>449</price>
@@ -48963,6 +48941,28 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Ситечко">Нет</param>
 <param name="Цвет">Прозрачный</param>
 <param name="Тип емкости">Кружка</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-11-21" available="true">
+<name>Пакеты для вакууматора 20*500 см пакеты для вакуумирования продуктов в рулоне HP-11-21</name>
+<price>109</price>
+<vendorprice>93</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>14</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5736/pakety_dlya_vakuumatora_20_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5736/pakety_dlya_vakuumatora_20_5_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.png</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Вакуумные пакеты 20*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования.  Основные характеристики пакетов для вакууматора:  размер: 20*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен.  Преимущества:  Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки.  Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.]]></description>
+<quantity_in_stock>61</quantity_in_stock>
+<vendorCode>HP-11-21</vendorCode>
+<param name="Материал">Полиэтилен</param>
+<param name="Вес">200</param>
+<param name="Ширина">500</param>
+<param name="Применение">Универсальное</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Длина">20</param>
+<param name="Наличие индикатора">Нет</param>
+<param name="Комплектация насосом">Нет</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-19-50N" available="true">
@@ -51262,26 +51262,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Ручка">Жаропрочное стекло</param>
 <param name="Цвет">Прозрачный</param>
 </offer>
-<offer id="503-73-A-72GB" available="true">
-<name>Банное полотенце 70×140 см махровое темно-серый Colorful Home 503-73-A-72GB</name>
-<price>499</price>
-<vendorprice>386</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>129</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7310/bannoe_polotentse_70_140_sm_mahrovoe_temno_seryy.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7310/bannoe_polotentse_70_140_sm_mahrovoe_temno_seryy_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7310/bannoe_polotentse_70_140_sm_mahrovoe_temno_seryy_2.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7310/bannoe_polotentse_70_140_sm_mahrovoe_temno_seryy_3.png</picture>
-<vendor>Colorful Home</vendor>
-<description><![CDATA[Банное махровое полотенце 70×140 см — удобное полотенце для повседневного использования, которое обеспечивает комфорт после душа, ванны или посещения бассейна. Махровая ткань имеет мягкую и пушистую структуру, хорошо впитывает влагу, быстро высыхает и сохраняет приятную текстуру даже после многократных стирок. Оптимальный размер позволяет комфортно обернуть тело и обеспечивает приятное ощущение тепла. Преимущества ткани Мягкая махровая структура Высокая впитывающая способность  Хорошая воздухопроницаемость Износостойкость и долговечность Комфорт в повседневном использовании Сохранение формы после многократных стирок  Размер 70×140 см Правила ухода  Стирать при температуре 40–60°C Использовать деликатные средства для стирки Не применять агрессивные отбеливатели Сушить естественным способом или при низкой температуре Гладить при необходимости на среднем режиме]]></description>
-<quantity_in_stock>55</quantity_in_stock>
-<vendorCode>503-73-A-72GB</vendorCode>
-<param name="Назначение полотенца">Банное</param>
-<param name="Ширина">70</param>
-<param name="Тип ткани">Махра</param>
-<param name="Длина">140</param>
-<param name="Комплектация">Один предмет</param>
-</offer>
 <offer id="YRUR6" available="true">
 <name>Набор кухонных принадлежностей на подставке 6 штук кухонные аксессуары Мрамор YRUR6</name>
 <price>1109</price>
@@ -51879,6 +51859,26 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Объем">2.5</param>
 <param name="Ручка">Дерево</param>
 <param name="Цвет">Прозрачный</param>
+</offer>
+<offer id="503-73-A-72GB" available="true">
+<name>Банное полотенце 70×140 см махровое темно-серый Colorful Home 503-73-A-72GB</name>
+<price>499</price>
+<vendorprice>386</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>129</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7310/bannoe_polotentse_70_140_sm_mahrovoe_temno_seryy.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7310/bannoe_polotentse_70_140_sm_mahrovoe_temno_seryy_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7310/bannoe_polotentse_70_140_sm_mahrovoe_temno_seryy_2.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7310/bannoe_polotentse_70_140_sm_mahrovoe_temno_seryy_3.png</picture>
+<vendor>Colorful Home</vendor>
+<description><![CDATA[Банное махровое полотенце 70×140 см — удобное полотенце для повседневного использования, которое обеспечивает комфорт после душа, ванны или посещения бассейна. Махровая ткань имеет мягкую и пушистую структуру, хорошо впитывает влагу, быстро высыхает и сохраняет приятную текстуру даже после многократных стирок. Оптимальный размер позволяет комфортно обернуть тело и обеспечивает приятное ощущение тепла. Преимущества ткани Мягкая махровая структура Высокая впитывающая способность  Хорошая воздухопроницаемость Износостойкость и долговечность Комфорт в повседневном использовании Сохранение формы после многократных стирок  Размер 70×140 см Правила ухода  Стирать при температуре 40–60°C Использовать деликатные средства для стирки Не применять агрессивные отбеливатели Сушить естественным способом или при низкой температуре Гладить при необходимости на среднем режиме]]></description>
+<quantity_in_stock>54</quantity_in_stock>
+<vendorCode>503-73-A-72GB</vendorCode>
+<param name="Назначение полотенца">Банное</param>
+<param name="Ширина">70</param>
+<param name="Тип ткани">Махра</param>
+<param name="Длина">140</param>
+<param name="Комплектация">Один предмет</param>
 </offer>
 <offer id="503-106-M-336W" available="true">
 <name>Полотенце для кухни 34*74 см из микрофибры белый Colorful Home 503-106-M-336W</name>
@@ -53073,38 +53073,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Количество в наборе">2</param>
 <param name="Длина">80/50</param>
 </offer>
-<offer id="HPBH17201W" available="true">
-<name>Увлажнитель воздуха Bear 220ml для детской комнаты белый HPBH17201W</name>
-<price>179</price>
-<vendorprice>136</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>44</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17201/uvlazhnitel_vozduha_dlya_detskoy_komnaty_mishka_220_ml_belyy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17201/6%282%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17201/2%282%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17201/17.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17201/3%283%29.jpg</picture>
-<vendor>Happy Life</vendor>
-<description><![CDATA[Увлажнитель воздуха для детской комнаты в виде милого мишки создаст комфортную и заботливую атмосферу для вашего малыша. Этот портативный увлажнитель легко подключается к любому USB-порту, что делает его удобным для использования дома, в автомобиле или даже в путешествиях.  С его вместимостью 220 мл увлажнитель обеспечивает достаточное количество влаги для комфортного пребывания в помещении. Благодаря интегрированному ароматическому диффузору, вы можете добавить любимый аромат воздуха вашей детской комнаты, создавая спокойную и расслабляющую атмосферу перед сном или во время игр.  Встроенная подсветка делает увлажнитель еще более привлекательным для детей. Мягкий свет мягко освещает комнату, создавая уютную обстановку и помогая ребенку чувствовать себя спокойно и безопасно. Этот увлажнитель обладает тихой работой, что делает его идеальным для использования во время сна.   Основные характеристики:     Вместимость воды: 220 мл, обеспечивает продолжительное увлажнение. Рассчитан на площадь 15 кв.м, подходит для небольших помещений. LED-подсветка для создания уюта и визуального восприятия. Автовыключение при недостаточном количестве воды, обеспечивая безопасность использования. Производительность: 30 мл/час, поддерживает оптимальный уровень влажности. Время работы: 10 часов, обеспечивает долгий период использования. Мощность: 2W, энергоэффективный и экологичный. Управление: простое и удобное. Питание: от USB (кабель в комплекте) или от сети 220В (блок питания не входит в комплект).]]></description>
-<quantity_in_stock>51</quantity_in_stock>
-<vendorCode>HPBH17201W</vendorCode>
-<param name="Тип">Увлажнитель</param>
-<param name="Высота">11 мм</param>
-<param name="Автоотключение при отсутствии воды">Да</param>
-<param name="Ароматизация">Да</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Ночной режим работы">Да</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Объем резервуара для воды">0.22 л</param>
-<param name="Цвет">Белый</param>
-<param name="Индикатор работы">Да</param>
-<param name="Рекомендуемый объем помещения">15 кв.м</param>
-<param name="Состояние">Новое</param>
-<param name="Применение прибора">Для детской комнаты|Для дома, квартиры</param>
-<param name="Тип установки">Настольный</param>
-<param name="Гарантия">14 дней</param>
-<param name="Потребляємая мощность">2 Вт</param>
-</offer>
 <offer id="HP558" available="true">
 <name>Набор стаканов 6 штук по 390 мл стеклянный прозрачный HP558</name>
 <price>739</price>
@@ -53536,6 +53504,38 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Количество в наборе">1</param>
 <param name="Цвет">Бежевый</param>
 <param name="Состояние">Новое</param>
+</offer>
+<offer id="HPBH17201W" available="true">
+<name>Увлажнитель воздуха Bear 220ml для детской комнаты белый HPBH17201W</name>
+<price>179</price>
+<vendorprice>136</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>44</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17201/uvlazhnitel_vozduha_dlya_detskoy_komnaty_mishka_220_ml_belyy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17201/6%282%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17201/2%282%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17201/17.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HPBH17201/3%283%29.jpg</picture>
+<vendor>Happy Life</vendor>
+<description><![CDATA[Увлажнитель воздуха для детской комнаты в виде милого мишки создаст комфортную и заботливую атмосферу для вашего малыша. Этот портативный увлажнитель легко подключается к любому USB-порту, что делает его удобным для использования дома, в автомобиле или даже в путешествиях.  С его вместимостью 220 мл увлажнитель обеспечивает достаточное количество влаги для комфортного пребывания в помещении. Благодаря интегрированному ароматическому диффузору, вы можете добавить любимый аромат воздуха вашей детской комнаты, создавая спокойную и расслабляющую атмосферу перед сном или во время игр.  Встроенная подсветка делает увлажнитель еще более привлекательным для детей. Мягкий свет мягко освещает комнату, создавая уютную обстановку и помогая ребенку чувствовать себя спокойно и безопасно. Этот увлажнитель обладает тихой работой, что делает его идеальным для использования во время сна.   Основные характеристики:     Вместимость воды: 220 мл, обеспечивает продолжительное увлажнение. Рассчитан на площадь 15 кв.м, подходит для небольших помещений. LED-подсветка для создания уюта и визуального восприятия. Автовыключение при недостаточном количестве воды, обеспечивая безопасность использования. Производительность: 30 мл/час, поддерживает оптимальный уровень влажности. Время работы: 10 часов, обеспечивает долгий период использования. Мощность: 2W, энергоэффективный и экологичный. Управление: простое и удобное. Питание: от USB (кабель в комплекте) или от сети 220В (блок питания не входит в комплект).]]></description>
+<quantity_in_stock>50</quantity_in_stock>
+<vendorCode>HPBH17201W</vendorCode>
+<param name="Тип">Увлажнитель</param>
+<param name="Высота">11 мм</param>
+<param name="Автоотключение при отсутствии воды">Да</param>
+<param name="Ароматизация">Да</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Ночной режим работы">Да</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Объем резервуара для воды">0.22 л</param>
+<param name="Цвет">Белый</param>
+<param name="Индикатор работы">Да</param>
+<param name="Рекомендуемый объем помещения">15 кв.м</param>
+<param name="Состояние">Новое</param>
+<param name="Применение прибора">Для детской комнаты|Для дома, квартиры</param>
+<param name="Тип установки">Настольный</param>
+<param name="Гарантия">14 дней</param>
+<param name="Потребляємая мощность">2 Вт</param>
 </offer>
 <offer id="HP34545P" available="true">
 <name>Детский набор силиконовой посуды 3 предмета Розовый HP34545P</name>
@@ -54239,26 +54239,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Объем">7.5</param>
 <param name="Цвет">Прозрачный</param>
 <param name="Тип емкости">Рюмка</param>
-</offer>
-<offer id="503-73-A-72G" available="true">
-<name>Банное полотенце 70×140 см махровое серый Colorful Home 503-73-A-72G</name>
-<price>499</price>
-<vendorprice>386</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>129</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7309/bannoe_polotentse_70_140_sm_mahrovoe_seryy.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7309/bannoe_polotentse_70_140_sm_mahrovoe_seryy_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7309/bannoe_polotentse_70_140_sm_mahrovoe_seryy_2.png</picture>
-<vendor>Colorful Home</vendor>
-<description><![CDATA[Банное махровое полотенце 70×140 см — удобное полотенце для повседневного использования, которое обеспечивает комфорт после душа, ванны или посещения бассейна. Махровая ткань имеет мягкую и пушистую структуру, хорошо впитывает влагу, быстро высыхает и сохраняет приятную текстуру даже после многократных стирок. Оптимальный размер позволяет комфортно обернуть тело и обеспечивает приятное ощущение тепла. Преимущества ткани Мягкая махровая структура Высокая впитывающая способность  Хорошая воздухопроницаемость Износостойкость и долговечность Комфорт в повседневном использовании Сохранение формы после многократных стирок  Размер 70×140 см Правила ухода  Стирать при температуре 40–60°C Использовать деликатные средства для стирки Не применять агрессивные отбеливатели Сушить естественным способом или при низкой температуре Гладить при необходимости на среднем режиме]]></description>
-<quantity_in_stock>50</quantity_in_stock>
-<vendorCode>503-73-A-72G</vendorCode>
-<param name="Назначение полотенца">Банное</param>
-<param name="Ширина">70</param>
-<param name="Тип ткани">Махра</param>
-<param name="Цвет">Серый</param>
-<param name="Длина">140</param>
-<param name="Комплектация">Один предмет</param>
 </offer>
 <offer id="503-103-M-468H" available="true">
 <name>Полотенце для кухни вафельное 35*70 см из хлопка оливковый Colorful Home 503-103-M-468H</name>
@@ -54986,6 +54966,26 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Длина">35.5</param>
 <param name="Форм-фактор">Переносной</param>
 <param name="Форма">Прямоугольная</param>
+</offer>
+<offer id="503-73-A-72G" available="true">
+<name>Банное полотенце 70×140 см махровое серый Colorful Home 503-73-A-72G</name>
+<price>499</price>
+<vendorprice>386</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>129</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7309/bannoe_polotentse_70_140_sm_mahrovoe_seryy.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7309/bannoe_polotentse_70_140_sm_mahrovoe_seryy_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7309/bannoe_polotentse_70_140_sm_mahrovoe_seryy_2.png</picture>
+<vendor>Colorful Home</vendor>
+<description><![CDATA[Банное махровое полотенце 70×140 см — удобное полотенце для повседневного использования, которое обеспечивает комфорт после душа, ванны или посещения бассейна. Махровая ткань имеет мягкую и пушистую структуру, хорошо впитывает влагу, быстро высыхает и сохраняет приятную текстуру даже после многократных стирок. Оптимальный размер позволяет комфортно обернуть тело и обеспечивает приятное ощущение тепла. Преимущества ткани Мягкая махровая структура Высокая впитывающая способность  Хорошая воздухопроницаемость Износостойкость и долговечность Комфорт в повседневном использовании Сохранение формы после многократных стирок  Размер 70×140 см Правила ухода  Стирать при температуре 40–60°C Использовать деликатные средства для стирки Не применять агрессивные отбеливатели Сушить естественным способом или при низкой температуре Гладить при необходимости на среднем режиме]]></description>
+<quantity_in_stock>49</quantity_in_stock>
+<vendorCode>503-73-A-72G</vendorCode>
+<param name="Назначение полотенца">Банное</param>
+<param name="Ширина">70</param>
+<param name="Тип ткани">Махра</param>
+<param name="Цвет">Серый</param>
+<param name="Длина">140</param>
+<param name="Комплектация">Один предмет</param>
 </offer>
 <offer id="HP-42-172" available="true">
 <name>Набор ковриков для ванной Garden 2 штуки 80*50 см/50*40 см диатомитовых Yiwu HP-42-172</name>
@@ -63204,28 +63204,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет">Прозрачный</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 </offer>
-<offer id="HP-42-178" available="true">
-<name>Набор ковриков для ванной и туалета Grey Marble 50*80 / 40*50 см Yiwu HP-42-178</name>
-<price>559</price>
-<vendorprice>349</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>51</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7609/nabor_kovrikov_dlya_vannoy_i_tualeta_grey_marble_50_80_40_50_sm.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7609/nabor_kovrikov_dlya_vannoy_i_tualeta_grey_marble_50_80_40_50_sm_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7609/nabor_kovrikov_dlya_vannoy_i_tualeta_grey_marble_50_80_40_50_sm_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7609/nabor_kovrikov_dlya_vannoy_i_tualeta_grey_marble_50_80_40_50_sm_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7609/nabor_kovrikov_dlya_vannoy_i_tualeta_grey_marble_50_80_40_50_sm_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7609/nabor_kovrikov_dlya_vannoy_i_tualeta_grey_marble_50_80_40_50_sm_5.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Набор из двух мягких ковриков на основе диатомита для ванны и туалетной комнаты. Напольное покрытие мгновенно впитывает брызги и капли, быстро испаряя влагу и оставляя пол сухим. Нескользящая изнаночная сторона гарантирует устойчивость и безопасность на мокрой плитке. За счет пластичности материала коврики легко гнутся, что делает процесс уборки и складывания максимально удобным. Характеристики  Размеры: прямоугольный: 50 × 80 см, с вырезом: 40 × 50 см Основа: диатомит Уход: очистка водой или влажной салфеткой]]></description>
-<quantity_in_stock>36</quantity_in_stock>
-<vendorCode>HP-42-178</vendorCode>
-<param name="Тип">Коврик для ванной</param>
-<param name="Материал">Диатомит</param>
-<param name="Ширина">50/40</param>
-<param name="Количество в наборе">2</param>
-<param name="Длина">80/50</param>
-</offer>
 <offer id="HP559" available="true">
 <name>Набор стаканов 6 штук по 350 мл стеклянный прозрачный HP559</name>
 <price>719</price>
@@ -63979,6 +63957,28 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Объем">0.16</param>
 <param name="Цвет">Прозрачный</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
+</offer>
+<offer id="HP-42-178" available="true">
+<name>Набор ковриков для ванной и туалета Grey Marble 50*80 / 40*50 см Yiwu HP-42-178</name>
+<price>559</price>
+<vendorprice>349</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>51</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7609/nabor_kovrikov_dlya_vannoy_i_tualeta_grey_marble_50_80_40_50_sm.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7609/nabor_kovrikov_dlya_vannoy_i_tualeta_grey_marble_50_80_40_50_sm_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7609/nabor_kovrikov_dlya_vannoy_i_tualeta_grey_marble_50_80_40_50_sm_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7609/nabor_kovrikov_dlya_vannoy_i_tualeta_grey_marble_50_80_40_50_sm_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7609/nabor_kovrikov_dlya_vannoy_i_tualeta_grey_marble_50_80_40_50_sm_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7609/nabor_kovrikov_dlya_vannoy_i_tualeta_grey_marble_50_80_40_50_sm_5.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Набор из двух мягких ковриков на основе диатомита для ванны и туалетной комнаты. Напольное покрытие мгновенно впитывает брызги и капли, быстро испаряя влагу и оставляя пол сухим. Нескользящая изнаночная сторона гарантирует устойчивость и безопасность на мокрой плитке. За счет пластичности материала коврики легко гнутся, что делает процесс уборки и складывания максимально удобным. Характеристики  Размеры: прямоугольный: 50 × 80 см, с вырезом: 40 × 50 см Основа: диатомит Уход: очистка водой или влажной салфеткой]]></description>
+<quantity_in_stock>35</quantity_in_stock>
+<vendorCode>HP-42-178</vendorCode>
+<param name="Тип">Коврик для ванной</param>
+<param name="Материал">Диатомит</param>
+<param name="Ширина">50/40</param>
+<param name="Количество в наборе">2</param>
+<param name="Длина">80/50</param>
 </offer>
 <offer id="HP-FLG-24 ORANGE" available="true">
 <name>Набор посуды чугунный с эмалированным покрытием 2/3/4/1 л, оранжевый Yiwu HP-FLG-24 ORANGE</name>
@@ -65774,30 +65774,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Тип прибора">Универсальная машинка для стрижки</param>
 <param name="Тип элементов питания">Li-Ion</param>
 </offer>
-<offer id="HP-8-47" available="true">
-<name>Картофелемялка для пюре 35см толкушка нержавейка деревянная ручка HP-8-47</name>
-<price>469</price>
-<vendorprice>361</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>88</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0../HP-8-47/HP-8-47_2%20%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0../HP-8-47/HP-8-47_1%20%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0../HP-8-47/HP-8-47_3%20%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0../HP-8-47/HP-8-47_5%20%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0../HP-8-47/HP-8-47_4%20%281%29.jpg</picture>
-<vendor>Ding Lanfang</vendor>
-<description><![CDATA[Толкушка для приготовления пюре — это незаменимый помощник на кухне для быстрого и комфортного измельчения картофеля, моркови, кабачков, тыквы и других овощей до однородной консистенции. Рабочая часть изделия выполнена из качественной пищевой нержавеющей стали, которая отличается высокой прочностью, устойчивостью к деформациям, коррозии и воздействию высоких температур. Благодаря продуманной конструкции инструмент эффективно разминает овощи, не царапая и не повреждая поверхность посуды, обеспечивая при этом идеально гладкое пюре. Деревянная ручка эргономичной формы обеспечивает удобный захват, не скользит в руке и остаётся прохладной даже при интенсивной работе, что делает процесс приготовления безопасным и приятным. Особенности картофелемялки:  Прочная рабочая часть из нержавеющей стали — обеспечивает долговечность и эффективное измельчение овощей; Деревянная ручка — приятна на ощупь, не нагревается и надёжно лежит в руке; Безопасность для посуды — не царапает эмалированные и антипригарные покрытия; Универсальность применения — подходит для приготовления пюре из различных овощей.  Характеристики толкушки, кухонных инструментов и аксессуаров:  Тип: Картофелемялка; Длина: 35 см; Ширина (диаметр решетки): 9 см; Материал рабочей части: нержавеющая сталь; Материал ручки: дерево; Цвет: Коричневый; Количество в наборе: 1 шт.; Подходит для мытья в посудомоечной машине: Да; Гарантия: 14 дней.  Картофелемялка с деревянной ручкой станет надёжным и долговечным помощником на любой кухне. Она значительно упростит процесс приготовления ваших любимых блюд, сделает готовку более комфортной и быстрой. После использования инструмент легко моется вручную или в посудомоечной машине.]]></description>
-<quantity_in_stock>32</quantity_in_stock>
-<vendorCode>HP-8-47</vendorCode>
-<param name="Тип">Картофелемялка</param>
-<param name="Ширина">9</param>
-<param name="Количество в наборе">1</param>
-<param name="Материал ручки">дерево</param>
-<param name="Цвет">Коричневый</param>
-<param name="Длина">35</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-23-4GR" available="true">
 <name>Классический зонт-трость полуавтомат из полиэстера 16 спиц диаметр 117 см Зеленый HP-23-4GR</name>
 <price>529</price>
@@ -67081,6 +67057,30 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Объем">160 мл</param>
 <param name="Цвет">Серый</param>
 <param name="Тематика декора, рисунка">Без декора</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-8-47" available="true">
+<name>Картофелемялка для пюре 35см толкушка нержавейка деревянная ручка HP-8-47</name>
+<price>469</price>
+<vendorprice>361</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>88</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0../HP-8-47/HP-8-47_2%20%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0../HP-8-47/HP-8-47_1%20%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0../HP-8-47/HP-8-47_3%20%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0../HP-8-47/HP-8-47_5%20%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0../HP-8-47/HP-8-47_4%20%281%29.jpg</picture>
+<vendor>Ding Lanfang</vendor>
+<description><![CDATA[Толкушка для приготовления пюре — это незаменимый помощник на кухне для быстрого и комфортного измельчения картофеля, моркови, кабачков, тыквы и других овощей до однородной консистенции. Рабочая часть изделия выполнена из качественной пищевой нержавеющей стали, которая отличается высокой прочностью, устойчивостью к деформациям, коррозии и воздействию высоких температур. Благодаря продуманной конструкции инструмент эффективно разминает овощи, не царапая и не повреждая поверхность посуды, обеспечивая при этом идеально гладкое пюре. Деревянная ручка эргономичной формы обеспечивает удобный захват, не скользит в руке и остаётся прохладной даже при интенсивной работе, что делает процесс приготовления безопасным и приятным. Особенности картофелемялки:  Прочная рабочая часть из нержавеющей стали — обеспечивает долговечность и эффективное измельчение овощей; Деревянная ручка — приятна на ощупь, не нагревается и надёжно лежит в руке; Безопасность для посуды — не царапает эмалированные и антипригарные покрытия; Универсальность применения — подходит для приготовления пюре из различных овощей.  Характеристики толкушки, кухонных инструментов и аксессуаров:  Тип: Картофелемялка; Длина: 35 см; Ширина (диаметр решетки): 9 см; Материал рабочей части: нержавеющая сталь; Материал ручки: дерево; Цвет: Коричневый; Количество в наборе: 1 шт.; Подходит для мытья в посудомоечной машине: Да; Гарантия: 14 дней.  Картофелемялка с деревянной ручкой станет надёжным и долговечным помощником на любой кухне. Она значительно упростит процесс приготовления ваших любимых блюд, сделает готовку более комфортной и быстрой. После использования инструмент легко моется вручную или в посудомоечной машине.]]></description>
+<quantity_in_stock>30</quantity_in_stock>
+<vendorCode>HP-8-47</vendorCode>
+<param name="Тип">Картофелемялка</param>
+<param name="Ширина">9</param>
+<param name="Количество в наборе">1</param>
+<param name="Материал ручки">дерево</param>
+<param name="Цвет">Коричневый</param>
+<param name="Длина">35</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
@@ -74032,33 +74032,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Состояние">Новое</param>
 <param name="Тип духовки">Газовая или электрическая</param>
 </offer>
-<offer id="HP7889" available="true">
-<name>Набор столовых приборов на 6 персон из нержавеющей стали 24 штуки с подставкой Яйцо Белый HP7889</name>
-<price>2259</price>
-<vendorprice>1726</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>150</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0011100/HP7889/nabor_stolovyh_priborov_iz_nerzhaveyushchey_stali_24_shtuki_hromirovannyh_belyy-600x600.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0011100/HP7889/_mg_8305-600x600.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0011100/HP7889/_mg_8302-600x600.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0011100/HP7889/7889_1-600x600.jpg</picture>
-<vendor>TS Kitchen</vendor>
-<description><![CDATA[Этот Изысканный набор столовых приборов, состоящий из 24 предметов, станет настоящим украшением вашей кухни. Изготовленные из высококачественной нержавеющей стали с хромированным покрытием, приборы отличаются элегантным классическим дизайном и безупречным качеством. Они не тускнеют со временем, сохраняя блеск и красоту в течение долгих лет. Эргономичные ручки приборов удобно ложатся в руку, обеспечивая комфорт во время употребления пищи. Дополнительно, элегантная подставка в форме яйца не только экономит место на столе, но и добавляет стиля вашей сервировке.   Характеристики:   Тип: набор столовых приборов Материал: нержавеющая сталь Количество человек: 6 Столовый нож: 6 шт, длина 22.5 см Столовая ложка: 6 шт, длина 20 см Чайная ложка: 6 шт, длина 13.5 см Столовая вилка: 6 шт, длина 20 см   Преимущества:   Высококачественная нержавеющая сталь с хромированным покрытием, обеспечивающим долговечность Элегантный классический дизайн Эргономичные ручки для комфорта использования Современная подставка для удобства хранения и элегантности сервировки   Уход: Рекомендуется мытье вручную с мягкими моющими средствами для сохранения блеска и избежания царапин.]]></description>
-<quantity_in_stock>22</quantity_in_stock>
-<vendorCode>HP7889</vendorCode>
-<param name="Материал">Нержавеющая сталь</param>
-<param name="Вилка столовая">6</param>
-<param name="Количество персон">6</param>
-<param name="Количество предметов">24</param>
-<param name="Ложка столовая">6</param>
-<param name="Ложка чайная">6</param>
-<param name="Материал ручки">нержавеющая сталь</param>
-<param name="Нож столовый">6</param>
-<param name="Цвет">Белый</param>
-<param name="Поверхность">Глянцевая</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Упаковка">Кейс</param>
-</offer>
 <offer id="HP23382" available="true">
 <name>Тарелка глубокая 500 мл круглая фарфоровая бежевая HP23382</name>
 <price>259</price>
@@ -75177,6 +75150,33 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Форма">Круглая</param>
 <param name="Гарантия">14 дней</param>
 <param name="Толщина стенки">3</param>
+</offer>
+<offer id="HP7889" available="true">
+<name>Набор столовых приборов на 6 персон из нержавеющей стали 24 штуки с подставкой Яйцо Белый HP7889</name>
+<price>2259</price>
+<vendorprice>1726</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>150</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0011100/HP7889/nabor_stolovyh_priborov_iz_nerzhaveyushchey_stali_24_shtuki_hromirovannyh_belyy-600x600.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0011100/HP7889/_mg_8305-600x600.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0011100/HP7889/_mg_8302-600x600.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0011100/HP7889/7889_1-600x600.jpg</picture>
+<vendor>TS Kitchen</vendor>
+<description><![CDATA[Этот Изысканный набор столовых приборов, состоящий из 24 предметов, станет настоящим украшением вашей кухни. Изготовленные из высококачественной нержавеющей стали с хромированным покрытием, приборы отличаются элегантным классическим дизайном и безупречным качеством. Они не тускнеют со временем, сохраняя блеск и красоту в течение долгих лет. Эргономичные ручки приборов удобно ложатся в руку, обеспечивая комфорт во время употребления пищи. Дополнительно, элегантная подставка в форме яйца не только экономит место на столе, но и добавляет стиля вашей сервировке.   Характеристики:   Тип: набор столовых приборов Материал: нержавеющая сталь Количество человек: 6 Столовый нож: 6 шт, длина 22.5 см Столовая ложка: 6 шт, длина 20 см Чайная ложка: 6 шт, длина 13.5 см Столовая вилка: 6 шт, длина 20 см   Преимущества:   Высококачественная нержавеющая сталь с хромированным покрытием, обеспечивающим долговечность Элегантный классический дизайн Эргономичные ручки для комфорта использования Современная подставка для удобства хранения и элегантности сервировки   Уход: Рекомендуется мытье вручную с мягкими моющими средствами для сохранения блеска и избежания царапин.]]></description>
+<quantity_in_stock>21</quantity_in_stock>
+<vendorCode>HP7889</vendorCode>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Вилка столовая">6</param>
+<param name="Количество персон">6</param>
+<param name="Количество предметов">24</param>
+<param name="Ложка столовая">6</param>
+<param name="Ложка чайная">6</param>
+<param name="Материал ручки">нержавеющая сталь</param>
+<param name="Нож столовый">6</param>
+<param name="Цвет">Белый</param>
+<param name="Поверхность">Глянцевая</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Упаковка">Кейс</param>
 </offer>
 <offer id="HP23393" available="true">
 <name>Тарелка сервировочная круглая 26 см плоская фарфоровая коричневая HP23393</name>
@@ -81691,30 +81691,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Состояние">Новое</param>
 <param name="Возрастная группа">Без ограничений</param>
 </offer>
-<offer id="534-26-40GB" available="true">
-<name>Набор ковриков для ванной 2 штуки 40×50 / 50×80 см хлопковых темно-серый 534-26-40GB</name>
-<price>469</price>
-<vendorprice>362</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>51</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/76015/7460/nabor_kovrikov_dlya_vannoy_elegant_lines_2_shtuki_40_50_50_80_sm_hlopkovyh_temno_seryy.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/76015/7460/nabor_kovrikov_dlya_vannoy_elegant_lines_2_shtuki_40_50_50_80_sm_hlopkovyh_temno_seryy_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/76015/7460/nabor_kovrikov_dlya_vannoy_elegant_lines_2_shtuki_40_50_50_80_sm_hlopkovyh_temno_seryy_2.png</picture>
-<vendor>Colorful Home</vendor>
-<description><![CDATA[Набор хлопковых ковриков для ванной комнаты создает комфорт и уют при ежедневном использовании. Мягкая поверхность приятна для ног, хорошо впитывает влагу и помогает сохранить комфорт после душа или ванны. Нескользящая основа обеспечивает лучшую фиксацию на полу и повышает безопасность использования. Благодаря универсальному дизайну коврики гармонично дополняют интерьер ванной комнаты и подходят для ежедневного использования. Преимущества ткани  Хлопок мягкий и приятный на ощупь Хорошо впитывает влагу Подходит для ежедневного использования  Износостойкий материал Нескользящая основа для лучшей фиксации на полу Размер  Маленький коврик: 40×50 см Большой коврик: 50×80 см Количество в комплекте: 2 штуки  Правила ухода  Стирать при температуре 30°C Использовать деликатный режим стирки Не использовать агрессивные отбеливатели  Сушить естественным способом Не гладить основу с противоскользящим покрытием]]></description>
-<quantity_in_stock>16</quantity_in_stock>
-<vendorCode>534-26-40GB</vendorCode>
-<param name="Тип">набір килимків для ванної кімнати</param>
-<param name="Материал">Хлопчатобумага</param>
-<param name="Размеры">40*50 / 50*80 см</param>
-<param name="Количество в комплекте">2</param>
-<param name="Великий килимок">50×80 см</param>
-<param name="Назначение">для ванної кімнати та санвузла</param>
-<param name="Основа">нековзка</param>
-<param name="Кількість у комплекті">2 штуки</param>
-<param name="Малий килимок">40×50 см</param>
-<param name="Комплектация">2 килимки</param>
-</offer>
 <offer id="503-4-A-72V" available="true">
 <name>Полотенце для ванной комнаты 70*140 см хлопковое лиловый Colorful Home 503-4-A-72V</name>
 <price>499</price>
@@ -82784,6 +82760,30 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Количество в комплекте">2</param>
 <param name="Материал">Хлопок</param>
 <param name="Размеры">40*50 / 50*80 см</param>
+</offer>
+<offer id="534-26-40GB" available="true">
+<name>Набор ковриков для ванной 2 штуки 40×50 / 50×80 см хлопковых темно-серый 534-26-40GB</name>
+<price>469</price>
+<vendorprice>362</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>51</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/76015/7460/nabor_kovrikov_dlya_vannoy_elegant_lines_2_shtuki_40_50_50_80_sm_hlopkovyh_temno_seryy.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/76015/7460/nabor_kovrikov_dlya_vannoy_elegant_lines_2_shtuki_40_50_50_80_sm_hlopkovyh_temno_seryy_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/76015/7460/nabor_kovrikov_dlya_vannoy_elegant_lines_2_shtuki_40_50_50_80_sm_hlopkovyh_temno_seryy_2.png</picture>
+<vendor>Colorful Home</vendor>
+<description><![CDATA[Набор хлопковых ковриков для ванной комнаты создает комфорт и уют при ежедневном использовании. Мягкая поверхность приятна для ног, хорошо впитывает влагу и помогает сохранить комфорт после душа или ванны. Нескользящая основа обеспечивает лучшую фиксацию на полу и повышает безопасность использования. Благодаря универсальному дизайну коврики гармонично дополняют интерьер ванной комнаты и подходят для ежедневного использования. Преимущества ткани  Хлопок мягкий и приятный на ощупь Хорошо впитывает влагу Подходит для ежедневного использования  Износостойкий материал Нескользящая основа для лучшей фиксации на полу Размер  Маленький коврик: 40×50 см Большой коврик: 50×80 см Количество в комплекте: 2 штуки  Правила ухода  Стирать при температуре 30°C Использовать деликатный режим стирки Не использовать агрессивные отбеливатели  Сушить естественным способом Не гладить основу с противоскользящим покрытием]]></description>
+<quantity_in_stock>15</quantity_in_stock>
+<vendorCode>534-26-40GB</vendorCode>
+<param name="Тип">набір килимків для ванної кімнати</param>
+<param name="Материал">Хлопчатобумага</param>
+<param name="Размеры">40*50 / 50*80 см</param>
+<param name="Количество в комплекте">2</param>
+<param name="Великий килимок">50×80 см</param>
+<param name="Назначение">для ванної кімнати та санвузла</param>
+<param name="Основа">нековзка</param>
+<param name="Кількість у комплекті">2 штуки</param>
+<param name="Малий килимок">40×50 см</param>
+<param name="Комплектация">2 килимки</param>
 </offer>
 <offer id="534-26-40BRB" available="true">
 <name>Набор ковриков для ванной 2 штуки 40×50 / 50×80 см хлопковых коричневый 534-26-40BRB</name>
@@ -89383,32 +89383,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет корпуса">Белый</param>
 <param name="Мощность нагрузки">2500 Вт</param>
 </offer>
-<offer id="HP-14-11" available="true">
-<name>Ланч бег 25×15×15 (см) сумка для еды в школу термосумка 7 (л) детская для ланча, пикника Розовый HP-14-11</name>
-<price>649</price>
-<vendorprice>500</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>155</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4562/lanch_beg_25_15_15_sm_sumka_dlya_edy_v_shkolu_termosumka_7_l_detskaya_dlya_lancha_piknika_rozovyy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4562/lanch_beg_25_15_15_sm_sumka_dlya_edy_v_shkolu_termosumka_7_l_detskaya_dlya_lancha_piknika_rozovyy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4562/lanch_beg_25_15_15_sm_sumka_dlya_edy_v_shkolu_termosumka_7_l_detskaya_dlya_lancha_piknika_rozovyy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4562/lanch_beg_25_15_15_sm_sumka_dlya_edy_v_shkolu_termosumka_7_l_detskaya_dlya_lancha_piknika_rozovyy_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4562/lanch_beg_25_15_15_sm_sumka_dlya_edy_v_shkolu_termosumka_7_l_detskaya_dlya_lancha_piknika_rozovyy_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4562/lanch_beg_25_15_15_sm_sumka_dlya_edy_v_shkolu_termosumka_7_l_detskaya_dlya_lancha_piknika_rozovyy_5.jpg</picture>
-<vendor>Sannea</vendor>
-<description><![CDATA[Практичная и милая термосумка с оригинальным дизайном станет отличным выбором для школы, поездок и пикников. Она идеально подходит для хранения ланч-боксов, фруктов, напитков и других перекусов, требующих поддержания температуры. Благодаря универсальному дизайну сумка понравится как детям, так и взрослым.  Изготовлена из качественных и безопасных материалов: внешняя часть выполнена из прочной ткани полиэстер, а внутри &mdash; пленка PEVA, пригодная для контакта с пищей. В качестве утеплителя используется вспененный полиэтилен, который помогает сохранять тепло или холод в течение нескольких часов.  Сумка имеет два основных отделения: верхнее термоотделение и нижний отсек для хранения дополнительных аксессуаров, закусок или салфеток. Боковой карман подходит для бутылки с водой. Удобный ремень регулируется по длине, что позволяет носить сумку как через плечо, так и в руке. Мягкая ручка с дышащей вставкой обеспечивает дополнительный комфорт при транспортировке.  Основные характеристики термосумки детской:   Размер: 25&times;15&times;15 см; Материал: полиэстер+EPE+PEVA; Застежка: молния; Корпус: мягкий; Ручки: верхняя ручка для переноски и плечевой ремень; Особенности: водонепроницаемость, термоизоляция, стильный внешний вид.   Особенности    сумки для еды в школу:      Поддержание температуры до 4&ndash;5 часов; Герметичный и водонепроницаемый материал; Удобный регулируемый ремень и мягкая ручка; Боковой карман для бутылки или других аксессуаров; Легкий уход: легко моется и быстро сохнет.   Для чего подойдет           термосумка для школьника?       Школьных обедов;  Поездок и путешествий; Пикников и прогулок; Детских садов и кружков; Хранения перекусов и напитков в дороге.   Этот ланч бег сочетает в себе практичность, вместительность и оригинальный внешний вид. термосумка станет надежным помощником для хранения и транспортировки еды, сохраняя её свежесть и температуру в течение нескольких часов. Благодаря продуманной конструкции и универсальному дизайну, сумка подходит для разных ситуаций &mdash; от школьных обедов до дальних поездок. Удобство, стиль и функциональность делают её отличным выбором для ежедневного использования.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
-<vendorCode>HP-14-11</vendorCode>
-<param name="Материал">Полиэстер</param>
-<param name="Высота">15</param>
-<param name="Вес">200</param>
-<param name="Глубина">25</param>
-<param name="Особенности термосумки">Герметическая подкладка|Влагозащита</param>
-<param name="Ширина">15</param>
-<param name="Объем">7</param>
-<param name="Цвет">Розовый</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-23-13BE" available="true">
 <name>Зонт детский механический элегантный с принтом прочный надежный из полиэстера диаметр 90 см Бежевый HP-23-13BE</name>
 <price>1059</price>
@@ -90721,6 +90695,32 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Тарелка суповая">6</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Чашка чайная">6</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-14-11" available="true">
+<name>Ланч бег 25×15×15 (см) сумка для еды в школу термосумка 7 (л) детская для ланча, пикника Розовый HP-14-11</name>
+<price>649</price>
+<vendorprice>500</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>155</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4562/lanch_beg_25_15_15_sm_sumka_dlya_edy_v_shkolu_termosumka_7_l_detskaya_dlya_lancha_piknika_rozovyy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4562/lanch_beg_25_15_15_sm_sumka_dlya_edy_v_shkolu_termosumka_7_l_detskaya_dlya_lancha_piknika_rozovyy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4562/lanch_beg_25_15_15_sm_sumka_dlya_edy_v_shkolu_termosumka_7_l_detskaya_dlya_lancha_piknika_rozovyy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4562/lanch_beg_25_15_15_sm_sumka_dlya_edy_v_shkolu_termosumka_7_l_detskaya_dlya_lancha_piknika_rozovyy_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4562/lanch_beg_25_15_15_sm_sumka_dlya_edy_v_shkolu_termosumka_7_l_detskaya_dlya_lancha_piknika_rozovyy_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4562/lanch_beg_25_15_15_sm_sumka_dlya_edy_v_shkolu_termosumka_7_l_detskaya_dlya_lancha_piknika_rozovyy_5.jpg</picture>
+<vendor>Sannea</vendor>
+<description><![CDATA[Практичная и милая термосумка с оригинальным дизайном станет отличным выбором для школы, поездок и пикников. Она идеально подходит для хранения ланч-боксов, фруктов, напитков и других перекусов, требующих поддержания температуры. Благодаря универсальному дизайну сумка понравится как детям, так и взрослым.  Изготовлена из качественных и безопасных материалов: внешняя часть выполнена из прочной ткани полиэстер, а внутри &mdash; пленка PEVA, пригодная для контакта с пищей. В качестве утеплителя используется вспененный полиэтилен, который помогает сохранять тепло или холод в течение нескольких часов.  Сумка имеет два основных отделения: верхнее термоотделение и нижний отсек для хранения дополнительных аксессуаров, закусок или салфеток. Боковой карман подходит для бутылки с водой. Удобный ремень регулируется по длине, что позволяет носить сумку как через плечо, так и в руке. Мягкая ручка с дышащей вставкой обеспечивает дополнительный комфорт при транспортировке.  Основные характеристики термосумки детской:   Размер: 25&times;15&times;15 см; Материал: полиэстер+EPE+PEVA; Застежка: молния; Корпус: мягкий; Ручки: верхняя ручка для переноски и плечевой ремень; Особенности: водонепроницаемость, термоизоляция, стильный внешний вид.   Особенности    сумки для еды в школу:      Поддержание температуры до 4&ndash;5 часов; Герметичный и водонепроницаемый материал; Удобный регулируемый ремень и мягкая ручка; Боковой карман для бутылки или других аксессуаров; Легкий уход: легко моется и быстро сохнет.   Для чего подойдет           термосумка для школьника?       Школьных обедов;  Поездок и путешествий; Пикников и прогулок; Детских садов и кружков; Хранения перекусов и напитков в дороге.   Этот ланч бег сочетает в себе практичность, вместительность и оригинальный внешний вид. термосумка станет надежным помощником для хранения и транспортировки еды, сохраняя её свежесть и температуру в течение нескольких часов. Благодаря продуманной конструкции и универсальному дизайну, сумка подходит для разных ситуаций &mdash; от школьных обедов до дальних поездок. Удобство, стиль и функциональность делают её отличным выбором для ежедневного использования.]]></description>
+<quantity_in_stock>8</quantity_in_stock>
+<vendorCode>HP-14-11</vendorCode>
+<param name="Материал">Полиэстер</param>
+<param name="Высота">15</param>
+<param name="Вес">200</param>
+<param name="Глубина">25</param>
+<param name="Особенности термосумки">Герметическая подкладка|Влагозащита</param>
+<param name="Ширина">15</param>
+<param name="Объем">7</param>
+<param name="Цвет">Розовый</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HB-40-8" available="true">
