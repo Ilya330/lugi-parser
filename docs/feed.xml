@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-10 20:29">
+<yml_catalog date="2026-09-11 02:20">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -580,7 +580,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/125/SK-SH-1061/SKSH1061_7.jpg</picture>
 <vendor>Sokany</vendor>
 <description><![CDATA[Электрочайник Sokany &ndash; практичное и удобное устройство, которое дает возможность в считанные минуты вскипятить воду и станет стильным дополнением любой кухни. Чайник отличается оптимальным объемом для приготовления горячих напитков для всей семьи, имеет дисковый нагревательный элемент и поворотное основание.  Основные характеристики электро чайника   объем 2.5 литра; мощность 1500 Вт; дисковый нагревательный элемент.   Особенности электрического чайника   Авто отключение при снятии с подставки. Защита от включения без воды. Защита от перегрева.   Чайник изготовлен из безопасных материалов, имеет защиту от включения без воды и удобную ручку, которая не нагревается и обеспечивает защиту от ожогов. Закрытый нагревательный элемент гарантирует длительный срок службы и простую очистку от накипи.]]></description>
-<quantity_in_stock>124</quantity_in_stock>
+<quantity_in_stock>122</quantity_in_stock>
 <vendorCode>SK-SH-1061</vendorCode>
 <param name="Тип">Электрочайник</param>
 <param name="Высота">250</param>
@@ -615,7 +615,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4375/elektronnaya_mernaya_lozhka_s_displeem_sokany_sk_19041_kuhonnaya_lozhka_s_vesami_4.png</picture>
 <vendor>Sokany</vendor>
 <description><![CDATA[Электронная ложка весы Sokany SK-19041 — это компактный и удобный кухонный гаджет для точного взвешивания сыпучих и жидких ингредиентов. Подходит для кулинарии, диетического питания и порционного приготовления. Благодаря высокой чувствительности и цифровому дисплею, прибор обеспечит точность даже при взвешивании самых лёгких компонентов.  Характеристики цифровой ложки-весов Sokany SK-19041   тип устройства: кухонные электронные весы-ложка; размер: 23×5.5×2 см; объем: 30 мл; максимальный вес: 500 г; точность измерения: 0.1 г; дисплей: цифровой LCD; материал: пластик; питание: батарейки AAA-2шт; функции: автоматическое отключение; компактный дизайн: удобно использовать и хранить.   Преимущества ложки SK-19041   Высокая точность: измерение от 0.1 г позволяет использовать ложку для специй и добавок. Универсальность: подходит для сыпучих, жидких и порошкообразных продуктов. Лёгкость в использовании: интуитивное управление одной кнопкой. Компактность: не занимает много места на кухне. Идеально для диет и рецептов: удобно следить за точным дозированием ингредиентов. Цифровой дисплей: обеспечивает чёткую и быструю индикацию веса.   Электронная ложка весы Sokany SK-19041 — идеальный выбор для тех, кто ценит точность и удобство на кухне. Подходит как для домашних кулинаров, так и для профессионального использования в HoReCa-сегменте.  Купить цифровые ложки-весы Sokany можно с быстрой доставкой по Украине. Продукция поставляется в фирменной упаковке, отлично подходит для подарка и ежедневного использования.]]></description>
-<quantity_in_stock>123</quantity_in_stock>
+<quantity_in_stock>122</quantity_in_stock>
 <vendorCode>SK-19041</vendorCode>
 <param name="Материал">Пластик</param>
 <param name="Назначение">Для жидкости и сыпучих продуктов</param>
@@ -8807,41 +8807,6 @@
 <param name="Тип управления">Механическое</param>
 <param name="Тип прибора">Кухонный комбайн</param>
 </offer>
-<offer id="SK-04028" available="true">
-<name>Кофеварка электрическая 420 (мл) для дома и офиса Sokany SK-04028</name>
-<price>1229</price>
-<vendorprice>751</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>45</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3537/kofevarka_elektricheskaya_420_ml_dlya_doma_i_ofisa_sokany.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/126/SK-04028/_T5B1666.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/126/SK-04028/sk04028-2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/126/SK-04028/sk04028-3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/126/SK-04028/sk04028-4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/126/SK-04028/sk04028-5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/126/SK-04028/sk04028-6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/126/SK-04028/sk04028-7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/126/SK-04028/sk04028-8.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Кофеварка турка электрическая Sokany - это удобное и эффективное устройство предназначено для приготовления восхитительных напитков. Кофеварка оснащена функцией автоматического отключения, что делает турку безопасной и энергоэффективной. Эргономичная ручка и компактный размер делают турку удобной в использовании и хранении.  Основные характеристики кофеварки   размер 16х13х25 см; мощность: 750 Вт; объем резервуара для воды 420 мл; тип используемого кофе: молотый.   Особенности и преимущества электро кофеварки   С мощностью 750 Вт и электрической системой приготовления, кофе готовится быстро и легко, позволяя вам наслаждаться свежесваренным напитком в любое время. Элегантный и компактный дизайн турки Sokany подчеркивает стиль вашей кухни, а также обеспечивает удобное хранение. Изготовленная из высококачественных материалов, турка обеспечивает долгий срок службы и стойкость к повседневному использованию. Легкость в очистке и обслуживании делает использование этой турки максимально удобным.   Привнесите атмосферу настоящей кофейни в свой дом с помощью кофеварки Sokany, и погрузитесь в мир ароматного кофе, который вы создаете сами.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
-<vendorCode>SK-04028</vendorCode>
-<param name="Высота">250</param>
-<param name="Встраиваемая техника">Нет</param>
-<param name="Гарантийный срок">3 мес</param>
-<param name="Вес">1.14</param>
-<param name="Потребляемая мощность">750</param>
-<param name="Длина сетевого шнура">0.65</param>
-<param name="Назначение">Бытовое</param>
-<param name="Ширина">130</param>
-<param name="Объем">0.42</param>
-<param name="Номинальное напряжение">220 В</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="Тип используемого кофе">Молотый</param>
-<param name="Тип кофеварки">Капельная</param>
-<param name="Тип управления">Механическое</param>
-</offer>
 <offer id="SK-04025" available="true">
 <name>Кофемашина с капучинатором 1.8 л профессиональная Sokany электрическая SK-04025</name>
 <price>7279</price>
@@ -8985,6 +8950,41 @@
 <param name="Гарантия">14 дней</param>
 <param name="Толщина стенки">5 мм</param>
 <param name="Многослойное дно">Да</param>
+</offer>
+<offer id="SK-04028" available="true">
+<name>Кофеварка электрическая 420 (мл) для дома и офиса Sokany SK-04028</name>
+<price>1229</price>
+<vendorprice>751</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>45</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3537/kofevarka_elektricheskaya_420_ml_dlya_doma_i_ofisa_sokany.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/126/SK-04028/_T5B1666.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/126/SK-04028/sk04028-2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/126/SK-04028/sk04028-3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/126/SK-04028/sk04028-4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/126/SK-04028/sk04028-5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/126/SK-04028/sk04028-6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/126/SK-04028/sk04028-7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/126/SK-04028/sk04028-8.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Кофеварка турка электрическая Sokany - это удобное и эффективное устройство предназначено для приготовления восхитительных напитков. Кофеварка оснащена функцией автоматического отключения, что делает турку безопасной и энергоэффективной. Эргономичная ручка и компактный размер делают турку удобной в использовании и хранении.  Основные характеристики кофеварки   размер 16х13х25 см; мощность: 750 Вт; объем резервуара для воды 420 мл; тип используемого кофе: молотый.   Особенности и преимущества электро кофеварки   С мощностью 750 Вт и электрической системой приготовления, кофе готовится быстро и легко, позволяя вам наслаждаться свежесваренным напитком в любое время. Элегантный и компактный дизайн турки Sokany подчеркивает стиль вашей кухни, а также обеспечивает удобное хранение. Изготовленная из высококачественных материалов, турка обеспечивает долгий срок службы и стойкость к повседневному использованию. Легкость в очистке и обслуживании делает использование этой турки максимально удобным.   Привнесите атмосферу настоящей кофейни в свой дом с помощью кофеварки Sokany, и погрузитесь в мир ароматного кофе, который вы создаете сами.]]></description>
+<quantity_in_stock>8</quantity_in_stock>
+<vendorCode>SK-04028</vendorCode>
+<param name="Высота">250</param>
+<param name="Встраиваемая техника">Нет</param>
+<param name="Гарантийный срок">3 мес</param>
+<param name="Вес">1.14</param>
+<param name="Потребляемая мощность">750</param>
+<param name="Длина сетевого шнура">0.65</param>
+<param name="Назначение">Бытовое</param>
+<param name="Ширина">130</param>
+<param name="Объем">0.42</param>
+<param name="Номинальное напряжение">220 В</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Черный</param>
+<param name="Тип используемого кофе">Молотый</param>
+<param name="Тип кофеварки">Капельная</param>
+<param name="Тип управления">Механическое</param>
 </offer>
 <offer id="SK-07018" available="true">
 <name>Пароварка электрическая трехуровневая 650 Вт 11 л с таймером и защитой от перегрева Sokany SK-07018</name>
@@ -20653,36 +20653,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Размеры">26*24*105 см</param>
 <param name="Цвет">Коричневый</param>
 </offer>
-<offer id="HP-YH-15" available="true">
-<name>Супница с крышкой Ø 15.5 см кастрюля бульонница стеклянная 1 л HP-YH-15</name>
-<price>389</price>
-<vendorprice>298</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>47</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3585/supnitsa_s_kryshkoy_15_5_sm_kastryulya_bulonnitsa_steklyannaya_1_l.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3585/supnitsa_s_kryshkoy_15_5_sm_kastryulya_bulonnitsa_steklyannaya_1_l_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3585/supnitsa_s_kryshkoy_15_5_sm_kastryulya_bulonnitsa_steklyannaya_1_l_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3585/supnitsa_s_kryshkoy_15_5_sm_kastryulya_bulonnitsa_steklyannaya_1_l_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3585/supnitsa_s_kryshkoy_15_5_sm_kastryulya_bulonnitsa_steklyannaya_1_l_4.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Стеклянная супница с крышкой сочетает в себе классический дизайн и современный стиль, что делает его идеальным выбором для любого стола. Супница имеет удобную форму и оптимальный объем 1 литр, что позволяет комфортно подавать блюда для всей семьи или гостей. Стеклянная поверхность легко очищается, что обеспечивает простоту в уходе и сохранение первоначального вида на долгие годы.  Основные характеристики посуды супницы   объем 1 литр; диаметр 15.5 см; размер 19&times;16&times;12 см.   Изготовленная из высококачественного стекла, бульонница отлично сохраняет тепло ваших любимых супов и других горячих блюд. Купить супницу с ручками можно с доставкой по всей Украине.]]></description>
-<quantity_in_stock>213</quantity_in_stock>
-<vendorCode>HP-YH-15</vendorCode>
-<param name="Материал">Стекло</param>
-<param name="Диаметр">155</param>
-<param name="Декоративное оформление">Без декора</param>
-<param name="Использование в микроволновке">Да</param>
-<param name="Ширина">160</param>
-<param name="Наличие половника">Нет</param>
-<param name="Объем">1</param>
-<param name="Хранение в холодильнике">Да</param>
-<param name="Высота с крышкой">120</param>
-<param name="Длина">190</param>
-<param name="Тематика декора, рисунка">Без декора</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Форма">Круглая</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="ZJH-15-5" available="true">
 <name>Тарелка фарфоровая глубокая с ручкой Яблоко 400 мл с ручкой  Белый ZJH-15-5</name>
 <price>319</price>
@@ -20707,6 +20677,36 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет">Белый</param>
 <param name="Длина">230</param>
 <param name="Форма">Фигурная</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-YH-15" available="true">
+<name>Супница с крышкой Ø 15.5 см кастрюля бульонница стеклянная 1 л HP-YH-15</name>
+<price>389</price>
+<vendorprice>298</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>47</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3585/supnitsa_s_kryshkoy_15_5_sm_kastryulya_bulonnitsa_steklyannaya_1_l.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3585/supnitsa_s_kryshkoy_15_5_sm_kastryulya_bulonnitsa_steklyannaya_1_l_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3585/supnitsa_s_kryshkoy_15_5_sm_kastryulya_bulonnitsa_steklyannaya_1_l_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3585/supnitsa_s_kryshkoy_15_5_sm_kastryulya_bulonnitsa_steklyannaya_1_l_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3585/supnitsa_s_kryshkoy_15_5_sm_kastryulya_bulonnitsa_steklyannaya_1_l_4.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Стеклянная супница с крышкой сочетает в себе классический дизайн и современный стиль, что делает его идеальным выбором для любого стола. Супница имеет удобную форму и оптимальный объем 1 литр, что позволяет комфортно подавать блюда для всей семьи или гостей. Стеклянная поверхность легко очищается, что обеспечивает простоту в уходе и сохранение первоначального вида на долгие годы.  Основные характеристики посуды супницы   объем 1 литр; диаметр 15.5 см; размер 19&times;16&times;12 см.   Изготовленная из высококачественного стекла, бульонница отлично сохраняет тепло ваших любимых супов и других горячих блюд. Купить супницу с ручками можно с доставкой по всей Украине.]]></description>
+<quantity_in_stock>212</quantity_in_stock>
+<vendorCode>HP-YH-15</vendorCode>
+<param name="Материал">Стекло</param>
+<param name="Диаметр">155</param>
+<param name="Декоративное оформление">Без декора</param>
+<param name="Использование в микроволновке">Да</param>
+<param name="Ширина">160</param>
+<param name="Наличие половника">Нет</param>
+<param name="Объем">1</param>
+<param name="Хранение в холодильнике">Да</param>
+<param name="Высота с крышкой">120</param>
+<param name="Длина">190</param>
+<param name="Тематика декора, рисунка">Без декора</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Форма">Круглая</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-42-193" available="true">
@@ -21772,26 +21772,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет свечения">Синий</param>
 <param name="Форма лампочки">Капля</param>
 </offer>
-<offer id="HP-42-114" available="true">
-<name>Коврик для ванной комнаты 58*38 см влагопоглощающий Yiwu HP-42-114</name>
-<price>199</price>
-<vendorprice>128</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>50</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7569/kovrik_dlya_vannoy_komnaty_58_38_sm_vlagopogloshchayushchiy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7569/kovrik_dlya_vannoy_komnaty_58_38_sm_vlagopogloshchayushchiy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7569/kovrik_dlya_vannoy_komnaty_58_38_sm_vlagopogloshchayushchiy_2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Диатомитовый коврик сочетает в себе влагопоглощающие свойства, практичность и комфорт в повседневном использовании. Диатомитовая поверхность быстро впитывает влага и высыхает за короткое время, помогая поддерживать поверхность в сухом состоянии. Нижняя часть с нескользящим покрытием надежно фиксирует коврик и предотвращает его смещение во время использования. Прямоугольная форма и лаконичный дизайн делают коврик универсальным решением для различных помещений. Преимущества  Влагопоглощающая поверхность из диатомита. Быстро высыхает после намокания. Нескользящая основа. Надежно удерживается на различных типах пола. Прост в уходе. Подходит для ежедневного использования.  Характеристики  Материал: диатомит. Форма: прямоугольная. Поверхность: влагопоглощающая. Основа: нескользящая. Размер: 58×38 см. Вес: 400 г.  Правила ухода  Протирать влажной тканью или мягкой губкой. При необходимости промывать чистой водой без абразивных средств. Не стирать в стиральной машине. Сушить естественным способом. Не использовать агрессивные моющие средства.]]></description>
-<quantity_in_stock>197</quantity_in_stock>
-<vendorCode>HP-42-114</vendorCode>
-<param name="Тип">Коврик для ванной</param>
-<param name="Материал">Диатомит</param>
-<param name="Ширина">38</param>
-<param name="Количество в наборе">1</param>
-<param name="Длина">58</param>
-<param name="Форма">Прямоугольная</param>
-</offer>
 <offer id="HP-42-93" available="true">
 <name>Коврик универсальный диатомитовый Code 58*38 см прямоугольный</name>
 <url>https://lugi.com.ua/ru/ru-kilimok-hp-42-93/</url>
@@ -21887,6 +21867,26 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <vendorCode>HP-56-21</vendorCode>
 <param name="Цвет">Голубой</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-42-114" available="true">
+<name>Коврик для ванной комнаты 58*38 см влагопоглощающий Yiwu HP-42-114</name>
+<price>199</price>
+<vendorprice>128</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>50</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7569/kovrik_dlya_vannoy_komnaty_58_38_sm_vlagopogloshchayushchiy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7569/kovrik_dlya_vannoy_komnaty_58_38_sm_vlagopogloshchayushchiy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7569/kovrik_dlya_vannoy_komnaty_58_38_sm_vlagopogloshchayushchiy_2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Диатомитовый коврик сочетает в себе влагопоглощающие свойства, практичность и комфорт в повседневном использовании. Диатомитовая поверхность быстро впитывает влага и высыхает за короткое время, помогая поддерживать поверхность в сухом состоянии. Нижняя часть с нескользящим покрытием надежно фиксирует коврик и предотвращает его смещение во время использования. Прямоугольная форма и лаконичный дизайн делают коврик универсальным решением для различных помещений. Преимущества  Влагопоглощающая поверхность из диатомита. Быстро высыхает после намокания. Нескользящая основа. Надежно удерживается на различных типах пола. Прост в уходе. Подходит для ежедневного использования.  Характеристики  Материал: диатомит. Форма: прямоугольная. Поверхность: влагопоглощающая. Основа: нескользящая. Размер: 58×38 см. Вес: 400 г.  Правила ухода  Протирать влажной тканью или мягкой губкой. При необходимости промывать чистой водой без абразивных средств. Не стирать в стиральной машине. Сушить естественным способом. Не использовать агрессивные моющие средства.]]></description>
+<quantity_in_stock>196</quantity_in_stock>
+<vendorCode>HP-42-114</vendorCode>
+<param name="Тип">Коврик для ванной</param>
+<param name="Материал">Диатомит</param>
+<param name="Ширина">38</param>
+<param name="Количество в наборе">1</param>
+<param name="Длина">58</param>
+<param name="Форма">Прямоугольная</param>
 </offer>
 <offer id="1733068Y" available="true">
 <name>Гирлянда штора 3х0,9 м снежинка звезда на 145 LED лампочек светодиодная 10 шт Желтый 1733068Y</name>
@@ -24135,26 +24135,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Материал">Стекло</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-34-98" available="true">
-<name>Набор стеклянных трубочек 4 штуки с щеточкой для очистки прозрачный экологичные соломинки для коктейлей HP-34-98</name>
-<price>349</price>
-<vendorprice>268</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>55</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-34-98/HP-34-98-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7204/nabor_steklyannyh_trubochek_4_shtuki_s_shchetochkoy_dlya_ochistki_prozrachnyy_ekologichnye_solominki_dlya_kokteyley_napitkov_borosilikatnoe_st_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-34-98/HP-34-98-2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-34-98/HP-34-98-3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Набор стеклянных трубочек из 4 штук &ndash; стильный аксессуар для подачи коктейлей, лимонадов, соков и других напитков. Изготовлены из прозрачного боросиликатного стекла, трубочки выглядят элегантно и гармонично дополняют любую сервировку. Материал не впитывает запахи и не влияет на вкус напитков, а длина 20 см и диаметр 7 мм делают их удобными для использования в высоких стаканах и бокалах.  В комплекте предусмотрена специальная щеточка для легкой очистки, позволяющая комфортно использовать трубочки многократно. Прозрачный дизайн добавляет легкости и современного стиля, а прочное стекло обеспечивает долговечность и практичность. Такой набор станет отличным выбором для дома, праздничных событий или подарком для ценителей экологических и стильных аксессуаров для напитков.   Характеристики:   Длина 20 см Диаметр 7 мм Материал стекло Цвет прозрачный]]></description>
-<quantity_in_stock>176</quantity_in_stock>
-<vendorCode>HP-34-98</vendorCode>
-<param name="Материал">Боросиликатное стекло</param>
-<param name="Диаметр">7</param>
-<param name="Количество в упаковке">4</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Длина">200</param>
-</offer>
 <offer id="HP-42-78" available="true">
 <name>Коврик для ванной комнаты влагопоглощающий 58*38 см под белый мрамор Yiwu HP-42-78</name>
 <price>199</price>
@@ -24260,6 +24240,26 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Объем">0.35</param>
 <param name="Цвет">Прозрачный</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-34-98" available="true">
+<name>Набор стеклянных трубочек 4 штуки с щеточкой для очистки прозрачный экологичные соломинки для коктейлей HP-34-98</name>
+<price>349</price>
+<vendorprice>268</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>55</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-34-98/HP-34-98-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7204/nabor_steklyannyh_trubochek_4_shtuki_s_shchetochkoy_dlya_ochistki_prozrachnyy_ekologichnye_solominki_dlya_kokteyley_napitkov_borosilikatnoe_st_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-34-98/HP-34-98-2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-34-98/HP-34-98-3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Набор стеклянных трубочек из 4 штук &ndash; стильный аксессуар для подачи коктейлей, лимонадов, соков и других напитков. Изготовлены из прозрачного боросиликатного стекла, трубочки выглядят элегантно и гармонично дополняют любую сервировку. Материал не впитывает запахи и не влияет на вкус напитков, а длина 20 см и диаметр 7 мм делают их удобными для использования в высоких стаканах и бокалах.  В комплекте предусмотрена специальная щеточка для легкой очистки, позволяющая комфортно использовать трубочки многократно. Прозрачный дизайн добавляет легкости и современного стиля, а прочное стекло обеспечивает долговечность и практичность. Такой набор станет отличным выбором для дома, праздничных событий или подарком для ценителей экологических и стильных аксессуаров для напитков.   Характеристики:   Длина 20 см Диаметр 7 мм Материал стекло Цвет прозрачный]]></description>
+<quantity_in_stock>175</quantity_in_stock>
+<vendorCode>HP-34-98</vendorCode>
+<param name="Материал">Боросиликатное стекло</param>
+<param name="Диаметр">7</param>
+<param name="Количество в упаковке">4</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Длина">200</param>
 </offer>
 <offer id="HP-34-139" available="true">
 <name>Конфетница стеклянная Crystal 12 см Yiwu HP-34-139</name>
@@ -29579,32 +29579,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="SJ-0029-1" available="true">
-<name>Подстилка под палатку 195х143 см с фольгированным покрытием SJ-0029-1</name>
-<price>349</price>
-<vendorprice>239</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>163</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_9.jpg</picture>
-<vendor>Lugi</vendor>
-<description><![CDATA[Подкладка влагозащитная имеет размеры 195х143 см, что делает ее удобной для использования под палатками или другими походными аксессуарами. Она обеспечивает дополнительную защиту от влаги, предотвращая попадание влаги с земли на внутреннюю поверхность палатки или другого снаряжения.  Основные характеристики:    Размеры: 195х143х0.3 см; Материал: утеплитель с фольгированным покрытием; Количество шаров: 1; Наличие чехла: есть.   Материал подкладки изготовлен из водонепроницаемых материалов, эффективно защищающих от влаги и сырости. Это позволяет создать комфортные условия для отдыха на природе, даже во влажную погоду.  Подкладка является легкой и компактной, что позволяет без труда транспортировать ее в сложенном виде. Она также удобна для использования на любых природных поверхностях, добавляя защиту от грязи и влаги.]]></description>
-<quantity_in_stock>127</quantity_in_stock>
-<vendorCode>SJ-0029-1</vendorCode>
-<param name="Комплектующие для палаток">Подкладка</param>
-<param name="Цвет">Серебристый</param>
-<param name="Длина">195</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-8-46" available="true">
 <name>Сито 27×22×10 (см) на раковину Серый HP-8-46</name>
 <price>229</price>
@@ -29648,6 +29622,32 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Количество в наборе">1</param>
 <param name="Длина">58</param>
 <param name="Форма">Прямоугольная</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="SJ-0029-1" available="true">
+<name>Подстилка под палатку 195х143 см с фольгированным покрытием SJ-0029-1</name>
+<price>349</price>
+<vendorprice>239</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>163</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3755/podstilka_pod_palatku_195h143_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_9.jpg</picture>
+<vendor>Lugi</vendor>
+<description><![CDATA[Подкладка влагозащитная имеет размеры 195х143 см, что делает ее удобной для использования под палатками или другими походными аксессуарами. Она обеспечивает дополнительную защиту от влаги, предотвращая попадание влаги с земли на внутреннюю поверхность палатки или другого снаряжения.  Основные характеристики:    Размеры: 195х143х0.3 см; Материал: утеплитель с фольгированным покрытием; Количество шаров: 1; Наличие чехла: есть.   Материал подкладки изготовлен из водонепроницаемых материалов, эффективно защищающих от влаги и сырости. Это позволяет создать комфортные условия для отдыха на природе, даже во влажную погоду.  Подкладка является легкой и компактной, что позволяет без труда транспортировать ее в сложенном виде. Она также удобна для использования на любых природных поверхностях, добавляя защиту от грязи и влаги.]]></description>
+<quantity_in_stock>126</quantity_in_stock>
+<vendorCode>SJ-0029-1</vendorCode>
+<param name="Комплектующие для палаток">Подкладка</param>
+<param name="Цвет">Серебристый</param>
+<param name="Длина">195</param>
+<param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-14-49V" available="true">
@@ -32228,33 +32228,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Длина">10</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-FM-352-1" available="true">
-<name>Термочашка 520 мл с мл с трубочкой и двойным открыванием белый HP-FM-352-1</name>
-<price>519</price>
-<vendorprice>407</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>155</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/2067952847_max.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-4.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Термочашка 520 мл сочетает функциональность и продуманную конструкцию для ежедневного использования. На корпусе размещен цветочный принт с надписью. Модель оснащена герметичной крышкой с двойным открыванием: отдельный клапан для питья и дополнительное отверстие для использования трубочки. Сбоку закреплен текстильный ремешок с надписью &ldquo;COFFEE&rdquo;.  Двойная стенка помогает сохранять температуру напитков дольше, уменьшая нагрев внешней поверхности. Объем 520 мл подходит для кофе, чая, воды или других напитков в течение рабочего дня или прогулки. Конструкция предусматривает плотное закрывание, что снижает риск протеканий в сумке или рюкзаке. Нижняя часть имеет усиленную основу для большей устойчивости.  Термочашка подходит для офиса, учебы, путешествий или ежедневного использования в городе. Компактная форма позволяет удобно держать ее в руке и размещать в большинстве подстаканников. Практичное решение для тех, кто ищет удобный формат многоразовой чашки с продуманными деталями.   Характеристики:    Тип: термочашка Объем: 520 мл Конструкция: двойная стенка Крышка: двойное открывание Дополнительно: отверстие для трубочки]]></description>
-<quantity_in_stock>115</quantity_in_stock>
-<vendorCode>HP-FM-352-1</vendorCode>
-<param name="Тип">Термокружка</param>
-<param name="Высота">20</param>
-<param name="Верхний диаметр">8</param>
-<param name="Глубина">6.5</param>
-<param name="Крышка">крышка с поилкой</param>
-<param name="Ширина">6.5</param>
-<param name="Объем">520</param>
-<param name="Ручка">Нет</param>
-<param name="Тип термоса">Питьевой</param>
-<param name="Состояние">Новое</param>
-<param name="Нижний диаметр">6.5</param>
-</offer>
 <offer id="HP-5-37" available="true">
 <name>Сетевой фильтр-удлинитель 4 розетки 3xUSB-A 1xUSB-C 3м белый HP-5-37</name>
 <price>549</price>
@@ -32464,6 +32437,33 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <quantity_in_stock>114</quantity_in_stock>
 <vendorCode>HP-1358</vendorCode>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-FM-352-1" available="true">
+<name>Термочашка 520 мл с мл с трубочкой и двойным открыванием белый HP-FM-352-1</name>
+<price>519</price>
+<vendorprice>407</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>155</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/2067952847_max.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-4.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Термочашка 520 мл сочетает функциональность и продуманную конструкцию для ежедневного использования. На корпусе размещен цветочный принт с надписью. Модель оснащена герметичной крышкой с двойным открыванием: отдельный клапан для питья и дополнительное отверстие для использования трубочки. Сбоку закреплен текстильный ремешок с надписью &ldquo;COFFEE&rdquo;.  Двойная стенка помогает сохранять температуру напитков дольше, уменьшая нагрев внешней поверхности. Объем 520 мл подходит для кофе, чая, воды или других напитков в течение рабочего дня или прогулки. Конструкция предусматривает плотное закрывание, что снижает риск протеканий в сумке или рюкзаке. Нижняя часть имеет усиленную основу для большей устойчивости.  Термочашка подходит для офиса, учебы, путешествий или ежедневного использования в городе. Компактная форма позволяет удобно держать ее в руке и размещать в большинстве подстаканников. Практичное решение для тех, кто ищет удобный формат многоразовой чашки с продуманными деталями.   Характеристики:    Тип: термочашка Объем: 520 мл Конструкция: двойная стенка Крышка: двойное открывание Дополнительно: отверстие для трубочки]]></description>
+<quantity_in_stock>114</quantity_in_stock>
+<vendorCode>HP-FM-352-1</vendorCode>
+<param name="Тип">Термокружка</param>
+<param name="Высота">20</param>
+<param name="Верхний диаметр">8</param>
+<param name="Глубина">6.5</param>
+<param name="Крышка">крышка с поилкой</param>
+<param name="Ширина">6.5</param>
+<param name="Объем">520</param>
+<param name="Ручка">Нет</param>
+<param name="Тип термоса">Питьевой</param>
+<param name="Состояние">Новое</param>
+<param name="Нижний диаметр">6.5</param>
 </offer>
 <offer id="501-220-F-990" available="true">
 <name>Набор кухонных полотенец 5 штук 30*30 см из микрофибры Colorful Home 501-220-F-990</name>
@@ -44579,27 +44579,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-17-10" available="true">
-<name>Набор рюмок для крепких напитков Conical Glass 12 штук по 65 мл</name>
-<url>https://lugi.com.ua/ru/ru-charka-12-sht-hp-17-10/</url>
-<price>438</price>
-<vendorprice>324</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>171</categoryId>
-<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/riymki/HP-17-10/HP-17-10-1-600x600.jpg</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/riymki/HP-17-10/HP-17-10-2-600x600.jpg</picture>
-<description><![CDATA[<p>Набор из 12 рюмок для крепких напитков предназначен для подачи водки, настоек и других крепких напитков при сервировке стола или для домашнего использования. Форма с плавным расширением от основания к середине обеспечивает удобное удержание и комфортную подачу напитка в небольших порциях. Благодаря компактному объему рюмки подходят для стандартной дегустационной подачи. </p><p>Геометрия изделия сочетает узкую нижнюю часть и расширение в верхней зоне, что придает устойчивость и удобство при использовании. Прозрачное стекло позволяет видеть цвет напитка, а гладкие стенки подчеркивают его чистоту. Лаконичный дизайн делает рюмки универсальными для различных типов сервировки. </p><p>Прочное стекло рассчитано на регулярное использование, а сбалансированные пропорции обеспечивают устойчивость на поверхности стола. Бокалы легко сочетаются с другой посудой и подходят как для повседневного использования, так и для сервировки во время встреч в компании. </p><p><b>Характеристики: </b></p><ul><li>Количество рюмок: 12 </li><li>Материал: стекло </li><li>Объем: 65 мл </li><li>Высота: 10,5 см </li><li>Верхний диаметр: 4 см </li><li>Нижний диаметр: 3 см</li></ul>]]></description>
-<quantity_in_stock>72</quantity_in_stock>
-<vendorCode>HP-17-10</vendorCode>
-<param name="Вес">1.5 кг</param>
-<param name="Высота">10.5 см</param>
-<param name="Гарантийный срок">14 дней</param>
-<param name="Диаметр">4 см</param>
-<param name="Количество в наборе">12</param>
-<param name="Материал">Стекло</param>
-<param name="Объем">65 мл</param>
-<param name="Цвет">Прозрачный</param>
-</offer>
 <offer id="HP39568C" available="true">
 <name>Сковорода гриль квадратная 18,3*18,1*2 см рифленая с гранитным покрытием серая HP39568C</name>
 <price>589</price>
@@ -44872,6 +44851,27 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Гарантийный срок">3</param>
 <param name="Вес">1.1</param>
 <param name="Емкость аккумулятора">50000</param>
+</offer>
+<offer id="HP-17-10" available="true">
+<name>Набор рюмок для крепких напитков Conical Glass 12 штук по 65 мл</name>
+<url>https://lugi.com.ua/ru/ru-charka-12-sht-hp-17-10/</url>
+<price>438</price>
+<vendorprice>324</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>171</categoryId>
+<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/riymki/HP-17-10/HP-17-10-1-600x600.jpg</picture>
+<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/riymki/HP-17-10/HP-17-10-2-600x600.jpg</picture>
+<description><![CDATA[<p>Набор из 12 рюмок для крепких напитков предназначен для подачи водки, настоек и других крепких напитков при сервировке стола или для домашнего использования. Форма с плавным расширением от основания к середине обеспечивает удобное удержание и комфортную подачу напитка в небольших порциях. Благодаря компактному объему рюмки подходят для стандартной дегустационной подачи. </p><p>Геометрия изделия сочетает узкую нижнюю часть и расширение в верхней зоне, что придает устойчивость и удобство при использовании. Прозрачное стекло позволяет видеть цвет напитка, а гладкие стенки подчеркивают его чистоту. Лаконичный дизайн делает рюмки универсальными для различных типов сервировки. </p><p>Прочное стекло рассчитано на регулярное использование, а сбалансированные пропорции обеспечивают устойчивость на поверхности стола. Бокалы легко сочетаются с другой посудой и подходят как для повседневного использования, так и для сервировки во время встреч в компании. </p><p><b>Характеристики: </b></p><ul><li>Количество рюмок: 12 </li><li>Материал: стекло </li><li>Объем: 65 мл </li><li>Высота: 10,5 см </li><li>Верхний диаметр: 4 см </li><li>Нижний диаметр: 3 см</li></ul>]]></description>
+<quantity_in_stock>71</quantity_in_stock>
+<vendorCode>HP-17-10</vendorCode>
+<param name="Вес">1.5 кг</param>
+<param name="Высота">10.5 см</param>
+<param name="Гарантийный срок">14 дней</param>
+<param name="Диаметр">4 см</param>
+<param name="Количество в наборе">12</param>
+<param name="Материал">Стекло</param>
+<param name="Объем">65 мл</param>
+<param name="Цвет">Прозрачный</param>
 </offer>
 <offer id="HP-42-179" available="true">
 <name>Набор ковриков для ванной и туалета Golden Marble 50*80 / 40*50 см Yiwu HP-42-179</name>
@@ -47197,29 +47197,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Подходит для мытья в посудомоечной машине">Нет</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-14-18P" available="true">
-<name>Термокружка Chiobbe с трубочкой и ремешком 450 мл розовая HP-14-18P</name>
-<price>709</price>
-<vendorprice>543</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>155</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3098/termokruzhka_s_trubochkoy_dlya_kofe_i_chaya_450_ml_kruzhka_termos_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3098/termokruzhka_s_trubochkoy_dlya_kofe_i_chaya_450_ml_kruzhka_termos_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3098/termokruzhka_s_trubochkoy_dlya_kofe_i_chaya_450_ml_kruzhka_termos_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3098/termokruzhka_s_trubochkoy_dlya_kofe_i_chaya_450_ml_kruzhka_termos_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali_3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Термокружка с трубочкой 450 мл – это практичный и удобный аксессуар, который позволит вам наслаждаться любимым напитком, будь то горячий кофе, ароматный чай или освежающий сок, в любом месте и в любое время. Внутренняя колба изготовлена из высококачественной нержавеющей стали - этот материал является безопасным для здоровья, не накапливает запахи и не влияет на вкус напитка.  Матовая термокружка объединяет в себе сразу два формата для комфортного питья:   силиконовую трубочку; отверстие с клапаном.   Оба отверстия надежно закрываются защитными герметичными клапанами, которые предотвращают пролитие напитка.   Основные характеристики    объем 450 мл; высота 16 см; диаметр 6.5 см.    Основные преимущества    Термокружка с вакуумной изоляцией способна сохранять температуру напитка в течение нескольких часов. Ремешок для удобства использования. Крышка термокружки плотно закрывается, что защищает напиток от пролития.   Термокружка незаменима в дороге, в спорт зале, на прогулках и пикниках. Она прекрасно удерживает тепло или холод, сохраняя температуру напитков. Вы сможете долго лакомиться горячим ароматным чаем или идеально ледяным лимонадом.]]></description>
-<quantity_in_stock>64</quantity_in_stock>
-<vendorCode>HP-14-18P</vendorCode>
-<param name="Высота">16 см</param>
-<param name="Время сохранения тепла">12 ч</param>
-<param name="Время сохранения холода">24 ч</param>
-<param name="Материал колбы">Нержавеющая сталь</param>
-<param name="Объем">450 мл</param>
-<param name="Цвет">Розовый</param>
-<param name="Нижний диаметр">6.5 см</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-YH-44" available="true">
 <name>Бокалы для вина на высокой ножке набор 6 шт винный бокал стеклянный прозрачный 400 мл HP-YH-44</name>
 <price>1069</price>
@@ -47596,6 +47573,29 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Объем">800 мл</param>
 <param name="Цвет">Черный</param>
 <param name="Тип термоса">Питьевой</param>
+<param name="Нижний диаметр">6.5 см</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-14-18P" available="true">
+<name>Термокружка Chiobbe с трубочкой и ремешком 450 мл розовая HP-14-18P</name>
+<price>709</price>
+<vendorprice>543</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>155</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3098/termokruzhka_s_trubochkoy_dlya_kofe_i_chaya_450_ml_kruzhka_termos_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3098/termokruzhka_s_trubochkoy_dlya_kofe_i_chaya_450_ml_kruzhka_termos_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3098/termokruzhka_s_trubochkoy_dlya_kofe_i_chaya_450_ml_kruzhka_termos_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3098/termokruzhka_s_trubochkoy_dlya_kofe_i_chaya_450_ml_kruzhka_termos_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali_3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Термокружка с трубочкой 450 мл – это практичный и удобный аксессуар, который позволит вам наслаждаться любимым напитком, будь то горячий кофе, ароматный чай или освежающий сок, в любом месте и в любое время. Внутренняя колба изготовлена из высококачественной нержавеющей стали - этот материал является безопасным для здоровья, не накапливает запахи и не влияет на вкус напитка.  Матовая термокружка объединяет в себе сразу два формата для комфортного питья:   силиконовую трубочку; отверстие с клапаном.   Оба отверстия надежно закрываются защитными герметичными клапанами, которые предотвращают пролитие напитка.   Основные характеристики    объем 450 мл; высота 16 см; диаметр 6.5 см.    Основные преимущества    Термокружка с вакуумной изоляцией способна сохранять температуру напитка в течение нескольких часов. Ремешок для удобства использования. Крышка термокружки плотно закрывается, что защищает напиток от пролития.   Термокружка незаменима в дороге, в спорт зале, на прогулках и пикниках. Она прекрасно удерживает тепло или холод, сохраняя температуру напитков. Вы сможете долго лакомиться горячим ароматным чаем или идеально ледяным лимонадом.]]></description>
+<quantity_in_stock>63</quantity_in_stock>
+<vendorCode>HP-14-18P</vendorCode>
+<param name="Высота">16 см</param>
+<param name="Время сохранения тепла">12 ч</param>
+<param name="Время сохранения холода">24 ч</param>
+<param name="Материал колбы">Нержавеющая сталь</param>
+<param name="Объем">450 мл</param>
+<param name="Цвет">Розовый</param>
 <param name="Нижний диаметр">6.5 см</param>
 <param name="Гарантия">14 дней</param>
 </offer>
@@ -54268,31 +54268,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="16788-3" available="true">
-<name>Шприц для колбасы ручной 2 л горизонтальный колбасный шприц для фарша 4 насадки 16788-3</name>
-<price>2749</price>
-<vendorprice>2102</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>53</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-3/167883_9.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-3/167883_10.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-3/167883_11.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-3/167883_13.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-3/167883_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-3/167883_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-3/167883_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-3/167883_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-3/167883_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-3/167883_1.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Ручной горизонтальный колбасный шприц &mdash; незаменимый инструмент для приготовления домашней колбасы и мясных изделий. Благодаря продуманному дизайну и качественным материалам, этот шприц идеально подходит как для домашнего использования, так и для небольших производств. Удобный в эксплуатации и легкий в обслуживании, он станет отличным помощником в приготовлении вкуснейших колбас.  Основные характеристики:   Размеры: 38 x 11 x 17 см; Объём цилиндра: 2 л; Количество насадок: 4 шт; Диаметр насадок: 13 мм, 17 мм, 20 мм, 22 мм; Диаметр цилиндра: 11.5 см; Материал корпуса: нержавеющая сталь; Материал насадок: пластик; Материал ручки: нержавеющая сталь + дерево; Крепление: струбцины для надежной фиксации шприца на рабочей поверхности; Ключ в комплекте: используется для закрепления шприца в корпусе и регулировки механизма для более удобного и безопасного процесса работы.    Преимущества:   Прочный металлический корпус устойчив к коррозии и механическим повреждениям; Нескользящее основание для надёжной фиксации на рабочей поверхности; Четыре сменные насадки позволяют готовить колбасы разных диаметров; Удобная ручка обеспечивает плавный и комфортный ход; Легко разбирается и очищается после использования.   С шприцем для колбас вы легко превратите процесс приготовления в настоящее удовольствие. Он экономит время, упрощает работу с фаршем и позволяет добиться аккуратного, равномерного наполнения оболочки. Незаменимый инструмент для тех, кто ценит домашнее качество, натуральность и контроль над каждым ингредиентом.]]></description>
-<quantity_in_stock>49</quantity_in_stock>
-<vendorCode>16788-3</vendorCode>
-<param name="Материал">Нержавеющая сталь</param>
-<param name="Количество насадок">4</param>
-<param name="Объем">2</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-19-50" available="true">
 <name>Кружка стеклянная с крышкой и трубочкой 750 (мл) Серый HP-19-50</name>
 <price>299</price>
@@ -54945,6 +54920,31 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет">Синий</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Состояние">Новое</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="16788-3" available="true">
+<name>Шприц для колбасы ручной 2 л горизонтальный колбасный шприц для фарша 4 насадки 16788-3</name>
+<price>2749</price>
+<vendorprice>2102</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>53</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-3/167883_9.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-3/167883_10.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-3/167883_11.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-3/167883_13.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-3/167883_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-3/167883_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-3/167883_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-3/167883_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-3/167883_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/16788-3/167883_1.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Ручной горизонтальный колбасный шприц &mdash; незаменимый инструмент для приготовления домашней колбасы и мясных изделий. Благодаря продуманному дизайну и качественным материалам, этот шприц идеально подходит как для домашнего использования, так и для небольших производств. Удобный в эксплуатации и легкий в обслуживании, он станет отличным помощником в приготовлении вкуснейших колбас.  Основные характеристики:   Размеры: 38 x 11 x 17 см; Объём цилиндра: 2 л; Количество насадок: 4 шт; Диаметр насадок: 13 мм, 17 мм, 20 мм, 22 мм; Диаметр цилиндра: 11.5 см; Материал корпуса: нержавеющая сталь; Материал насадок: пластик; Материал ручки: нержавеющая сталь + дерево; Крепление: струбцины для надежной фиксации шприца на рабочей поверхности; Ключ в комплекте: используется для закрепления шприца в корпусе и регулировки механизма для более удобного и безопасного процесса работы.    Преимущества:   Прочный металлический корпус устойчив к коррозии и механическим повреждениям; Нескользящее основание для надёжной фиксации на рабочей поверхности; Четыре сменные насадки позволяют готовить колбасы разных диаметров; Удобная ручка обеспечивает плавный и комфортный ход; Легко разбирается и очищается после использования.   С шприцем для колбас вы легко превратите процесс приготовления в настоящее удовольствие. Он экономит время, упрощает работу с фаршем и позволяет добиться аккуратного, равномерного наполнения оболочки. Незаменимый инструмент для тех, кто ценит домашнее качество, натуральность и контроль над каждым ингредиентом.]]></description>
+<quantity_in_stock>48</quantity_in_stock>
+<vendorCode>16788-3</vendorCode>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Количество насадок">4</param>
+<param name="Объем">2</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="D3000L100MWML" available="true">
@@ -83302,31 +83302,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Тип подсветки">Диодная</param>
 <param name="Тип выключателя">Сенсорный</param>
 </offer>
-<offer id="HP-14-42W" available="true">
-<name>Бутылка для воды 600 мл с трубочкой и ручкой Белая HP-14-42W</name>
-<price>249</price>
-<vendorprice>195</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>103</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3948/butylka_dlya_vody_600_ml_butylka_v_shkolu_dlya_trenirovok_s_trubochkoy_i_ruchkoy_22_sm_belaya.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00001/HP-14-42/1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00001/HP-14-42/2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Бутылка для воды 600 мл &ndash; стильная, качественная и удобная в использовании. Она непременно станет вашим постоянным спутником и любимым аксессуаром. Бутылочку удобно брать на прогулки, тренировки и в школу.  Основные характеристики бутылочки   объем: 600 мл; высота: 22 см; диаметр: 6 см; дополнительные функции: трубочка, крышка на защелке, ручка.   Многоразовая бутылка для воды &ndash; это универсальный и практичный аксессуар, который идеально подойдет для любителей активного отдыха, путешественников и просто тех, кто хочет всегда иметь под рукой любимый напиток.]]></description>
-<quantity_in_stock>14</quantity_in_stock>
-<vendorCode>HP-14-42W</vendorCode>
-<param name="Тип">Бутылка для напитков</param>
-<param name="Материал">Поликарбонат</param>
-<param name="Высота">22</param>
-<param name="Вес">200</param>
-<param name="Диаметр">6</param>
-<param name="Особенности">Моется в посудомоечной машине|Защитный колпачок поилки|Ударопрочная</param>
-<param name="Объем">0.6</param>
-<param name="Цвет">Белый</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-8-44" available="true">
 <name>Лопатка кухонная для сковороды 38 (см) из нержавейки HP-8-44</name>
 <price>439</price>
@@ -84421,6 +84396,31 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет">Молочный</param>
 <param name="Состояние">Новое</param>
 <param name="Форма">Круглая</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-14-42W" available="true">
+<name>Бутылка для воды 600 мл с трубочкой и ручкой Белая HP-14-42W</name>
+<price>249</price>
+<vendorprice>195</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>103</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3948/butylka_dlya_vody_600_ml_butylka_v_shkolu_dlya_trenirovok_s_trubochkoy_i_ruchkoy_22_sm_belaya.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00001/HP-14-42/1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00001/HP-14-42/2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Бутылка для воды 600 мл &ndash; стильная, качественная и удобная в использовании. Она непременно станет вашим постоянным спутником и любимым аксессуаром. Бутылочку удобно брать на прогулки, тренировки и в школу.  Основные характеристики бутылочки   объем: 600 мл; высота: 22 см; диаметр: 6 см; дополнительные функции: трубочка, крышка на защелке, ручка.   Многоразовая бутылка для воды &ndash; это универсальный и практичный аксессуар, который идеально подойдет для любителей активного отдыха, путешественников и просто тех, кто хочет всегда иметь под рукой любимый напиток.]]></description>
+<quantity_in_stock>13</quantity_in_stock>
+<vendorCode>HP-14-42W</vendorCode>
+<param name="Тип">Бутылка для напитков</param>
+<param name="Материал">Поликарбонат</param>
+<param name="Высота">22</param>
+<param name="Вес">200</param>
+<param name="Диаметр">6</param>
+<param name="Особенности">Моется в посудомоечной машине|Защитный колпачок поилки|Ударопрочная</param>
+<param name="Объем">0.6</param>
+<param name="Цвет">Белый</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-9-12" available="true">
