@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-19 20:03">
+<yml_catalog date="2026-09-20 02:42">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -5054,41 +5054,6 @@
 <param name="Толщина стенки">5 мм</param>
 <param name="Многослойное дно">Да</param>
 </offer>
-<offer id="SK-04026" available="true">
-<name>Кофемолка аккумуляторная 13 Вт 250 мл для мелкого помола Sokany SK-04026</name>
-<price>959</price>
-<vendorprice>584</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>45</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3501/kofemolka_akkumulyatornaya_1500_mah_usb_avtomaticheskaya_250_ml_dlya_melkogo_pomola_sokany.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0000/SK-04026/SK-04026_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0000/SK-04026/SK-04026_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0000/SK-04026/SK-04026_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0000/SK-04026/SK-04026_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0000/SK-04026/SK-04026_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0000/SK-04026/SK-04026_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0000/SK-04026/SK-04026_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0000/SK-04026/SK-04026_8.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Кофемолка электрическая Sokany SK-04026 – это современное и удобное устройство для помола кофейных зерен, сочетающее стильный дизайн и высокую функциональность. Благодаря объему 250 мл и регулируемой системе напряжения, она позволяет настроить степень помола в соответствии с вашими предпочтениями, что позволяет получить идеальный вкус кофе.  Основные характеристики кофемолки   высота 18.6 см; диаметр 8 см; мощность аккумулятора 1200 mAh; объем 250 мл; 5 степеней помола.   Кофемолка оснащена системой USB-зарядки, что делает ее удобной для использования в любых условиях – дома, офиса или во время путешествий. Аккумулятор 1200 mAh позволяет работать кофемолке длительно без необходимости частой подзарядки, а компактные размеры обеспечивают легкое хранение и транспортировку.  Sokany SK-04026 – это идеальный выбор для настоящих ценителей кофе, которые ищут удобный, эффективный и стильный способ молотых зерен.]]></description>
-<quantity_in_stock>30</quantity_in_stock>
-<vendorCode>SK-04026</vendorCode>
-<param name="Материал">Пластик</param>
-<param name="Высота">185</param>
-<param name="Гарантийный срок">3 мес</param>
-<param name="Вес">0.56</param>
-<param name="Емкость для молотого кофе">Да</param>
-<param name="Потребляемая мощность">13</param>
-<param name="Назначение">Бытовое</param>
-<param name="Ширина">80</param>
-<param name="Объем емкости для молотого кофе">250</param>
-<param name="Регулировка степени помола">Да</param>
-<param name="Тип кофемолки">Ножевая</param>
-<param name="Номинальное напряжение">220 В</param>
-<param name="Тип привода">Электропривод</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Черный</param>
-</offer>
 <offer id="SK1733BR" available="true">
 <name>Капучинатор Sokany ручной 25W Коричневый SK-1733</name>
 <price>449</price>
@@ -5191,6 +5156,41 @@
 <param name="Гарантия">14 дней</param>
 <param name="Толщина стенки">5 мм</param>
 <param name="Многослойное дно">Да</param>
+</offer>
+<offer id="SK-04026" available="true">
+<name>Кофемолка аккумуляторная 13 Вт 250 мл для мелкого помола Sokany SK-04026</name>
+<price>959</price>
+<vendorprice>584</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>45</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3501/kofemolka_akkumulyatornaya_1500_mah_usb_avtomaticheskaya_250_ml_dlya_melkogo_pomola_sokany.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0000/SK-04026/SK-04026_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0000/SK-04026/SK-04026_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0000/SK-04026/SK-04026_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0000/SK-04026/SK-04026_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0000/SK-04026/SK-04026_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0000/SK-04026/SK-04026_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0000/SK-04026/SK-04026_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0000/SK-04026/SK-04026_8.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Кофемолка электрическая Sokany SK-04026 – это современное и удобное устройство для помола кофейных зерен, сочетающее стильный дизайн и высокую функциональность. Благодаря объему 250 мл и регулируемой системе напряжения, она позволяет настроить степень помола в соответствии с вашими предпочтениями, что позволяет получить идеальный вкус кофе.  Основные характеристики кофемолки   высота 18.6 см; диаметр 8 см; мощность аккумулятора 1200 mAh; объем 250 мл; 5 степеней помола.   Кофемолка оснащена системой USB-зарядки, что делает ее удобной для использования в любых условиях – дома, офиса или во время путешествий. Аккумулятор 1200 mAh позволяет работать кофемолке длительно без необходимости частой подзарядки, а компактные размеры обеспечивают легкое хранение и транспортировку.  Sokany SK-04026 – это идеальный выбор для настоящих ценителей кофе, которые ищут удобный, эффективный и стильный способ молотых зерен.]]></description>
+<quantity_in_stock>29</quantity_in_stock>
+<vendorCode>SK-04026</vendorCode>
+<param name="Материал">Пластик</param>
+<param name="Высота">185</param>
+<param name="Гарантийный срок">3 мес</param>
+<param name="Вес">0.56</param>
+<param name="Емкость для молотого кофе">Да</param>
+<param name="Потребляемая мощность">13</param>
+<param name="Назначение">Бытовое</param>
+<param name="Ширина">80</param>
+<param name="Объем емкости для молотого кофе">250</param>
+<param name="Регулировка степени помола">Да</param>
+<param name="Тип кофемолки">Ножевая</param>
+<param name="Номинальное напряжение">220 В</param>
+<param name="Тип привода">Электропривод</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Черный</param>
 </offer>
 <offer id="CM-121E" available="true">
 <name>Кофеварка капельная Sokany с подогревом кофейника 1.5 литра CM-121E</name>
@@ -9225,41 +9225,6 @@
 <param name="Одновременное приготовление двух чашек">Нет</param>
 <param name="Контейнер для отходов">Да</param>
 </offer>
-<offer id="SK-908" available="true">
-<name>Мультипекарь Sokany SK-908 6 в 1  750 Вт</name>
-<price>3179</price>
-<vendorprice>1944</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>133</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2530/multipekar_6_v_1_sokany_s_panelyami_dlya_vafel_oreshkov_sendvichey_keksov_elektricheskaya_750_vt.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2530/multipekar_6_v_1_sokany_s_panelyami_dlya_vafel_oreshkov_sendvichey_keksov_elektricheskaya_750_vt_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2530/multipekar_6_v_1_sokany_s_panelyami_dlya_vafel_oreshkov_sendvichey_keksov_elektricheskaya_750_vt_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2530/multipekar_6_v_1_sokany_s_panelyami_dlya_vafel_oreshkov_sendvichey_keksov_elektricheskaya_750_vt_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2530/multipekar_6_v_1_sokany_s_panelyami_dlya_vafel_oreshkov_sendvichey_keksov_elektricheskaya_750_vt_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2530/multipekar_6_v_1_sokany_s_panelyami_dlya_vafel_oreshkov_sendvichey_keksov_elektricheskaya_750_vt_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2530/multipekar_6_v_1_sokany_s_panelyami_dlya_vafel_oreshkov_sendvichey_keksov_elektricheskaya_750_vt_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2530/multipekar_6_v_1_sokany_s_panelyami_dlya_vafel_oreshkov_sendvichey_keksov_elektricheskaya_750_vt_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2530/multipekar_6_v_1_sokany_s_panelyami_dlya_vafel_oreshkov_sendvichey_keksov_elektricheskaya_750_vt_8.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Мультипекарь Socaney 6 в 1 - ваш универсальный помощник на кухне  Мультипекарь Socaney 6 в 1 - это компактный и многофункциональный кухонный прибор, который обеспечит вам разнообразие в приготовлении блюд. Благодаря шести сменным панелям с антипригарным покрытием, этот мультипекарь позМультипекарь 6 в 1 Sokany с панелями для вафель, орешков, сендвичей, кексов электрическая 750 Втволяет легко готовить сэндвичи, вафли, орехи, кексы, пончики и другие вкусные блюда.  Основные характеристики:   Размер мультипекаря: 25 x 24 x 9 см Мощность: 750 Вт Количество панелей: 6 сменных панелей: 6 сменных панелей Антипригарное покрытие: Предотвращает прилипание пищи и легко очищается Индикаторы: Два индикатора для контроля процесса приготовления - один показывает, что прибор подогревается, а другой - что готов к использованию   Преимущества:   Универсальность: Мультипекарь позволяет приготовить разнообразные блюда для всей семьи благодаря шести сменным панелям. Быстрый нагрев: Высокая мощность обеспечивает быстрый и равномерный нагрев, что экономит время приготовления. Легкость в уходе: Антипригарное покрытие панелей предотвращает прилипание пищи и легко очищается - достаточно протереть салфеткой или вымыть в теплой воде. Удобство использования: Индикаторы нагрева и готовности помогают контролировать процесс приготовления.   Уход и хранение:   Очистка: После использования панели легко моются вручную. Не используйте абразивные средства для очистки. Хранение: Храните в сухом месте, защищая от влаги.   Мультипекарь Socaney 6 в 1 станет вашим верным помощником в приготовлении вкусных и разнообразных блюд. Он подарит вам удовольствие от кухонного творчества и сделает процесс приготовления легким и приятным.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
-<vendorCode>SK-908</vendorCode>
-<param name="Высота">9 см</param>
-<param name="Вес">3.1 кг</param>
-<param name="Вариант установки">Настольный</param>
-<param name="Ширина">24 см</param>
-<param name="Ширина рабочей поверхности">24 см</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Ненагревающиеся ручки">Да</param>
-<param name="Индикатор работы">Да</param>
-<param name="Индикатор нагрева">Да</param>
-<param name="Наличие антипригарного покрытия">Да</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантия">6 мес</param>
-<param name="Съемные нагреваемые пластины">Да</param>
-<param name="Потребляємая мощность">750 Вт</param>
-<param name="Тип прибора">Мультипекарь</param>
-</offer>
 <offer id="HP-4-453B" available="true">
 <name>Алюминиевая кастрюля с керамическим антипригарным покрытием 4.7 л Ø 24 см черный MGC HP-4-453B</name>
 <price>3109</price>
@@ -9368,6 +9333,41 @@
 <param name="Терморегулятор">Да</param>
 <param name="Потребляємая мощность">2400 Вт</param>
 <param name="Тип управления">Сенсорное</param>
+</offer>
+<offer id="SK-908" available="true">
+<name>Мультипекарь Sokany SK-908 6 в 1  750 Вт</name>
+<price>3179</price>
+<vendorprice>1944</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>133</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2530/multipekar_6_v_1_sokany_s_panelyami_dlya_vafel_oreshkov_sendvichey_keksov_elektricheskaya_750_vt.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2530/multipekar_6_v_1_sokany_s_panelyami_dlya_vafel_oreshkov_sendvichey_keksov_elektricheskaya_750_vt_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2530/multipekar_6_v_1_sokany_s_panelyami_dlya_vafel_oreshkov_sendvichey_keksov_elektricheskaya_750_vt_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2530/multipekar_6_v_1_sokany_s_panelyami_dlya_vafel_oreshkov_sendvichey_keksov_elektricheskaya_750_vt_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2530/multipekar_6_v_1_sokany_s_panelyami_dlya_vafel_oreshkov_sendvichey_keksov_elektricheskaya_750_vt_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2530/multipekar_6_v_1_sokany_s_panelyami_dlya_vafel_oreshkov_sendvichey_keksov_elektricheskaya_750_vt_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2530/multipekar_6_v_1_sokany_s_panelyami_dlya_vafel_oreshkov_sendvichey_keksov_elektricheskaya_750_vt_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2530/multipekar_6_v_1_sokany_s_panelyami_dlya_vafel_oreshkov_sendvichey_keksov_elektricheskaya_750_vt_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/23779/2530/multipekar_6_v_1_sokany_s_panelyami_dlya_vafel_oreshkov_sendvichey_keksov_elektricheskaya_750_vt_8.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Мультипекарь Socaney 6 в 1 - ваш универсальный помощник на кухне  Мультипекарь Socaney 6 в 1 - это компактный и многофункциональный кухонный прибор, который обеспечит вам разнообразие в приготовлении блюд. Благодаря шести сменным панелям с антипригарным покрытием, этот мультипекарь позМультипекарь 6 в 1 Sokany с панелями для вафель, орешков, сендвичей, кексов электрическая 750 Втволяет легко готовить сэндвичи, вафли, орехи, кексы, пончики и другие вкусные блюда.  Основные характеристики:   Размер мультипекаря: 25 x 24 x 9 см Мощность: 750 Вт Количество панелей: 6 сменных панелей: 6 сменных панелей Антипригарное покрытие: Предотвращает прилипание пищи и легко очищается Индикаторы: Два индикатора для контроля процесса приготовления - один показывает, что прибор подогревается, а другой - что готов к использованию   Преимущества:   Универсальность: Мультипекарь позволяет приготовить разнообразные блюда для всей семьи благодаря шести сменным панелям. Быстрый нагрев: Высокая мощность обеспечивает быстрый и равномерный нагрев, что экономит время приготовления. Легкость в уходе: Антипригарное покрытие панелей предотвращает прилипание пищи и легко очищается - достаточно протереть салфеткой или вымыть в теплой воде. Удобство использования: Индикаторы нагрева и готовности помогают контролировать процесс приготовления.   Уход и хранение:   Очистка: После использования панели легко моются вручную. Не используйте абразивные средства для очистки. Хранение: Храните в сухом месте, защищая от влаги.   Мультипекарь Socaney 6 в 1 станет вашим верным помощником в приготовлении вкусных и разнообразных блюд. Он подарит вам удовольствие от кухонного творчества и сделает процесс приготовления легким и приятным.]]></description>
+<quantity_in_stock>4</quantity_in_stock>
+<vendorCode>SK-908</vendorCode>
+<param name="Высота">9 см</param>
+<param name="Вес">3.1 кг</param>
+<param name="Вариант установки">Настольный</param>
+<param name="Ширина">24 см</param>
+<param name="Ширина рабочей поверхности">24 см</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Ненагревающиеся ручки">Да</param>
+<param name="Индикатор работы">Да</param>
+<param name="Индикатор нагрева">Да</param>
+<param name="Наличие антипригарного покрытия">Да</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантия">6 мес</param>
+<param name="Съемные нагреваемые пластины">Да</param>
+<param name="Потребляємая мощность">750 Вт</param>
+<param name="Тип прибора">Мультипекарь</param>
 </offer>
 <offer id="SK879V" available="true">
 <name>Машинка для стрижки катышек Sokany Фиолетовая SK879V</name>
@@ -11790,7 +11790,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_1.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Лампочка на аккумуляторах с откидной крышкой и встроенным отсеком для батарей — это эстетичное и функциональное решение для вашего дома, дачи, кемпинга или гаража. Она совмещает в себе дизайн классической лампы и современные технологии автономного освещения. Уникальный корпус с легким доступом к аккумуляторам делает обслуживание быстрым и удобным.  Характеристики лампочки   тип: аварийная лампочка со встроенным аккумулятором; встроенный отсек для двух аккумуляторов; высота лампочки 16 см; диаметр 7 см; тип цоколя E27; мощность 15/20 Вт; напряжение 85-265 В; время работы 3-4 часа; время зарядки 4 часа; частота 50/60 Гц; корпус: ABS-пластик с откидной панелью для замены батарей; цвет: белый глянец.   Преимущества электролампочки   Быстрый доступ к аккумуляторам — удобная крышка для замены батарей за секунды. Работает при отключении света — автономная система освещения на случай ЧП. Универсальное применение — подходит для любого помещения и уличного освещения.   Эта электролампочка с аккумулятором станет вашим верным помощником в ситуациях, когда внезапно отключается свет. Незаменима для дачников, туристов, жителей с нестабильным электроснабжением и всех, кто ценит автономность и комфорт.  Сделайте свой дом независимым от сети — добавьте в корзину аварийную лампочку на аккумуляторах уже сегодня и будьте готовы к любой непредвиденной ситуации.]]></description>
-<quantity_in_stock>4042</quantity_in_stock>
+<quantity_in_stock>4039</quantity_in_stock>
 <vendorCode>HP-5-31</vendorCode>
 <param name="Мощность">15 / 20 Вт</param>
 <param name="Диаметр">7</param>
@@ -12444,7 +12444,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/129/USB100L10MWY-1%282%29.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Гирлянда USB роса идеально подходит для окон, дверей, стен, картин, елок, фотозоны. Гирлянда оснащена 100 яркими светодиодами, которые обеспечивают превосходное освещение.  Основные характеристики гирлянды роса   гирлянда роса 10 метров; 100 led светодиодов; класс защиты IP44.   Особенностью этой гирлянды является ее питание от usb, что обеспечивает максимальную мобильность и удобство в эксплуатации. Новогодняя гирлянда Роса - это не только декоративный элемент, но и практичный инструмент для создания особого атмосферного света в вашем доме или на мероприятии любого уровня.  Купить гирлянду капли росы 10 метров можно с доставкой по всей Украине. Гирлянда подлежит возврату только в том случае, когда ее исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>1029</quantity_in_stock>
+<quantity_in_stock>1028</quantity_in_stock>
 <vendorCode>USB100L10MWY</vendorCode>
 <param name="Режим работы">Динамический</param>
 <param name="Количество светодиодов">100</param>
@@ -17982,7 +17982,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7009/ulichnyy_led_fonar_na_solnechnyh_batareyah_12x3_2x8_5_sm_prozhektor_svetodiodnyy_ulichnyy_80_led_100_vt_s_solnechnoy_panelyu_2.png</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Солнечный LED-прожектор – универсальное автономное решение для наружного освещения. Встроенная солнечная панель аккумулирует энергию в течение дня, а встроенный аккумулятор питает светильник ночью. Угол наклона панели и корпуса регулируется для оптимального захвата солнца и направленного света. В комплекте пульт дистанционного управления: включение/выключение, регулировка яркости, выбор режимов и таймер. Корпус с защитой от влаги и пыли позволяет использовать прожектор на улице круглый год.   Особенности    Автономная работа от солнечной энергии — установка без проводки Встроенный аккумулятор для ночной работы Регулируемая солнечная панель и поворотный кронштейн для точного наведения света Высокая световая эффективность: множество SMD диодов для равномерного освещения Влагозащищенный корпус – подходит для наружного использования.    Рекомендации по применению    Освещение фасадов, дворов, парковок, строительных площадок, рекламных щитов В качестве аварийного источника света при отключении электропитания Идеален там, где невозможно или нежелательно тянуть кабель    Характеристики    Мощность: 100 Вт Солнечная панель: 4 Вт Время работы при полной зарядке: 10-12 часов Источник света: 48 LED холодный свет + 32 LED теплый свет Аккумулятор: 1,5 А Таймер: 2/4/6/8 часов Класс защиты: IP65 Управление: фотодатчик + пульт ДУ + PIR-датчик Материал: ABS пластик Размеры (прожектор/панель): 12*3,2*8,5 см/12*1,6*7,5 см]]></description>
-<quantity_in_stock>267</quantity_in_stock>
+<quantity_in_stock>266</quantity_in_stock>
 <vendorCode>HP-5-57</vendorCode>
 <param name="Высота">3.2</param>
 <param name="Мощность">100</param>
@@ -18278,30 +18278,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Материал">ПВХ</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-5-58" available="true">
-<name>Уличный LED фонарь на солнечных батареях 110 LED 200 Вт HP-5-58</name>
-<price>869</price>
-<vendorprice>671</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>131</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7010/ulichnyy_led_fonar_na_solnechnyh_batareyah_15_5x3_2x10_5_sm_prozhektor_svetodiodnyy_ulichnyy_110_led_200_vt_s_solnechnoy_panelyu.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7010/ulichnyy_led_fonar_na_solnechnyh_batareyah_15_5x3_2x10_5_sm_prozhektor_svetodiodnyy_ulichnyy_110_led_200_vt_s_solnechnoy_panelyu_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7010/ulichnyy_led_fonar_na_solnechnyh_batareyah_15_5x3_2x10_5_sm_prozhektor_svetodiodnyy_ulichnyy_110_led_200_vt_s_solnechnoy_panelyu_2.png</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Солнечный LED-прожектор – универсальное автономное решение для наружного освещения. Встроенная солнечная панель аккумулирует энергию в течение дня, а встроенный аккумулятор питает светильник ночью. Угол наклона панели и корпуса регулируется для оптимального захвата солнца и направленного света. В комплекте пульт дистанционного управления: включение/выключение, регулировка яркости, выбор режимов и таймер. Корпус с защитой от влаги и пыли позволяет использовать прожектор на улице круглый год.   Особенности    Автономная работа от солнечной энергии — установка без проводки Встроенный аккумулятор для ночной работы Регулируемая солнечная панель и поворотный кронштейн для точного наведения света Высокая световая эффективность: множество SMD диодов для равномерного освещения Влагозащищенный корпус – подходит для наружного использования.    Рекомендации по применению    Освещение фасадов, дворов, парковок, строительных площадок, рекламных щитов В качестве аварийного источника света при отключении электропитания Идеален там, где невозможно или нежелательно тянуть кабель    Характеристики    Мощность: 200 Вт Солнечная панель: 6 Вт Время работы при полной зарядке: 10-12 часов Источник света: 66 LED холодный свет + 44 LED теплый свет Аккумулятор: 2 А Таймер: 2/4/6/8 часов Класс защиты: IP65 Управление: фотодатчик + пульт ДУ + PIR-датчик Материал: ABS пластик Размеры (прожектор/панель): 15,5*3,2*10,5 см/15,5*1,6*9,5 см]]></description>
-<quantity_in_stock>259</quantity_in_stock>
-<vendorCode>HP-5-58</vendorCode>
-<param name="Высота">3.2</param>
-<param name="Мощность">200</param>
-<param name="Количество светодиодов">110</param>
-<param name="Применение освещения">Для наружного освещения зданий|Для освещения ландшафтов|Для освещения теплиц|Для освещения парковок|Для наружного освещения фонтанов|Для освещения лестниц|Для освещения террас и балконов|Для освещения входных дверей и ворот</param>
-<param name="Ширина">10.5</param>
-<param name="Длина">15.5</param>
-<param name="Тип освещения">Прожектор</param>
-<param name="Степень защиты IP">65</param>
-<param name="Цвет свечения">Белый</param>
-<param name="Тип лампы">Светодиодная</param>
-</offer>
 <offer id="1733067W" available="true">
 <name>Гирлянда штора 3х0,9 м снежинка звезда на 145 LED лампочек светодиодная 10 шт Белый 1733067W</name>
 <price>469</price>
@@ -18328,6 +18304,30 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Упаковка">Коробка</param>
 <param name="Цвет свечения">Белый</param>
 <param name="Форма лампочки">Снежинка</param>
+</offer>
+<offer id="HP-5-58" available="true">
+<name>Уличный LED фонарь на солнечных батареях 110 LED 200 Вт HP-5-58</name>
+<price>869</price>
+<vendorprice>671</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>131</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7010/ulichnyy_led_fonar_na_solnechnyh_batareyah_15_5x3_2x10_5_sm_prozhektor_svetodiodnyy_ulichnyy_110_led_200_vt_s_solnechnoy_panelyu.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7010/ulichnyy_led_fonar_na_solnechnyh_batareyah_15_5x3_2x10_5_sm_prozhektor_svetodiodnyy_ulichnyy_110_led_200_vt_s_solnechnoy_panelyu_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7010/ulichnyy_led_fonar_na_solnechnyh_batareyah_15_5x3_2x10_5_sm_prozhektor_svetodiodnyy_ulichnyy_110_led_200_vt_s_solnechnoy_panelyu_2.png</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Солнечный LED-прожектор – универсальное автономное решение для наружного освещения. Встроенная солнечная панель аккумулирует энергию в течение дня, а встроенный аккумулятор питает светильник ночью. Угол наклона панели и корпуса регулируется для оптимального захвата солнца и направленного света. В комплекте пульт дистанционного управления: включение/выключение, регулировка яркости, выбор режимов и таймер. Корпус с защитой от влаги и пыли позволяет использовать прожектор на улице круглый год.   Особенности    Автономная работа от солнечной энергии — установка без проводки Встроенный аккумулятор для ночной работы Регулируемая солнечная панель и поворотный кронштейн для точного наведения света Высокая световая эффективность: множество SMD диодов для равномерного освещения Влагозащищенный корпус – подходит для наружного использования.    Рекомендации по применению    Освещение фасадов, дворов, парковок, строительных площадок, рекламных щитов В качестве аварийного источника света при отключении электропитания Идеален там, где невозможно или нежелательно тянуть кабель    Характеристики    Мощность: 200 Вт Солнечная панель: 6 Вт Время работы при полной зарядке: 10-12 часов Источник света: 66 LED холодный свет + 44 LED теплый свет Аккумулятор: 2 А Таймер: 2/4/6/8 часов Класс защиты: IP65 Управление: фотодатчик + пульт ДУ + PIR-датчик Материал: ABS пластик Размеры (прожектор/панель): 15,5*3,2*10,5 см/15,5*1,6*9,5 см]]></description>
+<quantity_in_stock>258</quantity_in_stock>
+<vendorCode>HP-5-58</vendorCode>
+<param name="Высота">3.2</param>
+<param name="Мощность">200</param>
+<param name="Количество светодиодов">110</param>
+<param name="Применение освещения">Для наружного освещения зданий|Для освещения ландшафтов|Для освещения теплиц|Для освещения парковок|Для наружного освещения фонтанов|Для освещения лестниц|Для освещения террас и балконов|Для освещения входных дверей и ворот</param>
+<param name="Ширина">10.5</param>
+<param name="Длина">15.5</param>
+<param name="Тип освещения">Прожектор</param>
+<param name="Степень защиты IP">65</param>
+<param name="Цвет свечения">Белый</param>
+<param name="Тип лампы">Светодиодная</param>
 </offer>
 <offer id="HP-JG-2" available="true">
 <name>Налобный фонарь аккумуляторный 7х7х5 см LED 3 режима работы HP-JG-2</name>
@@ -18357,29 +18357,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Крепление">Ремешок</param>
 <param name="Гарантия">14 дней</param>
 <param name="Тип лампы">Светодиодная</param>
-</offer>
-<offer id="HP-5-50" available="true">
-<name>Сетевой фильтр-удлинитель 5 розеток 4xUSB-A 1xUSB-C 3м черная HP-5-50</name>
-<price>709</price>
-<vendorprice>543</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>78</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-50/HP-5-50-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-50/HP-5-50_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-50/HP-5-50_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-50/HP-5-50_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-50/HP-5-50_3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 5 розеток + 4 USB-A + USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 1 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 3 метра обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 5 Количество USB-A: 4 Количество USB Type-C: 1 Длина кабеля: 3 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 500 г Размеры: 20 &times; 10 &times; 4 см]]></description>
-<quantity_in_stock>256</quantity_in_stock>
-<vendorCode>HP-5-50</vendorCode>
-<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
-<param name="Длина шнура">3</param>
-<param name="Количество выходных розеток">5</param>
-<param name="Длина провода">3</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="Мощность нагрузки">2500</param>
 </offer>
 <offer id="HP27473K" available="true">
 <name>Набор кухонных принадлежностей на подставке 6 шт бежевый HP27473K</name>
@@ -18482,6 +18459,29 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Длина">200</param>
 <param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-5-50" available="true">
+<name>Сетевой фильтр-удлинитель 5 розеток 4xUSB-A 1xUSB-C 3м черная HP-5-50</name>
+<price>709</price>
+<vendorprice>543</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>78</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-50/HP-5-50-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-50/HP-5-50_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-50/HP-5-50_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-50/HP-5-50_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-50/HP-5-50_3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 5 розеток + 4 USB-A + USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 1 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 3 метра обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 5 Количество USB-A: 4 Количество USB Type-C: 1 Длина кабеля: 3 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 500 г Размеры: 20 &times; 10 &times; 4 см]]></description>
+<quantity_in_stock>255</quantity_in_stock>
+<vendorCode>HP-5-50</vendorCode>
+<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+<param name="Длина шнура">3</param>
+<param name="Количество выходных розеток">5</param>
+<param name="Длина провода">3</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Черный</param>
+<param name="Мощность нагрузки">2500</param>
 </offer>
 <offer id="HP-5-55" available="true">
 <name>Сетевой фильтр-удлинитель 8 розеток 4xUSB-A 2xUSB-C 5м белая HP-5-55</name>
@@ -20510,36 +20510,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="173309ML" available="true">
-<name>Гирлянда светодиодная конский хвост GarlandoPro 200LED Роса 2м 10 линий 173309ML</name>
-<price>259</price>
-<vendorprice>160</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>65</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/173309ML-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_8.jpg</picture>
-<vendor>Garlando</vendor>
-<description><![CDATA[Сказочное преображение Представляем вам уникальную светодиодную гирлянду "Конский хвост" от GarlandoPro, которая станет незаменимым акцентом в вашем праздничном или будничном декоре. Благодаря 200 ярким светодиодам, расположенным на 10 линиях, эта гирлянда превратит ваше пространство в настоящую сказку.  Разнообразные режимы С восьмью режимами работы у вас есть множество вариантов для создания различных световых эффектов. От мягкого и роскошного света до мерцающих игровых эффектов – эта гирлянда поможет создать любую атмосферу, добавляя нотку магии и праздника вашему интерьеру или двору.  Шарм и элегантность Светодиодная гирлянда "Конский хвост" GarlandoPro 200LED не только украсит ваше пространство, но и создаст неповторимую атмосферу, которая очарует всех ваших гостей или жильцов. Этот продукт добавит вашему интерьеру или экстерьеру особый шарм и элегантность, делая ваши праздники и мероприятия незабываемыми.  Характеристики:   Количество светодиодов: 200 Количество линий: 10 Режимы работы: 8   Преимущества:   Разнообразные световые эффекты для любой атмосферы Создание сказочной и праздничной обстановки Добавление особого шарма и элегантности   Уход:   Протирайте сухой тканью Избегайте контакта с водой Храните в сухом месте при комнатной температуре]]></description>
-<quantity_in_stock>210</quantity_in_stock>
-<vendorCode>173309ML</vendorCode>
-<param name="Режим работы">Динамический</param>
-<param name="Количество светодиодов">200</param>
-<param name="Напряжение">220 В</param>
-<param name="Длина">2 м</param>
-<param name="Тип гирлянды">Гирлянда Конский хвост</param>
-<param name="Тип освещения">Светодиодная гирлянда</param>
-<param name="Состояние">Новое</param>
-<param name="Тип питания">Сеть</param>
-<param name="Упаковка">Коробка</param>
-<param name="Цвет свечения">Мультиколор</param>
-</offer>
 <offer id="HP-1351" available="true">
 <name>Бутылка для масла с дозатором 550 мл стеклянная бутылка для оливкового и подсолнечного масла HP-1351</name>
 <price>259</price>
@@ -20655,6 +20625,36 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Ширина">30</param>
 <param name="Количество в наборе">1</param>
 <param name="Длина">40</param>
+</offer>
+<offer id="173309ML" available="true">
+<name>Гирлянда светодиодная конский хвост GarlandoPro 200LED Роса 2м 10 линий 173309ML</name>
+<price>259</price>
+<vendorprice>160</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>65</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/173309ML-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/88/369/girlyanda_konskiy_hvost_rosa_10_nitey_na_200_led_lampochek_svetodiodnaya_mednyy_provod_2_m_po_20_diodov_8.jpg</picture>
+<vendor>Garlando</vendor>
+<description><![CDATA[Сказочное преображение Представляем вам уникальную светодиодную гирлянду "Конский хвост" от GarlandoPro, которая станет незаменимым акцентом в вашем праздничном или будничном декоре. Благодаря 200 ярким светодиодам, расположенным на 10 линиях, эта гирлянда превратит ваше пространство в настоящую сказку.  Разнообразные режимы С восьмью режимами работы у вас есть множество вариантов для создания различных световых эффектов. От мягкого и роскошного света до мерцающих игровых эффектов – эта гирлянда поможет создать любую атмосферу, добавляя нотку магии и праздника вашему интерьеру или двору.  Шарм и элегантность Светодиодная гирлянда "Конский хвост" GarlandoPro 200LED не только украсит ваше пространство, но и создаст неповторимую атмосферу, которая очарует всех ваших гостей или жильцов. Этот продукт добавит вашему интерьеру или экстерьеру особый шарм и элегантность, делая ваши праздники и мероприятия незабываемыми.  Характеристики:   Количество светодиодов: 200 Количество линий: 10 Режимы работы: 8   Преимущества:   Разнообразные световые эффекты для любой атмосферы Создание сказочной и праздничной обстановки Добавление особого шарма и элегантности   Уход:   Протирайте сухой тканью Избегайте контакта с водой Храните в сухом месте при комнатной температуре]]></description>
+<quantity_in_stock>209</quantity_in_stock>
+<vendorCode>173309ML</vendorCode>
+<param name="Режим работы">Динамический</param>
+<param name="Количество светодиодов">200</param>
+<param name="Напряжение">220 В</param>
+<param name="Длина">2 м</param>
+<param name="Тип гирлянды">Гирлянда Конский хвост</param>
+<param name="Тип освещения">Светодиодная гирлянда</param>
+<param name="Состояние">Новое</param>
+<param name="Тип питания">Сеть</param>
+<param name="Упаковка">Коробка</param>
+<param name="Цвет свечения">Мультиколор</param>
 </offer>
 <offer id="1733069ML" available="true">
 <name>Гирлянда штора светодиодная GarlandoPro звезда и елка 120LED 3х0,9 м 8 режимов 1733069ML</name>
@@ -21872,28 +21872,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Материал">Диатомит</param>
 <param name="Размеры">58*38 см</param>
 </offer>
-<offer id="503-31-F" available="true">
-<name>Набор кухонных полотенец из льна 2 штуки 30*40 см</name>
-<url>https://lugi.com.ua/ru/ru-cf-servetka-bavovna-30-40sm/</url>
-<price>89</price>
-<vendorprice>72</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>63</categoryId>
-<picture>https://lugi.com.ua/image/cache/catalog/images/dlya_domy/503-31-F/FilteredImage(1)-600x600.png</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/dlya_domy/503-31-F/3(2)-600x600.png</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/dlya_domy/503-31-F/1(1)-600x600.png</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/dlya_domy/503-31-F/1(3)-600x600.png</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/dlya_domy/503-31-F/2___D-600x600.png</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/dlya_domy/503-31-F/C-600x600.png</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/dlya_domy/503-31-F/image(51)-600x600.png</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/dlya_domy/503-31-F/image(52)-600x600.png</picture>
-<description><![CDATA[<p>Универсальный набор кухонных полотенец из натурального льна. Изделия предназначены для ежедневного использования, сервировки стола и поддержания чистоты рабочих поверхностей.</p><p><b>Преимущества:</b></p><ol><li>Гигроскопичность: Материал обладает способностью быстро впитывать влагу и высыхать в кратчайшие сроки.</li><li>Антибактериальные свойства: Льняная ткань препятствует развитию микрофлоры и возникновению неприятных запахов.</li><li>Прочность: Высокая плотность плетения обеспечивает устойчивость к истиранию и механическим повреждениям при частых стирках.</li><li>Текстура: Характерное полотняное плетение обеспечивает мягкий пилинг-эффект для рук и отсутствие ворса на протираемых приборах.</li></ol><p><b>Инструкция по уходу:</b></p><ul><li>Рекомендуемая температура стирки: до 40°C.</li><li>Допускается естественная сушка.</li><li>Гладить в слегка влажном состоянии для достижения максимальной мягкости ткани.</li></ul><p><b>Характеристики:</b></p><ul><li>Материал: лён</li><li>Размер: 35*75 см</li><li>Количество в наборе: 2 штуки</li></ul><p><b>Внимание: </b>Формируется из случайных цветов (рандом), имеющихся в наличии на складе. Цвета изделий в наборе могут отличаться между собой и от представленных на демонстрационных фото.</p>]]></description>
-<quantity_in_stock>194</quantity_in_stock>
-<vendorCode>503-31-F</vendorCode>
-<param name="Количество в наборе (шт.)">2</param>
-<param name="Материал">лён</param>
-<param name="Размеры (см)">30*40</param>
-</offer>
 <offer id="HP-42-84" available="true">
 <name>Коврик для ног прямоугольный 58×38 см с геометрическим рисунком Yiwu HP-42-84</name>
 <price>199</price>
@@ -21995,6 +21973,28 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Форма лампочки">Классическая</param>
 <param name="Форма сечения">Круглая</param>
 <param name="Цветовая гамма">Белый</param>
+</offer>
+<offer id="503-31-F" available="true">
+<name>Набор кухонных полотенец из льна 2 штуки 30*40 см</name>
+<url>https://lugi.com.ua/ru/ru-cf-servetka-bavovna-30-40sm/</url>
+<price>89</price>
+<vendorprice>72</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>63</categoryId>
+<picture>https://lugi.com.ua/image/cache/catalog/images/dlya_domy/503-31-F/FilteredImage(1)-600x600.png</picture>
+<picture>https://lugi.com.ua/image/cache/catalog/images/dlya_domy/503-31-F/3(2)-600x600.png</picture>
+<picture>https://lugi.com.ua/image/cache/catalog/images/dlya_domy/503-31-F/1(1)-600x600.png</picture>
+<picture>https://lugi.com.ua/image/cache/catalog/images/dlya_domy/503-31-F/1(3)-600x600.png</picture>
+<picture>https://lugi.com.ua/image/cache/catalog/images/dlya_domy/503-31-F/2___D-600x600.png</picture>
+<picture>https://lugi.com.ua/image/cache/catalog/images/dlya_domy/503-31-F/C-600x600.png</picture>
+<picture>https://lugi.com.ua/image/cache/catalog/images/dlya_domy/503-31-F/image(51)-600x600.png</picture>
+<picture>https://lugi.com.ua/image/cache/catalog/images/dlya_domy/503-31-F/image(52)-600x600.png</picture>
+<description><![CDATA[<p>Универсальный набор кухонных полотенец из натурального льна. Изделия предназначены для ежедневного использования, сервировки стола и поддержания чистоты рабочих поверхностей.</p><p><b>Преимущества:</b></p><ol><li>Гигроскопичность: Материал обладает способностью быстро впитывать влагу и высыхать в кратчайшие сроки.</li><li>Антибактериальные свойства: Льняная ткань препятствует развитию микрофлоры и возникновению неприятных запахов.</li><li>Прочность: Высокая плотность плетения обеспечивает устойчивость к истиранию и механическим повреждениям при частых стирках.</li><li>Текстура: Характерное полотняное плетение обеспечивает мягкий пилинг-эффект для рук и отсутствие ворса на протираемых приборах.</li></ol><p><b>Инструкция по уходу:</b></p><ul><li>Рекомендуемая температура стирки: до 40°C.</li><li>Допускается естественная сушка.</li><li>Гладить в слегка влажном состоянии для достижения максимальной мягкости ткани.</li></ul><p><b>Характеристики:</b></p><ul><li>Материал: лён</li><li>Размер: 35*75 см</li><li>Количество в наборе: 2 штуки</li></ul><p><b>Внимание: </b>Формируется из случайных цветов (рандом), имеющихся в наличии на складе. Цвета изделий в наборе могут отличаться между собой и от представленных на демонстрационных фото.</p>]]></description>
+<quantity_in_stock>193</quantity_in_stock>
+<vendorCode>503-31-F</vendorCode>
+<param name="Количество в наборе (шт.)">2</param>
+<param name="Материал">лён</param>
+<param name="Размеры (см)">30*40</param>
 </offer>
 <offer id="HP-42-76" available="true">
 <name>Коврик универсальный диатомитовый Silk 58*38 см прямоугольный</name>
@@ -22584,7 +22584,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7560/kovrik_dlya_vannoy_komnaty_58_38_sm_pod_mramor_2.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Влагопоглощающий коврик для ванной комнаты под мрамор изготовлен из диатомита и предназначен для использования возле ванны, душевой кабины, умывальника или стиральной машины. Поверхность с текстурой натурального мрамора гармонично дополняет интерьер, а диатомит быстро впитывает влагу и высыхает, помогая поддерживать пол сухим. Материал не накапливает пыль, волосы и мелкий мусор, легко очищается и подходит для ежедневного использования. Размер 58×38 см обеспечивает удобное размещение в большинстве ванных комнат. Преимущества  Изготовлен из диатомита. Быстро впитывает влагу и высыхает. Поверхность с текстурой натурального мрамора. Помогает поддерживать пол сухим. Не накапливает пыль, волосы и мелкий мусор. Легко очищается влажной тканью или водой. Прямоугольная форма подходит для использования возле ванны, душевой кабины, умывальника или стиральной машины. Подходит для ежедневного использования.  Характеристики  Тип: влагопоглощающий коврик для ванной комнаты. Материал: диатомит. Форма: прямоугольная. Размер: 58×38 см. Вес: 400 г. Поверхность: текстура под мрамор.  Правила ухода  Регулярно очищать влажной тряпкой или промывать под проточной водой. После мытья оставлять до полного высыхания. Не использовать абразивные средства и агрессивные химические вещества. Не сворачивать во влажном состоянии и не сушить возле открытого источника тепла.]]></description>
-<quantity_in_stock>184</quantity_in_stock>
+<quantity_in_stock>183</quantity_in_stock>
 <vendorCode>HP-42-83</vendorCode>
 <param name="Тип">Коврик для ванной</param>
 <param name="Материал">Диатомит</param>
@@ -23843,26 +23843,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Эргономичные ручки">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="64486-74" available="true">
-<name>Набор стеклянных трубочек с щеточкой (6+1) 64486-74</name>
-<price>119</price>
-<vendorprice>96</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>55</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/64486-74/64486-74-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/64486-74/64486-74-2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Набор стеклянных трубочек для напитков &mdash; это практичный и экологичный аксессуар, который заменит одноразовые пластиковые аналоги. Изготовленные из прочного боросиликатного стекла, трубочки устойчивы к высоким температурам и подойдут для любых напитков &mdash; от соков до коктейлей. Благодаря стильному дизайну они станут отличным дополнением к сервировке стола.  Характеристики набора стеклянных трубочек:  &bull; Вес: 0.100 кг; &bull; Длина трубочек: 19.5 см; &bull; Материалы: стекло, металл; &bull; Комплектация: 6 стеклянных трубочек в наборе; &bull; Дополнительные элементы: щёточка для очистки; &bull; Диаметр трубочек: 5 мм.  Преимущества набора трубочек из стекла:  &bull; Экологичность &mdash; многоразовое использование без вреда для природы; &bull; Гигиеничность &mdash; легко очищаются и не впитывают запахи; &bull; Универсальность &mdash; подходят для холодных и горячих напитков; &bull; Эстетичность &mdash; прозрачное стекло выглядит стильно и современно; &bull; Практичность &mdash; щёточка в комплекте облегчает уход.]]></description>
-<quantity_in_stock>173</quantity_in_stock>
-<vendorCode>64486-74</vendorCode>
-<param name="Материал">Боросиликатное стекло</param>
-<param name="Вес">0.1</param>
-<param name="Диаметр">5</param>
-<param name="Количество в упаковке">6</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Длина">19.5</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="BQ-23" available="true">
 <name>Набор шампуров 6 штук из нержавеющей стали 60х1.5 см BQ-23</name>
 <price>279</price>
@@ -24065,6 +24045,26 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Способ закрывания">Крышка</param>
 <param name="Тип емкости">Графин</param>
 <param name="Нижний диаметр">7.5</param>
+</offer>
+<offer id="64486-74" available="true">
+<name>Набор стеклянных трубочек с щеточкой (6+1) 64486-74</name>
+<price>119</price>
+<vendorprice>96</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>55</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/64486-74/64486-74-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/64486-74/64486-74-2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Набор стеклянных трубочек для напитков &mdash; это практичный и экологичный аксессуар, который заменит одноразовые пластиковые аналоги. Изготовленные из прочного боросиликатного стекла, трубочки устойчивы к высоким температурам и подойдут для любых напитков &mdash; от соков до коктейлей. Благодаря стильному дизайну они станут отличным дополнением к сервировке стола.  Характеристики набора стеклянных трубочек:  &bull; Вес: 0.100 кг; &bull; Длина трубочек: 19.5 см; &bull; Материалы: стекло, металл; &bull; Комплектация: 6 стеклянных трубочек в наборе; &bull; Дополнительные элементы: щёточка для очистки; &bull; Диаметр трубочек: 5 мм.  Преимущества набора трубочек из стекла:  &bull; Экологичность &mdash; многоразовое использование без вреда для природы; &bull; Гигиеничность &mdash; легко очищаются и не впитывают запахи; &bull; Универсальность &mdash; подходят для холодных и горячих напитков; &bull; Эстетичность &mdash; прозрачное стекло выглядит стильно и современно; &bull; Практичность &mdash; щёточка в комплекте облегчает уход.]]></description>
+<quantity_in_stock>172</quantity_in_stock>
+<vendorCode>64486-74</vendorCode>
+<param name="Материал">Боросиликатное стекло</param>
+<param name="Вес">0.1</param>
+<param name="Диаметр">5</param>
+<param name="Количество в упаковке">6</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Длина">19.5</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-5-59" available="true">
 <name>Уличный LED фонарь на солнечных батареях 154 LED 300 Вт с солнечной панелью HP-5-59</name>
@@ -26046,32 +26046,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Материал подставки">Металл</param>
 <param name="Объем">1.5 л</param>
 </offer>
-<offer id="HP-35015-62" available="true">
-<name>Универсальная швабра для уборки 2 насадки щетка веник HP - 35015-62</name>
-<price>359</price>
-<vendorprice>251</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>157</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000000/HP-35015-62/HP-35015-62_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000000/HP-35015-62/044f9e0a-f695-4f69-b3c3-2f3c5eed8c25.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000000/HP-35015-62/HP-35015-62_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000000/HP-35015-62/HP-35015-62_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000000/HP-35015-62/HP-35015-62_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000000/HP-35015-62/HP-35015-62_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000000/HP-35015-62/HP-35015-62_1.jpg</picture>
-<vendor>ZhiyuClean</vendor>
-<description><![CDATA[Универсальная швабра предназначена для сухой и влажной уборки различных типов покрытий: плитки, ламината, линолеума и других поверхностей. В комплект входят две насадки: щетка для стойких загрязнений и губка для деликатного мытья.  Ручка из нержавеющей стали, многоугольная форма основания обеспечивает доступ к углам и труднодоступным зонам вдоль мебели и стен. Поворотный механизм на 180° повышает маневренность и контроль движений.  Насадки легко снимаются, моются и подходят для многократного использования. Конструкция швабры позволяет применять её также для мытья окон и других гладких поверхностей. Подходит для регулярной уборки кухни, ванной комнаты, коридора и балкона.  Характеристики швабры для мытья пола:   Тип: универсальная швабра Уборка: сухая и влажная Материал ручки: нержавеющая сталь Количество насадок: 2 Тип насадок: щетка, губка Размер щетки: 12.5×8 см Максимальная длина ручки: 90 см Материал насадок: полипропилен Форма основания: многоугольная Поворот щетки: 180°   Ручка состоит из двух секций: верхняя часть — пластиковый грип с удобной петлей для вертикального хранения, нижняя — металлическая трубка.  Соединения изготовлены из пластика, что обеспечивает прочность и легкость конструкции.    Преимущества швабры щетки для уборки пола:   Универсальное использование для сухой и влажной уборки Доступ к углам и труднодоступным зонам благодаря многоугольной форме основания Поворот основания на 180° для маневренности Две насадки для разных задач: щетка для стойких загрязнений и губка для деликатной уборки Насадки легко снимаются, моются и многократно используются Подходит для различных поверхностей: плитка, ламинат, линолеум, окна и гладкие покрытия   Универсальная швабра со сменными насадками — практичное решение для эффективной и удобной уборки любых поверхностей в доме. Эргономичная конструкция, маневренность и прочные материалы обеспечивают долговечность и комфорт при ежедневном использовании.]]></description>
-<quantity_in_stock>149</quantity_in_stock>
-<vendorCode>HP-35015-62</vendorCode>
-<param name="Длина ручки">90</param>
-<param name="Материал насадки">Полипропилен</param>
-<param name="Основное назначение">Универсальное|Для пола|Для окон|Для стен</param>
-<param name="Наличие механизма отжима">Нет</param>
-<param name="Материал ручки">Нержавеющая сталь</param>
-<param name="Цвет">Белый</param>
-<param name="Комплектация ведром">Нет</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-FM-352-3" available="true">
 <name>Термочашка Summer 520 мл с трубочкой и двойным открыванием кремовый HP-FM-352-3</name>
 <price>519</price>
@@ -26203,6 +26177,32 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Длина">7.5 см</param>
 <param name="Состояние">Новое</param>
 <param name="Пол">Унисекс</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-35015-62" available="true">
+<name>Универсальная швабра для уборки 2 насадки щетка веник HP - 35015-62</name>
+<price>359</price>
+<vendorprice>251</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>157</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000000/HP-35015-62/HP-35015-62_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000000/HP-35015-62/044f9e0a-f695-4f69-b3c3-2f3c5eed8c25.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000000/HP-35015-62/HP-35015-62_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000000/HP-35015-62/HP-35015-62_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000000/HP-35015-62/HP-35015-62_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000000/HP-35015-62/HP-35015-62_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000000/HP-35015-62/HP-35015-62_1.jpg</picture>
+<vendor>ZhiyuClean</vendor>
+<description><![CDATA[Универсальная швабра предназначена для сухой и влажной уборки различных типов покрытий: плитки, ламината, линолеума и других поверхностей. В комплект входят две насадки: щетка для стойких загрязнений и губка для деликатного мытья.  Ручка из нержавеющей стали, многоугольная форма основания обеспечивает доступ к углам и труднодоступным зонам вдоль мебели и стен. Поворотный механизм на 180° повышает маневренность и контроль движений.  Насадки легко снимаются, моются и подходят для многократного использования. Конструкция швабры позволяет применять её также для мытья окон и других гладких поверхностей. Подходит для регулярной уборки кухни, ванной комнаты, коридора и балкона.  Характеристики швабры для мытья пола:   Тип: универсальная швабра Уборка: сухая и влажная Материал ручки: нержавеющая сталь Количество насадок: 2 Тип насадок: щетка, губка Размер щетки: 12.5×8 см Максимальная длина ручки: 90 см Материал насадок: полипропилен Форма основания: многоугольная Поворот щетки: 180°   Ручка состоит из двух секций: верхняя часть — пластиковый грип с удобной петлей для вертикального хранения, нижняя — металлическая трубка.  Соединения изготовлены из пластика, что обеспечивает прочность и легкость конструкции.    Преимущества швабры щетки для уборки пола:   Универсальное использование для сухой и влажной уборки Доступ к углам и труднодоступным зонам благодаря многоугольной форме основания Поворот основания на 180° для маневренности Две насадки для разных задач: щетка для стойких загрязнений и губка для деликатной уборки Насадки легко снимаются, моются и многократно используются Подходит для различных поверхностей: плитка, ламинат, линолеум, окна и гладкие покрытия   Универсальная швабра со сменными насадками — практичное решение для эффективной и удобной уборки любых поверхностей в доме. Эргономичная конструкция, маневренность и прочные материалы обеспечивают долговечность и комфорт при ежедневном использовании.]]></description>
+<quantity_in_stock>148</quantity_in_stock>
+<vendorCode>HP-35015-62</vendorCode>
+<param name="Длина ручки">90</param>
+<param name="Материал насадки">Полипропилен</param>
+<param name="Основное назначение">Универсальное|Для пола|Для окон|Для стен</param>
+<param name="Наличие механизма отжима">Нет</param>
+<param name="Материал ручки">Нержавеющая сталь</param>
+<param name="Цвет">Белый</param>
+<param name="Комплектация ведром">Нет</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-42-46" available="true">
@@ -28241,7 +28241,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4516/lozhka_servirovochnaya_iz_nerzhaveyushchey_stali_29_5_5_sm_bolshaya_lozhka_dlya_podachi_blyud_2.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Сервировочная ложка из нержавеющей стали &mdash; стильный и практичный аксессуар, который станет отличным дополнением к любой кухне или праздничному столу. Она предназначена для удобной порционной подачи вторых блюд, гарниров, салатов, а также для аккуратной заправки готовых блюд соусами. Благодаря продуманной форме и прочной конструкции, ложка обеспечивает комфортное использование и презентабельную подачу пищи. Изделие выполнено из цельнолитой пищевой нержавеющей стали, что гарантирует его прочность, долговечность и устойчивость к коррозии. Особое внимание заслуживает рельефная молотковая текстура поверхности &mdash; она не только придаёт ложке стильный внешний вид, но и обеспечивает надёжное сцепление с рукой, даже если она мокрая или жирная.  Основные характеристики ложка сервировочной       Размер: 29&times;5.5 см; Материал: нержавеющая сталь.   Ложка подходит как для домашнего использования, так и для ресторанов, кафе, кейтерингового обслуживания, банкетов и фуршетов. Она уместна на столе в формате &laquo;шведский стол&raquo; и во время семейных застолий.]]></description>
-<quantity_in_stock>131</quantity_in_stock>
+<quantity_in_stock>130</quantity_in_stock>
 <vendorCode>HP-8-40</vendorCode>
 <param name="Тип">Ложка</param>
 <param name="Материал">Нержавеющая сталь</param>
@@ -28386,28 +28386,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Длина">40</param>
 <param name="Тип сушки">Настольная</param>
 <param name="Гарантия">14 дней</param>
-</offer>
-<offer id="HP-5-54" available="true">
-<name>Сетевой фильтр-удлинитель 6 розеток 4 USB-A + 2USB Type-C 5м HP-5-54</name>
-<price>729</price>
-<vendorprice>562</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>78</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7006/setevoy_filtr_udlinitel_6_rozetok_4_usb_a_2usb_type_c_5m_knopka_otklyucheniya_udlinitel_elektricheskiy_pitan.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-54/HP-5-54_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-54/HP-5-54_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-54/HP-5-54_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-54/HP-5-54_5.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 6 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 6 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 23 × 11 × 4 см]]></description>
-<quantity_in_stock>130</quantity_in_stock>
-<vendorCode>HP-5-54</vendorCode>
-<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
-<param name="Длина шнура">5</param>
-<param name="Количество выходных розеток">6</param>
-<param name="Выключатель">Да</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Черный</param>
 </offer>
 <offer id="HP-7-726" available="true">
 <name>Тарелка сервировочная фарфоровая 30 см черная HP-7-726</name>
@@ -28709,6 +28687,28 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Комплектация подставкой">Нет</param>
 <param name="Длина">60</param>
 <param name="Состояние">Новое</param>
+</offer>
+<offer id="HP-5-54" available="true">
+<name>Сетевой фильтр-удлинитель 6 розеток 4 USB-A + 2USB Type-C 5м HP-5-54</name>
+<price>729</price>
+<vendorprice>562</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>78</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7006/setevoy_filtr_udlinitel_6_rozetok_4_usb_a_2usb_type_c_5m_knopka_otklyucheniya_udlinitel_elektricheskiy_pitan.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-54/HP-5-54_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-54/HP-5-54_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-54/HP-5-54_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-54/HP-5-54_5.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 6 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 6 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 23 × 11 × 4 см]]></description>
+<quantity_in_stock>128</quantity_in_stock>
+<vendorCode>HP-5-54</vendorCode>
+<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+<param name="Длина шнура">5</param>
+<param name="Количество выходных розеток">6</param>
+<param name="Выключатель">Да</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Черный</param>
 </offer>
 <offer id="HP-34-132" available="true">
 <name>Конфетница стеклянная Bohemia 15 см  Yiwu HP-34-132</name>
@@ -39449,31 +39449,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Диаметр">25</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 </offer>
-<offer id="HP-14-5GR" available="true">
-<name>Термос Sport из нержавеющей стали 600 мл  зеленый HP-14-5GR</name>
-<price>689</price>
-<vendorprice>528</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>154</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3068/termos_metallicheskiy_600_ml_iz_nerzhaveyushchey_stali_s_poilkoy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3068/termos_metallicheskiy_600_ml_iz_nerzhaveyushchey_stali_s_poilkoy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3068/termos_metallicheskiy_600_ml_iz_nerzhaveyushchey_stali_s_poilkoy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3068/termos_metallicheskiy_600_ml_iz_nerzhaveyushchey_stali_s_poilkoy_3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Термос 600 мл изготовлен из высококачественной нержавеющей стали, что делает его крепким, долговечным и устойчивым к коррозии. Благодаря двойным стенкам с вакуумной изоляцией термос способен сохранять тепло в течение 6 часов, а холод – в течение 12 часов.   Основные особенности термоса    Термос оснащен удобной крышкой с кнопочным механизмом, что позволяет легко открывать и закрывать термос одной рукой. Внутри крышки имеется герметичная силиконовая прокладка для предотвращения протекания. В комплект входит ручка, удобная для переноски и фиксации термоса на сумке или рюкзаке.    Основные характеристики термоса    объем 600 мл; высота 20 см; диаметр td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;} 7.5 см; материал - нержавеющая сталь; сохранение тепла до 6 часов.   Термос – это универсальный и практичный аксессуар, который идеально подойдет для любителей активного отдыха, путешественников и просто тех, кто хочет всегда иметь под рукой горячий или холодный напиток.]]></description>
-<quantity_in_stock>83</quantity_in_stock>
-<vendorCode>HP-14-5GR</vendorCode>
-<param name="Высота">20 см</param>
-<param name="Время сохранения тепла">6 ч</param>
-<param name="Вес">400 г</param>
-<param name="Время сохранения холода">12 ч</param>
-<param name="Материал колбы">Нержавеющая сталь</param>
-<param name="Объем">600 мл</param>
-<param name="Цвет">Зелёный</param>
-<param name="Тип термоса">Питьевой</param>
-<param name="Нижний диаметр">7.5 см</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-14-12GR" available="true">
 <name>Термокружка Panda с фарфоровой колбой 380 мл Зеленая HP-14-12GR</name>
 <price>769</price>
@@ -39722,6 +39697,31 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Форма">Квадратная</param>
 <param name="Гарантия">14 дней</param>
 <param name="Толщина стенки">1 мм</param>
+</offer>
+<offer id="HP-14-5GR" available="true">
+<name>Термос Sport из нержавеющей стали 600 мл  зеленый HP-14-5GR</name>
+<price>689</price>
+<vendorprice>528</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>154</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3068/termos_metallicheskiy_600_ml_iz_nerzhaveyushchey_stali_s_poilkoy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3068/termos_metallicheskiy_600_ml_iz_nerzhaveyushchey_stali_s_poilkoy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3068/termos_metallicheskiy_600_ml_iz_nerzhaveyushchey_stali_s_poilkoy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3068/termos_metallicheskiy_600_ml_iz_nerzhaveyushchey_stali_s_poilkoy_3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Термос 600 мл изготовлен из высококачественной нержавеющей стали, что делает его крепким, долговечным и устойчивым к коррозии. Благодаря двойным стенкам с вакуумной изоляцией термос способен сохранять тепло в течение 6 часов, а холод – в течение 12 часов.   Основные особенности термоса    Термос оснащен удобной крышкой с кнопочным механизмом, что позволяет легко открывать и закрывать термос одной рукой. Внутри крышки имеется герметичная силиконовая прокладка для предотвращения протекания. В комплект входит ручка, удобная для переноски и фиксации термоса на сумке или рюкзаке.    Основные характеристики термоса    объем 600 мл; высота 20 см; диаметр td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;} 7.5 см; материал - нержавеющая сталь; сохранение тепла до 6 часов.   Термос – это универсальный и практичный аксессуар, который идеально подойдет для любителей активного отдыха, путешественников и просто тех, кто хочет всегда иметь под рукой горячий или холодный напиток.]]></description>
+<quantity_in_stock>82</quantity_in_stock>
+<vendorCode>HP-14-5GR</vendorCode>
+<param name="Высота">20 см</param>
+<param name="Время сохранения тепла">6 ч</param>
+<param name="Вес">400 г</param>
+<param name="Время сохранения холода">12 ч</param>
+<param name="Материал колбы">Нержавеющая сталь</param>
+<param name="Объем">600 мл</param>
+<param name="Цвет">Зелёный</param>
+<param name="Тип термоса">Питьевой</param>
+<param name="Нижний диаметр">7.5 см</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-14-7GR" available="true">
 <name>Термос из нержавеющей стали 700 мл зеленый HP-14-7GR</name>
@@ -40115,41 +40115,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Складная ручка">Нет</param>
 <param name="Холодный обдув">Да</param>
 </offer>
-<offer id="SB1000L100MBML" available="true">
-<name>Новогодняя гирлянда уличная 100 м 1000 LED с солнечной батареей черный провод Мультиколор SB1000L100MBML</name>
-<price>3739</price>
-<vendorprice>2289</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>18</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/FM-56D/SB1000L100BW-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../SB1000L100MBML/SB1000L100MBML2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../SB1000L100MBML/SB1000L100MBML1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5327/novogodnyaya_girlyanda_ulichnaya_100_m_1000_led_s_solnechnoy_batareey_8_rezhimov_raboty_chernyy_provod_multikolor_4.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5327/novogodnyaya_girlyanda_ulichnaya_100_m_1000_led_s_solnechnoy_batareey_8_rezhimov_raboty_chernyy_provod_multikolor_5.jpg</picture>
-<vendor>Garlando</vendor>
-<description><![CDATA[Светодиодная новогодняя гирлянда уличная с солнечной батареей — универсальное решение для наружного и интерьерного декора. Она помогает создать праздничную атмосферу и подчеркнуть архитектурные линии дома, балкона, террасы или сада. Благодаря мягкому, равномерному свечению гирлянда добавляет тепла и уюта в любое пространство, делая его нарядным и привлекательным. Модель оснащена удобным пультом дистанционного управления и питанием от солнечной батареи, что позволяет использовать её в местах без электросети. Основные характеристики уличной новогодней гирлянды:  Тип: новогодняя гирлянда уличная с солнечной батареей; Источник питания: от солнечной батареи; Количество LED: 1000 шт; Общая длина: 100 м; Цвет провода: чёрный; Расстояние между лампочками: 9 см; Количество режимов: 8; Переключение режимов: механически или с помощью пульта; Степень защиты: IP65 (влагозащита); Назначение: для наружного и внутреннего использования.  Особенности светодиодной гирлянды для улицы: • Длина гирлянды — 100 м, что позволяет украшать большие площади. • 1000 ярких LED-ламп обеспечивают равномерное свечение без затемнений. • Чёрный провод выглядит аккуратно. • 8 режимов работы для создания нужного светового эффекта. • Удобное переключение режимов с помощью пульта. • Работает от солнечной батареи — экономия энергии и автономность. • Степень защиты IP65 — влагозащита и устойчивость к погодным условиям. • Энергосберегающие светодиоды с длительным сроком службы. • Безопасность и надёжность при длительной эксплуатации. Новогодняя гирлянда уличная с солнечной батареей — это сочетание эстетики, практичности и долговечности. Она станет ярким, энергоэффективным акцентом праздничного или повседневного освещения, создавая атмосферу уюта и праздника даже в холодное время года.]]></description>
-<quantity_in_stock>81</quantity_in_stock>
-<vendorCode>SB1000L100MBML</vendorCode>
-<param name="Вес">1.5 кг</param>
-<param name="Количество режимов свечения">8</param>
-<param name="Режим работы">Динамический</param>
-<param name="Количество светодиодов">1000</param>
-<param name="Длина шнура питания">1.09 м</param>
-<param name="Напряжение">220 В</param>
-<param name="Длина">100 м</param>
-<param name="Тип гирлянды">Нить уличная|Нить комнатная</param>
-<param name="Тип освещения">Светодиодная гирлянда</param>
-<param name="Тип питания">Солнечная энергия</param>
-<param name="Упаковка">Коробка</param>
-<param name="Управление">Пульт ДУ</param>
-<param name="Степень защиты IP">65</param>
-<param name="Цвет шнура питания">Черный</param>
-<param name="Угол свечения">360</param>
-<param name="Гарантия">14 дней</param>
-<param name="Цвет свечения">Мультиколор</param>
-<param name="Форма лампочки">Классическая</param>
-<param name="Форма сечения">Круглая</param>
-</offer>
 <offer id="36MWBL" available="true">
 <name>Уличная гирлянда Бахрома 36 м 600 LED белый провод Синий 36MWBL</name>
 <price>2369</price>
@@ -40527,6 +40492,41 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Форма лампочки">Классическая</param>
 <param name="Форма сечения">Круглая</param>
 <param name="Цветовая гамма">RGB</param>
+</offer>
+<offer id="SB1000L100MBML" available="true">
+<name>Новогодняя гирлянда уличная 100 м 1000 LED с солнечной батареей черный провод Мультиколор SB1000L100MBML</name>
+<price>3739</price>
+<vendorprice>2289</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>18</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/FM-56D/SB1000L100BW-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../SB1000L100MBML/SB1000L100MBML2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../SB1000L100MBML/SB1000L100MBML1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5327/novogodnyaya_girlyanda_ulichnaya_100_m_1000_led_s_solnechnoy_batareey_8_rezhimov_raboty_chernyy_provod_multikolor_4.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5327/novogodnyaya_girlyanda_ulichnaya_100_m_1000_led_s_solnechnoy_batareey_8_rezhimov_raboty_chernyy_provod_multikolor_5.jpg</picture>
+<vendor>Garlando</vendor>
+<description><![CDATA[Светодиодная новогодняя гирлянда уличная с солнечной батареей — универсальное решение для наружного и интерьерного декора. Она помогает создать праздничную атмосферу и подчеркнуть архитектурные линии дома, балкона, террасы или сада. Благодаря мягкому, равномерному свечению гирлянда добавляет тепла и уюта в любое пространство, делая его нарядным и привлекательным. Модель оснащена удобным пультом дистанционного управления и питанием от солнечной батареи, что позволяет использовать её в местах без электросети. Основные характеристики уличной новогодней гирлянды:  Тип: новогодняя гирлянда уличная с солнечной батареей; Источник питания: от солнечной батареи; Количество LED: 1000 шт; Общая длина: 100 м; Цвет провода: чёрный; Расстояние между лампочками: 9 см; Количество режимов: 8; Переключение режимов: механически или с помощью пульта; Степень защиты: IP65 (влагозащита); Назначение: для наружного и внутреннего использования.  Особенности светодиодной гирлянды для улицы: • Длина гирлянды — 100 м, что позволяет украшать большие площади. • 1000 ярких LED-ламп обеспечивают равномерное свечение без затемнений. • Чёрный провод выглядит аккуратно. • 8 режимов работы для создания нужного светового эффекта. • Удобное переключение режимов с помощью пульта. • Работает от солнечной батареи — экономия энергии и автономность. • Степень защиты IP65 — влагозащита и устойчивость к погодным условиям. • Энергосберегающие светодиоды с длительным сроком службы. • Безопасность и надёжность при длительной эксплуатации. Новогодняя гирлянда уличная с солнечной батареей — это сочетание эстетики, практичности и долговечности. Она станет ярким, энергоэффективным акцентом праздничного или повседневного освещения, создавая атмосферу уюта и праздника даже в холодное время года.]]></description>
+<quantity_in_stock>80</quantity_in_stock>
+<vendorCode>SB1000L100MBML</vendorCode>
+<param name="Вес">1.5 кг</param>
+<param name="Количество режимов свечения">8</param>
+<param name="Режим работы">Динамический</param>
+<param name="Количество светодиодов">1000</param>
+<param name="Длина шнура питания">1.09 м</param>
+<param name="Напряжение">220 В</param>
+<param name="Длина">100 м</param>
+<param name="Тип гирлянды">Нить уличная|Нить комнатная</param>
+<param name="Тип освещения">Светодиодная гирлянда</param>
+<param name="Тип питания">Солнечная энергия</param>
+<param name="Упаковка">Коробка</param>
+<param name="Управление">Пульт ДУ</param>
+<param name="Степень защиты IP">65</param>
+<param name="Цвет шнура питания">Черный</param>
+<param name="Угол свечения">360</param>
+<param name="Гарантия">14 дней</param>
+<param name="Цвет свечения">Мультиколор</param>
+<param name="Форма лампочки">Классическая</param>
+<param name="Форма сечения">Круглая</param>
 </offer>
 <offer id="2552-1S" available="true">
 <name>Фарфоровое блюдо для сервировки стола в форме листа 37×18×5 (см) блюдо для подачи закусок Белый с серебром 2552-1S</name>
@@ -54537,42 +54537,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Форма">Круглая</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="JY-8060B" available="true">
-<name>Стол для пикника раскладной 80*60*69,5 см Черный Lugi JY-8060B</name>
-<price>1479</price>
-<vendorprice>1105</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>75</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-8060B/JY8060B_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-8060B/JY8060B_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-8060B/JY8060B_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-8060B/JY8060B_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-8060B/JY8060B_9.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-8060B/JY8060B_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-8060B/JY8060B_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-8060B/JY8060B_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-8060B/JY8060B_1.jpg</picture>
-<vendor>Lugi</vendor>
-<description><![CDATA[Складной стол для пикника &mdash; это удобное и практичное решение для отдыха на природе, дачи или в поездках. Благодаря продуманной конструкции стол быстро раскладывается и складывается, что обеспечивает простоту транспортировки и хранения. Он легко помещается в багажник автомобиля и не занимает много места.  Каркас стола изготовлен из прочного алюминиевого сплава в сочетании с железной трубой, что гарантирует надежность, устойчивость и долговечность даже при интенсивном использовании. Столешница выполнена из МДФ с ровной и прочной поверхностью, устойчивой к нагрузкам и царапинам, что позволяет комфортно размещать посуду, продукты или рабочие принадлежности.  Этот стол сочетает в себе функциональность и минималистичный дизайн, благодаря чему отлично впишется в любой интерьер и станет универсальным помощником не только на пикнике, но и дома или в офисе как временная рабочая поверхность или удобное место для сервировки. Легкость и компактность делают его идеальным выбором для тех, кто ценит комфорт и мобильность в любых условиях.  Основные характеристики туристического складного стола:      Размер в сложенном виде:    80&times;60&times;5.5 см; Размер в разложенном виде:    80&times;60&times;69.5 см; Материал столешницы: МДФ; Материал каркаса:    железная труба (&empty;16, толщина 0.55 мм).   Преимущества стола для пикника:   Быстро и легко складывается и раскладывается, что экономит время и усилия. Компактный и лёгкий &mdash; удобно переносить и хранить даже в ограниченном пространстве. Надёжный и прочный каркас из алюминиевого сплава обеспечивает устойчивость и долговечность. Столешница устойчива к нагрузкам, царапинам и легко очищается. Универсальное применение &mdash; подходит для пикников, кемпинга, работы на свежем воздухе и домашнего использования. Минималистичный дизайн, который гармонично вписывается в любой интерьер и окружающую среду.   Этот складной стол &mdash; отличный помощник для комфортного отдыха на природе. Он быстро раскладывается, легко переносится и обеспечивает удобную поверхность для еды, приготовления пищи и других нужд.  Вы можете купить столик на природу и другие товары в нашем интернет-магазине по доступной цене с доставкой по Украине.]]></description>
-<quantity_in_stock>46</quantity_in_stock>
-<vendorCode>JY-8060B</vendorCode>
-<param name="Высота">69.5 см</param>
-<param name="Материал столешницы">МДФ</param>
-<param name="Материал каркаса (опор)">Металл</param>
-<param name="Возможность регулировки опор по высоте">Нет</param>
-<param name="Ширина">60 см</param>
-<param name="Отверстие в столешнице для зонта">Нет</param>
-<param name="Складная конструкция для хранения и транспортировки">Да</param>
-<param name="Цвет">Черный</param>
-<param name="Длина">80 см</param>
-<param name="Ширина в сложенном виде">60 см</param>
-<param name="Форма стола">Прямоугольный</param>
-<param name="Состояние">Новое</param>
-<param name="Глубина в сложенном виде">80 см</param>
-<param name="Высота в сложенном виде">5.5 см</param>
-<param name="Гарантия">14 дней</param>
-<param name="Чехол для хранения и транспортировки">Нет</param>
-</offer>
 <offer id="HP-20-57" available="true">
 <name>Набор десертных вилок и ложек на 3 персоны с подставкой из фарфора 7 предметов Голубой HP-20-57</name>
 <price>549</price>
@@ -55049,6 +55013,42 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет">Прозрачный</param>
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="JY-8060B" available="true">
+<name>Стол для пикника раскладной 80*60*69,5 см Черный Lugi JY-8060B</name>
+<price>1479</price>
+<vendorprice>1105</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>75</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-8060B/JY8060B_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-8060B/JY8060B_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-8060B/JY8060B_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-8060B/JY8060B_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-8060B/JY8060B_9.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-8060B/JY8060B_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-8060B/JY8060B_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-8060B/JY8060B_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/000/JY-8060B/JY8060B_1.jpg</picture>
+<vendor>Lugi</vendor>
+<description><![CDATA[Складной стол для пикника &mdash; это удобное и практичное решение для отдыха на природе, дачи или в поездках. Благодаря продуманной конструкции стол быстро раскладывается и складывается, что обеспечивает простоту транспортировки и хранения. Он легко помещается в багажник автомобиля и не занимает много места.  Каркас стола изготовлен из прочного алюминиевого сплава в сочетании с железной трубой, что гарантирует надежность, устойчивость и долговечность даже при интенсивном использовании. Столешница выполнена из МДФ с ровной и прочной поверхностью, устойчивой к нагрузкам и царапинам, что позволяет комфортно размещать посуду, продукты или рабочие принадлежности.  Этот стол сочетает в себе функциональность и минималистичный дизайн, благодаря чему отлично впишется в любой интерьер и станет универсальным помощником не только на пикнике, но и дома или в офисе как временная рабочая поверхность или удобное место для сервировки. Легкость и компактность делают его идеальным выбором для тех, кто ценит комфорт и мобильность в любых условиях.  Основные характеристики туристического складного стола:      Размер в сложенном виде:    80&times;60&times;5.5 см; Размер в разложенном виде:    80&times;60&times;69.5 см; Материал столешницы: МДФ; Материал каркаса:    железная труба (&empty;16, толщина 0.55 мм).   Преимущества стола для пикника:   Быстро и легко складывается и раскладывается, что экономит время и усилия. Компактный и лёгкий &mdash; удобно переносить и хранить даже в ограниченном пространстве. Надёжный и прочный каркас из алюминиевого сплава обеспечивает устойчивость и долговечность. Столешница устойчива к нагрузкам, царапинам и легко очищается. Универсальное применение &mdash; подходит для пикников, кемпинга, работы на свежем воздухе и домашнего использования. Минималистичный дизайн, который гармонично вписывается в любой интерьер и окружающую среду.   Этот складной стол &mdash; отличный помощник для комфортного отдыха на природе. Он быстро раскладывается, легко переносится и обеспечивает удобную поверхность для еды, приготовления пищи и других нужд.  Вы можете купить столик на природу и другие товары в нашем интернет-магазине по доступной цене с доставкой по Украине.]]></description>
+<quantity_in_stock>45</quantity_in_stock>
+<vendorCode>JY-8060B</vendorCode>
+<param name="Высота">69.5 см</param>
+<param name="Материал столешницы">МДФ</param>
+<param name="Материал каркаса (опор)">Металл</param>
+<param name="Возможность регулировки опор по высоте">Нет</param>
+<param name="Ширина">60 см</param>
+<param name="Отверстие в столешнице для зонта">Нет</param>
+<param name="Складная конструкция для хранения и транспортировки">Да</param>
+<param name="Цвет">Черный</param>
+<param name="Длина">80 см</param>
+<param name="Ширина в сложенном виде">60 см</param>
+<param name="Форма стола">Прямоугольный</param>
+<param name="Состояние">Новое</param>
+<param name="Глубина в сложенном виде">80 см</param>
+<param name="Высота в сложенном виде">5.5 см</param>
+<param name="Гарантия">14 дней</param>
+<param name="Чехол для хранения и транспортировки">Нет</param>
 </offer>
 <offer id="HP-17-1" available="true">
 <name>Набор стаканов для напитков BRIT 6 штук по 300 мл HP-17-1</name>
@@ -74184,39 +74184,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Вес зонта">300 г</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-23-16GR" available="true">
-<name>Классический зонт-трость с чехлом полуавтомат из полиэстера прочный надежный 12 спиц диаметр 120 см Зеленый HP-23-16GR</name>
-<price>609</price>
-<vendorprice>465</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>99</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Классический зонт-трость полуавтомат &mdash; это надежный аксессуар для защиты от дождя и ветра. Современный дизайн и прочная конструкция обеспечивают удобство и долговечность в использовании. Основные характеристики зонта-трости: &bull; высота зонта в сложенном состоянии &mdash; 94 см; &bull; материал купола &mdash; полиэстер с водоотталкивающими свойствами; &bull; материал основы &mdash; металл для прочности и надежности; &bull; материал спиц &mdash; пластик; &bull; длина основы в раскрытом виде &mdash; 82 см; &bull; механизм открытия &mdash; полуавтомат для удобного использования; &bull; диаметр купола в открытом виде &mdash; 120 см; &bull; длина спиц &mdash; 64 см; &bull; наличие защитного чехла &mdash; нет; &bull; количество спиц &mdash; 12. Преимущества классического зонта-трости: &bull; универсальный дизайн, подходящий к любому стилю одежды; &bull; полуавтоматический механизм для быстрого раскрытия и закрытия; &bull; купол из прочного полиэстера с влагозащитой; &bull; усиленный каркас с двенадцатью спицами для устойчивости к ветру; &bull; удобная эргономичная ручка для комфортного захвата; &bull; качественные материалы гарантируют долговечность изделия.]]></description>
-<quantity_in_stock>20</quantity_in_stock>
-<vendorCode>HP-23-16GR</vendorCode>
-<param name="Тип зонта">Трость</param>
-<param name="Механизм">Полуавтомат</param>
-<param name="Материал купола">Полиэстер</param>
-<param name="Материал корпуса зонта">Сталь</param>
-<param name="Материал спиц">Пластик</param>
-<param name="Цвет">Зелёный</param>
-<param name="Количество спиц купола">12</param>
-<param name="Наличие чехла">Нет</param>
-<param name="Диаметр купола зонта">120 см</param>
-<param name="Состояние">Новое</param>
-<param name="Длина в сложенном виде">94 см</param>
-<param name="Длина спицы">64 см</param>
-<param name="Пол">Унисекс</param>
-<param name="Вес зонта">500 г</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-55-30BR" available="true">
 <name>Детский брелок Капибара в ракете брелок 4,5*5 см HP-55-30BR</name>
 <price>159</price>
@@ -75224,6 +75191,39 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Циферблат">Арабские цифры</param>
 <param name="Гарантия">14 дней</param>
 <param name="Термометр">Нет</param>
+</offer>
+<offer id="HP-23-16GR" available="true">
+<name>Классический зонт-трость с чехлом полуавтомат из полиэстера прочный надежный 12 спиц диаметр 120 см Зеленый HP-23-16GR</name>
+<price>609</price>
+<vendorprice>465</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>99</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Классический зонт-трость полуавтомат &mdash; это надежный аксессуар для защиты от дождя и ветра. Современный дизайн и прочная конструкция обеспечивают удобство и долговечность в использовании. Основные характеристики зонта-трости: &bull; высота зонта в сложенном состоянии &mdash; 94 см; &bull; материал купола &mdash; полиэстер с водоотталкивающими свойствами; &bull; материал основы &mdash; металл для прочности и надежности; &bull; материал спиц &mdash; пластик; &bull; длина основы в раскрытом виде &mdash; 82 см; &bull; механизм открытия &mdash; полуавтомат для удобного использования; &bull; диаметр купола в открытом виде &mdash; 120 см; &bull; длина спиц &mdash; 64 см; &bull; наличие защитного чехла &mdash; нет; &bull; количество спиц &mdash; 12. Преимущества классического зонта-трости: &bull; универсальный дизайн, подходящий к любому стилю одежды; &bull; полуавтоматический механизм для быстрого раскрытия и закрытия; &bull; купол из прочного полиэстера с влагозащитой; &bull; усиленный каркас с двенадцатью спицами для устойчивости к ветру; &bull; удобная эргономичная ручка для комфортного захвата; &bull; качественные материалы гарантируют долговечность изделия.]]></description>
+<quantity_in_stock>19</quantity_in_stock>
+<vendorCode>HP-23-16GR</vendorCode>
+<param name="Тип зонта">Трость</param>
+<param name="Механизм">Полуавтомат</param>
+<param name="Материал купола">Полиэстер</param>
+<param name="Материал корпуса зонта">Сталь</param>
+<param name="Материал спиц">Пластик</param>
+<param name="Цвет">Зелёный</param>
+<param name="Количество спиц купола">12</param>
+<param name="Наличие чехла">Нет</param>
+<param name="Диаметр купола зонта">120 см</param>
+<param name="Состояние">Новое</param>
+<param name="Длина в сложенном виде">94 см</param>
+<param name="Длина спицы">64 см</param>
+<param name="Пол">Унисекс</param>
+<param name="Вес зонта">500 г</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-46-1" available="true">
 <name>Металлическая полка для ванной трехъярусная подвесная 28х13х63 см HP-46-1</name>
@@ -84177,41 +84177,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Вес зонта">200 г</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-23-16B" available="true">
-<name>Классический зонт-трость с чехлом полуавтомат из полиэстера прочный надежный 12 спиц диаметр 120 см Черный HP-23-16B</name>
-<price>609</price>
-<vendorprice>465</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>99</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_9.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_8.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Классический зонт-трость полуавтомат &mdash; это надежный аксессуар для защиты от дождя и ветра. Современный дизайн и прочная конструкция обеспечивают удобство и долговечность в использовании. Основные характеристики зонта-трости: &bull; высота зонта в сложенном состоянии &mdash; 94 см; &bull; материал купола &mdash; полиэстер с водоотталкивающими свойствами; &bull; материал основы &mdash; металл для прочности и надежности; &bull; материал спиц &mdash; пластик; &bull; длина основы в раскрытом виде &mdash; 82 см; &bull; механизм открытия &mdash; полуавтомат для удобного использования; &bull; диаметр купола в открытом виде &mdash; 120 см; &bull; длина спиц &mdash; 64 см; &bull; наличие защитного чехла &mdash; нет; &bull; количество спиц &mdash; 12. Преимущества классического зонта-трости: &bull; универсальный дизайн, подходящий к любому стилю одежды; &bull; полуавтоматический механизм для быстрого раскрытия и закрытия; &bull; купол из прочного полиэстера с влагозащитой; &bull; усиленный каркас с двенадцатью спицами для устойчивости к ветру; &bull; удобная эргономичная ручка для комфортного захвата; &bull; качественные материалы гарантируют долговечность изделия.]]></description>
-<quantity_in_stock>11</quantity_in_stock>
-<vendorCode>HP-23-16B</vendorCode>
-<param name="Тип зонта">Трость</param>
-<param name="Механизм">Полуавтомат</param>
-<param name="Материал купола">Полиэстер</param>
-<param name="Материал корпуса зонта">Сталь</param>
-<param name="Материал спиц">Пластик</param>
-<param name="Цвет">Черный</param>
-<param name="Количество спиц купола">12</param>
-<param name="Наличие чехла">Нет</param>
-<param name="Диаметр купола зонта">120 см</param>
-<param name="Состояние">Новое</param>
-<param name="Длина в сложенном виде">94 см</param>
-<param name="Длина спицы">64 см</param>
-<param name="Пол">Унисекс</param>
-<param name="Вес зонта">500 г</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-10359-1" available="true">
 <name>Набор подарочных крафтовых пакетов из бумаги 12 (шт) красивые пакеты для подарков 31×12×25 (см) HP-10359-1</name>
 <price>239</price>
@@ -85463,6 +85428,41 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Длина спицы">47 см</param>
 <param name="Пол">Унисекс</param>
 <param name="Вес зонта">300 г</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-23-16B" available="true">
+<name>Классический зонт-трость с чехлом полуавтомат из полиэстера прочный надежный 12 спиц диаметр 120 см Черный HP-23-16B</name>
+<price>609</price>
+<vendorprice>465</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>99</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_9.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16B/HP-23-16B_8.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Классический зонт-трость полуавтомат &mdash; это надежный аксессуар для защиты от дождя и ветра. Современный дизайн и прочная конструкция обеспечивают удобство и долговечность в использовании. Основные характеристики зонта-трости: &bull; высота зонта в сложенном состоянии &mdash; 94 см; &bull; материал купола &mdash; полиэстер с водоотталкивающими свойствами; &bull; материал основы &mdash; металл для прочности и надежности; &bull; материал спиц &mdash; пластик; &bull; длина основы в раскрытом виде &mdash; 82 см; &bull; механизм открытия &mdash; полуавтомат для удобного использования; &bull; диаметр купола в открытом виде &mdash; 120 см; &bull; длина спиц &mdash; 64 см; &bull; наличие защитного чехла &mdash; нет; &bull; количество спиц &mdash; 12. Преимущества классического зонта-трости: &bull; универсальный дизайн, подходящий к любому стилю одежды; &bull; полуавтоматический механизм для быстрого раскрытия и закрытия; &bull; купол из прочного полиэстера с влагозащитой; &bull; усиленный каркас с двенадцатью спицами для устойчивости к ветру; &bull; удобная эргономичная ручка для комфортного захвата; &bull; качественные материалы гарантируют долговечность изделия.]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<vendorCode>HP-23-16B</vendorCode>
+<param name="Тип зонта">Трость</param>
+<param name="Механизм">Полуавтомат</param>
+<param name="Материал купола">Полиэстер</param>
+<param name="Материал корпуса зонта">Сталь</param>
+<param name="Материал спиц">Пластик</param>
+<param name="Цвет">Черный</param>
+<param name="Количество спиц купола">12</param>
+<param name="Наличие чехла">Нет</param>
+<param name="Диаметр купола зонта">120 см</param>
+<param name="Состояние">Новое</param>
+<param name="Длина в сложенном виде">94 см</param>
+<param name="Длина спицы">64 см</param>
+<param name="Пол">Унисекс</param>
+<param name="Вес зонта">500 г</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HB-40-2" available="true">
@@ -87631,25 +87631,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Подарочная упаковка">Да</param>
 <param name="Комплектация">Набор</param>
 </offer>
-<offer id="501-221-TJ-60G" available="true">
-<name>Комплект полотенец 2 штуки 70*140 см/35*75 см из микрофибры серый Colorful Home 501-221-TJ-60G</name>
-<price>289</price>
-<vendorprice>226</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/501-221-TJ-60G-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/501-221-TJ-60G-2.jpg</picture>
-<vendor>Colorful Home</vendor>
-<description><![CDATA[Набор из 2 полотенец из микрофибры — практичное решение для ежедневного использования дома, в путешествиях или для занятий спортом. Микрофибра отличается легким весом, мягкой текстурой и высокой способностью быстро впитывать влагу. Материал быстро высыхает, не занимает много места при хранении, хорошо сохраняет форму и опрятный вид даже после многократного использования. В комплект входят два полотенца разного размера для удобного использования в различных бытовых нуждах. Преимущества ткани  Легкая и приятная на ощупь микрофибра Хорошо впитывает влагу Быстро высыхает  Компактно складывается  Устойчива к частой стирке Сохраняет мягкость и форму  Размер  70×140 см 35×75 см  Правила ухода  Стирать при температуре до 30–40°C Использовать деликатные моющие средства Не применять отбеливатели Не сушить при высоких температурах Не гладить  Сушить естественным способом]]></description>
-<quantity_in_stock>9</quantity_in_stock>
-<vendorCode>501-221-TJ-60G</vendorCode>
-<param name="Ширина">70</param>
-<param name="Количество в наборе">2</param>
-<param name="Тип ткани">Микрофибра</param>
-<param name="Цвет">Серый</param>
-<param name="Длина">140</param>
-<param name="Комплектация">Один предмет</param>
-</offer>
 <offer id="506-27-A-72G" available="true">
 <name>Банное полотенце 70×140 см хлопковое серый Colorful Home 506-27-A-72G</name>
 <price>499</price>
@@ -89125,6 +89106,25 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Длина">140</param>
 <param name="Подарочная упаковка">Да</param>
 <param name="Комплектация">Набор</param>
+</offer>
+<offer id="501-221-TJ-60G" available="true">
+<name>Комплект полотенец 2 штуки 70*140 см/35*75 см из микрофибры серый Colorful Home 501-221-TJ-60G</name>
+<price>289</price>
+<vendorprice>226</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>126</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/501-221-TJ-60G-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/501-221-TJ-60G-2.jpg</picture>
+<vendor>Colorful Home</vendor>
+<description><![CDATA[Набор из 2 полотенец из микрофибры — практичное решение для ежедневного использования дома, в путешествиях или для занятий спортом. Микрофибра отличается легким весом, мягкой текстурой и высокой способностью быстро впитывать влагу. Материал быстро высыхает, не занимает много места при хранении, хорошо сохраняет форму и опрятный вид даже после многократного использования. В комплект входят два полотенца разного размера для удобного использования в различных бытовых нуждах. Преимущества ткани  Легкая и приятная на ощупь микрофибра Хорошо впитывает влагу Быстро высыхает  Компактно складывается  Устойчива к частой стирке Сохраняет мягкость и форму  Размер  70×140 см 35×75 см  Правила ухода  Стирать при температуре до 30–40°C Использовать деликатные моющие средства Не применять отбеливатели Не сушить при высоких температурах Не гладить  Сушить естественным способом]]></description>
+<quantity_in_stock>8</quantity_in_stock>
+<vendorCode>501-221-TJ-60G</vendorCode>
+<param name="Ширина">70</param>
+<param name="Количество в наборе">2</param>
+<param name="Тип ткани">Микрофибра</param>
+<param name="Цвет">Серый</param>
+<param name="Длина">140</param>
+<param name="Комплектация">Один предмет</param>
 </offer>
 <offer id="506-27-B-72W" available="true">
 <name>Полотенце для лица 50*92 см хлопковое белый Colorful Home 506-27-B-72W</name>
@@ -103881,29 +103881,6 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Размеры">70*140/50*90 см</param>
 <param name="Тип упаковки">Подарочная коробка</param>
 </offer>
-<offer id="502-88-A-90GB" available="true">
-<name>Полотенце для ванной комнаты 70*140 см из микрофибры, темно-серый</name>
-<url>https://lugi.com.ua/ru/ru-rushnik-502-88-a-90gb/</url>
-<price>229</price>
-<vendorprice>179</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>126</categoryId>
-<picture>https://lugi.com.ua/image/cache/catalog/images/rushniki/502-88-A-90P/502-88-A-90GB/502-88-A-90GB-600x600.png</picture>
-<description><![CDATA[<p>Полотенце для ванной комнаты размером 70×140 см из микрофибры — это 
-легкое, мягкое и практичное текстильное изделие для ежедневного 
-использования после душа или ванны. Материал хорошо впитывает влагу, 
-быстро высыхает и остается приятным на ощупь даже после многократных 
-стирок, обеспечивая комфорт в использовании. </p><p><b>Преимущества ткани: </b></p><p>Микрофибра
- отличается высокой впитывающей способностью, быстрым высыханием и 
-мягкой текстурой. Ткань легкая, износостойкая, не теряет форму и проста в
- уходе. </p><p><b>Размер: </b></p><ul><li>70×140 см — удобный банный формат для комфортного использования после водных процедур. </li></ul><p><b>Правила ухода: </b></p><ul><li>Рекомендуется стирка при температуре до 30–40°C в деликатном режиме. </li><li>Не использовать агрессивные моющие средства и отбеливатели. </li><li>Сушить естественным способом, избегать высоких температур при сушке и глажке. </li></ul><p><b>Характеристики: </b></p><ul><li>Тип: полотенце для ванной комнаты </li><li>Размер: 70×140 см </li><li>Материал: микрофибра </li><li>Назначение: для ванной комнаты и повседневного использования</li></ul>]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<vendorCode>502-88-A-90GB</vendorCode>
-<param name="Гарантийный срок">14 дней</param>
-<param name="Количество в наборе (шт.)">1</param>
-<param name="Материал">Микрофибра</param>
-<param name="Размеры (см)">70*140 см</param>
-</offer>
 <offer id="502-88-B-90P" available="true">
 <name>Полотенце для лица 50*90 см из микрофибры, розовый</name>
 <url>https://lugi.com.ua/ru/ru-rushnik-502-88-b-90p/</url>
@@ -111492,6 +111469,29 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Цвет">Кремовый</param>
 <param name="Длина">170</param>
 <param name="Комплектация">Один предмет</param>
+</offer>
+<offer id="502-88-A-90GB" available="true">
+<name>Полотенце для ванной комнаты 70*140 см из микрофибры, темно-серый</name>
+<url>https://lugi.com.ua/ru/ru-rushnik-502-88-a-90gb/</url>
+<price>229</price>
+<vendorprice>179</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>126</categoryId>
+<picture>https://lugi.com.ua/image/cache/catalog/images/rushniki/502-88-A-90P/502-88-A-90GB/502-88-A-90GB-600x600.png</picture>
+<description><![CDATA[<p>Полотенце для ванной комнаты размером 70×140 см из микрофибры — это 
+легкое, мягкое и практичное текстильное изделие для ежедневного 
+использования после душа или ванны. Материал хорошо впитывает влагу, 
+быстро высыхает и остается приятным на ощупь даже после многократных 
+стирок, обеспечивая комфорт в использовании. </p><p><b>Преимущества ткани: </b></p><p>Микрофибра
+ отличается высокой впитывающей способностью, быстрым высыханием и 
+мягкой текстурой. Ткань легкая, износостойкая, не теряет форму и проста в
+ уходе. </p><p><b>Размер: </b></p><ul><li>70×140 см — удобный банный формат для комфортного использования после водных процедур. </li></ul><p><b>Правила ухода: </b></p><ul><li>Рекомендуется стирка при температуре до 30–40°C в деликатном режиме. </li><li>Не использовать агрессивные моющие средства и отбеливатели. </li><li>Сушить естественным способом, избегать высоких температур при сушке и глажке. </li></ul><p><b>Характеристики: </b></p><ul><li>Тип: полотенце для ванной комнаты </li><li>Размер: 70×140 см </li><li>Материал: микрофибра </li><li>Назначение: для ванной комнаты и повседневного использования</li></ul>]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<vendorCode>502-88-A-90GB</vendorCode>
+<param name="Гарантийный срок">14 дней</param>
+<param name="Количество в наборе (шт.)">1</param>
+<param name="Материал">Микрофибра</param>
+<param name="Размеры (см)">70*140 см</param>
 </offer>
 <offer id="502-88-B-90GW" available="true">
 <name>Полотенце для лица 50*90 см из микрофибры, светло-серый</name>
