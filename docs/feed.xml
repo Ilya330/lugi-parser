@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-23 21:08">
+<yml_catalog date="2026-09-24 02:35">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -1354,6 +1354,31 @@
 <param name="Потребляємая мощность">650 Вт</param>
 <param name="Тип управления">Механическое</param>
 </offer>
+<offer id="SK1732B" available="true">
+<name>Капучинатор Sokany ручной 25W Черный SK-1732</name>
+<price>579</price>
+<vendorprice>224</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>46</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000000000/SK1732B/kapuchinator_ruchnoy_sokany_sk_1732_chernyy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000000000/SK1732B/sk1732b_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000000000/SK1732B/sk1732b_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000000000/SK1732B/sk1732b_4.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Ручной капучинатор Sokany SK-1732 помогает легко и быстро приготовить кофе с пышной молочной пенкой. Благодаря мощности 25 Вт и венчику из нержавеющей стали можно за считанные секунды взбить молоко в густую пену. Капучинатор удобно держать в руке благодаря эргономичной ручке. Его легко использовать и чистить. Нужно просто погрузить венчик в молоко, нажать кнопку и через несколько секунд можно наслаждаться пышной пенкой  Характеристики:   Мощность: 25 Вт Напряжение: 220-240 В Частота: 50/60 Гц Длина шнура: 1 м]]></description>
+<quantity_in_stock>83</quantity_in_stock>
+<vendorCode>SK1732B</vendorCode>
+<param name="Тип">Бытовой</param>
+<param name="Длина сетевого шнура">1 м</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Питание">Сеть 220В</param>
+<param name="Количество насадок">1</param>
+<param name="Количество скоростей">2</param>
+<param name="Цвет">Черный</param>
+<param name="Гарантия">3 мес</param>
+<param name="Тип миксера">Ручной</param>
+<param name="Потребляємая мощность">25 Вт</param>
+</offer>
 <offer id="HP-UR-2" available="true">
 <name>Ручной утюг беспроводной для одежды SOKANY профессиональный паровой 2400 Вт HP-UR-2</name>
 <price>2149</price>
@@ -1371,7 +1396,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/129/HP-UR-2/HP-UR-2-%2827%29.jpg</picture>
 <vendor>Sokany</vendor>
 <description><![CDATA[Паровой утюг это мощное беспроводное устройство, которое обеспечивает быстрое и эффективное разглаживание благодаря мощному пару и функции парового удара. Основные характеристики паро утюга включают высокую мощность 2400 Вт, что гарантирует быстрый нагрев и эффективную глажку.  Керамическое покрытие подошвы обеспечивает плавное скольжение по ткани, а система постоянной подачи пара делает процесс глажки более равномерным и эффективным.  Основные характеристики утюга   Потребляемая мощность 2400 Вт. Объем резервуара для воды 450 мл. Подача пара 150 г/мин. Материал подошвы утюга - керамика.   Утюг также поддерживает вертикальное отпаривание, что делает его удобным инструментом для освежения одежды, не снимая его с вешалки.   Паровой утюг оснащен интеллектуальными функциями, такими как автоматическое выключение для безопасности и режим самоочистки для продления срока службы. Удобная ручка и эргономичный дизайн обеспечивают комфорт во время использования утюга.]]></description>
-<quantity_in_stock>84</quantity_in_stock>
+<quantity_in_stock>83</quantity_in_stock>
 <vendorCode>HP-UR-2</vendorCode>
 <param name="Тип">Утюг</param>
 <param name="Высота">16.5</param>
@@ -1403,31 +1428,6 @@
 <param name="Функция разбрызгивания">Да</param>
 <param name="Функция самоочистки">Да</param>
 <param name="Вес утюга">1.4</param>
-</offer>
-<offer id="SK1732B" available="true">
-<name>Капучинатор Sokany ручной 25W Черный SK-1732</name>
-<price>579</price>
-<vendorprice>224</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>46</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000000000/SK1732B/kapuchinator_ruchnoy_sokany_sk_1732_chernyy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000000000/SK1732B/sk1732b_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000000000/SK1732B/sk1732b_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000000000/SK1732B/sk1732b_4.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Ручной капучинатор Sokany SK-1732 помогает легко и быстро приготовить кофе с пышной молочной пенкой. Благодаря мощности 25 Вт и венчику из нержавеющей стали можно за считанные секунды взбить молоко в густую пену. Капучинатор удобно держать в руке благодаря эргономичной ручке. Его легко использовать и чистить. Нужно просто погрузить венчик в молоко, нажать кнопку и через несколько секунд можно наслаждаться пышной пенкой  Характеристики:   Мощность: 25 Вт Напряжение: 220-240 В Частота: 50/60 Гц Длина шнура: 1 м]]></description>
-<quantity_in_stock>83</quantity_in_stock>
-<vendorCode>SK1732B</vendorCode>
-<param name="Тип">Бытовой</param>
-<param name="Длина сетевого шнура">1 м</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Питание">Сеть 220В</param>
-<param name="Количество насадок">1</param>
-<param name="Количество скоростей">2</param>
-<param name="Цвет">Черный</param>
-<param name="Гарантия">3 мес</param>
-<param name="Тип миксера">Ручной</param>
-<param name="Потребляємая мощность">25 Вт</param>
 </offer>
 <offer id="SK10024" available="true">
 <name>Аэрогриль-фритюрница SOKANY  6.5 литров 1500 Вт, черная SK10024</name>
@@ -7505,34 +7505,6 @@
 <param name="Триммер для окантовки">Да</param>
 <param name="Щеточка для чистки">Да</param>
 </offer>
-<offer id="SK-1178" available="true">
-<name>Овощерезка Sokany Lugi электрическая 1000 Вт 6 в 1 с 5 насадками многофункциональная SK-1178</name>
-<price>3399</price>
-<vendorprice>2080</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>173</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_8.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Измельчитель овощей 6в1 Sokany – это мощный и многофункциональный прибор для нарезки и измельчения овощей и других продуктов. Благодаря мощности 1000 Вт он легко справляется со сложными задачами нарезки и измельчения. Он имеет одну скорость, гарантирующую оптимальный уровень производительности.  Характеристики овощерезки Sokany   Мощность: 1000 Вт. Количество насадок: 5 шт. Материал насадок: нержавеющая сталь. Материал корпуса: пластик.   Измельчитель оснащен пятью насадками из нержавеющей стали, которые обеспечивают различные возможности нарезки и измельчения. Эти насадки позволяют легко резать и измельчать сыр, фрукты, овощи, шоколад и другие ингредиенты по вашим потребностям. Противоскользящие ножки обеспечивают стабильность во время работы, что позволяет безопасно использовать прибор без риска опрокидывания или падения.  Измельчитель овощей 6в1 Sokany – это надежный и удобный прибор, который станет незаменимым помощником в вашей кухне. Он позволит вам быстро и эффективно нарезать и размельчить разнообразные ингредиенты для вашей еды и рецептов.]]></description>
-<quantity_in_stock>13</quantity_in_stock>
-<vendorCode>SK-1178</vendorCode>
-<param name="Тип">Овощерезка</param>
-<param name="Материал">Пластик</param>
-<param name="Количество трущих/режущих поверхностей">5</param>
-<param name="Наличие контейнера (поддона)">Не предусмотрен</param>
-<param name="Наличие плододержателя">Есть</param>
-<param name="Цвет">Сталь</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Мощность, Вт">601-1000</param>
-</offer>
 <offer id="HP-4-404G" available="true">
 <name>Набор посуды, 4 кастрюли, алюминиевое толстое дно MGC с лопаткой и половником, серый HP-4-404G</name>
 <price>12939</price>
@@ -7800,6 +7772,34 @@
 <param name="Цвет">Красный</param>
 <param name="Гарантия">3 мес</param>
 <param name="Потребляємая мощность">25 Вт</param>
+</offer>
+<offer id="SK-1178" available="true">
+<name>Овощерезка Sokany Lugi электрическая 1000 Вт 6 в 1 с 5 насадками многофункциональная SK-1178</name>
+<price>3399</price>
+<vendorprice>2080</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>173</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_8.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Измельчитель овощей 6в1 Sokany – это мощный и многофункциональный прибор для нарезки и измельчения овощей и других продуктов. Благодаря мощности 1000 Вт он легко справляется со сложными задачами нарезки и измельчения. Он имеет одну скорость, гарантирующую оптимальный уровень производительности.  Характеристики овощерезки Sokany   Мощность: 1000 Вт. Количество насадок: 5 шт. Материал насадок: нержавеющая сталь. Материал корпуса: пластик.   Измельчитель оснащен пятью насадками из нержавеющей стали, которые обеспечивают различные возможности нарезки и измельчения. Эти насадки позволяют легко резать и измельчать сыр, фрукты, овощи, шоколад и другие ингредиенты по вашим потребностям. Противоскользящие ножки обеспечивают стабильность во время работы, что позволяет безопасно использовать прибор без риска опрокидывания или падения.  Измельчитель овощей 6в1 Sokany – это надежный и удобный прибор, который станет незаменимым помощником в вашей кухне. Он позволит вам быстро и эффективно нарезать и размельчить разнообразные ингредиенты для вашей еды и рецептов.]]></description>
+<quantity_in_stock>12</quantity_in_stock>
+<vendorCode>SK-1178</vendorCode>
+<param name="Тип">Овощерезка</param>
+<param name="Материал">Пластик</param>
+<param name="Количество трущих/режущих поверхностей">5</param>
+<param name="Наличие контейнера (поддона)">Не предусмотрен</param>
+<param name="Наличие плододержателя">Есть</param>
+<param name="Цвет">Сталь</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Мощность, Вт">601-1000</param>
 </offer>
 <offer id="HP-4-402" available="true">
 <name>Набор из трех кастрюль и сковородок с крышками 24, 28, 32 см, толстое алюминиевое дно MGC HP-4-402</name>
@@ -11904,7 +11904,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5345/novogodnyaya_girlyanda_shtora_1_5h1_5_m_64_led_komnatnaya_girlyanda_belyy_provod_zheltyy_svet_5.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Светодиодная гирлянда-штора &mdash; это стильное и практичное решение для создания праздничной атмосферы и уютного освещения в любом помещении. Она идеально подходит для декорирования окон, арок, стен или фотозон, добавляя пространству мягкое сияние и гармонию. Мягкое равномерное свечение и 8 режимов работы позволяют легко подобрать нужное настроение &mdash; от спокойного мерцания до яркого праздничного блеска. Гирлянда имеет простую и надёжную конструкцию: горизонтальный шнур, от которого свисают нити со светодиодами. Благодаря этому она легко крепится на любую вертикальную поверхность или карниз. Качественные материалы и ПВХ-изоляция обеспечивают безопасную эксплуатацию, энергоэффективность и долговечность. Во время работы гирлянда не нагревается, что гарантирует комфорт и безопасность при использовании. Основные характеристики светодиодной гирлянды-шторы:  Материал оболочки: ПВХ; Размер: 1,5 &times; 1,5 м; Количество диодов: 64; Мощность: 8 Вт; Питание: от сети; Количество режимов: 8; Цвет провода: белый; Цвет свечения: жёлтый.  Особенности светодиодной гирлянды:  8 режимов световых эффектов; Мягкое и приятное свечение; Энергоэффективность и длительный срок службы; Безопасная эксплуатация, гирлянда не нагревается; Простое крепление на карниз или стену; Подходит для украшения окон, арок, фотозон и интерьера в целом.  Светодиодная гирлянда-штора станет стильным акцентом вашего дома или офиса, создавая тёплую, праздничную и уютную атмосферу. Она сочетает эстетику, надёжность и долговечность, превращая любое пространство в по-настоящему праздничное. Внимание! Этот товар подлежит возврату только в случае проверки его исправности на почте. В остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>1153</quantity_in_stock>
+<quantity_in_stock>1151</quantity_in_stock>
 <vendorCode>ZWM1564LEDY</vendorCode>
 <param name="Количество ламп">64</param>
 <param name="Количество режимов свечения">8</param>
@@ -24737,26 +24737,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="64486-74" available="true">
-<name>Набор стеклянных трубочек с щеточкой (6+1) 64486-74</name>
-<price>119</price>
-<vendorprice>96</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>55</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/64486-74/64486-74-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/64486-74/64486-74-2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Набор стеклянных трубочек для напитков &mdash; это практичный и экологичный аксессуар, который заменит одноразовые пластиковые аналоги. Изготовленные из прочного боросиликатного стекла, трубочки устойчивы к высоким температурам и подойдут для любых напитков &mdash; от соков до коктейлей. Благодаря стильному дизайну они станут отличным дополнением к сервировке стола.  Характеристики набора стеклянных трубочек:  &bull; Вес: 0.100 кг; &bull; Длина трубочек: 19.5 см; &bull; Материалы: стекло, металл; &bull; Комплектация: 6 стеклянных трубочек в наборе; &bull; Дополнительные элементы: щёточка для очистки; &bull; Диаметр трубочек: 5 мм.  Преимущества набора трубочек из стекла:  &bull; Экологичность &mdash; многоразовое использование без вреда для природы; &bull; Гигиеничность &mdash; легко очищаются и не впитывают запахи; &bull; Универсальность &mdash; подходят для холодных и горячих напитков; &bull; Эстетичность &mdash; прозрачное стекло выглядит стильно и современно; &bull; Практичность &mdash; щёточка в комплекте облегчает уход.]]></description>
-<quantity_in_stock>162</quantity_in_stock>
-<vendorCode>64486-74</vendorCode>
-<param name="Материал">Боросиликатное стекло</param>
-<param name="Вес">0.1</param>
-<param name="Диаметр">5</param>
-<param name="Количество в упаковке">6</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Длина">19.5</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-JW-15" available="true">
 <name>Металлическая подставка для зонта 50 см HP-JW-15</name>
 <price>479</price>
@@ -24956,6 +24936,26 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Съемная ручка">Нет</param>
 <param name="Тип посуды">Сотейник</param>
 <param name="Материал ручек">Дерево</param>
+</offer>
+<offer id="64486-74" available="true">
+<name>Набор стеклянных трубочек с щеточкой (6+1) 64486-74</name>
+<price>119</price>
+<vendorprice>96</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>55</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/64486-74/64486-74-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/64486-74/64486-74-2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Набор стеклянных трубочек для напитков &mdash; это практичный и экологичный аксессуар, который заменит одноразовые пластиковые аналоги. Изготовленные из прочного боросиликатного стекла, трубочки устойчивы к высоким температурам и подойдут для любых напитков &mdash; от соков до коктейлей. Благодаря стильному дизайну они станут отличным дополнением к сервировке стола.  Характеристики набора стеклянных трубочек:  &bull; Вес: 0.100 кг; &bull; Длина трубочек: 19.5 см; &bull; Материалы: стекло, металл; &bull; Комплектация: 6 стеклянных трубочек в наборе; &bull; Дополнительные элементы: щёточка для очистки; &bull; Диаметр трубочек: 5 мм.  Преимущества набора трубочек из стекла:  &bull; Экологичность &mdash; многоразовое использование без вреда для природы; &bull; Гигиеничность &mdash; легко очищаются и не впитывают запахи; &bull; Универсальность &mdash; подходят для холодных и горячих напитков; &bull; Эстетичность &mdash; прозрачное стекло выглядит стильно и современно; &bull; Практичность &mdash; щёточка в комплекте облегчает уход.]]></description>
+<quantity_in_stock>160</quantity_in_stock>
+<vendorCode>64486-74</vendorCode>
+<param name="Материал">Боросиликатное стекло</param>
+<param name="Вес">0.1</param>
+<param name="Диаметр">5</param>
+<param name="Количество в упаковке">6</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Длина">19.5</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="20MBBL" available="true">
 <name>Уличная гирлянда Бахрома 20 м 335 LED гирлянда штора черный провод Синий 20MBBL</name>
@@ -32068,30 +32068,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Тип посуды">Креманка</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-42-41" available="true">
-<name>Коврик привратный Vertical Welcome 58*38 см диатомитовый HP-42-41</name>
-<price>169</price>
-<vendorprice>130</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>52</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6492/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6492/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6492/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6492/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy_3.jpg</picture>
-<vendor>Jiamat</vendor>
-<description><![CDATA[Этот коврик станет стильным и функциональным дополнением вашего дома. Изготовлен из натурального диатомита, он эффективно впитывает влагу с обуви, быстро сохнет и создаёт сухую, безопасную поверхность в прихожей. Прочная структура и противоскользящая основа позволяют использовать коврик не только у входной двери, но и в других помещениях: на кухне, в прачечной или под кормушки для домашних животных.  Характеристики придверного коврика из диатомита:   Материал: натуральный диатом — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома.   Преимущества влаговпитывающего коврика для входной двери:   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
-<quantity_in_stock>112</quantity_in_stock>
-<vendorCode>HP-42-41</vendorCode>
-<param name="Вес">400</param>
-<param name="Ширина">38</param>
-<param name="Цвет">Коричневый</param>
-<param name="Водоотталкивающие свойства">Да</param>
-<param name="Длина">58</param>
-<param name="Нескользящее основание">Да</param>
-<param name="Состояние">Новое</param>
-<param name="Форма">Прямоугольная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="507-66-60" available="true">
 <name>Салфетки косметические 25×25 см многоразовые из микрофибры 20 штук Colorful Home 507-66-60</name>
 <price>259</price>
@@ -32308,6 +32284,30 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет">Разные цвета</param>
 <param name="Длина">58</param>
 <param name="Тематика декора, рисунка">Природа, пейзажи</param>
+<param name="Форма">Прямоугольная</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-42-41" available="true">
+<name>Коврик привратный Vertical Welcome 58*38 см диатомитовый HP-42-41</name>
+<price>169</price>
+<vendorprice>130</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>52</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6492/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6492/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6492/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6492/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy_3.jpg</picture>
+<vendor>Jiamat</vendor>
+<description><![CDATA[Этот коврик станет стильным и функциональным дополнением вашего дома. Изготовлен из натурального диатомита, он эффективно впитывает влагу с обуви, быстро сохнет и создаёт сухую, безопасную поверхность в прихожей. Прочная структура и противоскользящая основа позволяют использовать коврик не только у входной двери, но и в других помещениях: на кухне, в прачечной или под кормушки для домашних животных.  Характеристики придверного коврика из диатомита:   Материал: натуральный диатом — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома.   Преимущества влаговпитывающего коврика для входной двери:   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
+<quantity_in_stock>111</quantity_in_stock>
+<vendorCode>HP-42-41</vendorCode>
+<param name="Вес">400</param>
+<param name="Ширина">38</param>
+<param name="Цвет">Коричневый</param>
+<param name="Водоотталкивающие свойства">Да</param>
+<param name="Длина">58</param>
+<param name="Нескользящее основание">Да</param>
+<param name="Состояние">Новое</param>
 <param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
@@ -45622,33 +45622,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Тематика декора, рисунка">Растения, цветы</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HW01W" available="true">
-<name>Бутылка с подогревом для детского питания и напитков 300 мл с аккумулятором подогреватель термос для детского питания Белый HW01W</name>
-<price>3019</price>
-<vendorprice>2603</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>155</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/68190/6633/butylka_s_podogrevom_dlya_detskogo_pitaniya_i_napitkov_300_ml_s_akkumulyatorom_podogrevatel_termos_dlya_detskogo_pitaniya_belyy.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HW01W/HW01W%286%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../00./HW01W/HW01W_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HW01W/HW01W_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HW01W/HW01W_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HW01W/HW01W_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HW01W/HW01W_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HW01W/HW01P_8.jpg</picture>
-<description><![CDATA[Умный портативный девайс, объединяющий функции чайника и термоса. Устройство предназначено для нагрева воды или готового детского питания напрямую в емкости, поддерживая заданную температуру в течение долгого времени. Идеальное решение для приготовления смеси на прогулке или в дороге без использования внешних подогревателей.   Преимущества:    Прямой нагрев: Не нужно искать розетку или горячую воду, чтобы согреть бутылочку. Следует налить воду прямо в термостат, установиь нужный градус (например, 37&deg;C или 40&deg;C), и через несколько минут теплая основа для смеси готова. Гигиеничность: Колба выполнена из пищевого стекла и стали, которые не впитывают запахи и легко моются. Цифровой контроль: Дисплей в реальном времени показывает текущую температуру жидкости внутри, исключая риск обжечь ребенка. Герметичность: Надежная крышка с фиксатором позволяет носить прибор в сумке с уже налитой водой. Многофункциональность: Можно использовать как походный чайник для подогрева воды до 55&deg;C или как индивидуальный термос.    Характеристики:    Объем: 300 мл Материалы: стекло, нержавеющая сталь, ABS-пластик Аккумулятор: 5000 мАч Температурный шаг: настройка от 37&deg;C до 55&deg;C Интерфейс: зарядка через стандартный USB-кабель]]></description>
-<quantity_in_stock>67</quantity_in_stock>
-<vendorCode>HW01W</vendorCode>
-<param name="Высота">220</param>
-<param name="Вес">800</param>
-<param name="Вместимость бутылочек">1</param>
-<param name="Диаметр">80</param>
-<param name="Дополнительная комплектация">Мерная бутылочка</param>
-<param name="Функции">Поддержание необходимой температуры</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Цвет корпуса">Белый</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-42-169" available="true">
 <name>Набор ковриков для ванной 2 штуки 80*50 см/50*40 см диатомитовых, бежевый Yiwu HP-42-169</name>
 <price>559</price>
@@ -46078,6 +46051,33 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Ситечко">Нет</param>
 <param name="Цвет">Красный</param>
 <param name="Тематика декора, рисунка">Сказки, кино, мультфильмы</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HW01W" available="true">
+<name>Бутылка с подогревом для детского питания и напитков 300 мл с аккумулятором подогреватель термос для детского питания Белый HW01W</name>
+<price>3019</price>
+<vendorprice>2603</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>155</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/68190/6633/butylka_s_podogrevom_dlya_detskogo_pitaniya_i_napitkov_300_ml_s_akkumulyatorom_podogrevatel_termos_dlya_detskogo_pitaniya_belyy.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HW01W/HW01W%286%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../00./HW01W/HW01W_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HW01W/HW01W_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HW01W/HW01W_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HW01W/HW01W_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HW01W/HW01W_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../00000/HW01W/HW01P_8.jpg</picture>
+<description><![CDATA[Умный портативный девайс, объединяющий функции чайника и термоса. Устройство предназначено для нагрева воды или готового детского питания напрямую в емкости, поддерживая заданную температуру в течение долгого времени. Идеальное решение для приготовления смеси на прогулке или в дороге без использования внешних подогревателей.   Преимущества:    Прямой нагрев: Не нужно искать розетку или горячую воду, чтобы согреть бутылочку. Следует налить воду прямо в термостат, установиь нужный градус (например, 37&deg;C или 40&deg;C), и через несколько минут теплая основа для смеси готова. Гигиеничность: Колба выполнена из пищевого стекла и стали, которые не впитывают запахи и легко моются. Цифровой контроль: Дисплей в реальном времени показывает текущую температуру жидкости внутри, исключая риск обжечь ребенка. Герметичность: Надежная крышка с фиксатором позволяет носить прибор в сумке с уже налитой водой. Многофункциональность: Можно использовать как походный чайник для подогрева воды до 55&deg;C или как индивидуальный термос.    Характеристики:    Объем: 300 мл Материалы: стекло, нержавеющая сталь, ABS-пластик Аккумулятор: 5000 мАч Температурный шаг: настройка от 37&deg;C до 55&deg;C Интерфейс: зарядка через стандартный USB-кабель]]></description>
+<quantity_in_stock>66</quantity_in_stock>
+<vendorCode>HW01W</vendorCode>
+<param name="Высота">220</param>
+<param name="Вес">800</param>
+<param name="Вместимость бутылочек">1</param>
+<param name="Диаметр">80</param>
+<param name="Дополнительная комплектация">Мерная бутылочка</param>
+<param name="Функции">Поддержание необходимой температуры</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Цвет корпуса">Белый</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-JW-3" available="true">
@@ -47596,42 +47596,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Форма">Фигурная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-23-6B" available="true">
-<name>Классический зонт-трость полуавтомат из полиэстера 8 спиц диаметр 124 см Черный HP-23-6B</name>
-<price>1879</price>
-<vendorprice>1365</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>100</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-6B/HP-23-6B_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-6B/HP-23-6B_15.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-6B/HP-23-6B_11.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-6B/HP-23-6B_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-6B/HP-23-6B_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-6B/HP-23-6B_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-6B/HP-23-6B_10.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-6B/HP-23-6B_18.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-6B/HP-23-6B_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-6B/HP-23-6B_3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Классический зонт-трость полуавтомат из полиэстера &mdash; практичный и элегантный аксессуар для защиты от дождя. Удлиненный купол диаметром 124 см и прочный каркас делают его удобным для ежедневного использования. Классическая форма трости подчеркивает изысканный стиль и надежность.  Характеристики полуавтоматического зонта-трости:  &bull; высота в сложенном виде &mdash; 97 см; &bull; материал купола &mdash; полиэстер; &bull; материал основы &mdash; металл; &bull; материал спиц &mdash; пластик; &bull; длина основы в раскрытом виде &mdash; 86 см; &bull; диаметр в открытом виде &mdash; 124 см; &bull; длина спицы &mdash; 68 см; &bull; количество спиц &mdash; 8; &bull; механизм &mdash; полуавтомат; &bull; наличие чехла &mdash; да.  Преимущества зонта-трости полуавтоматического:  &bull; увеличенный диаметр купола &mdash; надежная защита от дождя для одного или двух человек; &bull; полуавтоматический механизм &mdash; простота и удобство открывания; &bull; легкие пластиковые спицы &mdash; комфорт при ношении и достаточная прочность; &bull; качественный полиэстер &mdash; защита от влаги и долговечность; &bull; элегантный классический дизайн трости &mdash; стильный аксессуар для любых случаев.  Такой зонт-трость полуавтомат сочетает функциональность и элегантность. Он станет надежным спутником в дождливые дни, подчеркивая ваш вкус и уверенность.]]></description>
-<quantity_in_stock>61</quantity_in_stock>
-<vendorCode>HP-23-6B</vendorCode>
-<param name="Тип зонта">Трость</param>
-<param name="Механизм">Полуавтомат</param>
-<param name="Материал купола">Полиэстер</param>
-<param name="Материал корпуса зонта">Сталь</param>
-<param name="Материал спиц">Пластик</param>
-<param name="Цвет">Черный</param>
-<param name="Количество спиц купола">8</param>
-<param name="Наличие чехла">Да</param>
-<param name="Диаметр купола зонта">124 см</param>
-<param name="Состояние">Новое</param>
-<param name="Длина в сложенном виде">97 см</param>
-<param name="Длина спицы">68 см</param>
-<param name="Пол">Унисекс</param>
-<param name="Вес зонта">800 г</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-33-3" available="true">
 <name>Банки для сыпучих продуктов набор из 3 шт с бамбуковыми крышками 700 (мл), 900 (мл), 1.2 (л) HP-33-3</name>
 <price>699</price>
@@ -48077,6 +48041,42 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет свечения">Мультиколор</param>
 <param name="Форма лампочки">Классическая</param>
 <param name="Форма сечения">Круглая</param>
+</offer>
+<offer id="HP-23-6B" available="true">
+<name>Классический зонт-трость полуавтомат из полиэстера 8 спиц диаметр 124 см Черный HP-23-6B</name>
+<price>1879</price>
+<vendorprice>1365</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>100</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-6B/HP-23-6B_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-6B/HP-23-6B_15.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-6B/HP-23-6B_11.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-6B/HP-23-6B_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-6B/HP-23-6B_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-6B/HP-23-6B_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-6B/HP-23-6B_10.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-6B/HP-23-6B_18.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-6B/HP-23-6B_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-6B/HP-23-6B_3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Классический зонт-трость полуавтомат из полиэстера &mdash; практичный и элегантный аксессуар для защиты от дождя. Удлиненный купол диаметром 124 см и прочный каркас делают его удобным для ежедневного использования. Классическая форма трости подчеркивает изысканный стиль и надежность.  Характеристики полуавтоматического зонта-трости:  &bull; высота в сложенном виде &mdash; 97 см; &bull; материал купола &mdash; полиэстер; &bull; материал основы &mdash; металл; &bull; материал спиц &mdash; пластик; &bull; длина основы в раскрытом виде &mdash; 86 см; &bull; диаметр в открытом виде &mdash; 124 см; &bull; длина спицы &mdash; 68 см; &bull; количество спиц &mdash; 8; &bull; механизм &mdash; полуавтомат; &bull; наличие чехла &mdash; да.  Преимущества зонта-трости полуавтоматического:  &bull; увеличенный диаметр купола &mdash; надежная защита от дождя для одного или двух человек; &bull; полуавтоматический механизм &mdash; простота и удобство открывания; &bull; легкие пластиковые спицы &mdash; комфорт при ношении и достаточная прочность; &bull; качественный полиэстер &mdash; защита от влаги и долговечность; &bull; элегантный классический дизайн трости &mdash; стильный аксессуар для любых случаев.  Такой зонт-трость полуавтомат сочетает функциональность и элегантность. Он станет надежным спутником в дождливые дни, подчеркивая ваш вкус и уверенность.]]></description>
+<quantity_in_stock>60</quantity_in_stock>
+<vendorCode>HP-23-6B</vendorCode>
+<param name="Тип зонта">Трость</param>
+<param name="Механизм">Полуавтомат</param>
+<param name="Материал купола">Полиэстер</param>
+<param name="Материал корпуса зонта">Сталь</param>
+<param name="Материал спиц">Пластик</param>
+<param name="Цвет">Черный</param>
+<param name="Количество спиц купола">8</param>
+<param name="Наличие чехла">Да</param>
+<param name="Диаметр купола зонта">124 см</param>
+<param name="Состояние">Новое</param>
+<param name="Длина в сложенном виде">97 см</param>
+<param name="Длина спицы">68 см</param>
+<param name="Пол">Унисекс</param>
+<param name="Вес зонта">800 г</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-42-5BL" available="true">
 <name>Кухонный силиконовый коврик с антискользящей поверхностью 39×30 см HP-42-5BL</name>
@@ -78754,39 +78754,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Вес зонта">300 г</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-23-16GR" available="true">
-<name>Классический зонт-трость с чехлом полуавтомат из полиэстера прочный надежный 12 спиц диаметр 120 см Зеленый HP-23-16GR</name>
-<price>609</price>
-<vendorprice>465</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>100</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Классический зонт-трость полуавтомат &mdash; это надежный аксессуар для защиты от дождя и ветра. Современный дизайн и прочная конструкция обеспечивают удобство и долговечность в использовании. Основные характеристики зонта-трости: &bull; высота зонта в сложенном состоянии &mdash; 94 см; &bull; материал купола &mdash; полиэстер с водоотталкивающими свойствами; &bull; материал основы &mdash; металл для прочности и надежности; &bull; материал спиц &mdash; пластик; &bull; длина основы в раскрытом виде &mdash; 82 см; &bull; механизм открытия &mdash; полуавтомат для удобного использования; &bull; диаметр купола в открытом виде &mdash; 120 см; &bull; длина спиц &mdash; 64 см; &bull; наличие защитного чехла &mdash; нет; &bull; количество спиц &mdash; 12. Преимущества классического зонта-трости: &bull; универсальный дизайн, подходящий к любому стилю одежды; &bull; полуавтоматический механизм для быстрого раскрытия и закрытия; &bull; купол из прочного полиэстера с влагозащитой; &bull; усиленный каркас с двенадцатью спицами для устойчивости к ветру; &bull; удобная эргономичная ручка для комфортного захвата; &bull; качественные материалы гарантируют долговечность изделия.]]></description>
-<quantity_in_stock>16</quantity_in_stock>
-<vendorCode>HP-23-16GR</vendorCode>
-<param name="Тип зонта">Трость</param>
-<param name="Механизм">Полуавтомат</param>
-<param name="Материал купола">Полиэстер</param>
-<param name="Материал корпуса зонта">Сталь</param>
-<param name="Материал спиц">Пластик</param>
-<param name="Цвет">Зелёный</param>
-<param name="Количество спиц купола">12</param>
-<param name="Наличие чехла">Нет</param>
-<param name="Диаметр купола зонта">120 см</param>
-<param name="Состояние">Новое</param>
-<param name="Длина в сложенном виде">94 см</param>
-<param name="Длина спицы">64 см</param>
-<param name="Пол">Унисекс</param>
-<param name="Вес зонта">500 г</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-42-5GB" available="true">
 <name>Кухонный силиконовый коврик с антискользящей поверхностью 39×30 см HP-42-5GB</name>
 <price>29</price>
@@ -79652,6 +79619,39 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Нескользящее основание">Да</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Состояние">Новое</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-23-16GR" available="true">
+<name>Классический зонт-трость с чехлом полуавтомат из полиэстера прочный надежный 12 спиц диаметр 120 см Зеленый HP-23-16GR</name>
+<price>609</price>
+<vendorprice>465</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>100</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/00./HP-23-16GR/HP-23-16GR_3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Классический зонт-трость полуавтомат &mdash; это надежный аксессуар для защиты от дождя и ветра. Современный дизайн и прочная конструкция обеспечивают удобство и долговечность в использовании. Основные характеристики зонта-трости: &bull; высота зонта в сложенном состоянии &mdash; 94 см; &bull; материал купола &mdash; полиэстер с водоотталкивающими свойствами; &bull; материал основы &mdash; металл для прочности и надежности; &bull; материал спиц &mdash; пластик; &bull; длина основы в раскрытом виде &mdash; 82 см; &bull; механизм открытия &mdash; полуавтомат для удобного использования; &bull; диаметр купола в открытом виде &mdash; 120 см; &bull; длина спиц &mdash; 64 см; &bull; наличие защитного чехла &mdash; нет; &bull; количество спиц &mdash; 12. Преимущества классического зонта-трости: &bull; универсальный дизайн, подходящий к любому стилю одежды; &bull; полуавтоматический механизм для быстрого раскрытия и закрытия; &bull; купол из прочного полиэстера с влагозащитой; &bull; усиленный каркас с двенадцатью спицами для устойчивости к ветру; &bull; удобная эргономичная ручка для комфортного захвата; &bull; качественные материалы гарантируют долговечность изделия.]]></description>
+<quantity_in_stock>15</quantity_in_stock>
+<vendorCode>HP-23-16GR</vendorCode>
+<param name="Тип зонта">Трость</param>
+<param name="Механизм">Полуавтомат</param>
+<param name="Материал купола">Полиэстер</param>
+<param name="Материал корпуса зонта">Сталь</param>
+<param name="Материал спиц">Пластик</param>
+<param name="Цвет">Зелёный</param>
+<param name="Количество спиц купола">12</param>
+<param name="Наличие чехла">Нет</param>
+<param name="Диаметр купола зонта">120 см</param>
+<param name="Состояние">Новое</param>
+<param name="Длина в сложенном виде">94 см</param>
+<param name="Длина спицы">64 см</param>
+<param name="Пол">Унисекс</param>
+<param name="Вес зонта">500 г</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-41-13P" available="true">
