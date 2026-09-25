@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-24 21:13">
+<yml_catalog date="2026-09-25 02:50">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -1525,7 +1525,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/129/HP-UR-2/HP-UR-2-%2827%29.jpg</picture>
 <vendor>Sokany</vendor>
 <description><![CDATA[Паровой утюг это мощное беспроводное устройство, которое обеспечивает быстрое и эффективное разглаживание благодаря мощному пару и функции парового удара. Основные характеристики паро утюга включают высокую мощность 2400 Вт, что гарантирует быстрый нагрев и эффективную глажку.  Керамическое покрытие подошвы обеспечивает плавное скольжение по ткани, а система постоянной подачи пара делает процесс глажки более равномерным и эффективным.  Основные характеристики утюга   Потребляемая мощность 2400 Вт. Объем резервуара для воды 450 мл. Подача пара 150 г/мин. Материал подошвы утюга - керамика.   Утюг также поддерживает вертикальное отпаривание, что делает его удобным инструментом для освежения одежды, не снимая его с вешалки.   Паровой утюг оснащен интеллектуальными функциями, такими как автоматическое выключение для безопасности и режим самоочистки для продления срока службы. Удобная ручка и эргономичный дизайн обеспечивают комфорт во время использования утюга.]]></description>
-<quantity_in_stock>80</quantity_in_stock>
+<quantity_in_stock>78</quantity_in_stock>
 <vendorCode>HP-UR-2</vendorCode>
 <param name="Тип">Утюг</param>
 <param name="Высота">16.5</param>
@@ -3383,38 +3383,6 @@
 <param name="Функция автоотключения">Да</param>
 <param name="Сухая глажка">Да</param>
 </offer>
-<offer id="SK-19027M" available="true">
-<name>Весы для кухни Sokany до 5 кг электронные на батарейках Lugi Бирюзовый SK-19027M</name>
-<price>369</price>
-<vendorprice>232</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4651/vesy_dlya_kuhni_do_5_kg_elektronnye_dlya_vzveshivaniya_produktov_nastolnye_bez_chashi_na_batareykah_sokany_lugi.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4651/vesy_dlya_kuhni_do_5_kg_elektronnye_dlya_vzveshivaniya_produktov_nastolnye_bez_chashi_na_batareykah_sokany_lugi_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4651/vesy_dlya_kuhni_do_5_kg_elektronnye_dlya_vzveshivaniya_produktov_nastolnye_bez_chashi_na_batareykah_sokany_lugi_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4651/vesy_dlya_kuhni_do_5_kg_elektronnye_dlya_vzveshivaniya_produktov_nastolnye_bez_chashi_na_batareykah_sokany_lugi_3.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Кухонные весы Sokany &ndash; это неотъемлемый помощник в каждой кухне, который обеспечит точность и легкость при измерении ингредиентов. Удобные и стильные они станут неотъемлемой частью вашего кулинарного процесса.  Характеристики кухонных весов Sokany   размер 22&times;15&times;1 см; максимально допустимый вес 5 кг; современный дизайн; дополнительная функция "тара"; автоматическое отключение; индикация перегрузки.   Благодаря высокоточным сенсорам и системе автоматического отключения вы можете легко измерять вес ингредиентов от 1 г до 5 кг. Компактный дизайн и возможность использования 1 батарейки позволяют использовать эти весы в любом месте вашей кухни. Легкость очистки и хранения делают эти весы идеальным выбором для любой хозяйки, ценящей качество и комфорт в приготовлении блюд.]]></description>
-<quantity_in_stock>42</quantity_in_stock>
-<vendorCode>SK-19027M</vendorCode>
-<param name="Высота">1 см</param>
-<param name="Вид кухонных весов">электронные</param>
-<param name="Гарантийный срок">14 дней</param>
-<param name="Вес">0.5 кг</param>
-<param name="Дисплей">Да</param>
-<param name="Единицы измерения">Грамм|Килограммы</param>
-<param name="Ширина">15 см</param>
-<param name="Компенсация тары">Да</param>
-<param name="Материал корпуса">Пластик/Стекло</param>
-<param name="Конструкция тары">платформа</param>
-<param name="Максимальный вес">5</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Бирюзовый</param>
-<param name="Съемная тара">Нет</param>
-<param name="Функция автоотключения">Да</param>
-<param name="Точность измерения">1</param>
-<param name="Тип элементов питания">CR2032</param>
-</offer>
 <offer id="SK-3069B" available="true">
 <name>Отпариватель Sokany Ручной 1200 Вт синий SK-3069B</name>
 <price>1679</price>
@@ -3448,6 +3416,38 @@
 <param name="Регулировка силы пара">Да</param>
 <param name="Съемный бак для воды">Нет</param>
 <param name="Тип управления">Механическое</param>
+</offer>
+<offer id="SK-19027M" available="true">
+<name>Весы для кухни Sokany до 5 кг электронные на батарейках Lugi Бирюзовый SK-19027M</name>
+<price>369</price>
+<vendorprice>232</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4651/vesy_dlya_kuhni_do_5_kg_elektronnye_dlya_vzveshivaniya_produktov_nastolnye_bez_chashi_na_batareykah_sokany_lugi.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4651/vesy_dlya_kuhni_do_5_kg_elektronnye_dlya_vzveshivaniya_produktov_nastolnye_bez_chashi_na_batareykah_sokany_lugi_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4651/vesy_dlya_kuhni_do_5_kg_elektronnye_dlya_vzveshivaniya_produktov_nastolnye_bez_chashi_na_batareykah_sokany_lugi_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62031/4651/vesy_dlya_kuhni_do_5_kg_elektronnye_dlya_vzveshivaniya_produktov_nastolnye_bez_chashi_na_batareykah_sokany_lugi_3.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Кухонные весы Sokany &ndash; это неотъемлемый помощник в каждой кухне, который обеспечит точность и легкость при измерении ингредиентов. Удобные и стильные они станут неотъемлемой частью вашего кулинарного процесса.  Характеристики кухонных весов Sokany   размер 22&times;15&times;1 см; максимально допустимый вес 5 кг; современный дизайн; дополнительная функция "тара"; автоматическое отключение; индикация перегрузки.   Благодаря высокоточным сенсорам и системе автоматического отключения вы можете легко измерять вес ингредиентов от 1 г до 5 кг. Компактный дизайн и возможность использования 1 батарейки позволяют использовать эти весы в любом месте вашей кухни. Легкость очистки и хранения делают эти весы идеальным выбором для любой хозяйки, ценящей качество и комфорт в приготовлении блюд.]]></description>
+<quantity_in_stock>41</quantity_in_stock>
+<vendorCode>SK-19027M</vendorCode>
+<param name="Высота">1 см</param>
+<param name="Вид кухонных весов">электронные</param>
+<param name="Гарантийный срок">14 дней</param>
+<param name="Вес">0.5 кг</param>
+<param name="Дисплей">Да</param>
+<param name="Единицы измерения">Грамм|Килограммы</param>
+<param name="Ширина">15 см</param>
+<param name="Компенсация тары">Да</param>
+<param name="Материал корпуса">Пластик/Стекло</param>
+<param name="Конструкция тары">платформа</param>
+<param name="Максимальный вес">5</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Бирюзовый</param>
+<param name="Съемная тара">Нет</param>
+<param name="Функция автоотключения">Да</param>
+<param name="Точность измерения">1</param>
+<param name="Тип элементов питания">CR2032</param>
 </offer>
 <offer id="SK-273BG" available="true">
 <name>Электрогриль  с термостатом 2000 Вт Sokany SK-273BG</name>
@@ -8062,34 +8062,6 @@
 <param name="Толщина дна">5 мм</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="SK-1178" available="true">
-<name>Овощерезка Sokany Lugi электрическая 1000 Вт 6 в 1 с 5 насадками многофункциональная SK-1178</name>
-<price>3399</price>
-<vendorprice>2080</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>173</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_8.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Измельчитель овощей 6в1 Sokany – это мощный и многофункциональный прибор для нарезки и измельчения овощей и других продуктов. Благодаря мощности 1000 Вт он легко справляется со сложными задачами нарезки и измельчения. Он имеет одну скорость, гарантирующую оптимальный уровень производительности.  Характеристики овощерезки Sokany   Мощность: 1000 Вт. Количество насадок: 5 шт. Материал насадок: нержавеющая сталь. Материал корпуса: пластик.   Измельчитель оснащен пятью насадками из нержавеющей стали, которые обеспечивают различные возможности нарезки и измельчения. Эти насадки позволяют легко резать и измельчать сыр, фрукты, овощи, шоколад и другие ингредиенты по вашим потребностям. Противоскользящие ножки обеспечивают стабильность во время работы, что позволяет безопасно использовать прибор без риска опрокидывания или падения.  Измельчитель овощей 6в1 Sokany – это надежный и удобный прибор, который станет незаменимым помощником в вашей кухне. Он позволит вам быстро и эффективно нарезать и размельчить разнообразные ингредиенты для вашей еды и рецептов.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
-<vendorCode>SK-1178</vendorCode>
-<param name="Тип">Овощерезка</param>
-<param name="Материал">Пластик</param>
-<param name="Количество трущих/режущих поверхностей">5</param>
-<param name="Наличие контейнера (поддона)">Не предусмотрен</param>
-<param name="Наличие плододержателя">Есть</param>
-<param name="Цвет">Сталь</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Мощность, Вт">601-1000</param>
-</offer>
 <offer id="SK4005BR" available="true">
 <name>Напольный отпариватель для одежды Sokany SK4005BR на 2 л 1800 Вт</name>
 <price>3969</price>
@@ -8362,6 +8334,34 @@
 <param name="Диаметр уловителя">300 мм</param>
 <param name="Состояние">Новое</param>
 <param name="Гарантия">6 мес</param>
+</offer>
+<offer id="SK-1178" available="true">
+<name>Овощерезка Sokany Lugi электрическая 1000 Вт 6 в 1 с 5 насадками многофункциональная SK-1178</name>
+<price>3399</price>
+<vendorprice>2080</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>173</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6556/ovoshcherezka_sokany_lugi_elektricheskaya_1000_vt_6_v_1_s_5_nasadkami_mnogofunktsionalnaya_terka_izmelchitel_dlya_ovoshchey_8.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Измельчитель овощей 6в1 Sokany – это мощный и многофункциональный прибор для нарезки и измельчения овощей и других продуктов. Благодаря мощности 1000 Вт он легко справляется со сложными задачами нарезки и измельчения. Он имеет одну скорость, гарантирующую оптимальный уровень производительности.  Характеристики овощерезки Sokany   Мощность: 1000 Вт. Количество насадок: 5 шт. Материал насадок: нержавеющая сталь. Материал корпуса: пластик.   Измельчитель оснащен пятью насадками из нержавеющей стали, которые обеспечивают различные возможности нарезки и измельчения. Эти насадки позволяют легко резать и измельчать сыр, фрукты, овощи, шоколад и другие ингредиенты по вашим потребностям. Противоскользящие ножки обеспечивают стабильность во время работы, что позволяет безопасно использовать прибор без риска опрокидывания или падения.  Измельчитель овощей 6в1 Sokany – это надежный и удобный прибор, который станет незаменимым помощником в вашей кухне. Он позволит вам быстро и эффективно нарезать и размельчить разнообразные ингредиенты для вашей еды и рецептов.]]></description>
+<quantity_in_stock>9</quantity_in_stock>
+<vendorCode>SK-1178</vendorCode>
+<param name="Тип">Овощерезка</param>
+<param name="Материал">Пластик</param>
+<param name="Количество трущих/режущих поверхностей">5</param>
+<param name="Наличие контейнера (поддона)">Не предусмотрен</param>
+<param name="Наличие плододержателя">Есть</param>
+<param name="Цвет">Сталь</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Мощность, Вт">601-1000</param>
 </offer>
 <offer id="SK-03029" available="true">
 <name>Кухонный комбайн с соковыжималкой и кофемолкой 4 в 1 блендер 800 Вт Sokany SK-03029</name>
@@ -29072,30 +29072,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-42-39" available="true">
-<name>Коврик привратный Welcome Form 58*38 см диатомитовый HP-42-39</name>
-<price>169</price>
-<vendorprice>130</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>52</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6490/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6490/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6490/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6490/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy_3.jpg</picture>
-<vendor>Jiamat</vendor>
-<description><![CDATA[Этот коврик станет стильным и функциональным дополнением вашего дома. Изготовлен из натурального диатомита, он эффективно впитывает влагу с обуви, быстро сохнет и создаёт сухую, безопасную поверхность в прихожей. Прочная структура и противоскользящая основа позволяют использовать коврик не только у входной двери, но и в других помещениях: на кухне, в прачечной или под кормушки для домашних животных.  Характеристики придверного коврика из диатомита:   Материал: натуральный диатом — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома.   Преимущества влаговпитывающего коврика для входной двери:   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
-<quantity_in_stock>124</quantity_in_stock>
-<vendorCode>HP-42-39</vendorCode>
-<param name="Вес">400</param>
-<param name="Ширина">38</param>
-<param name="Цвет">Коричневый</param>
-<param name="Водоотталкивающие свойства">Да</param>
-<param name="Длина">58</param>
-<param name="Нескользящее основание">Да</param>
-<param name="Состояние">Новое</param>
-<param name="Форма">Прямоугольная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-19-206" available="true">
 <name>Набор рюмок на ножке 6 штук 50 мл для крепких напитков стеклянные Янтарный Yiwu HP-19-206</name>
 <price>449</price>
@@ -29226,6 +29202,30 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Ширина">38</param>
 <param name="Количество в наборе">1</param>
 <param name="Длина">58</param>
+<param name="Форма">Прямоугольная</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-42-39" available="true">
+<name>Коврик привратный Welcome Form 58*38 см диатомитовый HP-42-39</name>
+<price>169</price>
+<vendorprice>130</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>52</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6490/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6490/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6490/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6490/pridvernyy_kovrik_3d_kovrik_iz_diatomita_dlya_doma_welcom_38_58_sm_kovrik_dlya_koridora_pri_vhode_pered_dveryu_kovrik_vhodnoy_3.jpg</picture>
+<vendor>Jiamat</vendor>
+<description><![CDATA[Этот коврик станет стильным и функциональным дополнением вашего дома. Изготовлен из натурального диатомита, он эффективно впитывает влагу с обуви, быстро сохнет и создаёт сухую, безопасную поверхность в прихожей. Прочная структура и противоскользящая основа позволяют использовать коврик не только у входной двери, но и в других помещениях: на кухне, в прачечной или под кормушки для домашних животных.  Характеристики придверного коврика из диатомита:   Материал: натуральный диатом — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома.   Преимущества влаговпитывающего коврика для входной двери:   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
+<quantity_in_stock>123</quantity_in_stock>
+<vendorCode>HP-42-39</vendorCode>
+<param name="Вес">400</param>
+<param name="Ширина">38</param>
+<param name="Цвет">Коричневый</param>
+<param name="Водоотталкивающие свойства">Да</param>
+<param name="Длина">58</param>
+<param name="Нескользящее основание">Да</param>
+<param name="Состояние">Новое</param>
 <param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
@@ -52419,33 +52419,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет">Прозрачный</param>
 <param name="Длина">200</param>
 </offer>
-<offer id="HP-34-127" available="true">
-<name>Чайник стеклянный 8х8х16 см 1 л прозрачный из боросиликатного стекла заварник для чая HP-34-127</name>
-<price>269</price>
-<vendorprice>205</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>41</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu_7.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Стеклянный чайник объемом 1 литр &ndash; это сочетание элегантности и практичности для ежедневного использования. Изготовлен из прочного боросиликатного стекла, он выдерживает высокие температуры и не впитывает запахи, сохраняя естественный вкус напитков. Прозрачные стенки позволяют наслаждаться процессом заваривания, а высота 12 см без крышки делает его удобным в использовании. Металлическая крышка плотно прилегает, помогая сохранять тепло и аромат напитка. Благодаря компактным габаритам (высота 16 см, диаметр 8 см) чайник легко размещается на кухне и подходит как для дома, так и для офиса. Это стильное решение для подачи чая, которое сочетает современный дизайн и долговечность.   Характеристики:  Объем 1л Высота без крышки 12 см Материал крышки металл Материал чайника боросиликатное стекло Габариты товара   16 см высота, диаметр 8 см]]></description>
-<quantity_in_stock>50</quantity_in_stock>
-<vendorCode>HP-34-127</vendorCode>
-<param name="Материал">Боросиликатное стекло</param>
-<param name="Высота">120</param>
-<param name="Диаметр">80</param>
-<param name="Материал крышки">Металл</param>
-<param name="Объем">1000</param>
-<param name="Материал ручки">стекло</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Тип посуды">Заварочный чайник</param>
-</offer>
 <offer id="HP-42-170" available="true">
 <name>Набор ковриков для ванной 2 штуки 80*50 см/50*40 см диатомитовых, черный Yiwu HP-42-170</name>
 <price>559</price>
@@ -53020,6 +52993,33 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет">Прозрачный</param>
 <param name="Тип стакана">Высокий</param>
 <param name="Нижний диаметр">6</param>
+</offer>
+<offer id="HP-34-127" available="true">
+<name>Чайник стеклянный 8х8х16 см 1 л прозрачный из боросиликатного стекла заварник для чая HP-34-127</name>
+<price>269</price>
+<vendorprice>205</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>41</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/74133/7222/chaynik_steklyannyy_8h8h16_sm_1_l_prozrachnyy_iz_borosilikatnogo_stekla_zavarnik_dlya_chaya_travyanyh_smesey_na_kuhnyu_7.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Стеклянный чайник объемом 1 литр &ndash; это сочетание элегантности и практичности для ежедневного использования. Изготовлен из прочного боросиликатного стекла, он выдерживает высокие температуры и не впитывает запахи, сохраняя естественный вкус напитков. Прозрачные стенки позволяют наслаждаться процессом заваривания, а высота 12 см без крышки делает его удобным в использовании. Металлическая крышка плотно прилегает, помогая сохранять тепло и аромат напитка. Благодаря компактным габаритам (высота 16 см, диаметр 8 см) чайник легко размещается на кухне и подходит как для дома, так и для офиса. Это стильное решение для подачи чая, которое сочетает современный дизайн и долговечность.   Характеристики:  Объем 1л Высота без крышки 12 см Материал крышки металл Материал чайника боросиликатное стекло Габариты товара   16 см высота, диаметр 8 см]]></description>
+<quantity_in_stock>49</quantity_in_stock>
+<vendorCode>HP-34-127</vendorCode>
+<param name="Материал">Боросиликатное стекло</param>
+<param name="Высота">120</param>
+<param name="Диаметр">80</param>
+<param name="Материал крышки">Металл</param>
+<param name="Объем">1000</param>
+<param name="Материал ручки">стекло</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Тип посуды">Заварочный чайник</param>
 </offer>
 <offer id="173-19BE" available="true">
 <name>Полотенце кухонное для рук 25*17 см подвесное бежевый Colorful Home 173-19BE</name>
@@ -64297,32 +64297,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Ширина насадки">17</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HB-40-6" available="true">
-<name>Сервировочные салфетки из бамбука, набор 24 шт 45×30 см для кухни и праздничного стола HB-40-6</name>
-<price>1129</price>
-<vendorprice>887</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>136</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4860/servirovochnye_salfetki_iz_bambuka_nabor_24_sht_45_30_sm_dlya_kuhni_i_prazdnichnogo_stola.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4860/servirovochnye_salfetki_iz_bambuka_nabor_24_sht_45_30_sm_dlya_kuhni_i_prazdnichnogo_stola_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4860/servirovochnye_salfetki_iz_bambuka_nabor_24_sht_45_30_sm_dlya_kuhni_i_prazdnichnogo_stola_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4860/servirovochnye_salfetki_iz_bambuka_nabor_24_sht_45_30_sm_dlya_kuhni_i_prazdnichnogo_stola_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4860/servirovochnye_salfetki_iz_bambuka_nabor_24_sht_45_30_sm_dlya_kuhni_i_prazdnichnogo_stola_4.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Сервировочные салфетки из бамбука &mdash; стильное и практичное решение для сервировки стола и защиты поверхности от повреждений. Натуральный материал придаёт интерьеру уют и естественный акцент, а также отличается прочностью и долговечностью.  Размер каждой салфетки 45&times;30 см подходит для размещения тарелки, чашки и приборов. Они помогают сохранить стол в чистоте, предотвращая появление пятен, следов от горячего и царапин. Гладкая структура бамбука облегчает уход &mdash; салфетки легко очищаются и быстро высыхают.  Такой набор станет универсальным выбором для повседневного использования и праздничных застолий. Лаконичный дизайн позволяет сочетать салфетки с любой посудой и стилем интерьера.  Преимущества сервировочных салфеток из бамбука:   Натуральный материал: экологичный и безопасный для ежедневного применения; Защита: предохраняют поверхность стола от царапин, пятен и теплового воздействия; Универсальность: подходят для кухни, гостиной, дачи или кафе; Оптимальный размер: 45&times;30 см для комфортного размещения посуды; Лёгкий уход: достаточно протирать влажной тканью или ополаскивать водой.   Характеристики сервировочных салфеток из бамбука:   Тип: сервировочные салфетки; Количество в наборе: 24 штуки; Размер: 45&times;30 см; Материал: бамбук.]]></description>
-<quantity_in_stock>31</quantity_in_stock>
-<vendorCode>HB-40-6</vendorCode>
-<param name="Материал">Бамбук</param>
-<param name="Тип изделия">Салфетка-подставка под приборы</param>
-<param name="Форма скатерти">Прямоугольная</param>
-<param name="Основа">Без основы</param>
-<param name="Машинная стирка">Нет</param>
-<param name="Длина салфетки">45 см</param>
-<param name="Ширина салфетки">30 см</param>
-<param name="Подарочная упаковка">Нет</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-42-7W" available="true">
 <name>Коврик для ванны туалета душевой из поливинилхлорида на присосках 73*40 см HP-42-7W</name>
 <price>619</price>
@@ -65043,6 +65017,32 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Длина">210</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Материал ручек">Нержавеющая сталь</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HB-40-6" available="true">
+<name>Сервировочные салфетки из бамбука, набор 24 шт 45×30 см для кухни и праздничного стола HB-40-6</name>
+<price>1129</price>
+<vendorprice>887</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>136</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4860/servirovochnye_salfetki_iz_bambuka_nabor_24_sht_45_30_sm_dlya_kuhni_i_prazdnichnogo_stola.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4860/servirovochnye_salfetki_iz_bambuka_nabor_24_sht_45_30_sm_dlya_kuhni_i_prazdnichnogo_stola_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4860/servirovochnye_salfetki_iz_bambuka_nabor_24_sht_45_30_sm_dlya_kuhni_i_prazdnichnogo_stola_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4860/servirovochnye_salfetki_iz_bambuka_nabor_24_sht_45_30_sm_dlya_kuhni_i_prazdnichnogo_stola_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4860/servirovochnye_salfetki_iz_bambuka_nabor_24_sht_45_30_sm_dlya_kuhni_i_prazdnichnogo_stola_4.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Сервировочные салфетки из бамбука &mdash; стильное и практичное решение для сервировки стола и защиты поверхности от повреждений. Натуральный материал придаёт интерьеру уют и естественный акцент, а также отличается прочностью и долговечностью.  Размер каждой салфетки 45&times;30 см подходит для размещения тарелки, чашки и приборов. Они помогают сохранить стол в чистоте, предотвращая появление пятен, следов от горячего и царапин. Гладкая структура бамбука облегчает уход &mdash; салфетки легко очищаются и быстро высыхают.  Такой набор станет универсальным выбором для повседневного использования и праздничных застолий. Лаконичный дизайн позволяет сочетать салфетки с любой посудой и стилем интерьера.  Преимущества сервировочных салфеток из бамбука:   Натуральный материал: экологичный и безопасный для ежедневного применения; Защита: предохраняют поверхность стола от царапин, пятен и теплового воздействия; Универсальность: подходят для кухни, гостиной, дачи или кафе; Оптимальный размер: 45&times;30 см для комфортного размещения посуды; Лёгкий уход: достаточно протирать влажной тканью или ополаскивать водой.   Характеристики сервировочных салфеток из бамбука:   Тип: сервировочные салфетки; Количество в наборе: 24 штуки; Размер: 45&times;30 см; Материал: бамбук.]]></description>
+<quantity_in_stock>30</quantity_in_stock>
+<vendorCode>HB-40-6</vendorCode>
+<param name="Материал">Бамбук</param>
+<param name="Тип изделия">Салфетка-подставка под приборы</param>
+<param name="Форма скатерти">Прямоугольная</param>
+<param name="Основа">Без основы</param>
+<param name="Машинная стирка">Нет</param>
+<param name="Длина салфетки">45 см</param>
+<param name="Ширина салфетки">30 см</param>
+<param name="Подарочная упаковка">Нет</param>
+<param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-42-8G" available="true">
@@ -71309,44 +71309,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Материал">стекло</param>
 <param name="Объем лимонадницы">2 л</param>
 </offer>
-<offer id="HP-5-77" available="true">
-<name>Уличный LED фонарь прожектор светодиодный уличный 418 LED 500 Вт с солнечной панелью HP-5-77</name>
-<price>3579</price>
-<vendorprice>2737</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>132</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7029/ulichnyy_led_fonar_prozhektor_svetodiodnyy_ulichnyy_418_led_500_vt_s_solnechnoy_panelyu.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7029/ulichnyy_led_fonar_prozhektor_svetodiodnyy_ulichnyy_418_led_500_vt_s_solnechnoy_panelyu_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0.0/HP-5-77/_T5B9665.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0.0/HP-5-77/HP-5-77-6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0.0/HP-5-77/HP-5-77-5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0.0/HP-5-77/HP-5-77-4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0.0/HP-5-77/HP-5-77-2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0.0/HP-5-77/HP-5-77-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0.0/HP-5-77/HP-5-77-3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Мощный автономный солнечный прожектор с внешней фотогальванической панелью и пультом дистанционного управления. Надежное решение для уличного, охранного и промышленного освещения работает полностью от солнца, не требует подключения к сети.   Преимущества    Полная автономность – питание от солнечной панели, экономия на электроэнергии. Высокая яркость и широкий световой пучок – подходит для освещения больших территорий. Простая установка: настенный/опорный монтаж, панель на кронштейне.    Особенности работы    Реальное время автономной работы и яркость зависит от емкости аккумулятора, солнечной инсоляции, угла установки панели и климатических условий. Для максимальной эффективности панель устанавливайте под углом к солнцу и регулярно очищайте от пыли и снега.    Характеристики    Мощность: 500 Вт Солнечная панель: 6В, 15 Вт Время работы при полной зарядке: 10-12 часов Источник света: 418 LED SMD 2835 Аккумулятор: 12 Ah, 3,2 В Класс защиты: IP66 Управление: фотодатчик + пульт ДУ Материал: ABS пластик Размеры (прожектор/панель): 36*5,5 см/35*35*17 см]]></description>
-<quantity_in_stock>23</quantity_in_stock>
-<vendorCode>HP-5-77</vendorCode>
-<param name="Высота">5</param>
-<param name="Мощность">500</param>
-<param name="Количество светодиодов">418</param>
-<param name="Применение освещения">Для наружного освещения зданий|Для освещения ландшафтов|Для освещения теплиц|Для освещения парковок|Для освещения входных дверей и ворот|Для освещения крыльца|Для освещения навесов и беседок|Для освещения садовых дорожек|Для подсветки деревьев и растений</param>
-<param name="Тип освещения по мобильности">Стационарное</param>
-<param name="Ширина">5</param>
-<param name="Способ освещения">Локальное освещение</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Источник света">Светодиодная матрица SMD</param>
-<param name="Способ монтажа">Подвесной</param>
-<param name="Длина">36</param>
-<param name="Тип освещения">Прожектор</param>
-<param name="Тип питания">Солнечная батарея|Аккумулятор</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="Степень защиты IP">66</param>
-<param name="Цвет свечения">Белый</param>
-<param name="Тип лампы">Светодиодная</param>
-<param name="Цветовая гамма">Белый</param>
-</offer>
 <offer id="HP-JW-10" available="true">
 <name>Зонт для рыбалки и пляжа 190 см с регулировкой наклона прочный HP-JW-10</name>
 <price>1899</price>
@@ -72485,6 +72447,44 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет свечения">Белый</param>
 <param name="Тип лампы">Светодиодная</param>
 </offer>
+<offer id="HP-5-77" available="true">
+<name>Уличный LED фонарь прожектор светодиодный уличный 418 LED 500 Вт с солнечной панелью HP-5-77</name>
+<price>3579</price>
+<vendorprice>2737</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>132</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7029/ulichnyy_led_fonar_prozhektor_svetodiodnyy_ulichnyy_418_led_500_vt_s_solnechnoy_panelyu.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7029/ulichnyy_led_fonar_prozhektor_svetodiodnyy_ulichnyy_418_led_500_vt_s_solnechnoy_panelyu_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0.0/HP-5-77/_T5B9665.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0.0/HP-5-77/HP-5-77-6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0.0/HP-5-77/HP-5-77-5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0.0/HP-5-77/HP-5-77-4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0.0/HP-5-77/HP-5-77-2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0.0/HP-5-77/HP-5-77-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0.0/HP-5-77/HP-5-77-3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Мощный автономный солнечный прожектор с внешней фотогальванической панелью и пультом дистанционного управления. Надежное решение для уличного, охранного и промышленного освещения работает полностью от солнца, не требует подключения к сети.   Преимущества    Полная автономность – питание от солнечной панели, экономия на электроэнергии. Высокая яркость и широкий световой пучок – подходит для освещения больших территорий. Простая установка: настенный/опорный монтаж, панель на кронштейне.    Особенности работы    Реальное время автономной работы и яркость зависит от емкости аккумулятора, солнечной инсоляции, угла установки панели и климатических условий. Для максимальной эффективности панель устанавливайте под углом к солнцу и регулярно очищайте от пыли и снега.    Характеристики    Мощность: 500 Вт Солнечная панель: 6В, 15 Вт Время работы при полной зарядке: 10-12 часов Источник света: 418 LED SMD 2835 Аккумулятор: 12 Ah, 3,2 В Класс защиты: IP66 Управление: фотодатчик + пульт ДУ Материал: ABS пластик Размеры (прожектор/панель): 36*5,5 см/35*35*17 см]]></description>
+<quantity_in_stock>22</quantity_in_stock>
+<vendorCode>HP-5-77</vendorCode>
+<param name="Высота">5</param>
+<param name="Мощность">500</param>
+<param name="Количество светодиодов">418</param>
+<param name="Применение освещения">Для наружного освещения зданий|Для освещения ландшафтов|Для освещения теплиц|Для освещения парковок|Для освещения входных дверей и ворот|Для освещения крыльца|Для освещения навесов и беседок|Для освещения садовых дорожек|Для подсветки деревьев и растений</param>
+<param name="Тип освещения по мобильности">Стационарное</param>
+<param name="Ширина">5</param>
+<param name="Способ освещения">Локальное освещение</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Источник света">Светодиодная матрица SMD</param>
+<param name="Способ монтажа">Подвесной</param>
+<param name="Длина">36</param>
+<param name="Тип освещения">Прожектор</param>
+<param name="Тип питания">Солнечная батарея|Аккумулятор</param>
+<param name="Цвет корпуса">Черный</param>
+<param name="Степень защиты IP">66</param>
+<param name="Цвет свечения">Белый</param>
+<param name="Тип лампы">Светодиодная</param>
+<param name="Цветовая гамма">Белый</param>
+</offer>
 <offer id="HP-7-11" available="true">
 <name>Свечанок металлический Wildwood 37х10х14 см декоративный HP-7-11</name>
 <price>3599</price>
@@ -72584,25 +72584,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет">Белый</param>
 <param name="Длина">140</param>
 <param name="Комплектация">Один предмет</param>
-</offer>
-<offer id="515-5-60BL" available="true">
-<name>Салфетки в рулоне 20 штук 25×25 см из микрофибры синий Colorful Home 515-5-60BL</name>
-<price>259</price>
-<vendorprice>218</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>63</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7346/salfetki_v_rulone_20_shtuk_25_25_sm_iz_mikrofibry_siniy.jpg</picture>
-<vendor>Colorful Home</vendor>
-<description><![CDATA[Салфетки в рулоне по 20 штук размером 25×25 см из микрофибры — практичный аксессуар для повседневного использования дома, на кухне или в ванной комнате. Мягкий материал хорошо впитывает влагу, быстро высыхает и подходит для многократного использования. Салфетки легко отрываются от рулона, не занимают много места и помогают поддерживать чистоту и порядок в быту. Преимущества ткани  Мягкая и приятная на ощупь микрофибра Хорошо впитывает влагу Быстро высыхает после стирки Подходит для многократного использования Износостойкий материал для ежедневного применения  Размер  25×25 см Количество — 20 штук в рулоне  Правила ухода  Стирать при температуре до 30°C Не использовать отбеливатели и агрессивные моющие средства Не гладить  Сушить естественным способом]]></description>
-<quantity_in_stock>22</quantity_in_stock>
-<vendorCode>515-5-60BL</vendorCode>
-<param name="Тип">Салфетка</param>
-<param name="Материал">Микрофибра</param>
-<param name="Основное назначение">Универсальное</param>
-<param name="Ширина">25</param>
-<param name="Количество в упаковке">20</param>
-<param name="Цвет">Синий</param>
-<param name="Длина">25</param>
 </offer>
 <offer id="HP23393" available="true">
 <name>Тарелка сервировочная круглая 26 см плоская фарфоровая коричневая HP23393</name>
@@ -73508,6 +73489,25 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет">Коричневый</param>
 <param name="Длина">140</param>
 <param name="Комплектация">Один предмет</param>
+</offer>
+<offer id="515-5-60BL" available="true">
+<name>Салфетки в рулоне 20 штук 25×25 см из микрофибры синий Colorful Home 515-5-60BL</name>
+<price>259</price>
+<vendorprice>218</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>63</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7346/salfetki_v_rulone_20_shtuk_25_25_sm_iz_mikrofibry_siniy.jpg</picture>
+<vendor>Colorful Home</vendor>
+<description><![CDATA[Салфетки в рулоне по 20 штук размером 25×25 см из микрофибры — практичный аксессуар для повседневного использования дома, на кухне или в ванной комнате. Мягкий материал хорошо впитывает влагу, быстро высыхает и подходит для многократного использования. Салфетки легко отрываются от рулона, не занимают много места и помогают поддерживать чистоту и порядок в быту. Преимущества ткани  Мягкая и приятная на ощупь микрофибра Хорошо впитывает влагу Быстро высыхает после стирки Подходит для многократного использования Износостойкий материал для ежедневного применения  Размер  25×25 см Количество — 20 штук в рулоне  Правила ухода  Стирать при температуре до 30°C Не использовать отбеливатели и агрессивные моющие средства Не гладить  Сушить естественным способом]]></description>
+<quantity_in_stock>21</quantity_in_stock>
+<vendorCode>515-5-60BL</vendorCode>
+<param name="Тип">Салфетка</param>
+<param name="Материал">Микрофибра</param>
+<param name="Основное назначение">Универсальное</param>
+<param name="Ширина">25</param>
+<param name="Количество в упаковке">20</param>
+<param name="Цвет">Синий</param>
+<param name="Длина">25</param>
 </offer>
 <offer id="HP-34-110" available="true">
 <name>Набор пиал стеклянные«Хрустальное сияние» 200 мл с блюдцами Yiwu HP-34-110</name>
@@ -78382,38 +78382,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-19-49" available="true">
-<name>Кружка стеклянная с крышкой и трубочкой 750 (мл) HP-19-49</name>
-<price>299</price>
-<vendorprice>230</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>137</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5606/kruzhka_steklyannaya_s_kryshkoy_i_trubochkoy_750_ml_chashka_s_trubochkoy_i_kryshkoy_na_podarok.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5606/kruzhka_steklyannaya_s_kryshkoy_i_trubochkoy_750_ml_chashka_s_trubochkoy_i_kryshkoy_na_podarok_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5606/kruzhka_steklyannaya_s_kryshkoy_i_trubochkoy_750_ml_chashka_s_trubochkoy_i_kryshkoy_na_podarok_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5606/kruzhka_steklyannaya_s_kryshkoy_i_trubochkoy_750_ml_chashka_s_trubochkoy_i_kryshkoy_na_podarok_3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Стеклянная кружка с трубочкой и крышкой &mdash; это удобный и стильный аксессуар для повседневного использования. Она выполнена из прочного прозрачного стекла с приятным янтарным оттенком, имеет удобную ручку для комфортного удержания и герметичную крышку, которая предотвращает проливание. В комплекте предусмотрена многоразовая трубочка, что делает кружку практичным решением для холодных и горячих напитков. Такой вариант идеально подойдет для дома, офиса или в подарок, а современный дизайн добавит эстетики в каждое чаепитие или кофепитие. Основные характеристики стеклянной чашки с крышкой и трубочкой:  Высота: 18.5 см; Объем: 750 мл; Верхний диаметр: 9 см; Нижний диаметр: 6 см; Материал: стекло, бамбук (крышка).  Особенности стеклянной кружки с трубрчкой на подарок:  Изготовлена из прочного стекла; Удобная ручка для комфортного удержания; Герметичная крышка предотвращает проливание напитков; В комплекте многоразовая трубочка для удобного использования; Подходит для горячих и холодных напитков; Легко мыть и ухаживать за изделием; Стильный современный дизайн, который дополнит любую кухню.  Стеклянная кружка с крышкой и трубочкой &mdash; это не только удобный и практичный аксессуар для повседневного использования, но и стильный элемент вашей кухни. Она идеально подходит для тех, кто ценит комфорт, заботится об экологии и любит наслаждаться напитками с удовольствием.]]></description>
-<quantity_in_stock>16</quantity_in_stock>
-<vendorCode>HP-19-49</vendorCode>
-<param name="Материал">Стекло/Бамбук</param>
-<param name="Высота">18.5 см</param>
-<param name="Блюдце">нет</param>
-<param name="Назначение">Универсальное</param>
-<param name="Диаметр">9 см</param>
-<param name="Декоративное оформление">Без декора</param>
-<param name="Крышка">Есть</param>
-<param name="Количество в наборе">1</param>
-<param name="Ложечка">нет</param>
-<param name="Объем">750 мл</param>
-<param name="Ситечко">Нет</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Тематика декора, рисунка">Без декора</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Тип емкости">Кружка</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="2553-1S" available="true">
 <name>Декоративное блюдо 31*16*5 см белое с серебряным кантом 2553-1S</name>
 <price>429</price>
@@ -79549,6 +79517,38 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Подходит для мытья в посудомоечной машине">Нет</param>
 <param name="Наличие крышки">Нет</param>
 <param name="Форма">Круглая</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-19-49" available="true">
+<name>Кружка стеклянная с крышкой и трубочкой 750 (мл) HP-19-49</name>
+<price>299</price>
+<vendorprice>230</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>137</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5606/kruzhka_steklyannaya_s_kryshkoy_i_trubochkoy_750_ml_chashka_s_trubochkoy_i_kryshkoy_na_podarok.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5606/kruzhka_steklyannaya_s_kryshkoy_i_trubochkoy_750_ml_chashka_s_trubochkoy_i_kryshkoy_na_podarok_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5606/kruzhka_steklyannaya_s_kryshkoy_i_trubochkoy_750_ml_chashka_s_trubochkoy_i_kryshkoy_na_podarok_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5606/kruzhka_steklyannaya_s_kryshkoy_i_trubochkoy_750_ml_chashka_s_trubochkoy_i_kryshkoy_na_podarok_3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Стеклянная кружка с трубочкой и крышкой &mdash; это удобный и стильный аксессуар для повседневного использования. Она выполнена из прочного прозрачного стекла с приятным янтарным оттенком, имеет удобную ручку для комфортного удержания и герметичную крышку, которая предотвращает проливание. В комплекте предусмотрена многоразовая трубочка, что делает кружку практичным решением для холодных и горячих напитков. Такой вариант идеально подойдет для дома, офиса или в подарок, а современный дизайн добавит эстетики в каждое чаепитие или кофепитие. Основные характеристики стеклянной чашки с крышкой и трубочкой:  Высота: 18.5 см; Объем: 750 мл; Верхний диаметр: 9 см; Нижний диаметр: 6 см; Материал: стекло, бамбук (крышка).  Особенности стеклянной кружки с трубрчкой на подарок:  Изготовлена из прочного стекла; Удобная ручка для комфортного удержания; Герметичная крышка предотвращает проливание напитков; В комплекте многоразовая трубочка для удобного использования; Подходит для горячих и холодных напитков; Легко мыть и ухаживать за изделием; Стильный современный дизайн, который дополнит любую кухню.  Стеклянная кружка с крышкой и трубочкой &mdash; это не только удобный и практичный аксессуар для повседневного использования, но и стильный элемент вашей кухни. Она идеально подходит для тех, кто ценит комфорт, заботится об экологии и любит наслаждаться напитками с удовольствием.]]></description>
+<quantity_in_stock>15</quantity_in_stock>
+<vendorCode>HP-19-49</vendorCode>
+<param name="Материал">Стекло/Бамбук</param>
+<param name="Высота">18.5 см</param>
+<param name="Блюдце">нет</param>
+<param name="Назначение">Универсальное</param>
+<param name="Диаметр">9 см</param>
+<param name="Декоративное оформление">Без декора</param>
+<param name="Крышка">Есть</param>
+<param name="Количество в наборе">1</param>
+<param name="Ложечка">нет</param>
+<param name="Объем">750 мл</param>
+<param name="Ситечко">Нет</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Тематика декора, рисунка">Без декора</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Тип емкости">Кружка</param>
+<param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-34-1" available="true">
@@ -86667,47 +86667,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Подарочная упаковка">Нет</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="X10BL" available="true">
-<name>Утюжок для волос 1300 Вт стайлер воздушный Air Stasghtener, синий X10BL</name>
-<price>6959</price>
-<vendorprice>5156</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>23</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_9.jpg</picture>
-<vendor>Smartx</vendor>
-<description><![CDATA[Выпрямитель для волос Air Stasghtener - инновационное устройство, объединяющее функции фена и утюжка, позволяющее одновременно сушить и выравнивать волосы.   Характеристики утюжка для волос Air Stasghtener   размер 33х4х3.5 см; мощность 1300 Вт; длина пластин 10 см; ширина пластин 3.5 см; длина шнура питания 2.4 м; 5 температурных режимов; 2 режима скорости; холодный обдув; выбор сушки - влажные волосы или сухие.   В основе работы выпрямителя - технология, использующая воздушный поток, направленный под углом 45°, что создает оптимальное натяжение для гладкой укладки, минимизируя при этом повреждения и пересушивание прядей.  Выпрямитель позволяет работать как с мокрыми, так и с сухими волосами различных типов и дает возможность не только сушить локоны с одновременным выравниванием, но и освежить готовую укладку на сухих волосах.  Преимущества выпрямителя для волос   Быстрый нагрев: всего за 60 секунд утюжок готов к работе, что экономит ваше время. Эргономичный дизайн: удобно лежит в руке, не скользит и не вызывает усталости даже при длительном использовании. Swivel-шнур: вращается на 360°, не спутывается и обеспечивает свободу движений. Защита от перегрева: автоматически отключает прибор при достижении критической температуры, что обеспечивает безопасность использования.   Стайлер оснащен интеллектуальным датчиком контроля температуры, который автоматически регулирует температуру воздушного потока, предотвращая чрезмерное термическое воздействие на волосы. После выпрямления или создания локонов волосы будут блестеть и на ощупь станут более шелковистыми.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
-<vendorCode>X10BL</vendorCode>
-<param name="Гарантийный срок">3</param>
-<param name="Вес">1</param>
-<param name="Потребляемая мощность">1300</param>
-<param name="Длина сетевого шнура">2.4</param>
-<param name="Защита от перегрева">Да</param>
-<param name="Количество насадок">1</param>
-<param name="Количество режимов работы">2</param>
-<param name="Количество температурных режимов">5</param>
-<param name="Индикатор работы">Да</param>
-<param name="Насадка для выпрямления волос">Да</param>
-<param name="Индикатор нагрева">Нет</param>
-<param name="Тип питания">Сеть 220 В</param>
-<param name="Цвет корпуса">Синий</param>
-<param name="Петелька для подвешивания">Нет</param>
-<param name="Поворот шнура на 360 градусов">Да</param>
-<param name="Пластины для гофрирования">Нет</param>
-<param name="Терморегулятор">Да</param>
-<param name="Функция автоотключения">Да</param>
-<param name="Ширина пластин">35</param>
-<param name="Выбор типа волос">Нет</param>
-</offer>
 <offer id="HP-10-19" available="true">
 <name>Стеклянная декоративная ваза для цветов 30 см прозрачная ваза для интерьера 2.6 л HP-10-19</name>
 <price>1179</price>
@@ -88033,6 +87992,47 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет">Нержавеющая сталь</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="X10BL" available="true">
+<name>Утюжок для волос 1300 Вт стайлер воздушный Air Stasghtener, синий X10BL</name>
+<price>6959</price>
+<vendorprice>5156</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>23</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53025/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/3676/utyuzhok_dlya_volos_1300_vt_stayler_vozdushnyy_air_stasghtener_siniy_9.jpg</picture>
+<vendor>Smartx</vendor>
+<description><![CDATA[Выпрямитель для волос Air Stasghtener - инновационное устройство, объединяющее функции фена и утюжка, позволяющее одновременно сушить и выравнивать волосы.   Характеристики утюжка для волос Air Stasghtener   размер 33х4х3.5 см; мощность 1300 Вт; длина пластин 10 см; ширина пластин 3.5 см; длина шнура питания 2.4 м; 5 температурных режимов; 2 режима скорости; холодный обдув; выбор сушки - влажные волосы или сухие.   В основе работы выпрямителя - технология, использующая воздушный поток, направленный под углом 45°, что создает оптимальное натяжение для гладкой укладки, минимизируя при этом повреждения и пересушивание прядей.  Выпрямитель позволяет работать как с мокрыми, так и с сухими волосами различных типов и дает возможность не только сушить локоны с одновременным выравниванием, но и освежить готовую укладку на сухих волосах.  Преимущества выпрямителя для волос   Быстрый нагрев: всего за 60 секунд утюжок готов к работе, что экономит ваше время. Эргономичный дизайн: удобно лежит в руке, не скользит и не вызывает усталости даже при длительном использовании. Swivel-шнур: вращается на 360°, не спутывается и обеспечивает свободу движений. Защита от перегрева: автоматически отключает прибор при достижении критической температуры, что обеспечивает безопасность использования.   Стайлер оснащен интеллектуальным датчиком контроля температуры, который автоматически регулирует температуру воздушного потока, предотвращая чрезмерное термическое воздействие на волосы. После выпрямления или создания локонов волосы будут блестеть и на ощупь станут более шелковистыми.]]></description>
+<quantity_in_stock>8</quantity_in_stock>
+<vendorCode>X10BL</vendorCode>
+<param name="Гарантийный срок">3</param>
+<param name="Вес">1</param>
+<param name="Потребляемая мощность">1300</param>
+<param name="Длина сетевого шнура">2.4</param>
+<param name="Защита от перегрева">Да</param>
+<param name="Количество насадок">1</param>
+<param name="Количество режимов работы">2</param>
+<param name="Количество температурных режимов">5</param>
+<param name="Индикатор работы">Да</param>
+<param name="Насадка для выпрямления волос">Да</param>
+<param name="Индикатор нагрева">Нет</param>
+<param name="Тип питания">Сеть 220 В</param>
+<param name="Цвет корпуса">Синий</param>
+<param name="Петелька для подвешивания">Нет</param>
+<param name="Поворот шнура на 360 градусов">Да</param>
+<param name="Пластины для гофрирования">Нет</param>
+<param name="Терморегулятор">Да</param>
+<param name="Функция автоотключения">Да</param>
+<param name="Ширина пластин">35</param>
+<param name="Выбор типа волос">Нет</param>
 </offer>
 <offer id="HP-10-24" available="true">
 <name>Ваза стеклянная декоративная 19.5 см в скандинавском стиле прозрачная HP-10-24</name>
@@ -100909,25 +100909,6 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Материал">ПВХ</param>
 <param name="Размеры">90*38 см</param>
 </offer>
-<offer id="HP-42-9BR" available="true">
-<name>Кухонный силиконовый коврик с противоскользящей поверхностью 40×30 см Коричневый HP-42-9BR</name>
-<price>159</price>
-<vendorprice>112</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>51</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4945/kuhonnyy_silikonovyy_kovrik_s_antiskolzyashchey_poverhnostyu_40_30_sm.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4945/kuhonnyy_silikonovyy_kovrik_s_antiskolzyashchey_poverhnostyu_40_30_sm_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4945/kuhonnyy_silikonovyy_kovrik_s_antiskolzyashchey_poverhnostyu_40_30_sm_2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Кухонный силиконовый коврик с антискользящей поверхностью 40&times;30 см &mdash; практичный аксессуар для защиты столешницы и повышения удобства при готовке. Силиконовый материал легко моется и надежно фиксируется на любой поверхности, обеспечивая безопасность и комфорт в использовании. Основные характеристики кухонного силиконового коврика: &bull; размеры &mdash; 40&times;30 см; &bull; материал &mdash; высококачественный силикон; &bull; влагопоглощающие свойства &mdash; отсутствуют; &bull; назначение &mdash; защита кухонных поверхностей; Преимущества кухонного силиконового коврика: &bull; надежная защита столешницы &mdash; предотвращает разливы и пятна; &bull; силиконовый материал &mdash; прост в уходе и долговечен; &bull; антискользящая поверхность &mdash; безопасное использование на гладких столешницах; &bull; компактный размер &mdash; легко разместить в любой кухонной зоне; &bull; универсальность &mdash; подходит для посуды, техники и аксессуаров; Такой кухонный силиконовый коврик станет удобным и практичным дополнением вашей кухни, сочетая комфорт, гигиену и защиту рабочих поверхностей.]]></description>
-<quantity_in_stock>2</quantity_in_stock>
-<vendorCode>HP-42-9BR</vendorCode>
-<param name="Материал">Силикон</param>
-<param name="Ширина">30 см</param>
-<param name="Длина">40 см</param>
-<param name="Форма">Прямоугольная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-HK-7" available="true">
 <name>Столовый сервиз на 6 персон фарфоровый Palm</name>
 <url>https://lugi.com.ua/ru/stolovyj-serviz-na-6-person-farforovyj-palm/</url>
@@ -107371,6 +107352,25 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Материал мармита">Фарфор</param>
 <param name="Объем">1.2 л</param>
 <param name="Цвет">Белый</param>
+</offer>
+<offer id="HP-42-9BR" available="true">
+<name>Кухонный силиконовый коврик с противоскользящей поверхностью 40×30 см Коричневый HP-42-9BR</name>
+<price>159</price>
+<vendorprice>112</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>51</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4945/kuhonnyy_silikonovyy_kovrik_s_antiskolzyashchey_poverhnostyu_40_30_sm.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4945/kuhonnyy_silikonovyy_kovrik_s_antiskolzyashchey_poverhnostyu_40_30_sm_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4945/kuhonnyy_silikonovyy_kovrik_s_antiskolzyashchey_poverhnostyu_40_30_sm_2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Кухонный силиконовый коврик с антискользящей поверхностью 40&times;30 см &mdash; практичный аксессуар для защиты столешницы и повышения удобства при готовке. Силиконовый материал легко моется и надежно фиксируется на любой поверхности, обеспечивая безопасность и комфорт в использовании. Основные характеристики кухонного силиконового коврика: &bull; размеры &mdash; 40&times;30 см; &bull; материал &mdash; высококачественный силикон; &bull; влагопоглощающие свойства &mdash; отсутствуют; &bull; назначение &mdash; защита кухонных поверхностей; Преимущества кухонного силиконового коврика: &bull; надежная защита столешницы &mdash; предотвращает разливы и пятна; &bull; силиконовый материал &mdash; прост в уходе и долговечен; &bull; антискользящая поверхность &mdash; безопасное использование на гладких столешницах; &bull; компактный размер &mdash; легко разместить в любой кухонной зоне; &bull; универсальность &mdash; подходит для посуды, техники и аксессуаров; Такой кухонный силиконовый коврик станет удобным и практичным дополнением вашей кухни, сочетая комфорт, гигиену и защиту рабочих поверхностей.]]></description>
+<quantity_in_stock>1</quantity_in_stock>
+<vendorCode>HP-42-9BR</vendorCode>
+<param name="Материал">Силикон</param>
+<param name="Ширина">30 см</param>
+<param name="Длина">40 см</param>
+<param name="Форма">Прямоугольная</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-55-23BL" available="true">
 <name>Брелок для ключей Дональд Дак 4*6,5 см</name>
