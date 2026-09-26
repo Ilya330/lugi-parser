@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-25 21:10">
+<yml_catalog date="2026-09-26 02:52">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -4379,42 +4379,6 @@
 <param name="Тип управления">Механическое</param>
 <param name="Тип прибора">Универсальный измельчитель</param>
 </offer>
-<offer id="SK2304" available="true">
-<name>Йогуртница электрическая на 7 баночек по 180 (мл) аппарат для приготовления йогурта 20 Вт йогуртница с таймером для дома SK2304</name>
-<price>1279</price>
-<vendorprice>708</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>44</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5879/yogurtnitsa_elektricheskaya_na_7_banochek_po_180_ml_apparat_dlya_prigotovleniya_yogurta_20_vt_yogurtnitsa_s_taymerom_dlya_doma.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5879/yogurtnitsa_elektricheskaya_na_7_banochek_po_180_ml_apparat_dlya_prigotovleniya_yogurta_20_vt_yogurtnitsa_s_taymerom_dlya_doma_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5879/yogurtnitsa_elektricheskaya_na_7_banochek_po_180_ml_apparat_dlya_prigotovleniya_yogurta_20_vt_yogurtnitsa_s_taymerom_dlya_doma_2.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5879/yogurtnitsa_elektricheskaya_na_7_banochek_po_180_ml_apparat_dlya_prigotovleniya_yogurta_20_vt_yogurtnitsa_s_taymerom_dlya_doma_3.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5879/yogurtnitsa_elektricheskaya_na_7_banochek_po_180_ml_apparat_dlya_prigotovleniya_yogurta_20_vt_yogurtnitsa_s_taymerom_dlya_doma_4.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5879/yogurtnitsa_elektricheskaya_na_7_banochek_po_180_ml_apparat_dlya_prigotovleniya_yogurta_20_vt_yogurtnitsa_s_taymerom_dlya_doma_5.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5879/yogurtnitsa_elektricheskaya_na_7_banochek_po_180_ml_apparat_dlya_prigotovleniya_yogurta_20_vt_yogurtnitsa_s_taymerom_dlya_doma_6.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5879/yogurtnitsa_elektricheskaya_na_7_banochek_po_180_ml_apparat_dlya_prigotovleniya_yogurta_20_vt_yogurtnitsa_s_taymerom_dlya_doma_7.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5879/yogurtnitsa_elektricheskaya_na_7_banochek_po_180_ml_apparat_dlya_prigotovleniya_yogurta_20_vt_yogurtnitsa_s_taymerom_dlya_doma_8.png</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Йогуртница Sokany SK-2304 &mdash; это современное устройство, которое поможет легко приготовить домашний йогурт без добавок и консервантов. Просто залейте ингредиенты, установите время, и техника сама создаст идеальные условия для ферментации. Благодаря этой модели вы сможете ежедневно наслаждаться вкусным и полезным йогуртом, приготовленным своими руками.  Основные характеристики йогуртницы   Количество баночек: 7; Объем баночки: 180 мл; Размер:27.5&times;24.5&times;15 см; Мощность: 20 Вт; Напряжение: 220-240 В; Частота: 50/60 Гц.   Особенности   Оптимальный нагрев: обеспечивает стабильную температуру для равномерного созревания йогурта. Удобные баночки (по 180 мл): удобно порционировать и хранить готовый продукт. Простота ухода: все съёмные детали легко очищаются вручную, корпус достаточно протирать влажной салфеткой.   Йогуртница Sokany SK-2304 &mdash; это надёжный и практичный помощник для тех, кто заботится о здоровом питании. Она делает процесс приготовления простым, а результат &mdash; вкусным и натуральным. С её помощью вы сможете радовать себя и своих близких свежим йогуртом каждый день!]]></description>
-<quantity_in_stock>33</quantity_in_stock>
-<vendorCode>SK2304</vendorCode>
-<param name="Тип">Йогуртница</param>
-<param name="Высота">150</param>
-<param name="Гарантийный срок">3</param>
-<param name="Вес">1.98</param>
-<param name="Глубина">275</param>
-<param name="Потребляемая мощность">20</param>
-<param name="Дисплей">Нет</param>
-<param name="Количество емкостей">7</param>
-<param name="Ширина">245</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Объем емкости">180</param>
-<param name="Материал емкостей">стекло</param>
-<param name="Цвет корпуса">Белый</param>
-<param name="Подсветка дисплея">Нет</param>
-<param name="Общий объем">1260</param>
-<param name="Тип управления">Механическое</param>
-</offer>
 <offer id="JE204" available="true">
 <name>Фен стайлер для волос 2 в 1 Sokany JE204 1000 Вт</name>
 <price>1139</price>
@@ -4602,6 +4566,42 @@
 <param name="Диаметр под крышку">30 см</param>
 <param name="Толщина дна">5 мм</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="SK2304" available="true">
+<name>Йогуртница электрическая на 7 баночек по 180 (мл) аппарат для приготовления йогурта 20 Вт йогуртница с таймером для дома SK2304</name>
+<price>1279</price>
+<vendorprice>708</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>44</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5879/yogurtnitsa_elektricheskaya_na_7_banochek_po_180_ml_apparat_dlya_prigotovleniya_yogurta_20_vt_yogurtnitsa_s_taymerom_dlya_doma.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5879/yogurtnitsa_elektricheskaya_na_7_banochek_po_180_ml_apparat_dlya_prigotovleniya_yogurta_20_vt_yogurtnitsa_s_taymerom_dlya_doma_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5879/yogurtnitsa_elektricheskaya_na_7_banochek_po_180_ml_apparat_dlya_prigotovleniya_yogurta_20_vt_yogurtnitsa_s_taymerom_dlya_doma_2.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5879/yogurtnitsa_elektricheskaya_na_7_banochek_po_180_ml_apparat_dlya_prigotovleniya_yogurta_20_vt_yogurtnitsa_s_taymerom_dlya_doma_3.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5879/yogurtnitsa_elektricheskaya_na_7_banochek_po_180_ml_apparat_dlya_prigotovleniya_yogurta_20_vt_yogurtnitsa_s_taymerom_dlya_doma_4.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5879/yogurtnitsa_elektricheskaya_na_7_banochek_po_180_ml_apparat_dlya_prigotovleniya_yogurta_20_vt_yogurtnitsa_s_taymerom_dlya_doma_5.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5879/yogurtnitsa_elektricheskaya_na_7_banochek_po_180_ml_apparat_dlya_prigotovleniya_yogurta_20_vt_yogurtnitsa_s_taymerom_dlya_doma_6.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5879/yogurtnitsa_elektricheskaya_na_7_banochek_po_180_ml_apparat_dlya_prigotovleniya_yogurta_20_vt_yogurtnitsa_s_taymerom_dlya_doma_7.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5879/yogurtnitsa_elektricheskaya_na_7_banochek_po_180_ml_apparat_dlya_prigotovleniya_yogurta_20_vt_yogurtnitsa_s_taymerom_dlya_doma_8.png</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Йогуртница Sokany SK-2304 &mdash; это современное устройство, которое поможет легко приготовить домашний йогурт без добавок и консервантов. Просто залейте ингредиенты, установите время, и техника сама создаст идеальные условия для ферментации. Благодаря этой модели вы сможете ежедневно наслаждаться вкусным и полезным йогуртом, приготовленным своими руками.  Основные характеристики йогуртницы   Количество баночек: 7; Объем баночки: 180 мл; Размер:27.5&times;24.5&times;15 см; Мощность: 20 Вт; Напряжение: 220-240 В; Частота: 50/60 Гц.   Особенности   Оптимальный нагрев: обеспечивает стабильную температуру для равномерного созревания йогурта. Удобные баночки (по 180 мл): удобно порционировать и хранить готовый продукт. Простота ухода: все съёмные детали легко очищаются вручную, корпус достаточно протирать влажной салфеткой.   Йогуртница Sokany SK-2304 &mdash; это надёжный и практичный помощник для тех, кто заботится о здоровом питании. Она делает процесс приготовления простым, а результат &mdash; вкусным и натуральным. С её помощью вы сможете радовать себя и своих близких свежим йогуртом каждый день!]]></description>
+<quantity_in_stock>32</quantity_in_stock>
+<vendorCode>SK2304</vendorCode>
+<param name="Тип">Йогуртница</param>
+<param name="Высота">150</param>
+<param name="Гарантийный срок">3</param>
+<param name="Вес">1.98</param>
+<param name="Глубина">275</param>
+<param name="Потребляемая мощность">20</param>
+<param name="Дисплей">Нет</param>
+<param name="Количество емкостей">7</param>
+<param name="Ширина">245</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Объем емкости">180</param>
+<param name="Материал емкостей">стекло</param>
+<param name="Цвет корпуса">Белый</param>
+<param name="Подсветка дисплея">Нет</param>
+<param name="Общий объем">1260</param>
+<param name="Тип управления">Механическое</param>
 </offer>
 <offer id="HP-4-437CO" available="true">
 <name>Алюминиевый сотейник 4,3 л мраморный с антипригарным покрытием Ø 28 см бежевый MGC HP-4-437CO</name>
@@ -7981,43 +7981,6 @@
 <param name="Гарантия">3 мес</param>
 <param name="Потребляємая мощность">25 Вт</param>
 </offer>
-<offer id="HP-4-425B" available="true">
-<name>Алюминиевая сковорода 2,8 л мраморная с антипригарным покрытием Ø 28 см черная MGC HP-4-425B</name>
-<price>2359</price>
-<vendorprice>1084</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>138</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/011/HP-4-425B/HP-4-425B-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/011/HP-4-425B/HP-4-425B-2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/011/HP-4-425B/HP-4-425B-3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/011/HP-4-425B/HP-4-425B-4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/011/HP-4-425B/HP-4-425B-5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/011/HP-4-425B/HP-4-425B-6.jpg</picture>
-<vendor>MGC</vendor>
-<description><![CDATA[Антипригарное покрытие предотвращает пригорание пищи и легко очищается, она станет незаменимым помощником на вашей кухне. Прочный алюминиевый корпус обеспечивает отличную теплопроводность и готовит пищу равномерно и быстро. Отверстия для пара в крышке позволяют контролировать количество влаги в сковороде для достижения идеальных результатов приготовления. Она обеспечивает равномерное приготовление пищи без потери тепла.   Основные характеристики сковороды     Диаметр 28 см  Объем 2.8 л  Высота 5.5 см;  Толщина дна 5.5 мм.     Меры предосторожности    Перед первым использованием вымойте сковороду в теплой воде с мягким моющим средством и губкой и вытрите насухо. После полного высыхания протрите антипригарное покрытие небольшим количеством растительного масла.  Используйте силиконовые или деревянные столовые приборы, чтобы защитить поверхность от царапин. Категорически не рекомендуется использовать металлические ложки или лопатки.  Во избежание повреждений мойте сковороду после полного остывания. Не используйте жесткие губки, щетки, абразивные пасты, чистящие порошки и агрессивные вещества.      Сковорода подходит для использования на газовых, индукционных и электрических плитах. Она сочетает в себе высокую функциональность и стильный дизайн, что делает ее прекрасным дополнением к любой кухне.]]></description>
-<quantity_in_stock>11</quantity_in_stock>
-<vendorCode>HP-4-425B</vendorCode>
-<param name="Материал">Алюминий</param>
-<param name="Антипригарное покрытие">Есть</param>
-<param name="Верхний диаметр посуды">28 см</param>
-<param name="Вес">2 кг</param>
-<param name="Высота стенок">5.5 см</param>
-<param name="Количество ручек">1</param>
-<param name="Крышка">жаропрочное стекло</param>
-<param name="Количество в наборе">1</param>
-<param name="Крышка с отверстием для выхода пара">Да</param>
-<param name="Съемная ручка">Нет</param>
-<param name="Цвет">Черный</param>
-<param name="Индикатор нагрева">Нет</param>
-<param name="Тип посуды">Сковорода универсальная (классическая)</param>
-<param name="Состояние">Новое</param>
-<param name="Материал ручек">Бакелит</param>
-<param name="Подходит для индукционных плит">Да</param>
-<param name="Форма">Круглая</param>
-<param name="Толщина дна">5.5 мм</param>
-<param name="Гарантия">14 дней</param>
-<param name="Толщина стенки">5 мм</param>
-</offer>
 <offer id="HP-4-455W" available="true">
 <name>Алюминиевая кастрюля с керамическим антипригарным покрытием 7.7 л Ø 30 см белая MGC HP-4-455W</name>
 <price>3859</price>
@@ -8239,6 +8202,43 @@
 <param name="Гарантия">14 дней</param>
 <param name="Толщина стенки">5 мм</param>
 <param name="Многослойное дно">Да</param>
+</offer>
+<offer id="HP-4-425B" available="true">
+<name>Алюминиевая сковорода 2,8 л мраморная с антипригарным покрытием Ø 28 см черная MGC HP-4-425B</name>
+<price>2359</price>
+<vendorprice>1084</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>138</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/011/HP-4-425B/HP-4-425B-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/011/HP-4-425B/HP-4-425B-2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/011/HP-4-425B/HP-4-425B-3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/011/HP-4-425B/HP-4-425B-4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/011/HP-4-425B/HP-4-425B-5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/011/HP-4-425B/HP-4-425B-6.jpg</picture>
+<vendor>MGC</vendor>
+<description><![CDATA[Антипригарное покрытие предотвращает пригорание пищи и легко очищается, она станет незаменимым помощником на вашей кухне. Прочный алюминиевый корпус обеспечивает отличную теплопроводность и готовит пищу равномерно и быстро. Отверстия для пара в крышке позволяют контролировать количество влаги в сковороде для достижения идеальных результатов приготовления. Она обеспечивает равномерное приготовление пищи без потери тепла.   Основные характеристики сковороды     Диаметр 28 см  Объем 2.8 л  Высота 5.5 см;  Толщина дна 5.5 мм.     Меры предосторожности    Перед первым использованием вымойте сковороду в теплой воде с мягким моющим средством и губкой и вытрите насухо. После полного высыхания протрите антипригарное покрытие небольшим количеством растительного масла.  Используйте силиконовые или деревянные столовые приборы, чтобы защитить поверхность от царапин. Категорически не рекомендуется использовать металлические ложки или лопатки.  Во избежание повреждений мойте сковороду после полного остывания. Не используйте жесткие губки, щетки, абразивные пасты, чистящие порошки и агрессивные вещества.      Сковорода подходит для использования на газовых, индукционных и электрических плитах. Она сочетает в себе высокую функциональность и стильный дизайн, что делает ее прекрасным дополнением к любой кухне.]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<vendorCode>HP-4-425B</vendorCode>
+<param name="Материал">Алюминий</param>
+<param name="Антипригарное покрытие">Есть</param>
+<param name="Верхний диаметр посуды">28 см</param>
+<param name="Вес">2 кг</param>
+<param name="Высота стенок">5.5 см</param>
+<param name="Количество ручек">1</param>
+<param name="Крышка">жаропрочное стекло</param>
+<param name="Количество в наборе">1</param>
+<param name="Крышка с отверстием для выхода пара">Да</param>
+<param name="Съемная ручка">Нет</param>
+<param name="Цвет">Черный</param>
+<param name="Индикатор нагрева">Нет</param>
+<param name="Тип посуды">Сковорода универсальная (классическая)</param>
+<param name="Состояние">Новое</param>
+<param name="Материал ручек">Бакелит</param>
+<param name="Подходит для индукционных плит">Да</param>
+<param name="Форма">Круглая</param>
+<param name="Толщина дна">5.5 мм</param>
+<param name="Гарантия">14 дней</param>
+<param name="Толщина стенки">5 мм</param>
 </offer>
 <offer id="SK-08026" available="true">
 <name>Электрогриль прижимной с антипригарным покрытием 1500 Вт Sokany SK-08026</name>
@@ -11397,7 +11397,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_1.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Лампочка на аккумуляторах с откидной крышкой и встроенным отсеком для батарей — это эстетичное и функциональное решение для вашего дома, дачи, кемпинга или гаража. Она совмещает в себе дизайн классической лампы и современные технологии автономного освещения. Уникальный корпус с легким доступом к аккумуляторам делает обслуживание быстрым и удобным.  Характеристики лампочки   тип: аварийная лампочка со встроенным аккумулятором; встроенный отсек для двух аккумуляторов; высота лампочки 16 см; диаметр 7 см; тип цоколя E27; мощность 15/20 Вт; напряжение 85-265 В; время работы 3-4 часа; время зарядки 4 часа; частота 50/60 Гц; корпус: ABS-пластик с откидной панелью для замены батарей; цвет: белый глянец.   Преимущества электролампочки   Быстрый доступ к аккумуляторам — удобная крышка для замены батарей за секунды. Работает при отключении света — автономная система освещения на случай ЧП. Универсальное применение — подходит для любого помещения и уличного освещения.   Эта электролампочка с аккумулятором станет вашим верным помощником в ситуациях, когда внезапно отключается свет. Незаменима для дачников, туристов, жителей с нестабильным электроснабжением и всех, кто ценит автономность и комфорт.  Сделайте свой дом независимым от сети — добавьте в корзину аварийную лампочку на аккумуляторах уже сегодня и будьте готовы к любой непредвиденной ситуации.]]></description>
-<quantity_in_stock>3849</quantity_in_stock>
+<quantity_in_stock>3846</quantity_in_stock>
 <vendorCode>HP-5-31</vendorCode>
 <param name="Мощность">15 / 20 Вт</param>
 <param name="Диаметр">7</param>
@@ -12131,7 +12131,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/129/USB100L10MWY-1%282%29.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Гирлянда USB роса идеально подходит для окон, дверей, стен, картин, елок, фотозоны. Гирлянда оснащена 100 яркими светодиодами, которые обеспечивают превосходное освещение.  Основные характеристики гирлянды роса   гирлянда роса 10 метров; 100 led светодиодов; класс защиты IP44.   Особенностью этой гирлянды является ее питание от usb, что обеспечивает максимальную мобильность и удобство в эксплуатации. Новогодняя гирлянда Роса - это не только декоративный элемент, но и практичный инструмент для создания особого атмосферного света в вашем доме или на мероприятии любого уровня.  Купить гирлянду капли росы 10 метров можно с доставкой по всей Украине. Гирлянда подлежит возврату только в том случае, когда ее исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>985</quantity_in_stock>
+<quantity_in_stock>982</quantity_in_stock>
 <vendorCode>USB100L10MWY</vendorCode>
 <param name="Количество светодиодов">100</param>
 <param name="Длина">10 м</param>
@@ -12948,7 +12948,7 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <picture>https://feed.lugi.com.ua/image/catalog/0110/3PCS/4.jpg</picture>
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/53723/4063/nabor_misok_iz_nerzhaveyushchey_stali_s_kryshkami_i_terkami_salatniki_iz_nerzhaveyki_3_shtuki_2_5_l_2_l_1_5_l_4.jpg</picture>
 <description><![CDATA[Этот многофункциональный набор из трех мисок из нержавеющей стали с крышками и терками разного объема (2,5 л, 2 л, 1,5 л) станет незаменимым помощником на кухне. Он сочетает в себе удобство, практичность и долговечность, позволяя готовить, хранить и подавать блюда с максимальным комфортом.  Основные характеристики:   Количество предметов: 3 миски + 3 крышки + 3 терки; Объем мисок: 2.5 л / 2 л / 1.5 л; Материал мисок: нержавеющая сталь; Материал терок: нержавеющая сталь; Материал крышек: пластик; Верхний диаметр мисок: 16 см / 18 см / 20.5 см; Нижний диаметр: 8 см / 9 см / 10 см; Высота: 10 см / 11 см / 11.5 см.   Преимущества набора:    Высокое качество материалов – миски изготовлены из прочной нержавеющей стали, устойчивой к коррозии, запахам и пятнам.  Герметичные крышки – предотвращают попадание воздуха и сохраняют свежесть продуктов на длительное время.  Функциональные терки – в крышке самой большой чаши предусмотрено съемное отверстие, в которое можно вставить одну из трех сменных терок для быстрого измельчения продуктов прямо в миску.  Компактность и удобство хранения – миски вкладываются друг в друга, занимая минимум места в шкафу.  Универсальное применение – подходят для замешивания теста, приготовления салатов, хранения продуктов, а также подачи блюд на стол.  Простота ухода – миски можно мыть в посудомоечной машине, но крышки и терки рекомендуется мыть вручную, чтобы избежать деформации.   Этот набор станет отличным выбором как для домашнего использования, так и для профессиональной кухни. Он обеспечит удобство и скорость приготовления блюд, позволяя экономить время и силы.]]></description>
-<quantity_in_stock>675</quantity_in_stock>
+<quantity_in_stock>674</quantity_in_stock>
 <vendorCode>LG-02/3PCS</vendorCode>
 <param name="Материал миски">Нержавеющая сталь</param>
 <param name="Использование в микроволновке">Нет</param>
@@ -20260,29 +20260,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Количество в наборе">1</param>
 <param name="Длина">40</param>
 </offer>
-<offer id="LG-01/5PCS" available="true">
-<name>Набор мисок из нержавеющей стали 5 штук с крышками и терками 24/22/16/18/20.5 см LG-01/5PCS</name>
-<price>2239</price>
-<vendorprice>1782</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>131</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0110/5PCS/1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0110/5PCS/2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0110/5PCS/3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53723/4064/nabor_misok_iz_nerzhaveyushchey_stali_5_shtuk_s_kryshkami_i_terkami_salatniki_iz_nerzhaveyki_5_4_2_5_2_1_5_l_3.jpg</picture>
-<description><![CDATA[Этот многофункциональный набор из трех мисок из нержавеющей стали с крышками и терками разного объема (5 л, 4 л, 2.5 л, 2 л, 1.5 л) станет незаменимым помощником на кухне. Он сочетает в себе удобство, практичность и долговечность, позволяя готовить, хранить и подавать блюда с максимальным комфортом.  Основные характеристики:   Количество предметов: 5 мисок + 5 крышек + 3 терки; Объем мисок: 5 л / 4 л / 2.5 л / 2 л / 1.5 л; Материал мисок: нержавеющая сталь; Материал терок: нержавеющая сталь; Материал крышек: прочный пластик; Верхний диаметр мисок: 24 см / 22см / 16 см / 18 см / 20.5 см; Нижний диаметр: 12.5 см / 12 см / 8 см / 9 см / 10 см; Высота:    10 см / 11 см / 11.5 см / 12.5 см / 13 см.   Преимущества набора:    Высокое качество материалов &ndash; миски изготовлены из прочной нержавеющей стали, устойчивой к коррозии, запахам и пятнам.  Герметичные крышки &ndash; предотвращают попадание воздуха и сохраняют свежесть продуктов на длительное время.  Функциональные терки &ndash; в крышке самой большой чаши предусмотрено съемное отверстие, в которое можно вставить одну из трех сменных терок для быстрого измельчения продуктов прямо в миску.  Компактность и удобство хранения &ndash; миски вкладываются друг в друга, занимая минимум места в шкафу.  Универсальное применение &ndash; подходят для замешивания теста, приготовления салатов, хранения продуктов, а также подачи блюд на стол.  Простота ухода &ndash; миски можно мыть в посудомоечной машине, но крышки и терки рекомендуется мыть вручную, чтобы избежать деформации.   Этот набор станет отличным выбором как для домашнего использования, так и для профессиональной кухни. Он обеспечит удобство и скорость приготовления блюд, позволяя экономить время и силы.]]></description>
-<quantity_in_stock>211</quantity_in_stock>
-<vendorCode>LG-01/5PCS</vendorCode>
-<param name="Материал миски">Нержавеющая сталь</param>
-<param name="Использование в микроволновке">Нет</param>
-<param name="Материал крышки">Пластик</param>
-<param name="Количество в наборе">5</param>
-<param name="Использование в духовке">Нет</param>
-<param name="Хранение в холодильнике">Да</param>
-<param name="Цвет">Хром</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-1351" available="true">
 <name>Бутылка для масла с дозатором 550 мл стеклянная бутылка для оливкового и подсолнечного масла HP-1351</name>
 <price>259</price>
@@ -20311,6 +20288,29 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет">Зелёный</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Форма">Цилиндрическая</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="LG-01/5PCS" available="true">
+<name>Набор мисок из нержавеющей стали 5 штук с крышками и терками 24/22/16/18/20.5 см LG-01/5PCS</name>
+<price>2239</price>
+<vendorprice>1782</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>131</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0110/5PCS/1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0110/5PCS/2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0110/5PCS/3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53723/4064/nabor_misok_iz_nerzhaveyushchey_stali_5_shtuk_s_kryshkami_i_terkami_salatniki_iz_nerzhaveyki_5_4_2_5_2_1_5_l_3.jpg</picture>
+<description><![CDATA[Этот многофункциональный набор из трех мисок из нержавеющей стали с крышками и терками разного объема (5 л, 4 л, 2.5 л, 2 л, 1.5 л) станет незаменимым помощником на кухне. Он сочетает в себе удобство, практичность и долговечность, позволяя готовить, хранить и подавать блюда с максимальным комфортом.  Основные характеристики:   Количество предметов: 5 мисок + 5 крышек + 3 терки; Объем мисок: 5 л / 4 л / 2.5 л / 2 л / 1.5 л; Материал мисок: нержавеющая сталь; Материал терок: нержавеющая сталь; Материал крышек: прочный пластик; Верхний диаметр мисок: 24 см / 22см / 16 см / 18 см / 20.5 см; Нижний диаметр: 12.5 см / 12 см / 8 см / 9 см / 10 см; Высота:    10 см / 11 см / 11.5 см / 12.5 см / 13 см.   Преимущества набора:    Высокое качество материалов &ndash; миски изготовлены из прочной нержавеющей стали, устойчивой к коррозии, запахам и пятнам.  Герметичные крышки &ndash; предотвращают попадание воздуха и сохраняют свежесть продуктов на длительное время.  Функциональные терки &ndash; в крышке самой большой чаши предусмотрено съемное отверстие, в которое можно вставить одну из трех сменных терок для быстрого измельчения продуктов прямо в миску.  Компактность и удобство хранения &ndash; миски вкладываются друг в друга, занимая минимум места в шкафу.  Универсальное применение &ndash; подходят для замешивания теста, приготовления салатов, хранения продуктов, а также подачи блюд на стол.  Простота ухода &ndash; миски можно мыть в посудомоечной машине, но крышки и терки рекомендуется мыть вручную, чтобы избежать деформации.   Этот набор станет отличным выбором как для домашнего использования, так и для профессиональной кухни. Он обеспечит удобство и скорость приготовления блюд, позволяя экономить время и силы.]]></description>
+<quantity_in_stock>210</quantity_in_stock>
+<vendorCode>LG-01/5PCS</vendorCode>
+<param name="Материал миски">Нержавеющая сталь</param>
+<param name="Использование в микроволновке">Нет</param>
+<param name="Материал крышки">Пластик</param>
+<param name="Количество в наборе">5</param>
+<param name="Использование в духовке">Нет</param>
+<param name="Хранение в холодильнике">Да</param>
+<param name="Цвет">Хром</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="CF500L50MWW" available="true">
@@ -29270,25 +29270,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет">Розовый</param>
 <param name="Состояние">Новое</param>
 </offer>
-<offer id="HP-42-82" available="true">
-<name>Коврик диатомитовый 58*38 см с леопардовым принтом Yiwu HP-42-82</name>
-<price>199</price>
-<vendorprice>128</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>50</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-42-82/HP-42-82_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7559/kovrik_diatomitovyy_58_38_sm_s_leopardovym_printom_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-42-82/HP-42-82_2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Коврик из диатомита с леопардовым принтом сочетает в себе практичность, комфорт и современный дизайн. Поверхность с анималистическим узором, имитирующим окрас леопарда, гармонично дополняет интерьер прихожей, спальни, гардеробной, кухни или других помещений. Основа из диатомита быстро впитывает влагу и высыхает, помогая поддерживать пол сухим и чистым. Коврик не накапливает пыль и мелкий мусор, легко очищается и подходит для ежедневного использования. Размер 58 × 38 см обеспечивает удобное размещение в различных помещениях. Преимущества  Изготовлен из диатомита. Быстро впитывает влагу и высыхает. Леопардовый принт, имитирующий окрас леопарда. Помогает поддерживать пол сухим и чистым. Не накапливает пыль, волосы и мелкий мусор. Легко очищается влажной тканью или водой. Подходит для прихожей, спальни, гардеробной, кухни и других помещений. Предназначен для ежедневного использования.  Характеристики  Тип: влагопоглощающий коврик. Материал: диатомит. Форма: прямоугольная. Размер: 58×38 см. Вес: 400 г.  Правила ухода  Регулярно очищать влажной тряпкой или промывать под проточной водой. После очистки оставлять до полного высыхания. Не использовать абразивные средства и агрессивные химические вещества. Не сворачивать во влажном состоянии и не сушить возле открытых источников тепла.]]></description>
-<quantity_in_stock>123</quantity_in_stock>
-<vendorCode>HP-42-82</vendorCode>
-<param name="Материал">Диатомит</param>
-<param name="Ширина">38</param>
-<param name="Количество в наборе">1</param>
-<param name="Длина">58</param>
-<param name="Форма">Прямоугольная</param>
-</offer>
 <offer id="HP-19-11-G" available="true">
 <name>Корзина сервировочная 21×11.5×5.5 см для подачи картофеля фри и снеков с ручкой Золотая HP-19-11-G</name>
 <price>519</price>
@@ -29382,6 +29363,25 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Тип ткани">Хлопок</param>
 <param name="Цвет">Бежевый</param>
 <param name="Состояние">Новое</param>
+<param name="Форма">Прямоугольная</param>
+</offer>
+<offer id="HP-42-82" available="true">
+<name>Коврик диатомитовый 58*38 см с леопардовым принтом Yiwu HP-42-82</name>
+<price>199</price>
+<vendorprice>128</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>50</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-42-82/HP-42-82_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7559/kovrik_diatomitovyy_58_38_sm_s_leopardovym_printom_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-42-82/HP-42-82_2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Коврик из диатомита с леопардовым принтом сочетает в себе практичность, комфорт и современный дизайн. Поверхность с анималистическим узором, имитирующим окрас леопарда, гармонично дополняет интерьер прихожей, спальни, гардеробной, кухни или других помещений. Основа из диатомита быстро впитывает влагу и высыхает, помогая поддерживать пол сухим и чистым. Коврик не накапливает пыль и мелкий мусор, легко очищается и подходит для ежедневного использования. Размер 58 × 38 см обеспечивает удобное размещение в различных помещениях. Преимущества  Изготовлен из диатомита. Быстро впитывает влагу и высыхает. Леопардовый принт, имитирующий окрас леопарда. Помогает поддерживать пол сухим и чистым. Не накапливает пыль, волосы и мелкий мусор. Легко очищается влажной тканью или водой. Подходит для прихожей, спальни, гардеробной, кухни и других помещений. Предназначен для ежедневного использования.  Характеристики  Тип: влагопоглощающий коврик. Материал: диатомит. Форма: прямоугольная. Размер: 58×38 см. Вес: 400 г.  Правила ухода  Регулярно очищать влажной тряпкой или промывать под проточной водой. После очистки оставлять до полного высыхания. Не использовать абразивные средства и агрессивные химические вещества. Не сворачивать во влажном состоянии и не сушить возле открытых источников тепла.]]></description>
+<quantity_in_stock>122</quantity_in_stock>
+<vendorCode>HP-42-82</vendorCode>
+<param name="Материал">Диатомит</param>
+<param name="Ширина">38</param>
+<param name="Количество в наборе">1</param>
+<param name="Длина">58</param>
 <param name="Форма">Прямоугольная</param>
 </offer>
 <offer id="HP34540L" available="true">
@@ -48685,30 +48685,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Форма">Фигурная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-8-45" available="true">
-<name>Половник металлический кухонный 36,5 см из нержавейки с деревянной ручкой HP-8-45</name>
-<price>509</price>
-<vendorprice>390</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>87</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona_4.jpg</picture>
-<vendor>Ding Lanfang</vendor>
-<description><![CDATA[Половник кухонный &ndash; незаменимый инструмент для сервировки супов, борщей, бульонов и других жидких блюд. Благодаря глубокой чаше и удлинённой ручке он позволяет легко и аккуратно наливать жидкости без риска проливания и ожогов.  Материал рабочей части &ndash; пищевая нержавеющая сталь. Она устойчива к коррозии, не впитывает запахи и легко моется даже после интенсивного использования. Ручка изготовлена из натурального дерева, придающего эргономику и эстетику, не нагревается во время использования и приятна на ощупь. Благодаря отверстию на конце ручки половник удобно хранить в подвешенном виде.  Основные характеристики половника:   Длина:       27 см; Материал рабочей части: нержавеющая сталь; Материал ручки: дерево.   Половник станет незаменимым помощником на вашей кухне &mdash; будь то повседневная готовка или подача первых блюд на праздничный стол. Его прочность, удобство и эстетичный внешний вид делают его удачным выбором как для домашнего, так и для профессионального использования.]]></description>
-<quantity_in_stock>58</quantity_in_stock>
-<vendorCode>HP-8-45</vendorCode>
-<param name="Тип">Половник</param>
-<param name="Материал основной части">Нержавеющая сталь</param>
-<param name="Количество в наборе">1</param>
-<param name="Материал ручки">дерево</param>
-<param name="Цвет">Коричневый</param>
-<param name="Длина">27 см</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-3Y-4B" available="true">
 <name>Часы настенные диаметр 10 см круглые HP-3Y-4B</name>
 <price>349</price>
@@ -49209,6 +49185,30 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Поверхность">Глянцевая</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Упаковка">Блистер</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-8-45" available="true">
+<name>Половник металлический кухонный 36,5 см из нержавейки с деревянной ручкой HP-8-45</name>
+<price>509</price>
+<vendorprice>390</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>87</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona_4.jpg</picture>
+<vendor>Ding Lanfang</vendor>
+<description><![CDATA[Половник кухонный &ndash; незаменимый инструмент для сервировки супов, борщей, бульонов и других жидких блюд. Благодаря глубокой чаше и удлинённой ручке он позволяет легко и аккуратно наливать жидкости без риска проливания и ожогов.  Материал рабочей части &ndash; пищевая нержавеющая сталь. Она устойчива к коррозии, не впитывает запахи и легко моется даже после интенсивного использования. Ручка изготовлена из натурального дерева, придающего эргономику и эстетику, не нагревается во время использования и приятна на ощупь. Благодаря отверстию на конце ручки половник удобно хранить в подвешенном виде.  Основные характеристики половника:   Длина:       27 см; Материал рабочей части: нержавеющая сталь; Материал ручки: дерево.   Половник станет незаменимым помощником на вашей кухне &mdash; будь то повседневная готовка или подача первых блюд на праздничный стол. Его прочность, удобство и эстетичный внешний вид делают его удачным выбором как для домашнего, так и для профессионального использования.]]></description>
+<quantity_in_stock>57</quantity_in_stock>
+<vendorCode>HP-8-45</vendorCode>
+<param name="Тип">Половник</param>
+<param name="Материал основной части">Нержавеющая сталь</param>
+<param name="Количество в наборе">1</param>
+<param name="Материал ручки">дерево</param>
+<param name="Цвет">Коричневый</param>
+<param name="Длина">27 см</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-3Y-4S" available="true">
@@ -50498,27 +50498,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Пол">Унисекс</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="BQ-19" available="true">
-<name>Набор шампуров 6 штук из нержавеющей стали 55x1см BQ-19</name>
-<price>179</price>
-<vendorprice>132</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>5</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6977/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_55x1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6977/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_55x1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6977/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_55x1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6977/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_55x1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya_3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Набор шампуров из нержавеющей стали (6 штук) подходит для приготовления мяса, птицы, овощей и других блюд на открытом огне или мангале. Длина 55 см позволяет удобно размещать продукты над жаром, обеспечивая достаточное расстояние для комфортного приготовления. Комплект из 6 шампуров дает возможность готовить несколько порций одновременно.  Шампуры изготовлены из нержавеющей стали, которая выдерживает высокие температуры и подходит для регулярного использования. Материал устойчив к влаге, не поддается коррозии и сохраняет форму во время эксплуатации. Ширина 1 см обеспечивает прочность конструкции и надежную фиксацию продуктов во время жарки.  Форма шампуров позволяет равномерно размещать ингредиенты и удобно переворачивать их в процессе приготовления. Подходят для использования с мангалами, грилями и другими устройствами для приготовления на углях. Практичный вариант для пикников, дачи и отдыха на природе.   Характеристики:    Тип: шампури для мангала Количество в наборе: 6 шт Материал: нержавеющая сталь Длина: 55 см Ширина: 1 см Толщина: 1 мм]]></description>
-<quantity_in_stock>54</quantity_in_stock>
-<vendorCode>BQ-19</vendorCode>
-<param name="Тип">Набор шампуров</param>
-<param name="Материал">Нержавеющая сталь</param>
-<param name="Количество предметов в наборе">6</param>
-<param name="Длина">55</param>
-<param name="Состояние">Новое</param>
-<param name="Толщина материала">1</param>
-</offer>
 <offer id="HP-34-107" available="true">
 <name>Кастрюля из боросиликатного стекла 2.5 л диаметр 20 см кухонная посуда стеклянная для приготовления блюд HP-34-107</name>
 <price>929</price>
@@ -51007,6 +50986,27 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Тип емкости">Чашка</param>
 <param name="Подарочная упаковка">Да</param>
 <param name="Состояние">Новое</param>
+</offer>
+<offer id="BQ-19" available="true">
+<name>Набор шампуров 6 штук из нержавеющей стали 55x1см BQ-19</name>
+<price>179</price>
+<vendorprice>132</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6977/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_55x1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6977/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_55x1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6977/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_55x1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6977/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_55x1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya_3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Набор шампуров из нержавеющей стали (6 штук) подходит для приготовления мяса, птицы, овощей и других блюд на открытом огне или мангале. Длина 55 см позволяет удобно размещать продукты над жаром, обеспечивая достаточное расстояние для комфортного приготовления. Комплект из 6 шампуров дает возможность готовить несколько порций одновременно.  Шампуры изготовлены из нержавеющей стали, которая выдерживает высокие температуры и подходит для регулярного использования. Материал устойчив к влаге, не поддается коррозии и сохраняет форму во время эксплуатации. Ширина 1 см обеспечивает прочность конструкции и надежную фиксацию продуктов во время жарки.  Форма шампуров позволяет равномерно размещать ингредиенты и удобно переворачивать их в процессе приготовления. Подходят для использования с мангалами, грилями и другими устройствами для приготовления на углях. Практичный вариант для пикников, дачи и отдыха на природе.   Характеристики:    Тип: шампури для мангала Количество в наборе: 6 шт Материал: нержавеющая сталь Длина: 55 см Ширина: 1 см Толщина: 1 мм]]></description>
+<quantity_in_stock>53</quantity_in_stock>
+<vendorCode>BQ-19</vendorCode>
+<param name="Тип">Набор шампуров</param>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Количество предметов в наборе">6</param>
+<param name="Длина">55</param>
+<param name="Состояние">Новое</param>
+<param name="Толщина материала">1</param>
 </offer>
 <offer id="501-207-C-720BL" available="true">
 <name>Полотенце для кухни 25×50 см из микрофибры голубой Colorful Home 501-207-C-720BL</name>
@@ -76115,30 +76115,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Тип прибора">Универсальная машинка для стрижки</param>
 <param name="Тип элементов питания">Li-Ion</param>
 </offer>
-<offer id="HP-8-47" available="true">
-<name>Картофелемялка для пюре 35см толкушка нержавейка деревянная ручка HP-8-47</name>
-<price>469</price>
-<vendorprice>361</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>87</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0../HP-8-47/HP-8-47_2%20%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0../HP-8-47/HP-8-47_1%20%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0../HP-8-47/HP-8-47_3%20%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0../HP-8-47/HP-8-47_5%20%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0../HP-8-47/HP-8-47_4%20%281%29.jpg</picture>
-<vendor>Ding Lanfang</vendor>
-<description><![CDATA[Толкушка для приготовления пюре — это незаменимый помощник на кухне для быстрого и комфортного измельчения картофеля, моркови, кабачков, тыквы и других овощей до однородной консистенции. Рабочая часть изделия выполнена из качественной пищевой нержавеющей стали, которая отличается высокой прочностью, устойчивостью к деформациям, коррозии и воздействию высоких температур. Благодаря продуманной конструкции инструмент эффективно разминает овощи, не царапая и не повреждая поверхность посуды, обеспечивая при этом идеально гладкое пюре. Деревянная ручка эргономичной формы обеспечивает удобный захват, не скользит в руке и остаётся прохладной даже при интенсивной работе, что делает процесс приготовления безопасным и приятным. Особенности картофелемялки:  Прочная рабочая часть из нержавеющей стали — обеспечивает долговечность и эффективное измельчение овощей; Деревянная ручка — приятна на ощупь, не нагревается и надёжно лежит в руке; Безопасность для посуды — не царапает эмалированные и антипригарные покрытия; Универсальность применения — подходит для приготовления пюре из различных овощей.  Характеристики толкушки, кухонных инструментов и аксессуаров:  Тип: Картофелемялка; Длина: 35 см; Ширина (диаметр решетки): 9 см; Материал рабочей части: нержавеющая сталь; Материал ручки: дерево; Цвет: Коричневый; Количество в наборе: 1 шт.; Подходит для мытья в посудомоечной машине: Да; Гарантия: 14 дней.  Картофелемялка с деревянной ручкой станет надёжным и долговечным помощником на любой кухне. Она значительно упростит процесс приготовления ваших любимых блюд, сделает готовку более комфортной и быстрой. После использования инструмент легко моется вручную или в посудомоечной машине.]]></description>
-<quantity_in_stock>18</quantity_in_stock>
-<vendorCode>HP-8-47</vendorCode>
-<param name="Тип">Картофелемялка</param>
-<param name="Ширина">9</param>
-<param name="Количество в наборе">1</param>
-<param name="Материал ручки">дерево</param>
-<param name="Цвет">Коричневый</param>
-<param name="Длина">35</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="C35W300450Y" available="true">
 <name>Кухонная разделочная доска деревянная 30×45 см прямоугольная Lugi C35W300450Y</name>
 <price>1249</price>
@@ -77284,6 +77260,30 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет">Прозрачный</param>
 <param name="Глубина подсвечника">30 см</param>
 <param name="Состояние">Новое</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-8-47" available="true">
+<name>Картофелемялка для пюре 35см толкушка нержавейка деревянная ручка HP-8-47</name>
+<price>469</price>
+<vendorprice>361</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>87</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0../HP-8-47/HP-8-47_2%20%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0../HP-8-47/HP-8-47_1%20%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0../HP-8-47/HP-8-47_3%20%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0../HP-8-47/HP-8-47_5%20%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0../HP-8-47/HP-8-47_4%20%281%29.jpg</picture>
+<vendor>Ding Lanfang</vendor>
+<description><![CDATA[Толкушка для приготовления пюре — это незаменимый помощник на кухне для быстрого и комфортного измельчения картофеля, моркови, кабачков, тыквы и других овощей до однородной консистенции. Рабочая часть изделия выполнена из качественной пищевой нержавеющей стали, которая отличается высокой прочностью, устойчивостью к деформациям, коррозии и воздействию высоких температур. Благодаря продуманной конструкции инструмент эффективно разминает овощи, не царапая и не повреждая поверхность посуды, обеспечивая при этом идеально гладкое пюре. Деревянная ручка эргономичной формы обеспечивает удобный захват, не скользит в руке и остаётся прохладной даже при интенсивной работе, что делает процесс приготовления безопасным и приятным. Особенности картофелемялки:  Прочная рабочая часть из нержавеющей стали — обеспечивает долговечность и эффективное измельчение овощей; Деревянная ручка — приятна на ощупь, не нагревается и надёжно лежит в руке; Безопасность для посуды — не царапает эмалированные и антипригарные покрытия; Универсальность применения — подходит для приготовления пюре из различных овощей.  Характеристики толкушки, кухонных инструментов и аксессуаров:  Тип: Картофелемялка; Длина: 35 см; Ширина (диаметр решетки): 9 см; Материал рабочей части: нержавеющая сталь; Материал ручки: дерево; Цвет: Коричневый; Количество в наборе: 1 шт.; Подходит для мытья в посудомоечной машине: Да; Гарантия: 14 дней.  Картофелемялка с деревянной ручкой станет надёжным и долговечным помощником на любой кухне. Она значительно упростит процесс приготовления ваших любимых блюд, сделает готовку более комфортной и быстрой. После использования инструмент легко моется вручную или в посудомоечной машине.]]></description>
+<quantity_in_stock>17</quantity_in_stock>
+<vendorCode>HP-8-47</vendorCode>
+<param name="Тип">Картофелемялка</param>
+<param name="Ширина">9</param>
+<param name="Количество в наборе">1</param>
+<param name="Материал ручки">дерево</param>
+<param name="Цвет">Коричневый</param>
+<param name="Длина">35</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-46-5" available="true">
@@ -87169,33 +87169,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет корпуса">Белый</param>
 <param name="Форма">Прямоугольная</param>
 </offer>
-<offer id="ML-77A-13" available="true">
-<name>Мармитница прямоугольная на подставке с подогревом 35.5х19х15.5 см ML-77A-13</name>
-<price>1819</price>
-<vendorprice>1391</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>72</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../36%D0%9CBW/ML-77A-13/ML-77A-13_3-600x600.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6908/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_35_5h19h15_5_sm_marmit_nastolnyy_dlya_pervyh_blyud_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6908/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_35_5h19h15_5_sm_marmit_nastolnyy_dlya_pervyh_blyud_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6908/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_35_5h19h15_5_sm_marmit_nastolnyy_dlya_pervyh_blyud_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6908/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_35_5h19h15_5_sm_marmit_nastolnyy_dlya_pervyh_blyud_5.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Мармитница имеет прямоугольную форму из белого фарфора. По верхнему краю расположена золотая отделка, которая подчеркивает контур и добавляет завершенности. Конструкция установлена на металлической подставке золотого цвета, что обеспечивает устойчивость и позволяет использовать свечи или горелки для подогрева.  Основной материал &ndash; гладкий белый фарфор с мраморным узором, дополнен золотым ободком по краю. Дизайн сдержанный и симметричный, без избыточного декора, что делает изделие универсальным для различных стилей сервировки. Стеклянная крышка прозрачная, с металлической ручкой золотого цвета, которая гармонично сочетается с подставкой и отделкой.  Мармитница предназначена для подачи горячих блюд с поддержкой их температуры. Металлическая подставка позволяет разместить подогревательные элементы, а стеклянная крышка сохраняет тепло и аромат, при этом позволяя видеть содержимое. Фарфор устойчив к высоким температурам и легко очищается после использования, что делает изделие практичным в ежедневном применении и во время праздничных событий.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
-<vendorCode>ML-77A-13</vendorCode>
-<param name="Материал">Керамика</param>
-<param name="Высота">15.5</param>
-<param name="Вид оборудования">Мармит</param>
-<param name="Назначение">Для первых блюд</param>
-<param name="Количество емкостей">1</param>
-<param name="Ширина">19</param>
-<param name="Расположение">Настольное</param>
-<param name="Тип крышки">Съемная</param>
-<param name="Длина">35.5</param>
-<param name="Форм-фактор">Переносной</param>
-<param name="Форма">Прямоугольная</param>
-</offer>
 <offer id="HNG-112-11" available="true">
 <name>Мармитница фарфоровая 1 л на подставке с подогревом 31х16х11 см HNG-112-11</name>
 <price>1489</price>
@@ -88716,6 +88689,33 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Расположение">Настольное</param>
 <param name="Тип крышки">Съемная</param>
 <param name="Длина">40</param>
+<param name="Форм-фактор">Переносной</param>
+<param name="Форма">Прямоугольная</param>
+</offer>
+<offer id="ML-77A-13" available="true">
+<name>Мармитница прямоугольная на подставке с подогревом 35.5х19х15.5 см ML-77A-13</name>
+<price>1819</price>
+<vendorprice>1391</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>72</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../36%D0%9CBW/ML-77A-13/ML-77A-13_3-600x600.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6908/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_35_5h19h15_5_sm_marmit_nastolnyy_dlya_pervyh_blyud_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6908/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_35_5h19h15_5_sm_marmit_nastolnyy_dlya_pervyh_blyud_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6908/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_35_5h19h15_5_sm_marmit_nastolnyy_dlya_pervyh_blyud_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6908/marmitnitsa_pryamougolnaya_so_steklyannoy_kryshkoy_na_podstavke_s_podogrevom_35_5h19h15_5_sm_marmit_nastolnyy_dlya_pervyh_blyud_5.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Мармитница имеет прямоугольную форму из белого фарфора. По верхнему краю расположена золотая отделка, которая подчеркивает контур и добавляет завершенности. Конструкция установлена на металлической подставке золотого цвета, что обеспечивает устойчивость и позволяет использовать свечи или горелки для подогрева.  Основной материал &ndash; гладкий белый фарфор с мраморным узором, дополнен золотым ободком по краю. Дизайн сдержанный и симметричный, без избыточного декора, что делает изделие универсальным для различных стилей сервировки. Стеклянная крышка прозрачная, с металлической ручкой золотого цвета, которая гармонично сочетается с подставкой и отделкой.  Мармитница предназначена для подачи горячих блюд с поддержкой их температуры. Металлическая подставка позволяет разместить подогревательные элементы, а стеклянная крышка сохраняет тепло и аромат, при этом позволяя видеть содержимое. Фарфор устойчив к высоким температурам и легко очищается после использования, что делает изделие практичным в ежедневном применении и во время праздничных событий.]]></description>
+<quantity_in_stock>8</quantity_in_stock>
+<vendorCode>ML-77A-13</vendorCode>
+<param name="Материал">Керамика</param>
+<param name="Высота">15.5</param>
+<param name="Вид оборудования">Мармит</param>
+<param name="Назначение">Для первых блюд</param>
+<param name="Количество емкостей">1</param>
+<param name="Ширина">19</param>
+<param name="Расположение">Настольное</param>
+<param name="Тип крышки">Съемная</param>
+<param name="Длина">35.5</param>
 <param name="Форм-фактор">Переносной</param>
 <param name="Форма">Прямоугольная</param>
 </offer>
