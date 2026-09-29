@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-28 23:03">
+<yml_catalog date="2026-09-29 03:38">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -63494,33 +63494,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Форма">Круглая</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-14-48V" available="true">
-<name>Бутылка для воды многоразовая 760 мл бутылочка с трубочкой для спорта и школы HP-14-48V</name>
-<price>249</price>
-<vendorprice>195</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>104</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3964/butylka_dlya_vody_mnogorazovaya_760_ml_butylochka_s_trubochkoy_dlya_sporta_i_shkoly.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3964/butylka_dlya_vody_mnogorazovaya_760_ml_butylochka_s_trubochkoy_dlya_sporta_i_shkoly_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3964/butylka_dlya_vody_mnogorazovaya_760_ml_butylochka_s_trubochkoy_dlya_sporta_i_shkoly_2.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3964/butylka_dlya_vody_mnogorazovaya_760_ml_butylochka_s_trubochkoy_dlya_sporta_i_shkoly_3.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3964/butylka_dlya_vody_mnogorazovaya_760_ml_butylochka_s_trubochkoy_dlya_sporta_i_shkoly_4.png</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Бутылка для воды &ndash; стильная, качественная и удобная в использовании. Она непременно станет вашим постоянным спутником и любимым аксессуаром. Бутылочку удобно брать на прогулки, тренировки, в школу и на работу.   Основные характеристики бутылочки   объем 760 мл; высота 22 см; диаметр 7.5 см; дополнительные функции: ремешок, трубочка.   Основные преимущества бутылки   Изготовлена из качественного и безопасного пищевого материала &ndash; поликарбоната. Он очень легкий и прочный, объединяет в себе преимущества пластика и стекла. Этот инновационный материал не такой хрупкий, как обычный пластик и стекло, поэтому долго сохраняет безупречный внешний вид. Бутылка оснащена удобной крышкой с кнопочным механизмом, что позволяет легко открывать и закрывать ее одной рукой. Внутри крышки имеется герметичная силиконовая прокладка для предотвращения протекания. В комплект входит ремешок, удобный для переноски и фиксации бутылочки на сумке или рюкзаке.   Многоразовая бутылка для воды &ndash; это универсальный и практичный аксессуар, который идеально подойдет для любителей активного отдыха, путешественников и просто тех, кто хочет всегда иметь под рукой любимый напиток.]]></description>
-<quantity_in_stock>32</quantity_in_stock>
-<vendorCode>HP-14-48V</vendorCode>
-<param name="Тип">Бутылка для напитков</param>
-<param name="Материал">Поликарбонат</param>
-<param name="Высота">22</param>
-<param name="Вес">220</param>
-<param name="Диаметр">75</param>
-<param name="Особенности">Моется в посудомоечной машине|Защитный колпачок поилки|Ударопрочная</param>
-<param name="Объем">760</param>
-<param name="Цвет">Фиолетовый</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-4-69L" available="true">
 <name>Тортовница стеклянная на ножке 13.5 см круглая HP-4-69L</name>
 <price>569</price>
@@ -64231,6 +64204,33 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Насадка для спиральной завивки">Да</param>
 <param name="Термоизолированный наконечник">Да</param>
 <param name="Выбор типа волос">Нет</param>
+</offer>
+<offer id="HP-14-48V" available="true">
+<name>Бутылка для воды многоразовая 760 мл бутылочка с трубочкой для спорта и школы HP-14-48V</name>
+<price>249</price>
+<vendorprice>195</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>104</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3964/butylka_dlya_vody_mnogorazovaya_760_ml_butylochka_s_trubochkoy_dlya_sporta_i_shkoly.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3964/butylka_dlya_vody_mnogorazovaya_760_ml_butylochka_s_trubochkoy_dlya_sporta_i_shkoly_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3964/butylka_dlya_vody_mnogorazovaya_760_ml_butylochka_s_trubochkoy_dlya_sporta_i_shkoly_2.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3964/butylka_dlya_vody_mnogorazovaya_760_ml_butylochka_s_trubochkoy_dlya_sporta_i_shkoly_3.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3964/butylka_dlya_vody_mnogorazovaya_760_ml_butylochka_s_trubochkoy_dlya_sporta_i_shkoly_4.png</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Бутылка для воды &ndash; стильная, качественная и удобная в использовании. Она непременно станет вашим постоянным спутником и любимым аксессуаром. Бутылочку удобно брать на прогулки, тренировки, в школу и на работу.   Основные характеристики бутылочки   объем 760 мл; высота 22 см; диаметр 7.5 см; дополнительные функции: ремешок, трубочка.   Основные преимущества бутылки   Изготовлена из качественного и безопасного пищевого материала &ndash; поликарбоната. Он очень легкий и прочный, объединяет в себе преимущества пластика и стекла. Этот инновационный материал не такой хрупкий, как обычный пластик и стекло, поэтому долго сохраняет безупречный внешний вид. Бутылка оснащена удобной крышкой с кнопочным механизмом, что позволяет легко открывать и закрывать ее одной рукой. Внутри крышки имеется герметичная силиконовая прокладка для предотвращения протекания. В комплект входит ремешок, удобный для переноски и фиксации бутылочки на сумке или рюкзаке.   Многоразовая бутылка для воды &ndash; это универсальный и практичный аксессуар, который идеально подойдет для любителей активного отдыха, путешественников и просто тех, кто хочет всегда иметь под рукой любимый напиток.]]></description>
+<quantity_in_stock>31</quantity_in_stock>
+<vendorCode>HP-14-48V</vendorCode>
+<param name="Тип">Бутылка для напитков</param>
+<param name="Материал">Поликарбонат</param>
+<param name="Высота">22</param>
+<param name="Вес">220</param>
+<param name="Диаметр">75</param>
+<param name="Особенности">Моется в посудомоечной машине|Защитный колпачок поилки|Ударопрочная</param>
+<param name="Объем">760</param>
+<param name="Цвет">Фиолетовый</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-8-22" available="true">
 <name>Набор столовых ложек 6 штук нержавеющей стали н20.5 (см) Серебро HP-8-22</name>
@@ -91554,41 +91554,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Цвет свечения">Синий</param>
 <param name="Цветовая гамма">RGB</param>
 </offer>
-<offer id="S14Y" available="true">
-<name>Гирлянда уличная в стиле ретро светодиодная желтая S14 на 10 LED ламп длиной 5 метров S14Y</name>
-<price>1189</price>
-<vendorprice>784</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>125</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/S14Y-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-2%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-3%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-4%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-5%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-6%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-7%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y11%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-9%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-13%281%29.jpg</picture>
-<vendor>Garlando</vendor>
-<description><![CDATA[Уличная гирлянда в ретро-стиле создаст теплую и уютную атмосферу в вашем саду или доме. Ее классический дизайн идеально подходит для украшения беседок, веранд, деревьев, кустарников, а также экстерьера кафе и ресторанов. Гирлянда может использоваться как стильный элемент интерьера или дополнительное освещение в помещениях. Водонепроницаемость IP43 обеспечивает защиту от дождя, снега и влаги, что делает ее универсальной для использования как внутри, так и снаружи.  Характеристики:   Количество лампочек: 10 Длина: 5 м Напряжение: 220 В Угол свечения: 300 ° Цвет: желтый Цоколь: E27   Преимущества:   Создает уютную атмосферу для праздничных мероприятий. Высокий класс водонепроницаемости для надежности в любую погоду. Легко устанавливается и подходит для различных типов оформления.   Меры безопасности:   Избегайте использования в местах с высокой влажностью без надлежащей защиты. Не разбирайте и не модифицируйте гирлянду без консультации со специалистом.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
-<vendorCode>S14Y</vendorCode>
-<param name="Количество ламп">10</param>
-<param name="Вес">800 г</param>
-<param name="Количество режимов свечения">1</param>
-<param name="Режим работы">Статический</param>
-<param name="Напряжение">220 В</param>
-<param name="Длина">5 м</param>
-<param name="Тип гирлянды">Шарики Уличная|Комнатная гирлянда</param>
-<param name="Тип освещения">Электрическая гирлянда</param>
-<param name="Состояние">Новое</param>
-<param name="Тип питания">Сеть</param>
-<param name="Упаковка">Коробка</param>
-<param name="Цвет шнура питания">Черный</param>
-<param name="Цвет свечения">Желтый</param>
-<param name="Цветовая гамма">Желтый</param>
-</offer>
 <offer id="HPKP7049B" available="true">
 <name>Увлажнитель воздуха Holdmay Life of Leisure Aroma Diffuser 400ml Черный HPKP7049B</name>
 <price>1609</price>
@@ -93334,6 +93299,41 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Чувствительность">105 дБ</param>
 <param name="Гарантия">14 дней</param>
 <param name="Тип крепления">Без крепления</param>
+</offer>
+<offer id="S14Y" available="true">
+<name>Гирлянда уличная в стиле ретро светодиодная желтая S14 на 10 LED ламп длиной 5 метров S14Y</name>
+<price>1189</price>
+<vendorprice>784</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>125</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/S14Y-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-2%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-3%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-4%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-5%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-6%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-7%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y11%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-9%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/001/S14Y-13%281%29.jpg</picture>
+<vendor>Garlando</vendor>
+<description><![CDATA[Уличная гирлянда в ретро-стиле создаст теплую и уютную атмосферу в вашем саду или доме. Ее классический дизайн идеально подходит для украшения беседок, веранд, деревьев, кустарников, а также экстерьера кафе и ресторанов. Гирлянда может использоваться как стильный элемент интерьера или дополнительное освещение в помещениях. Водонепроницаемость IP43 обеспечивает защиту от дождя, снега и влаги, что делает ее универсальной для использования как внутри, так и снаружи.  Характеристики:   Количество лампочек: 10 Длина: 5 м Напряжение: 220 В Угол свечения: 300 ° Цвет: желтый Цоколь: E27   Преимущества:   Создает уютную атмосферу для праздничных мероприятий. Высокий класс водонепроницаемости для надежности в любую погоду. Легко устанавливается и подходит для различных типов оформления.   Меры безопасности:   Избегайте использования в местах с высокой влажностью без надлежащей защиты. Не разбирайте и не модифицируйте гирлянду без консультации со специалистом.]]></description>
+<quantity_in_stock>4</quantity_in_stock>
+<vendorCode>S14Y</vendorCode>
+<param name="Количество ламп">10</param>
+<param name="Вес">800 г</param>
+<param name="Количество режимов свечения">1</param>
+<param name="Режим работы">Статический</param>
+<param name="Напряжение">220 В</param>
+<param name="Длина">5 м</param>
+<param name="Тип гирлянды">Шарики Уличная|Комнатная гирлянда</param>
+<param name="Тип освещения">Электрическая гирлянда</param>
+<param name="Состояние">Новое</param>
+<param name="Тип питания">Сеть</param>
+<param name="Упаковка">Коробка</param>
+<param name="Цвет шнура питания">Черный</param>
+<param name="Цвет свечения">Желтый</param>
+<param name="Цветовая гамма">Желтый</param>
 </offer>
 <offer id="HPKP7049W" available="true">
 <name>Увлажнитель воздуха Holdmay Life of Leisure Aroma Diffuser 400ml Белый HPKP7049W</name>
