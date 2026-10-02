@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-01 22:26">
+<yml_catalog date="2026-10-02 03:31">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -2676,7 +2676,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-35015-53/HP-35015-53_2.jpg</picture>
 <vendor>Household</vendor>
 <description><![CDATA[Характеристики насадки для швабры:    Вес: 0,3 кг;   Габариты товара: 38&times;6,5&times;5 см.    Описание сменной насадки для швабры с губкой:   предназначена для швабр с механизмом отжима для влажной уборки твердых поверхностей; основа выполнена из пористой губки, которая быстро впитывает жидкость и удерживает пыль; равномерная структура материала обеспечивает надежное сцепление с полом при движении; оснащена пластиковым креплением, совместимым со стандартными моделями с роликовым или рычажным механизмом; легко устанавливается и снимается без использования инструментов; устойчива к многократному контакту с водой и моющими средствами, не деформируется; подходит для уборки плитки, ламината, линолеума и других гладких покрытий; благодаря компактной форме и гибкой структуре эффективно очищает углы и края; рекомендована для ежедневного использования в домашних условиях и небольших коммерческих помещениях.]]></description>
-<quantity_in_stock>500</quantity_in_stock>
+<quantity_in_stock>499</quantity_in_stock>
 <vendorCode>HP-35015-53</vendorCode>
 <param name="Комплектация ведром">Нет</param>
 <param name="Длина насадки">38</param>
@@ -18341,32 +18341,6 @@
 <param name="Материал">Силикон/Нейлон</param>
 <param name="Размеры">17*10*3 см</param>
 </offer>
-<offer id="HP-FM-352-4" available="true">
-<name>Термочашка 520 мл с трубочкой и двойным открыванием бежевый HP-FM-352-4</name>
-<price>519</price>
-<vendorprice>407</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>153</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-4/HP-FM-352-4-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-4/HP-FM-352-4-2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-4/HP-FM-352-4-4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-4/HP-FM-352-4-3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-4/HP-FM-352-4-5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-4/HP-FM-352-4-6.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Термочашка 520 мл сочетает функциональность и продуманную конструкцию для ежедневного использования. На корпусе размещен цветочный принт с надписью. Модель оснащена герметичной крышкой с двойным открыванием: отдельный клапан для питья и дополнительное отверстие для использования трубочки. Сбоку закреплен текстильный ремешок с надписью &ldquo;COFFEE&rdquo;.  Двойная стенка помогает сохранять температуру напитков дольше, уменьшая нагрев внешней поверхности. Объем 520 мл подходит для кофе, чая, воды или других напитков в течение рабочего дня или прогулки. Конструкция предусматривает плотное закрывание, что снижает риск протеканий в сумке или рюкзаке. Нижняя часть имеет усиленную основу для большей устойчивости.  Термочашка подходит для офиса, учебы, путешествий или ежедневного использования в городе. Компактная форма позволяет удобно держать ее в руке и размещать в большинстве подстаканников. Практичное решение для тех, кто ищет удобный формат многоразовой чашки с продуманными деталями.   Характеристики:    Тип: термочашка Объем: 520 мл Конструкция: двойная стенка Крышка: двойное открывание Дополнительно: отверстие для трубочки]]></description>
-<quantity_in_stock>125</quantity_in_stock>
-<vendorCode>HP-FM-352-4</vendorCode>
-<param name="Тип">Термокружка</param>
-<param name="Высота">20</param>
-<param name="Верхний диаметр">8</param>
-<param name="Вес">0.3</param>
-<param name="Глубина">6.5</param>
-<param name="Ширина">6.5</param>
-<param name="Объем">520</param>
-<param name="Состояние">Новое</param>
-<param name="Нижний диаметр">6.5</param>
-</offer>
 <offer id="HP9900G" available="true">
 <name>Салфетница на стол из эко-кожи 25 х 15.5 х 5 см Серый HP9900G</name>
 <price>729</price>
@@ -18576,6 +18550,32 @@
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Тип емкости">Рюмка</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-FM-352-4" available="true">
+<name>Термочашка 520 мл с трубочкой и двойным открыванием бежевый HP-FM-352-4</name>
+<price>519</price>
+<vendorprice>407</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>153</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-4/HP-FM-352-4-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-4/HP-FM-352-4-2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-4/HP-FM-352-4-4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-4/HP-FM-352-4-3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-4/HP-FM-352-4-5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-4/HP-FM-352-4-6.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Термочашка 520 мл сочетает функциональность и продуманную конструкцию для ежедневного использования. На корпусе размещен цветочный принт с надписью. Модель оснащена герметичной крышкой с двойным открыванием: отдельный клапан для питья и дополнительное отверстие для использования трубочки. Сбоку закреплен текстильный ремешок с надписью &ldquo;COFFEE&rdquo;.  Двойная стенка помогает сохранять температуру напитков дольше, уменьшая нагрев внешней поверхности. Объем 520 мл подходит для кофе, чая, воды или других напитков в течение рабочего дня или прогулки. Конструкция предусматривает плотное закрывание, что снижает риск протеканий в сумке или рюкзаке. Нижняя часть имеет усиленную основу для большей устойчивости.  Термочашка подходит для офиса, учебы, путешествий или ежедневного использования в городе. Компактная форма позволяет удобно держать ее в руке и размещать в большинстве подстаканников. Практичное решение для тех, кто ищет удобный формат многоразовой чашки с продуманными деталями.   Характеристики:    Тип: термочашка Объем: 520 мл Конструкция: двойная стенка Крышка: двойное открывание Дополнительно: отверстие для трубочки]]></description>
+<quantity_in_stock>124</quantity_in_stock>
+<vendorCode>HP-FM-352-4</vendorCode>
+<param name="Тип">Термокружка</param>
+<param name="Высота">20</param>
+<param name="Верхний диаметр">8</param>
+<param name="Вес">0.3</param>
+<param name="Глубина">6.5</param>
+<param name="Ширина">6.5</param>
+<param name="Объем">520</param>
+<param name="Состояние">Новое</param>
+<param name="Нижний диаметр">6.5</param>
 </offer>
 <offer id="HP-27-7" available="true">
 <name>Контейнер для еды пластиковый 32.5х17.5х6 см пищевой контейнер с индикатором даты 1 л Белый HP-27-7</name>
@@ -26709,33 +26709,6 @@
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-FM-352-1" available="true">
-<name>Термочашка 520 мл с мл с трубочкой и двойным открыванием белый HP-FM-352-1</name>
-<price>519</price>
-<vendorprice>407</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>153</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/2067952847_max.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-4.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Термочашка 520 мл сочетает функциональность и продуманную конструкцию для ежедневного использования. На корпусе размещен цветочный принт с надписью. Модель оснащена герметичной крышкой с двойным открыванием: отдельный клапан для питья и дополнительное отверстие для использования трубочки. Сбоку закреплен текстильный ремешок с надписью &ldquo;COFFEE&rdquo;.  Двойная стенка помогает сохранять температуру напитков дольше, уменьшая нагрев внешней поверхности. Объем 520 мл подходит для кофе, чая, воды или других напитков в течение рабочего дня или прогулки. Конструкция предусматривает плотное закрывание, что снижает риск протеканий в сумке или рюкзаке. Нижняя часть имеет усиленную основу для большей устойчивости.  Термочашка подходит для офиса, учебы, путешествий или ежедневного использования в городе. Компактная форма позволяет удобно держать ее в руке и размещать в большинстве подстаканников. Практичное решение для тех, кто ищет удобный формат многоразовой чашки с продуманными деталями.   Характеристики:    Тип: термочашка Объем: 520 мл Конструкция: двойная стенка Крышка: двойное открывание Дополнительно: отверстие для трубочки]]></description>
-<quantity_in_stock>95</quantity_in_stock>
-<vendorCode>HP-FM-352-1</vendorCode>
-<param name="Тип">Термокружка</param>
-<param name="Высота">20</param>
-<param name="Верхний диаметр">8</param>
-<param name="Глубина">6.5</param>
-<param name="Крышка">крышка с поилкой</param>
-<param name="Ширина">6.5</param>
-<param name="Объем">520</param>
-<param name="Ручка">Нет</param>
-<param name="Тип термоса">Питьевой</param>
-<param name="Состояние">Новое</param>
-<param name="Нижний диаметр">6.5</param>
-</offer>
 <offer id="HP-5-66" available="true">
 <name>Уличный LED фонарь на солнечных батареях 28х24.8х7.3 см прожектор светодиодный уличный 150 Вт с солнечной панелью HP-5-66</name>
 <price>2459</price>
@@ -27076,6 +27049,33 @@
 <param name="Тип вилки">Столовая</param>
 <param name="Длина">210</param>
 <param name="Поверхность">Глянцевая/матовая</param>
+</offer>
+<offer id="HP-FM-352-1" available="true">
+<name>Термочашка 520 мл с мл с трубочкой и двойным открыванием белый HP-FM-352-1</name>
+<price>519</price>
+<vendorprice>407</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>153</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/2067952847_max.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-4.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Термочашка 520 мл сочетает функциональность и продуманную конструкцию для ежедневного использования. На корпусе размещен цветочный принт с надписью. Модель оснащена герметичной крышкой с двойным открыванием: отдельный клапан для питья и дополнительное отверстие для использования трубочки. Сбоку закреплен текстильный ремешок с надписью &ldquo;COFFEE&rdquo;.  Двойная стенка помогает сохранять температуру напитков дольше, уменьшая нагрев внешней поверхности. Объем 520 мл подходит для кофе, чая, воды или других напитков в течение рабочего дня или прогулки. Конструкция предусматривает плотное закрывание, что снижает риск протеканий в сумке или рюкзаке. Нижняя часть имеет усиленную основу для большей устойчивости.  Термочашка подходит для офиса, учебы, путешествий или ежедневного использования в городе. Компактная форма позволяет удобно держать ее в руке и размещать в большинстве подстаканников. Практичное решение для тех, кто ищет удобный формат многоразовой чашки с продуманными деталями.   Характеристики:    Тип: термочашка Объем: 520 мл Конструкция: двойная стенка Крышка: двойное открывание Дополнительно: отверстие для трубочки]]></description>
+<quantity_in_stock>94</quantity_in_stock>
+<vendorCode>HP-FM-352-1</vendorCode>
+<param name="Тип">Термокружка</param>
+<param name="Высота">20</param>
+<param name="Верхний диаметр">8</param>
+<param name="Глубина">6.5</param>
+<param name="Крышка">крышка с поилкой</param>
+<param name="Ширина">6.5</param>
+<param name="Объем">520</param>
+<param name="Ручка">Нет</param>
+<param name="Тип термоса">Питьевой</param>
+<param name="Состояние">Новое</param>
+<param name="Нижний диаметр">6.5</param>
 </offer>
 <offer id="HP-5-63" available="true">
 <name>Уличный LED фонарь на солнечных батареях 480 LED 500 Вт HP-5-63</name>
@@ -27580,29 +27580,6 @@
 <param name="Ширина насадки">13</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-35015-13BL" available="true">
-<name>Швабра телескопическая для мытья пола универсальная веревочная швабра с самоотжимом для уборки Голубой HP-35015-13BL</name>
-<price>459</price>
-<vendorprice>287</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>156</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4700/shvabra_teleskopicheskaya_dlya_mytya_pola_universalnaya_verevochnaya_shvabra_s_samootzhimom_dlya_uborki_goluboy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4700/shvabra_teleskopicheskaya_dlya_mytya_pola_universalnaya_verevochnaya_shvabra_s_samootzhimom_dlya_uborki_goluboy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4700/shvabra_teleskopicheskaya_dlya_mytya_pola_universalnaya_verevochnaya_shvabra_s_samootzhimom_dlya_uborki_goluboy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4700/shvabra_teleskopicheskaya_dlya_mytya_pola_universalnaya_verevochnaya_shvabra_s_samootzhimom_dlya_uborki_goluboy_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4700/shvabra_teleskopicheskaya_dlya_mytya_pola_universalnaya_verevochnaya_shvabra_s_samootzhimom_dlya_uborki_goluboy_4.jpg</picture>
-<vendor>Household</vendor>
-<description><![CDATA[Швабра с классической круглой насадкой предназначена для влажной уборки твердых поверхностей в бытовых и коммерческих условиях. Ручка изготовлена ​​из металла, имеет пластиковые вставки для удобного захвата и отверстие для вертикального хранения. Конструкция легкая, но крепкая, что позволяет использовать ее ежедневно без чрезмерной нагрузки.  Насадка состоит из плотно скрученных волокон, равномерно расположенных вокруг центрального кольца. Волокна имеют среднюю длину и гибкость, что обеспечивает охват большой площади при уборке. Кольцо у основания фиксирует насадку и предотвращает ее деформацию. Соединение между ручкой и насадкой выполнено из пластика, что позволяет легко заменять или очищать рабочую часть.  Основные характеристики круглой палубной швабры для уборки:    Вес: 0,5 кг; Материал: пластик + нержавеющая сталь; Максимальная длина ручки: 134 см; Назначение: уборка полов разных типов с функцией самоотжима; Компактное хранение: да.   Особенности     веревочной швабры с отжимом для мытья полов:    Подходит для разных типов покрытий &mdash; ламинат, плитка, мрамор, паркет и другие гладкие поверхности. Гибкая и маневренная &mdash; легко проникает в углы и щели, обеспечивая тщательную уборку даже в труднодоступных местах. Экономия времени &mdash; высокая впитывающая способность позволяет быстро убирать большие площади. Простота использования &mdash; лёгкая конструкция и удобная форма делают уборку комфортной. Долговечность &mdash; сменная насадка выдерживает многократное использование и стирку. Система самоотжима &mdash; эффективно удаляет лишнюю влагу без контакта рук с водой. Гигиеничность &mdash; руки остаются сухими, а уборка безопаснее и чище. Практичность &mdash; насадка быстро сохнет и не оставляет неприятных запахов.   Модель подходит для уборки плитки, линолеума, ламината и других гладких покрытий. Благодаря простой конструкции и стандартному формату насадки, швабра совместима с большинством ведер с отжимом.]]></description>
-<quantity_in_stock>92</quantity_in_stock>
-<vendorCode>HP-35015-13BL</vendorCode>
-<param name="Материал">Сталь</param>
-<param name="Длина ручки">134</param>
-<param name="Материал насадки">Ткань-веревки</param>
-<param name="Материал ручки">Нержавеющая сталь</param>
-<param name="Цвет">Голубой</param>
-<param name="Комплектация ведром">Нет</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-55-5P" available="true">
 <name>Детская силиконовая сумка Стич 13×9×2.5 (см) через плечо Розовый HP-55-5P</name>
 <price>249</price>
@@ -27829,6 +27806,29 @@
 <param name="Длина">280</param>
 <param name="Тематика декора, рисунка">Без декора</param>
 <param name="Форма">Круглая</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-35015-13BL" available="true">
+<name>Швабра телескопическая для мытья пола универсальная веревочная швабра с самоотжимом для уборки Голубой HP-35015-13BL</name>
+<price>459</price>
+<vendorprice>287</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>156</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4700/shvabra_teleskopicheskaya_dlya_mytya_pola_universalnaya_verevochnaya_shvabra_s_samootzhimom_dlya_uborki_goluboy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4700/shvabra_teleskopicheskaya_dlya_mytya_pola_universalnaya_verevochnaya_shvabra_s_samootzhimom_dlya_uborki_goluboy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4700/shvabra_teleskopicheskaya_dlya_mytya_pola_universalnaya_verevochnaya_shvabra_s_samootzhimom_dlya_uborki_goluboy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4700/shvabra_teleskopicheskaya_dlya_mytya_pola_universalnaya_verevochnaya_shvabra_s_samootzhimom_dlya_uborki_goluboy_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4700/shvabra_teleskopicheskaya_dlya_mytya_pola_universalnaya_verevochnaya_shvabra_s_samootzhimom_dlya_uborki_goluboy_4.jpg</picture>
+<vendor>Household</vendor>
+<description><![CDATA[Швабра с классической круглой насадкой предназначена для влажной уборки твердых поверхностей в бытовых и коммерческих условиях. Ручка изготовлена ​​из металла, имеет пластиковые вставки для удобного захвата и отверстие для вертикального хранения. Конструкция легкая, но крепкая, что позволяет использовать ее ежедневно без чрезмерной нагрузки.  Насадка состоит из плотно скрученных волокон, равномерно расположенных вокруг центрального кольца. Волокна имеют среднюю длину и гибкость, что обеспечивает охват большой площади при уборке. Кольцо у основания фиксирует насадку и предотвращает ее деформацию. Соединение между ручкой и насадкой выполнено из пластика, что позволяет легко заменять или очищать рабочую часть.  Основные характеристики круглой палубной швабры для уборки:    Вес: 0,5 кг; Материал: пластик + нержавеющая сталь; Максимальная длина ручки: 134 см; Назначение: уборка полов разных типов с функцией самоотжима; Компактное хранение: да.   Особенности     веревочной швабры с отжимом для мытья полов:    Подходит для разных типов покрытий &mdash; ламинат, плитка, мрамор, паркет и другие гладкие поверхности. Гибкая и маневренная &mdash; легко проникает в углы и щели, обеспечивая тщательную уборку даже в труднодоступных местах. Экономия времени &mdash; высокая впитывающая способность позволяет быстро убирать большие площади. Простота использования &mdash; лёгкая конструкция и удобная форма делают уборку комфортной. Долговечность &mdash; сменная насадка выдерживает многократное использование и стирку. Система самоотжима &mdash; эффективно удаляет лишнюю влагу без контакта рук с водой. Гигиеничность &mdash; руки остаются сухими, а уборка безопаснее и чище. Практичность &mdash; насадка быстро сохнет и не оставляет неприятных запахов.   Модель подходит для уборки плитки, линолеума, ламината и других гладких покрытий. Благодаря простой конструкции и стандартному формату насадки, швабра совместима с большинством ведер с отжимом.]]></description>
+<quantity_in_stock>91</quantity_in_stock>
+<vendorCode>HP-35015-13BL</vendorCode>
+<param name="Материал">Сталь</param>
+<param name="Длина ручки">134</param>
+<param name="Материал насадки">Ткань-веревки</param>
+<param name="Материал ручки">Нержавеющая сталь</param>
+<param name="Цвет">Голубой</param>
+<param name="Комплектация ведром">Нет</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-55-7P" available="true">
@@ -38643,34 +38643,6 @@
 <param name="Форма">Фигурная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-33-3" available="true">
-<name>Банки для сыпучих продуктов набор из 3 шт с бамбуковыми крышками 700 (мл), 900 (мл), 1.2 (л) HP-33-3</name>
-<price>699</price>
-<vendorprice>533</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>2</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4852/banki_dlya_sypuchih_produktov_nabor_iz_3_sht_plastikovye_s_bambukovymi_kryshkami_700_ml_900_ml_1_2_l.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4852/banki_dlya_sypuchih_produktov_nabor_iz_3_sht_plastikovye_s_bambukovymi_kryshkami_700_ml_900_ml_1_2_l_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4852/banki_dlya_sypuchih_produktov_nabor_iz_3_sht_plastikovye_s_bambukovymi_kryshkami_700_ml_900_ml_1_2_l_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4852/banki_dlya_sypuchih_produktov_nabor_iz_3_sht_plastikovye_s_bambukovymi_kryshkami_700_ml_900_ml_1_2_l_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4852/banki_dlya_sypuchih_produktov_nabor_iz_3_sht_plastikovye_s_bambukovymi_kryshkami_700_ml_900_ml_1_2_l_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4852/banki_dlya_sypuchih_produktov_nabor_iz_3_sht_plastikovye_s_bambukovymi_kryshkami_700_ml_900_ml_1_2_l_5.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Набор емкостей для хранения продуктов - это практичное и стильное решение для организации кухонного пространства. Каждая емкость изготовлена из высококачественного прозрачного пластика, что позволяет легко видеть содержимое, обеспечивая удобство в пользовании. Благодаря современному дизайну, эти контейнеры гармонично вписываются в любой интерьер кухни.  Основные характеристики набора:   Количество емкостей: 3 шт; Объем емкостей: 700 мл, 900 мл, 1.2 л;  Высота емкостей: 10.5 см, 12.5 см, 15.5 см;   Материал: стекло; Крышки: бамбуковые с силиконовыми уплотнителями.   Особенностью набора являются бамбуковые крышки, придающие емкостям натуральный и экологичный вид. Крышки оснащены силиконовыми уплотнителями, которые обеспечивают герметичность, сохраняя свежесть продуктов на долгое время. Емкости идеально подходят для хранения круп, специй, орехов, сухофруктов или других продуктов, а также предотвращают попадание влаги или посторонних запахов.  Благодаря трем  емкостям разного объема, этот набор позволяет максимально организовать хранение, упорядочивая все необходимые ингредиенты. Простота ухода за контейнерами делает их удобными в использовании, а их стильный вид дополнит вашу кухню функциональностью и эстетикой.]]></description>
-<quantity_in_stock>61</quantity_in_stock>
-<vendorCode>HP-33-3</vendorCode>
-<param name="Тип">Набор банок</param>
-<param name="Материал">Стекло</param>
-<param name="Количество предметов в наборе">3</param>
-<param name="Использование в микроволновке">Нет</param>
-<param name="Применение">Для сыпучих продуктов</param>
-<param name="Хранение в холодильнике">Да</param>
-<param name="Хранение в морозильной камере">Нет</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Форма">Прямоугольная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-19-154-3" available="true">
 <name>Ваза сумочка с ручкой декоративная стеклянная ваза для цветов 800 (мл) Прозрачный HP-19-154-3</name>
 <price>879</price>
@@ -39658,6 +39630,34 @@
 <param name="Длина спицы">51 см</param>
 <param name="Пол">Унисекс</param>
 <param name="Вес зонта">400 г</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-33-3" available="true">
+<name>Банки для сыпучих продуктов набор из 3 шт с бамбуковыми крышками 700 (мл), 900 (мл), 1.2 (л) HP-33-3</name>
+<price>699</price>
+<vendorprice>533</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>2</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4852/banki_dlya_sypuchih_produktov_nabor_iz_3_sht_plastikovye_s_bambukovymi_kryshkami_700_ml_900_ml_1_2_l.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4852/banki_dlya_sypuchih_produktov_nabor_iz_3_sht_plastikovye_s_bambukovymi_kryshkami_700_ml_900_ml_1_2_l_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4852/banki_dlya_sypuchih_produktov_nabor_iz_3_sht_plastikovye_s_bambukovymi_kryshkami_700_ml_900_ml_1_2_l_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4852/banki_dlya_sypuchih_produktov_nabor_iz_3_sht_plastikovye_s_bambukovymi_kryshkami_700_ml_900_ml_1_2_l_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4852/banki_dlya_sypuchih_produktov_nabor_iz_3_sht_plastikovye_s_bambukovymi_kryshkami_700_ml_900_ml_1_2_l_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63012/4852/banki_dlya_sypuchih_produktov_nabor_iz_3_sht_plastikovye_s_bambukovymi_kryshkami_700_ml_900_ml_1_2_l_5.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Набор емкостей для хранения продуктов - это практичное и стильное решение для организации кухонного пространства. Каждая емкость изготовлена из высококачественного прозрачного пластика, что позволяет легко видеть содержимое, обеспечивая удобство в пользовании. Благодаря современному дизайну, эти контейнеры гармонично вписываются в любой интерьер кухни.  Основные характеристики набора:   Количество емкостей: 3 шт; Объем емкостей: 700 мл, 900 мл, 1.2 л;  Высота емкостей: 10.5 см, 12.5 см, 15.5 см;   Материал: стекло; Крышки: бамбуковые с силиконовыми уплотнителями.   Особенностью набора являются бамбуковые крышки, придающие емкостям натуральный и экологичный вид. Крышки оснащены силиконовыми уплотнителями, которые обеспечивают герметичность, сохраняя свежесть продуктов на долгое время. Емкости идеально подходят для хранения круп, специй, орехов, сухофруктов или других продуктов, а также предотвращают попадание влаги или посторонних запахов.  Благодаря трем  емкостям разного объема, этот набор позволяет максимально организовать хранение, упорядочивая все необходимые ингредиенты. Простота ухода за контейнерами делает их удобными в использовании, а их стильный вид дополнит вашу кухню функциональностью и эстетикой.]]></description>
+<quantity_in_stock>59</quantity_in_stock>
+<vendorCode>HP-33-3</vendorCode>
+<param name="Тип">Набор банок</param>
+<param name="Материал">Стекло</param>
+<param name="Количество предметов в наборе">3</param>
+<param name="Использование в микроволновке">Нет</param>
+<param name="Применение">Для сыпучих продуктов</param>
+<param name="Хранение в холодильнике">Да</param>
+<param name="Хранение в морозильной камере">Нет</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-42-5BL" available="true">
@@ -72343,40 +72343,6 @@
 <param name="Наличие насоса">Приобретается отдельно</param>
 <param name="Наличие съемного чехла">Есть</param>
 </offer>
-<offer id="HP-10-3AP" available="true">
-<name>Зеркало косметическое 21х16 см 16 LED Черное HP-10-3AP</name>
-<price>359</price>
-<vendorprice>281</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>58</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3789/zerkalo_nastolnoe_kosmeticheskoe_dlya_makiyazha_21h16_sm_zerkalo_pryamougolnoe_na_podstavke_16_led_rozovoe.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0000/HP-10-3AP_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0000/HP-10-3AP_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0000/HP-10-3AP_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3789/zerkalo_nastolnoe_kosmeticheskoe_dlya_makiyazha_21h16_sm_zerkalo_pryamougolnoe_na_podstavke_16_led_rozovoe_6.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Настольное зеркало для макияжа оснащено сенсорным датчиком, позволяющим легко управлять подсветкой одним касанием. Благодаря размеру     21х16 см обеспечивается широкое поле обзора, что удобно для нанесения макияжа и ухода за лицом. Встроенные светодиоды создают равномерное освещение без теней, что способствует точному отображению деталей.   Основные характеристики:    Размер с подставкой:    15х10х29 см; Размер зеркала:    21х16 см; Угол поворота: 360; Материал: пластик; Подсветка: светодиодная. 16 LED; Питание: USB или 4 батарейки AA.   Конструкция зеркала предусматривает возможность вращения на 360&deg;, что позволяет настраивать необходимый угол наклона. Это особенно полезно для создания различных образов или выполнения точных косметических процедур. Надежное основание обеспечивает устойчивость на любой поверхности, предотвращая случайное смещение.  Благодаря современному дизайну зеркало гармонично сочетается с интерьером спальни или косметического уголка. Высококачественное стекло без искажений обеспечивает четкое отображение, а сенсорное управление повышает удобство использования. Оптимальное решение для профессионального и домашнего применения.]]></description>
-<quantity_in_stock>17</quantity_in_stock>
-<vendorCode>HP-10-3AP</vendorCode>
-<param name="Высота">290</param>
-<param name="Вес">600</param>
-<param name="Подсветка (тип ламп)">Светодиодная</param>
-<param name="Подставка в комплекте">Да</param>
-<param name="Ширина">150</param>
-<param name="Питание">USB</param>
-<param name="Тип зеркала">Настольное</param>
-<param name="Толщина">20</param>
-<param name="Форма косметического зеркала">Прямоугольное</param>
-<param name="Тип зеркальной поверхности">Обычная</param>
-<param name="Угол поворота">360</param>
-<param name="Цвет">Розовый</param>
-<param name="Длина">100</param>
-<param name="Сетевой адаптер">Да</param>
-<param name="Вид зеркала">Одинарное</param>
-<param name="Гарантия">14 дней</param>
-<param name="Тип подсветки">Диодная</param>
-<param name="Тип выключателя">Сенсорный</param>
-</offer>
 <offer id="HP-10-16" available="true">
 <name>Ваза стеклянная 24.5 см для цветов декоративная Серая HP-10-16</name>
 <price>2039</price>
@@ -73513,6 +73479,40 @@
 <param name="Цвет">Серый</param>
 <param name="Длина">220</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-10-3AP" available="true">
+<name>Зеркало косметическое 21х16 см 16 LED Черное HP-10-3AP</name>
+<price>359</price>
+<vendorprice>281</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>58</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3789/zerkalo_nastolnoe_kosmeticheskoe_dlya_makiyazha_21h16_sm_zerkalo_pryamougolnoe_na_podstavke_16_led_rozovoe.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0000/HP-10-3AP_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0000/HP-10-3AP_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0000/HP-10-3AP_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3789/zerkalo_nastolnoe_kosmeticheskoe_dlya_makiyazha_21h16_sm_zerkalo_pryamougolnoe_na_podstavke_16_led_rozovoe_6.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Настольное зеркало для макияжа оснащено сенсорным датчиком, позволяющим легко управлять подсветкой одним касанием. Благодаря размеру     21х16 см обеспечивается широкое поле обзора, что удобно для нанесения макияжа и ухода за лицом. Встроенные светодиоды создают равномерное освещение без теней, что способствует точному отображению деталей.   Основные характеристики:    Размер с подставкой:    15х10х29 см; Размер зеркала:    21х16 см; Угол поворота: 360; Материал: пластик; Подсветка: светодиодная. 16 LED; Питание: USB или 4 батарейки AA.   Конструкция зеркала предусматривает возможность вращения на 360&deg;, что позволяет настраивать необходимый угол наклона. Это особенно полезно для создания различных образов или выполнения точных косметических процедур. Надежное основание обеспечивает устойчивость на любой поверхности, предотвращая случайное смещение.  Благодаря современному дизайну зеркало гармонично сочетается с интерьером спальни или косметического уголка. Высококачественное стекло без искажений обеспечивает четкое отображение, а сенсорное управление повышает удобство использования. Оптимальное решение для профессионального и домашнего применения.]]></description>
+<quantity_in_stock>16</quantity_in_stock>
+<vendorCode>HP-10-3AP</vendorCode>
+<param name="Высота">290</param>
+<param name="Вес">600</param>
+<param name="Подсветка (тип ламп)">Светодиодная</param>
+<param name="Подставка в комплекте">Да</param>
+<param name="Ширина">150</param>
+<param name="Питание">USB</param>
+<param name="Тип зеркала">Настольное</param>
+<param name="Толщина">20</param>
+<param name="Форма косметического зеркала">Прямоугольное</param>
+<param name="Тип зеркальной поверхности">Обычная</param>
+<param name="Угол поворота">360</param>
+<param name="Цвет">Розовый</param>
+<param name="Длина">100</param>
+<param name="Сетевой адаптер">Да</param>
+<param name="Вид зеркала">Одинарное</param>
+<param name="Гарантия">14 дней</param>
+<param name="Тип подсветки">Диодная</param>
+<param name="Тип выключателя">Сенсорный</param>
 </offer>
 <offer id="HP-10-15" available="true">
 <name>Ваза для цветов стекло 18 см декоративная Коричневая HP-10-15</name>
@@ -95656,30 +95656,6 @@ Sokany SK-6866 имеет вместительный резервуар для �
 <param name="Форм-фактор">Переносной</param>
 <param name="Форма">Прямоугольная</param>
 </offer>
-<offer id="HP-5-52" available="true">
-<name>Сетевой фильтр-удлинитель 5 розеток 4xUSB-A 1xUSB-C 5м черный HP-5-52</name>
-<price>779</price>
-<vendorprice>592</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>79</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-52/HP-5-52-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-52/HP-5-52_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-52/HP-5-52_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-52/HP-5-52_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-52/HP-5-52_3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 5 розеток + 4 USB-A + USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 1 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 5 Количество USB-A: 4 Количество USB Type-C: 1 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 600 г Размеры: 20 &times; 10 &times; 4 см]]></description>
-<quantity_in_stock>3</quantity_in_stock>
-<vendorCode>HP-5-52</vendorCode>
-<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
-<param name="Длина шнура">5</param>
-<param name="Количество выходных розеток">5</param>
-<param name="Выключатель">Да</param>
-<param name="Входная вилка">ЕURO</param>
-<param name="Выходная розетка">Евро</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Черный</param>
-</offer>
 <offer id="004-105-16-48-3-3" available="true">
 <name>Комплект трикотажный простыня на резинке 160×200 см с наволочками, светло-серый</name>
 <url>https://lugi.com.ua/ru/ru-prostiradlo-na-rezintsi-z-navolochkami-004-105-16-48-3-3/</url>
@@ -99436,6 +99412,30 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Материал мармита">Фарфор</param>
 <param name="Объем">2 л</param>
 <param name="Цвет">Черный</param>
+</offer>
+<offer id="HP-5-52" available="true">
+<name>Сетевой фильтр-удлинитель 5 розеток 4xUSB-A 1xUSB-C 5м черный HP-5-52</name>
+<price>779</price>
+<vendorprice>592</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>79</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-52/HP-5-52-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-52/HP-5-52_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-52/HP-5-52_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-52/HP-5-52_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-52/HP-5-52_3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 5 розеток + 4 USB-A + USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 1 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 5 Количество USB-A: 4 Количество USB Type-C: 1 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 600 г Размеры: 20 &times; 10 &times; 4 см]]></description>
+<quantity_in_stock>2</quantity_in_stock>
+<vendorCode>HP-5-52</vendorCode>
+<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+<param name="Длина шнура">5</param>
+<param name="Количество выходных розеток">5</param>
+<param name="Выключатель">Да</param>
+<param name="Входная вилка">ЕURO</param>
+<param name="Выходная розетка">Евро</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Черный</param>
 </offer>
 <offer id="SJ-0116" available="true">
 <name>Палатка-шатер для кемпинга 3*3*2,6 м</name>
