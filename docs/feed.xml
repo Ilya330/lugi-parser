@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-02 21:54">
+<yml_catalog date="2026-10-03 03:15">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -263,7 +263,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_1.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Лампочка на аккумуляторах с откидной крышкой и встроенным отсеком для батарей — это эстетичное и функциональное решение для вашего дома, дачи, кемпинга или гаража. Она совмещает в себе дизайн классической лампы и современные технологии автономного освещения. Уникальный корпус с легким доступом к аккумуляторам делает обслуживание быстрым и удобным.  Характеристики лампочки   тип: аварийная лампочка со встроенным аккумулятором; встроенный отсек для двух аккумуляторов; высота лампочки 16 см; диаметр 7 см; тип цоколя E27; мощность 15/20 Вт; напряжение 85-265 В; время работы 3-4 часа; время зарядки 4 часа; частота 50/60 Гц; корпус: ABS-пластик с откидной панелью для замены батарей; цвет: белый глянец.   Преимущества электролампочки   Быстрый доступ к аккумуляторам — удобная крышка для замены батарей за секунды. Работает при отключении света — автономная система освещения на случай ЧП. Универсальное применение — подходит для любого помещения и уличного освещения.   Эта электролампочка с аккумулятором станет вашим верным помощником в ситуациях, когда внезапно отключается свет. Незаменима для дачников, туристов, жителей с нестабильным электроснабжением и всех, кто ценит автономность и комфорт.  Сделайте свой дом независимым от сети — добавьте в корзину аварийную лампочку на аккумуляторах уже сегодня и будьте готовы к любой непредвиденной ситуации.]]></description>
-<quantity_in_stock>3225</quantity_in_stock>
+<quantity_in_stock>3219</quantity_in_stock>
 <vendorCode>HP-5-31</vendorCode>
 <param name="Мощность">15 / 20 Вт</param>
 <param name="Диаметр">7</param>
@@ -18138,33 +18138,6 @@
 <param name="Длина">220</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="SJ-0029-2" available="true">
-<name>Подстилка под палатку 195х195 см с фольгированным покрытием SJ-0029-2</name>
-<price>429</price>
-<vendorprice>291</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>161</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_9.jpg</picture>
-<vendor>Lugi</vendor>
-<description><![CDATA[Подкладка влагозащитная имеет размеры 195х195 см метра, что делает ее удобной для использования под палатками или другими походными аксессуарами. Она обеспечивает дополнительную защиту от влаги, предотвращая попадание влаги с земли на внутреннюю поверхность палатки или другого снаряжения.  Основные характеристики:    Размеры: 195х195х0.3 см; Материал: утеплитель с фольгированным покрытием; Количество шаров: 1; Наличие чехла: есть.   Материал подкладки изготовлен из водонепроницаемых материалов, эффективно защищающих от влаги и сырости. Это позволяет создать комфортные условия для отдыха на природе, даже во влажную погоду.  Подкладка является легкой и компактной, что позволяет без труда транспортировать ее в сложенном виде. Она также удобна для использования на любых природных поверхностях, добавляя защиту от грязи и влаги.]]></description>
-<quantity_in_stock>126</quantity_in_stock>
-<vendorCode>SJ-0029-2</vendorCode>
-<param name="Материал">Алюминизированный полиетилен</param>
-<param name="Комплектующие для палаток">Подкладка</param>
-<param name="Цвет">Серебристый</param>
-<param name="Длина">195</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="ZJH-13-4" available="true">
 <name>Тарелка фарфоровая глубокая с ручкой Цветок 800 мл Серебро ZJH-13-4</name>
 <price>549</price>
@@ -18216,6 +18189,33 @@
 <param name="Длина">375</param>
 <param name="Цвет">Серебристый</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="SJ-0029-2" available="true">
+<name>Подстилка под палатку 195х195 см с фольгированным покрытием SJ-0029-2</name>
+<price>429</price>
+<vendorprice>291</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>161</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_9.jpg</picture>
+<vendor>Lugi</vendor>
+<description><![CDATA[Подкладка влагозащитная имеет размеры 195х195 см метра, что делает ее удобной для использования под палатками или другими походными аксессуарами. Она обеспечивает дополнительную защиту от влаги, предотвращая попадание влаги с земли на внутреннюю поверхность палатки или другого снаряжения.  Основные характеристики:    Размеры: 195х195х0.3 см; Материал: утеплитель с фольгированным покрытием; Количество шаров: 1; Наличие чехла: есть.   Материал подкладки изготовлен из водонепроницаемых материалов, эффективно защищающих от влаги и сырости. Это позволяет создать комфортные условия для отдыха на природе, даже во влажную погоду.  Подкладка является легкой и компактной, что позволяет без труда транспортировать ее в сложенном виде. Она также удобна для использования на любых природных поверхностях, добавляя защиту от грязи и влаги.]]></description>
+<quantity_in_stock>125</quantity_in_stock>
+<vendorCode>SJ-0029-2</vendorCode>
+<param name="Материал">Алюминизированный полиетилен</param>
+<param name="Комплектующие для палаток">Подкладка</param>
+<param name="Цвет">Серебристый</param>
+<param name="Длина">195</param>
+<param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-55-4P" available="true">
@@ -48519,26 +48519,6 @@
 <param name="Длина">37</param>
 <param name="Форма">Круглая</param>
 </offer>
-<offer id="HP-17-58" available="true">
-<name>Набор креманок Golden Martini 6 штук по 215 мл коктейльные HP-17-58</name>
-<price>589</price>
-<vendorprice>447</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>48</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-17-58/HP-17-58-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7158/nabor_bokalov_dlya_martini_golden_martini_6_shtuk_po_215_ml_kokteylnye_bokaly_klassicheskie_konusovidnye_dlya_napitkov_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-17-58/HP-17-58-2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Набор креманок Golden Martini состоит из 6 стеклянных креманок  объемом 215 мл, предназначенных для подачи мороженого, муссов, кремовых  десертов, фруктов, желе и других порционных блюд. Широкая конусообразная  чаша позволяет красиво оформить десерт, а прозрачное стекло дает  возможность полностью продемонстрировать слои и текстуру содержимого.  Набор станет практичным решением для домашнего использования,  праздничной сервировки и приема гостей. Особое внимание  привлекает рельефная поверхность чаши, украшенная рельефным узором из  мелких ромбов, создающим эффект «искрения». Фактура напоминает огранку  хрусталя и создает интересные световые отражения под разными углами  освещения. Благодаря широкому верхнему диаметру 11,7 см креманки  обеспечивают удобную подачу десертов с декором, фруктами, сливками или  топпингами. Изделия имеют высоту 14,7 см и установлены на изящной  ножке с устойчивым круглым основанием диаметром 7 см. Такая конструкция  обеспечивает комфортное использование и придает сервировке аккуратный  вид. Комплект из шести одинаковых креманок позволяет оформить подачу  десертов в едином стиле для всей компании или праздничного стола.  Характеристики:   Количество в наборе: 6 шт.  Объём: 215 мл  Высота: 14,7 см  Верхний диаметр: 11,7 см  Диаметр основания: 7 см  Форма чаши: конусная (Martini)  Материал: стекло]]></description>
-<quantity_in_stock>43</quantity_in_stock>
-<vendorCode>HP-17-58</vendorCode>
-<param name="Материал">Стекло</param>
-<param name="Высота">14.7</param>
-<param name="Верхний диаметр">11.7</param>
-<param name="Количество в наборе">6</param>
-<param name="Объем">215</param>
-<param name="Цвет">Прозрачный</param>
-</offer>
 <offer id="HP-34-100" available="true">
 <name>Набор креманок 6 штук по 200 мл прозрачный креманки стеклянные для подачи мороженого желе и десертов HP-34-100</name>
 <price>849</price>
@@ -49086,42 +49066,6 @@
 <param name="Форма">Квадратная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-DS3-5" available="true">
-<name>Газовая плита портативная туристическая с пьезоподжигом для кемпинга, дачи и выездов на природу 7000 Вт HP-DS3-5</name>
-<price>4329</price>
-<vendorprice>3331</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>160</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/000/00./HP-DS3-5/HP-DS3-5-5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/00./HP-DS3-5/HP-DS3-5-6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/00./HP-DS3-5/HP-DS3-5-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/00./HP-DS3-5/HP-DS3-5-4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/00./HP-DS3-5/HP-DS3-5-7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/00./HP-DS3-5/HP-DS3-5-8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/00./HP-DS3-5/HP-DS3-5-9.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/00./HP-DS3-5/HP-DS3-5-10.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/00./HP-DS3-5/HP-DS3-5-11.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/00./HP-DS3-5/HP-DS3-5-3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/00./HP-DS3-5/HP-DS3-5-2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Складная двухконфорочная плита - мощное и компактное решение для кемпинга, дачи и выездов на природу. Мощность 7000W обеспечивает быстрый нагрев, две горелки подходят для сковороды и кастрюли одновременно. Удобный пьезоподжиг, бесступенчатая регулировка мощности и складной ветровой дефлектор гарантируют комфортное и безопасное приготовление на открытом воздухе. Складная конструкция с удобной ручкой занимает минимум места в багажнике.  Преимущества:   Мощность: 7000 Вт - быстрый нагрев Две конфорки для одновременного приготовления Пресс-разжигатель для надежного старта Бесступенчатая регулировка огня Складной ветрозащитный экран Компактные габариты и удобная ручка для переноски   Особенности:   Тип соединения: Выносной армированный шланг с резьбовым креплением (EPI-GAS) Рекомендуемое топливо: Газовые смеси пропан/бутан/изобутан в резьбовых баллонах Использование с другими баллонами: Разрешается подключение цанговых баллонов через адаптер (приобретается отдельно), однако при максимальной мощности возможно быстрое перегревание и обмерзание баллона.   Характеристики:   Мощность: 7000 Вт Материал: фторопластовая сталь, нержавеющая сталь, латунь, алюминиевый сплав Тип топлива: пропан/бутан/изобутан Размеры: 47*30*9 см Вес: 4 кг]]></description>
-<quantity_in_stock>42</quantity_in_stock>
-<vendorCode>HP-DS3-5</vendorCode>
-<param name="Высота">9</param>
-<param name="Вес">4</param>
-<param name="Типы топлива">Газ</param>
-<param name="Тип газа">Пропан/Бутан</param>
-<param name="Ширина">30</param>
-<param name="Пьезорозжиг">Да</param>
-<param name="Тип баллона">Цанговый</param>
-<param name="Цвет">Коричневый</param>
-<param name="Соединение баллона">Цанговое</param>
-<param name="Тип оборудования">Плита</param>
-<param name="Длина">47</param>
-<param name="Номинальная мощность">7000</param>
-<param name="Кейс для транспортировки">Да</param>
-<param name="Инструкция по эксплуатации">Да</param>
-</offer>
 <offer id="HP-16978-04" available="true">
 <name>Набор столовых ножей 6 штук из нержавеющей стали 23 см ножи столовые приборы сервировка HP-16978-04</name>
 <price>559</price>
@@ -49162,6 +49106,26 @@
 <param name="Материал ручки">дерево</param>
 <param name="Длина">50</param>
 <param name="Состояние">Новое</param>
+</offer>
+<offer id="HP-17-58" available="true">
+<name>Набор креманок Golden Martini 6 штук по 215 мл коктейльные HP-17-58</name>
+<price>589</price>
+<vendorprice>447</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>48</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-17-58/HP-17-58-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/72507/7158/nabor_bokalov_dlya_martini_golden_martini_6_shtuk_po_215_ml_kokteylnye_bokaly_klassicheskie_konusovidnye_dlya_napitkov_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-17-58/HP-17-58-2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Набор креманок Golden Martini состоит из 6 стеклянных креманок  объемом 215 мл, предназначенных для подачи мороженого, муссов, кремовых  десертов, фруктов, желе и других порционных блюд. Широкая конусообразная  чаша позволяет красиво оформить десерт, а прозрачное стекло дает  возможность полностью продемонстрировать слои и текстуру содержимого.  Набор станет практичным решением для домашнего использования,  праздничной сервировки и приема гостей. Особое внимание  привлекает рельефная поверхность чаши, украшенная рельефным узором из  мелких ромбов, создающим эффект «искрения». Фактура напоминает огранку  хрусталя и создает интересные световые отражения под разными углами  освещения. Благодаря широкому верхнему диаметру 11,7 см креманки  обеспечивают удобную подачу десертов с декором, фруктами, сливками или  топпингами. Изделия имеют высоту 14,7 см и установлены на изящной  ножке с устойчивым круглым основанием диаметром 7 см. Такая конструкция  обеспечивает комфортное использование и придает сервировке аккуратный  вид. Комплект из шести одинаковых креманок позволяет оформить подачу  десертов в едином стиле для всей компании или праздничного стола.  Характеристики:   Количество в наборе: 6 шт.  Объём: 215 мл  Высота: 14,7 см  Верхний диаметр: 11,7 см  Диаметр основания: 7 см  Форма чаши: конусная (Martini)  Материал: стекло]]></description>
+<quantity_in_stock>42</quantity_in_stock>
+<vendorCode>HP-17-58</vendorCode>
+<param name="Материал">Стекло</param>
+<param name="Высота">14.7</param>
+<param name="Верхний диаметр">11.7</param>
+<param name="Количество в наборе">6</param>
+<param name="Объем">215</param>
+<param name="Цвет">Прозрачный</param>
 </offer>
 <offer id="503-106-M-336BL" available="true">
 <name>Полотенце для кухни 34*74 см из микрофибры синий Colorful Home 503-106-M-336BL</name>
@@ -49771,6 +49735,42 @@
 <param name="Состояние">Новое</param>
 <param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-DS3-5" available="true">
+<name>Газовая плита портативная туристическая с пьезоподжигом для кемпинга, дачи и выездов на природу 7000 Вт HP-DS3-5</name>
+<price>4329</price>
+<vendorprice>3331</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>160</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/000/00./HP-DS3-5/HP-DS3-5-5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/00./HP-DS3-5/HP-DS3-5-6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/00./HP-DS3-5/HP-DS3-5-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/00./HP-DS3-5/HP-DS3-5-4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/00./HP-DS3-5/HP-DS3-5-7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/00./HP-DS3-5/HP-DS3-5-8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/00./HP-DS3-5/HP-DS3-5-9.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/00./HP-DS3-5/HP-DS3-5-10.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/00./HP-DS3-5/HP-DS3-5-11.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/00./HP-DS3-5/HP-DS3-5-3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/00./HP-DS3-5/HP-DS3-5-2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Складная двухконфорочная плита - мощное и компактное решение для кемпинга, дачи и выездов на природу. Мощность 7000W обеспечивает быстрый нагрев, две горелки подходят для сковороды и кастрюли одновременно. Удобный пьезоподжиг, бесступенчатая регулировка мощности и складной ветровой дефлектор гарантируют комфортное и безопасное приготовление на открытом воздухе. Складная конструкция с удобной ручкой занимает минимум места в багажнике.  Преимущества:   Мощность: 7000 Вт - быстрый нагрев Две конфорки для одновременного приготовления Пресс-разжигатель для надежного старта Бесступенчатая регулировка огня Складной ветрозащитный экран Компактные габариты и удобная ручка для переноски   Особенности:   Тип соединения: Выносной армированный шланг с резьбовым креплением (EPI-GAS) Рекомендуемое топливо: Газовые смеси пропан/бутан/изобутан в резьбовых баллонах Использование с другими баллонами: Разрешается подключение цанговых баллонов через адаптер (приобретается отдельно), однако при максимальной мощности возможно быстрое перегревание и обмерзание баллона.   Характеристики:   Мощность: 7000 Вт Материал: фторопластовая сталь, нержавеющая сталь, латунь, алюминиевый сплав Тип топлива: пропан/бутан/изобутан Размеры: 47*30*9 см Вес: 4 кг]]></description>
+<quantity_in_stock>41</quantity_in_stock>
+<vendorCode>HP-DS3-5</vendorCode>
+<param name="Высота">9</param>
+<param name="Вес">4</param>
+<param name="Типы топлива">Газ</param>
+<param name="Тип газа">Пропан/Бутан</param>
+<param name="Ширина">30</param>
+<param name="Пьезорозжиг">Да</param>
+<param name="Тип баллона">Цанговый</param>
+<param name="Цвет">Коричневый</param>
+<param name="Соединение баллона">Цанговое</param>
+<param name="Тип оборудования">Плита</param>
+<param name="Длина">47</param>
+<param name="Номинальная мощность">7000</param>
+<param name="Кейс для транспортировки">Да</param>
+<param name="Инструкция по эксплуатации">Да</param>
 </offer>
 <offer id="HP-16978-03" available="true">
 <name>Набор чайных ложек 6 штук из нержавеющей стали 14.5 см ложки чайные посуда нержавейка десерт кофе</name>
@@ -54803,30 +54803,6 @@
 <param name="Триммер для окантовки">Да</param>
 <param name="Щеточка для чистки">Да</param>
 </offer>
-<offer id="HP-8-26" available="true">
-<name>Набор столовых ножей 6 штук из нержавеющей стали 23 (см) Серебро HP-8-26</name>
-<price>419</price>
-<vendorprice>319</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>146</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4503/nabor_stolovyh_nozhey_6_shtuk_nozhi_servirovochnye_iz_nerzhaveyushchey_stali_23_sm_serebro.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4503/nabor_stolovyh_nozhey_6_shtuk_nozhi_servirovochnye_iz_nerzhaveyushchey_stali_23_sm_serebro_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4503/nabor_stolovyh_nozhey_6_shtuk_nozhi_servirovochnye_iz_nerzhaveyushchey_stali_23_sm_serebro_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4503/nabor_stolovyh_nozhey_6_shtuk_nozhi_servirovochnye_iz_nerzhaveyushchey_stali_23_sm_serebro_3.jpg</picture>
-<vendor>Ding Lanfang</vendor>
-<description><![CDATA[Набор столовых ножей включает 6 штук, упакованных в удобную блистерную упаковку для сохранности и транспортировки. Ножи имеют серебристое покрытие, которое придает им элегантный вид. Дизайн сочетает классические элементы с современными акцентами, создавая стильный и функциональный предмет на вашем столе.  Основные характеристики:   Количество предметов в наборе: 6 шт.; Количество персон: 6; Длина:       23 см; Материал: нержавеющая сталь; Упаковка: пакет.   Ножи идеально подходят для ежедневного использования во время приема пищи и для праздничных обедов. Их удобные ручки обеспечивают комфорт при пользовании, а размер лезвия оптимальный для нарезки различных блюд.  Для ухода рекомендуется использовать мягкие моющие средства, которые не повреждают покрытие и гравировку. После мытья стоит вытирать ножи до суха, чтобы сохранить их блеск и продлить срок службы изделия.]]></description>
-<quantity_in_stock>34</quantity_in_stock>
-<vendorCode>HP-8-26</vendorCode>
-<param name="Материал">Нержавеющая сталь</param>
-<param name="Количество в наборе">6</param>
-<param name="Тип ножа">Столовый</param>
-<param name="Материал ручки">нержавеющая сталь</param>
-<param name="Длина">23 см</param>
-<param name="Поверхность">Глянцевая</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Упаковка">Блистер</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-19-FX7" available="true">
 <name>Кувшин для напитков в комплекте со стаканами 7 предметов HP-19-FX7</name>
 <price>989</price>
@@ -55669,6 +55645,30 @@
 <param name="Цвет">Белый</param>
 <param name="Длина">310</param>
 <param name="Форма">Квадратная</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-8-26" available="true">
+<name>Набор столовых ножей 6 штук из нержавеющей стали 23 (см) Серебро HP-8-26</name>
+<price>419</price>
+<vendorprice>319</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>146</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4503/nabor_stolovyh_nozhey_6_shtuk_nozhi_servirovochnye_iz_nerzhaveyushchey_stali_23_sm_serebro.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4503/nabor_stolovyh_nozhey_6_shtuk_nozhi_servirovochnye_iz_nerzhaveyushchey_stali_23_sm_serebro_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4503/nabor_stolovyh_nozhey_6_shtuk_nozhi_servirovochnye_iz_nerzhaveyushchey_stali_23_sm_serebro_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4503/nabor_stolovyh_nozhey_6_shtuk_nozhi_servirovochnye_iz_nerzhaveyushchey_stali_23_sm_serebro_3.jpg</picture>
+<vendor>Ding Lanfang</vendor>
+<description><![CDATA[Набор столовых ножей включает 6 штук, упакованных в удобную блистерную упаковку для сохранности и транспортировки. Ножи имеют серебристое покрытие, которое придает им элегантный вид. Дизайн сочетает классические элементы с современными акцентами, создавая стильный и функциональный предмет на вашем столе.  Основные характеристики:   Количество предметов в наборе: 6 шт.; Количество персон: 6; Длина:       23 см; Материал: нержавеющая сталь; Упаковка: пакет.   Ножи идеально подходят для ежедневного использования во время приема пищи и для праздничных обедов. Их удобные ручки обеспечивают комфорт при пользовании, а размер лезвия оптимальный для нарезки различных блюд.  Для ухода рекомендуется использовать мягкие моющие средства, которые не повреждают покрытие и гравировку. После мытья стоит вытирать ножи до суха, чтобы сохранить их блеск и продлить срок службы изделия.]]></description>
+<quantity_in_stock>33</quantity_in_stock>
+<vendorCode>HP-8-26</vendorCode>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Количество в наборе">6</param>
+<param name="Тип ножа">Столовый</param>
+<param name="Материал ручки">нержавеющая сталь</param>
+<param name="Длина">23 см</param>
+<param name="Поверхность">Глянцевая</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Упаковка">Блистер</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-3Y-1GOLD" available="true">
@@ -92025,36 +92025,6 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="SK-05015" available="true">
-<name>Планетарный миксер Sokany 2000 Вт с чашей 8.5 л 6 режимов SK-05015</name>
-<price>10049</price>
-<vendorprice>7683</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>82</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6568/planetarnyy_mikser_sokany_2000_vt_s_chashey_8_5_l_6_rezhimov_skorosti_professionalnyy_testomes_kuhonnyy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6568/planetarnyy_mikser_sokany_2000_vt_s_chashey_8_5_l_6_rezhimov_skorosti_professionalnyy_testomes_kuhonnyy_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6568/planetarnyy_mikser_sokany_2000_vt_s_chashey_8_5_l_6_rezhimov_skorosti_professionalnyy_testomes_kuhonnyy_2.png</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Планетарный миксер SOKANY SK-05015 представляет собой универсальный кухонный прибор, предназначенный для широкого спектра задач. Эта модель сочетает в себе высокую мощность, вместительную чашу и удобную систему управления, что делает ее надежным помощником при приготовлении теста, взбивании кремов и других кулинарных процессов.  Основные характеристики планетарного миксера   Мощность: 2000 Вт; 6 режимов скорости; Объем чаши: 8.5 л; Количество насадок: 3 шт (венчик, крюк для теста, плоская насадка); Материал чаши: нержавеющая сталь; Материал корпуса: нержавеющая сталь+ пластик.   Особенности планетарного тестомеса:   Планетарное вращение насадок для равномерного смешивания; Вместительная чаша подходит для больших порций; Несколько скоростных режимов для разных типов ингредиентов; Сменные насадки для взбивания и замеса теста; Устойчивая конструкция для надежной работы без вибраций.   Чаша с крышкой с защитой от брызг и дополнительным отверстием обеспечивает чистоту и безопасность при работе с миксером. Ножки с присосками предотвращают скольжение миксера, обеспечивая стабильность во время работы. Планетарный миксер Sokany  &mdash; это идеальный выбор для тех, кто ценит качество, функциональность и легкость в использовании.]]></description>
-<quantity_in_stock>4</quantity_in_stock>
-<vendorCode>SK-05015</vendorCode>
-<param name="Венчики для взбивания">Да</param>
-<param name="Гарантийный срок">12</param>
-<param name="Потребляемая мощность">2000</param>
-<param name="Защита от случайного отсоединения насадок">Да</param>
-<param name="Защитная крышка на чашу">Да</param>
-<param name="Питание">Сеть 220В</param>
-<param name="Количество насадок">3</param>
-<param name="Импульсный режим">Нет</param>
-<param name="Количество скоростей">6</param>
-<param name="Материал корпуса">Нержавеющая сталь/Пластик</param>
-<param name="Материал чаши">Металл</param>
-<param name="Насадки для замеса теста">Да</param>
-<param name="Состояние">Новое</param>
-<param name="Объем чаши">8.5</param>
-<param name="Цвет корпуса">Нержавеющая сталь</param>
-<param name="Тип миксера">Планетарный</param>
-</offer>
 <offer id="SK-04031" available="true">
 <name>Кофеварка капсульная SOKANY SK-04031 700 мл</name>
 <url>https://lugi.com.ua/ru/kofevarka-kapsulnaya-sokany-sk-04031-s-adapterom-dlya-kapsul-600-ml/</url>
@@ -95448,6 +95418,36 @@ Sokany SK-6866 имеет вместительный резервуар для �
 <description><![CDATA[<p>Фарфоровое фигурное блюдо 36×20 см — элегантный сервировочный аксессуар для подачи закусок и горячих блюд, повседневного использования и праздничного стола. Элегантный классический дизайн, универсальный размер делают его идеальным для сервировки холодных и горячих блюд, закусок, нарезок и десертов.</p><p>Уход: рекомендуется мыть вручную или в посудомоечной машине на щадящем режиме; не использовать абразивов и жестких мочалок.</p><p><b>Характеристики:</b></p><ul><li>Материал: фарфор</li><li>Размер: 36*20 см</li></ul>]]></description>
 <quantity_in_stock>3</quantity_in_stock>
 <vendorCode>YY78-11A-5</vendorCode>
+</offer>
+<offer id="SK-05015" available="true">
+<name>Планетарный миксер Sokany 2000 Вт с чашей 8.5 л 6 режимов SK-05015</name>
+<price>10049</price>
+<vendorprice>7683</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>82</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6568/planetarnyy_mikser_sokany_2000_vt_s_chashey_8_5_l_6_rezhimov_skorosti_professionalnyy_testomes_kuhonnyy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6568/planetarnyy_mikser_sokany_2000_vt_s_chashey_8_5_l_6_rezhimov_skorosti_professionalnyy_testomes_kuhonnyy_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67162/6568/planetarnyy_mikser_sokany_2000_vt_s_chashey_8_5_l_6_rezhimov_skorosti_professionalnyy_testomes_kuhonnyy_2.png</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Планетарный миксер SOKANY SK-05015 представляет собой универсальный кухонный прибор, предназначенный для широкого спектра задач. Эта модель сочетает в себе высокую мощность, вместительную чашу и удобную систему управления, что делает ее надежным помощником при приготовлении теста, взбивании кремов и других кулинарных процессов.  Основные характеристики планетарного миксера   Мощность: 2000 Вт; 6 режимов скорости; Объем чаши: 8.5 л; Количество насадок: 3 шт (венчик, крюк для теста, плоская насадка); Материал чаши: нержавеющая сталь; Материал корпуса: нержавеющая сталь+ пластик.   Особенности планетарного тестомеса:   Планетарное вращение насадок для равномерного смешивания; Вместительная чаша подходит для больших порций; Несколько скоростных режимов для разных типов ингредиентов; Сменные насадки для взбивания и замеса теста; Устойчивая конструкция для надежной работы без вибраций.   Чаша с крышкой с защитой от брызг и дополнительным отверстием обеспечивает чистоту и безопасность при работе с миксером. Ножки с присосками предотвращают скольжение миксера, обеспечивая стабильность во время работы. Планетарный миксер Sokany  &mdash; это идеальный выбор для тех, кто ценит качество, функциональность и легкость в использовании.]]></description>
+<quantity_in_stock>3</quantity_in_stock>
+<vendorCode>SK-05015</vendorCode>
+<param name="Венчики для взбивания">Да</param>
+<param name="Гарантийный срок">12</param>
+<param name="Потребляемая мощность">2000</param>
+<param name="Защита от случайного отсоединения насадок">Да</param>
+<param name="Защитная крышка на чашу">Да</param>
+<param name="Питание">Сеть 220В</param>
+<param name="Количество насадок">3</param>
+<param name="Импульсный режим">Нет</param>
+<param name="Количество скоростей">6</param>
+<param name="Материал корпуса">Нержавеющая сталь/Пластик</param>
+<param name="Материал чаши">Металл</param>
+<param name="Насадки для замеса теста">Да</param>
+<param name="Состояние">Новое</param>
+<param name="Объем чаши">8.5</param>
+<param name="Цвет корпуса">Нержавеющая сталь</param>
+<param name="Тип миксера">Планетарный</param>
 </offer>
 <offer id="HP-19-165" available="true">
 <name>Набор бокалов столовых Crushed Ice 6 штук по 340 мл</name>
