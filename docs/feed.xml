@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-05 23:49">
+<yml_catalog date="2026-10-06 04:14">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -25780,29 +25780,6 @@
 <param name="Гарантия">14 дней</param>
 <param name="Чехол для хранения и транспортировки">Нет</param>
 </offer>
-<offer id="SK-19041" available="true">
-<name>Электронная мерная ложка с дисплеем Sokany SK-19041, кухонная ложка с весами для точного взвешивания ингредиентов</name>
-<price>249</price>
-<vendorprice>188</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4375/elektronnaya_mernaya_lozhka_s_displeem_sokany_sk_19041_kuhonnaya_lozhka_s_vesami.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4375/elektronnaya_mernaya_lozhka_s_displeem_sokany_sk_19041_kuhonnaya_lozhka_s_vesami_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4375/elektronnaya_mernaya_lozhka_s_displeem_sokany_sk_19041_kuhonnaya_lozhka_s_vesami_2.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4375/elektronnaya_mernaya_lozhka_s_displeem_sokany_sk_19041_kuhonnaya_lozhka_s_vesami_3.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4375/elektronnaya_mernaya_lozhka_s_displeem_sokany_sk_19041_kuhonnaya_lozhka_s_vesami_4.png</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Электронная ложка весы Sokany SK-19041 &mdash; это компактный и удобный кухонный гаджет для точного взвешивания сыпучих и жидких ингредиентов. Подходит для кулинарии, диетического питания и порционного приготовления. Благодаря высокой чувствительности и цифровому дисплею, прибор обеспечит точность даже при взвешивании самых лёгких компонентов. Характеристики цифровой ложки-весов Sokany SK-19041  тип устройства: кухонные электронные весы-ложка; размер: 23&times;5.5&times;2 см; объем: 30 мл; максимальный вес: 500 г; точность измерения: 0.1 г; дисплей: цифровой LCD; материал: пластик; питание: батарейки AAA-2шт; функции: автоматическое отключение; компактный дизайн: удобно использовать и хранить.  Преимущества ложки SK-19041  Высокая точность: измерение от 0.1 г позволяет использовать ложку для специй и добавок. Универсальность: подходит для сыпучих, жидких и порошкообразных продуктов. Лёгкость в использовании: интуитивное управление одной кнопкой. Компактность: не занимает много места на кухне. Идеально для диет и рецептов: удобно следить за точным дозированием ингредиентов. Цифровой дисплей: обеспечивает чёткую и быструю индикацию веса.  Электронная ложка весы Sokany SK-19041 &mdash; идеальный выбор для тех, кто ценит точность и удобство на кухне. Подходит как для домашних кулинаров, так и для профессионального использования в HoReCa-сегменте. Купить цифровые ложки-весы Sokany можно с быстрой доставкой по Украине. Продукция поставляется в фирменной упаковке, отлично подходит для подарка и ежедневного использования.]]></description>
-<quantity_in_stock>94</quantity_in_stock>
-<vendorCode>SK-19041</vendorCode>
-<param name="Материал">Пластик</param>
-<param name="Назначение">Для жидкости и сыпучих продуктов</param>
-<param name="Мерная единица шкалы">Грамм</param>
-<param name="Объем">30</param>
-<param name="Цвет">Белый</param>
-<param name="Подходит для мытья в посудомоечной машине">Нет</param>
-<param name="Тип емкости">Мерная ложка</param>
-</offer>
 <offer id="SCT-660" available="true">
 <name>Набор фарфоровых банок 3шт 180мл на подставке для чая кофе сахара серый, контейнеры сыпучие продукты мини размер кухня</name>
 <price>729</price>
@@ -26223,6 +26200,29 @@
 <param name="Состояние">Новое</param>
 <param name="Форма">Круглая</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="SK-19041" available="true">
+<name>Электронная мерная ложка с дисплеем Sokany SK-19041, кухонная ложка с весами для точного взвешивания ингредиентов</name>
+<price>249</price>
+<vendorprice>188</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4375/elektronnaya_mernaya_lozhka_s_displeem_sokany_sk_19041_kuhonnaya_lozhka_s_vesami.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4375/elektronnaya_mernaya_lozhka_s_displeem_sokany_sk_19041_kuhonnaya_lozhka_s_vesami_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4375/elektronnaya_mernaya_lozhka_s_displeem_sokany_sk_19041_kuhonnaya_lozhka_s_vesami_2.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4375/elektronnaya_mernaya_lozhka_s_displeem_sokany_sk_19041_kuhonnaya_lozhka_s_vesami_3.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4375/elektronnaya_mernaya_lozhka_s_displeem_sokany_sk_19041_kuhonnaya_lozhka_s_vesami_4.png</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Электронная ложка весы Sokany SK-19041 &mdash; это компактный и удобный кухонный гаджет для точного взвешивания сыпучих и жидких ингредиентов. Подходит для кулинарии, диетического питания и порционного приготовления. Благодаря высокой чувствительности и цифровому дисплею, прибор обеспечит точность даже при взвешивании самых лёгких компонентов. Характеристики цифровой ложки-весов Sokany SK-19041  тип устройства: кухонные электронные весы-ложка; размер: 23&times;5.5&times;2 см; объем: 30 мл; максимальный вес: 500 г; точность измерения: 0.1 г; дисплей: цифровой LCD; материал: пластик; питание: батарейки AAA-2шт; функции: автоматическое отключение; компактный дизайн: удобно использовать и хранить.  Преимущества ложки SK-19041  Высокая точность: измерение от 0.1 г позволяет использовать ложку для специй и добавок. Универсальность: подходит для сыпучих, жидких и порошкообразных продуктов. Лёгкость в использовании: интуитивное управление одной кнопкой. Компактность: не занимает много места на кухне. Идеально для диет и рецептов: удобно следить за точным дозированием ингредиентов. Цифровой дисплей: обеспечивает чёткую и быструю индикацию веса.  Электронная ложка весы Sokany SK-19041 &mdash; идеальный выбор для тех, кто ценит точность и удобство на кухне. Подходит как для домашних кулинаров, так и для профессионального использования в HoReCa-сегменте. Купить цифровые ложки-весы Sokany можно с быстрой доставкой по Украине. Продукция поставляется в фирменной упаковке, отлично подходит для подарка и ежедневного использования.]]></description>
+<quantity_in_stock>93</quantity_in_stock>
+<vendorCode>SK-19041</vendorCode>
+<param name="Материал">Пластик</param>
+<param name="Назначение">Для жидкости и сыпучих продуктов</param>
+<param name="Мерная единица шкалы">Грамм</param>
+<param name="Объем">30</param>
+<param name="Цвет">Белый</param>
+<param name="Подходит для мытья в посудомоечной машине">Нет</param>
+<param name="Тип емкости">Мерная ложка</param>
 </offer>
 <offer id="HP-41-3" available="true">
 <name>Корзина для белья текстильная 50 л с металлическим каркасом складная на подставке мягкая корзина для стирки контейнер для одежды</name>
