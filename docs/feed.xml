@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-13 22:22">
+<yml_catalog date="2026-10-14 03:02">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -4235,7 +4235,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4757/nasadka_smennaya_dlya_shvabry_pryamougolnaya_iz_mikrofibry_dlya_suhoy_i_vlazhnoy_uborki_pola_laminirovannyh_pokrytiy_3.jpg</picture>
 <vendor>Household</vendor>
 <description><![CDATA[Эта сменная насадка разработана для швабр с прямоугольной платформой. Она изготовлена из мягкого текстильного материала с рельефной поверхностью, которая обеспечивает эффективное удаление пыли, мелкого мусора и влаги. Закругленные края помогают избежать зацепов за мебель и плинтусы в процессе уборки.  Обратная сторона оснащена удобным креплением, совместимым с большинством стандартных платформ для швабр. Материал выдерживает многократные стирки, не теряя структуры и впитывающих свойств. Насадка плотно фиксируется на основании, не скользит при движении и сохраняет форму даже после длительного использования.  Характеристики насадки для швабры:   Вес: 0,2 кг; Габариты товара: 40&times;13&times;1 см.   Преимущества насадки для швабры:   эффективное удаление пыли, влаги и мелкого мусора; закругленные края для бережной уборки возле мебели и плинтусов; универсальное крепление для стандартных платформ; стойкость к многократным стиркам без потери свойств; подходит для сухой и влажной уборки; оптимальна для дома и офиса.   Подходит для ухода за ламинированным полом, плиткой, линолеумом и другими гладкими покрытиями. Может применяться как для сухой, так и для влажной уборки, с водой или нейтральными моющими средствами. Рекомендуется для ежедневного использования в жилых и офисных помещениях.]]></description>
-<quantity_in_stock>1241</quantity_in_stock>
+<quantity_in_stock>1239</quantity_in_stock>
 <vendorCode>HP-35015-54</vendorCode>
 <param name="Материал насадки">Микрофибра</param>
 <param name="Наличие механизма отжима">Нет</param>
@@ -16769,6 +16769,25 @@
 <param name="Материал">Стекло</param>
 <param name="Гарантия">14 дней</param>
 </offer>
+<offer id="HP-42-193" available="true">
+<name>Коврик диатомитовый для сушки посуды Beauties 40*30 см Yiwu HP-42-193</name>
+<price>139</price>
+<vendorprice>89</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>51</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-42-193/HP-42-193_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7623/kovrik_diatomitovyy_dlya_sushki_posudy_beauties_40_30_sm_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-42-193/HP-42-193_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-42-193/HP-42-193_2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Универсальный коврик из диатомита для кухонной столешницы. Быстро впитывает влагу от мокрой посуды, кружек и столовых приборов, оставляя рабочую поверхность сухой и чистой. Нескользящее основание надежно удерживает коврик на столе, не позволяя ему съезжать. Благодаря мягкости и эластичности материала его легко сворачивать для хранения. Характеристики  Размер: 30 × 40 см Основа: диатомит Уход: очистка водой или влажной салфеткой]]></description>
+<quantity_in_stock>176</quantity_in_stock>
+<vendorCode>HP-42-193</vendorCode>
+<param name="Материал">Диатомит</param>
+<param name="Ширина">30</param>
+<param name="Количество в наборе">1</param>
+<param name="Длина">40</param>
+</offer>
 <offer id="HP-42-66" available="true">
 <name>Коврик универсальный диатомитовый Vein 58*38 см прямоугольный Yiwu HP-42-66</name>
 <price>199</price>
@@ -16958,25 +16977,6 @@
 <param name="Цвет">Черный</param>
 <param name="Длина">58</param>
 <param name="Форма">Прямоугольная</param>
-</offer>
-<offer id="HP-42-193" available="true">
-<name>Коврик диатомитовый для сушки посуды Beauties 40*30 см Yiwu HP-42-193</name>
-<price>139</price>
-<vendorprice>89</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>51</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-42-193/HP-42-193_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7623/kovrik_diatomitovyy_dlya_sushki_posudy_beauties_40_30_sm_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-42-193/HP-42-193_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-42-193/HP-42-193_2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Универсальный коврик из диатомита для кухонной столешницы. Быстро впитывает влагу от мокрой посуды, кружек и столовых приборов, оставляя рабочую поверхность сухой и чистой. Нескользящее основание надежно удерживает коврик на столе, не позволяя ему съезжать. Благодаря мягкости и эластичности материала его легко сворачивать для хранения. Характеристики  Размер: 30 × 40 см Основа: диатомит Уход: очистка водой или влажной салфеткой]]></description>
-<quantity_in_stock>175</quantity_in_stock>
-<vendorCode>HP-42-193</vendorCode>
-<param name="Материал">Диатомит</param>
-<param name="Ширина">30</param>
-<param name="Количество в наборе">1</param>
-<param name="Длина">40</param>
 </offer>
 <offer id="YYSH1226" available="true">
 <name>Салатница фарфоровая Aurelia прямоугольная 22*14*6,3 см с золотым декором Yiwu YYSH1226</name>
@@ -35828,6 +35828,45 @@
 <param name="Терморегулятор">Есть</param>
 <param name="Тип управления">Механическое</param>
 </offer>
+<offer id="SK3391R" available="true">
+<name>Пылесос аккумуляторный ручной Sokany вертикальный беспроводной для сухой уборки 2 скорости 2000 Вт SK3391R</name>
+<price>7309</price>
+<vendorprice>5586</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>101</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../1733053ML/LU-BD18G/SK3391R-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4333/pylesos_akkumulyatornyy_ruchnoy_sokany_vertikalnyy_besprovodnoy_dlya_suhoy_uborki_2_skorosti_2000_vt_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4333/pylesos_akkumulyatornyy_ruchnoy_sokany_vertikalnyy_besprovodnoy_dlya_suhoy_uborki_2_skorosti_2000_vt_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4333/pylesos_akkumulyatornyy_ruchnoy_sokany_vertikalnyy_besprovodnoy_dlya_suhoy_uborki_2_skorosti_2000_vt_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4333/pylesos_akkumulyatornyy_ruchnoy_sokany_vertikalnyy_besprovodnoy_dlya_suhoy_uborki_2_skorosti_2000_vt_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4333/pylesos_akkumulyatornyy_ruchnoy_sokany_vertikalnyy_besprovodnoy_dlya_suhoy_uborki_2_skorosti_2000_vt_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4333/pylesos_akkumulyatornyy_ruchnoy_sokany_vertikalnyy_besprovodnoy_dlya_suhoy_uborki_2_skorosti_2000_vt_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4333/pylesos_akkumulyatornyy_ruchnoy_sokany_vertikalnyy_besprovodnoy_dlya_suhoy_uborki_2_skorosti_2000_vt_7.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Вертикальный пылесос SOKANY &ndash; это усовершенствованный прибор, который поможет быстро справиться с уборкой в доме. С ним вы без особого труда очистите ковры и ковровые покрытия, мебель, деревянные полы, плитку и другие поверхности. Ручной пылесос на аккумуляторе Sokany обеспечит быструю и качественную уборку в любом помещении. Вертикальный пылесос оснащен мощным аккумулятором. Этот пылесос обеспечит вам до 40 минут работы в обычном режиме и 20 минут в максимальном.  Основные характеристики вертикального пылесоса   мощность 2000 (Вт); уровень шума 70 (дБ); объем пылесборника 0.8 (л); время работы на аккумуляторе 40 (мин); HEPA-фильтр для очистки всасываемого воздуха от мелких частиц пыли   Беспроводной пылесос не только убирает грязь, но и заботится о качестве воздуха в вашем помещении. Благодаря встроенному HEPA-фильтру, пылесос очищает всасываемый воздух от мельчайших частиц пыли, обеспечивая вам свежий и здоровый микроклимат в вашем доме.  Особенности колбового вертикального пылесоса:   Работает от аккумулятора. Компактный и манёвренный. Благодаря небольшим размерам пылесос очень удобен в использовании и хранении. Руки не устают во время уборки, он не занимает много места и экономит свободное пространство. Этот прибор станет настоящей находкой для владельцев как больших, так и маленьких квартир. Фильтр высокой эффективности Вертикальный пылесос оборудован специальным фильтром с технологией фильтрации HEPA (High Efficiency Particulate Arrestance - высокоэффективное удержание частиц). Такой фильтр задерживает частицы любого размера - он помогает эффективно улавливать даже микрочастицы пыли, грязи и различные аллергенные элементы. Встроенный контейнер позволит использовать пылесос без дополнительных мешков для мусора. Пылесборник с фильтром очень прост в уходе: различные загрязнения легко убрать, достаточно просто промыть контейнер. Вертикальный и ручной режим. Вертикальный пылесос поможет убрать любой уголок в вашем доме. Стандартное положение пылесоса с основной насадкой обеспечит мощное всасывание грязи. Вы с легкостью уберете крошки на кухне, волосы с коврика в ванной, пыль под диваном и многое другое.   Используя дополнительные насадки, вы сможете пропылесосить все труднодоступные места. Теперь, чтобы сделать экспресс уборку, не придется возиться с целым пылесосом! Отсоедините длинную ручку - и пылесос превратится в компактный ручной девайс, который поможет очистить книжные полки от пыли, мусор со стола, и даже пропылесосить мебель.]]></description>
+<quantity_in_stock>78</quantity_in_stock>
+<vendorCode>SK3391R</vendorCode>
+<param name="Тип">Вертикальный+портативный</param>
+<param name="Гарантийный срок">12</param>
+<param name="Вес">3.9</param>
+<param name="Время заряда аккумулятора">3</param>
+<param name="Дополнительная комплектация">Насадка-щетка для мебели|Щелевая насадка</param>
+<param name="Время работы от аккумулятора">40</param>
+<param name="Объем пылесборника">0.85</param>
+<param name="Количество щеток в комплекте">3</param>
+<param name="Особенности">Вертикальная парковка|Регулировка мощности всасывания</param>
+<param name="Питание">Аккумулятор</param>
+<param name="Тип уборки">Сухая</param>
+<param name="Материал корпуса">Металл|Пластик</param>
+<param name="Положение регулятора мощности всасывания">корпус</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Красный</param>
+<param name="Тип выходного фильтра">HEPA (фильтр тонкой очистки)</param>
+<param name="Уровень шума">70</param>
+<param name="Тип аккумулятора">Li-Ion</param>
+<param name="Тип трубы всасывания">Цельная</param>
+<param name="Фильтр тонкой очистки">Да</param>
+</offer>
 <offer id="HP604" available="true">
 <name>Тарелка глубокая квадратная из фарфора 13.5*13.5 см HP604</name>
 <price>219</price>
@@ -36176,45 +36215,6 @@
 <param name="Формат изображения">Широкоэкранный (16:9)</param>
 <param name="Цвет свечения">Белый</param>
 <param name="Тип лампы">LED</param>
-</offer>
-<offer id="SK3391R" available="true">
-<name>Пылесос аккумуляторный ручной Sokany вертикальный беспроводной для сухой уборки 2 скорости 2000 Вт SK3391R</name>
-<price>7309</price>
-<vendorprice>5586</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>101</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../1733053ML/LU-BD18G/SK3391R-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4333/pylesos_akkumulyatornyy_ruchnoy_sokany_vertikalnyy_besprovodnoy_dlya_suhoy_uborki_2_skorosti_2000_vt_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4333/pylesos_akkumulyatornyy_ruchnoy_sokany_vertikalnyy_besprovodnoy_dlya_suhoy_uborki_2_skorosti_2000_vt_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4333/pylesos_akkumulyatornyy_ruchnoy_sokany_vertikalnyy_besprovodnoy_dlya_suhoy_uborki_2_skorosti_2000_vt_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4333/pylesos_akkumulyatornyy_ruchnoy_sokany_vertikalnyy_besprovodnoy_dlya_suhoy_uborki_2_skorosti_2000_vt_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4333/pylesos_akkumulyatornyy_ruchnoy_sokany_vertikalnyy_besprovodnoy_dlya_suhoy_uborki_2_skorosti_2000_vt_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4333/pylesos_akkumulyatornyy_ruchnoy_sokany_vertikalnyy_besprovodnoy_dlya_suhoy_uborki_2_skorosti_2000_vt_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/56732/4333/pylesos_akkumulyatornyy_ruchnoy_sokany_vertikalnyy_besprovodnoy_dlya_suhoy_uborki_2_skorosti_2000_vt_7.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Вертикальный пылесос SOKANY &ndash; это усовершенствованный прибор, который поможет быстро справиться с уборкой в доме. С ним вы без особого труда очистите ковры и ковровые покрытия, мебель, деревянные полы, плитку и другие поверхности. Ручной пылесос на аккумуляторе Sokany обеспечит быструю и качественную уборку в любом помещении. Вертикальный пылесос оснащен мощным аккумулятором. Этот пылесос обеспечит вам до 40 минут работы в обычном режиме и 20 минут в максимальном.  Основные характеристики вертикального пылесоса   мощность 2000 (Вт); уровень шума 70 (дБ); объем пылесборника 0.8 (л); время работы на аккумуляторе 40 (мин); HEPA-фильтр для очистки всасываемого воздуха от мелких частиц пыли   Беспроводной пылесос не только убирает грязь, но и заботится о качестве воздуха в вашем помещении. Благодаря встроенному HEPA-фильтру, пылесос очищает всасываемый воздух от мельчайших частиц пыли, обеспечивая вам свежий и здоровый микроклимат в вашем доме.  Особенности колбового вертикального пылесоса:   Работает от аккумулятора. Компактный и манёвренный. Благодаря небольшим размерам пылесос очень удобен в использовании и хранении. Руки не устают во время уборки, он не занимает много места и экономит свободное пространство. Этот прибор станет настоящей находкой для владельцев как больших, так и маленьких квартир. Фильтр высокой эффективности Вертикальный пылесос оборудован специальным фильтром с технологией фильтрации HEPA (High Efficiency Particulate Arrestance - высокоэффективное удержание частиц). Такой фильтр задерживает частицы любого размера - он помогает эффективно улавливать даже микрочастицы пыли, грязи и различные аллергенные элементы. Встроенный контейнер позволит использовать пылесос без дополнительных мешков для мусора. Пылесборник с фильтром очень прост в уходе: различные загрязнения легко убрать, достаточно просто промыть контейнер. Вертикальный и ручной режим. Вертикальный пылесос поможет убрать любой уголок в вашем доме. Стандартное положение пылесоса с основной насадкой обеспечит мощное всасывание грязи. Вы с легкостью уберете крошки на кухне, волосы с коврика в ванной, пыль под диваном и многое другое.   Используя дополнительные насадки, вы сможете пропылесосить все труднодоступные места. Теперь, чтобы сделать экспресс уборку, не придется возиться с целым пылесосом! Отсоедините длинную ручку - и пылесос превратится в компактный ручной девайс, который поможет очистить книжные полки от пыли, мусор со стола, и даже пропылесосить мебель.]]></description>
-<quantity_in_stock>77</quantity_in_stock>
-<vendorCode>SK3391R</vendorCode>
-<param name="Тип">Вертикальный+портативный</param>
-<param name="Гарантийный срок">12</param>
-<param name="Вес">3.9</param>
-<param name="Время заряда аккумулятора">3</param>
-<param name="Дополнительная комплектация">Насадка-щетка для мебели|Щелевая насадка</param>
-<param name="Время работы от аккумулятора">40</param>
-<param name="Объем пылесборника">0.85</param>
-<param name="Количество щеток в комплекте">3</param>
-<param name="Особенности">Вертикальная парковка|Регулировка мощности всасывания</param>
-<param name="Питание">Аккумулятор</param>
-<param name="Тип уборки">Сухая</param>
-<param name="Материал корпуса">Металл|Пластик</param>
-<param name="Положение регулятора мощности всасывания">корпус</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Красный</param>
-<param name="Тип выходного фильтра">HEPA (фильтр тонкой очистки)</param>
-<param name="Уровень шума">70</param>
-<param name="Тип аккумулятора">Li-Ion</param>
-<param name="Тип трубы всасывания">Цельная</param>
-<param name="Фильтр тонкой очистки">Да</param>
 </offer>
 <offer id="HP531FS1030Y" available="true">
 <name>Банки для сыпучих продуктов набор из 3 шт на металической подставке HP531FS1030Y</name>
@@ -78730,31 +78730,6 @@
 <param name="Состояние">Новое</param>
 <param name="Форма">Квадратная</param>
 </offer>
-<offer id="HP-5-36" available="true">
-<name>Сетевой фильтр-удлинитель 3 розетки 3хUSB-A 1xUSB-C 5м черный HP-5-36</name>
-<price>569</price>
-<vendorprice>439</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>79</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6988/setevoy_filtr_udlinitel_3_rozetki_3husb_a_1xusb_c_5m_chernyy_udlinitel_elektricheskoe_pitanie_zaryadka.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8342.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8345.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8347.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8344.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Сетевой фильтр-удлинитель черного цвета с тремя розетками, тремя USB-A портами и одним USB-C портом создан для универсального подключения бытовой техники и зарядки современных мобильных устройств в одном месте. Формат 3 розетки плюс 3 USB-A плюс 1 USB-C позволяет максимально оптимизировать использование доступного пространства и значительно уменьшить количество отдельных адаптеров, занимающих розетки. Кабель питания длиной 5 метров обеспечивает исключительную гибкость в размещении подключаемых устройств на большом расстоянии от основной стационарной точки электроснабжения, что особенно важно для просторных помещений, офисных зон и студий. Особенности сетевого фильтра-удлинителя:  Компактный вертикальный формат корпуса с тремя стандартными евророзетками — гарантирует надежное и стабильное подключение разнообразной бытовой техники и электронных приборов; Три USB-A порта и один современный USB-C порт на передней панели — дают возможность одновременно заряжать смартфоны, планшеты, беспроводные наушники, внешние аккумуляторы и другие цифровые гаджеты, включая устройства с новейшими интерфейсами зарядки; Кнопка питания с индикатором — обеспечивает быстрое и удобное отключение электропитания всех подключенных устройств одновременно одним нажатием, что экономит электроэнергию и повышает безопасность использования; Продуманное эргономичное расположение розеток и USB-портов — конструкция спроектирована таким образом, что при одновременном подключении нескольких устройств они не блокируют доступ друг к другу и не создают неудобств.  Характеристики сетевого фильтра-удлинителя:  Тип: сетевой фильтр-удлинитель; Количество выходных розеток: 3 шт.; Количество USB-портов: 3 шт. USB-A, 1 шт. USB-C; Длина кабеля: 5 м; Длина шнура: 5 м; Тип розеток: европейский стандарт; Кнопка питания: да, с индикатором; Входная вилка: евро; Выходная розетка: евро; Цвет корпуса: черный; Тип устройства: мережевий фільтр-подовжувач; Состояние: новый.  Удлинитель идеально подходит для использования в домашних условиях, офисных пространствах или учебных помещениях. Это оптимальное решение для организации эргономичного рабочего места или удобной зоны отдыха, где требуется одновременное подключение большого количества электронных устройств и современных гаджетов с различными типами зарядных портов.]]></description>
-<quantity_in_stock>16</quantity_in_stock>
-<vendorCode>HP-5-36</vendorCode>
-<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
-<param name="Длина шнура">5</param>
-<param name="Количество выходных розеток">3</param>
-<param name="Выключатель">Да</param>
-<param name="Входная вилка">ЕURO</param>
-<param name="Выходная розетка">Евро</param>
-<param name="Длина провода">5</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Черный</param>
-</offer>
 <offer id="509-33P" available="true">
 <name>Игрушка-подушка Медведь с малышом и пледом 110х140 см розовый 509-33P</name>
 <price>999</price>
@@ -79856,6 +79831,31 @@
 <param name="Подходит для мытья в посудомоечной машине">Нет</param>
 <param name="Тип емкости">Лимонадница</param>
 <param name="Нижний диаметр">20</param>
+</offer>
+<offer id="HP-5-36" available="true">
+<name>Сетевой фильтр-удлинитель 3 розетки 3хUSB-A 1xUSB-C 5м черный HP-5-36</name>
+<price>569</price>
+<vendorprice>439</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>79</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6988/setevoy_filtr_udlinitel_3_rozetki_3husb_a_1xusb_c_5m_chernyy_udlinitel_elektricheskoe_pitanie_zaryadka.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8342.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8345.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8347.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-5-36/_T5B8344.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Сетевой фильтр-удлинитель черного цвета с тремя розетками, тремя USB-A портами и одним USB-C портом создан для универсального подключения бытовой техники и зарядки современных мобильных устройств в одном месте. Формат 3 розетки плюс 3 USB-A плюс 1 USB-C позволяет максимально оптимизировать использование доступного пространства и значительно уменьшить количество отдельных адаптеров, занимающих розетки. Кабель питания длиной 5 метров обеспечивает исключительную гибкость в размещении подключаемых устройств на большом расстоянии от основной стационарной точки электроснабжения, что особенно важно для просторных помещений, офисных зон и студий. Особенности сетевого фильтра-удлинителя:  Компактный вертикальный формат корпуса с тремя стандартными евророзетками — гарантирует надежное и стабильное подключение разнообразной бытовой техники и электронных приборов; Три USB-A порта и один современный USB-C порт на передней панели — дают возможность одновременно заряжать смартфоны, планшеты, беспроводные наушники, внешние аккумуляторы и другие цифровые гаджеты, включая устройства с новейшими интерфейсами зарядки; Кнопка питания с индикатором — обеспечивает быстрое и удобное отключение электропитания всех подключенных устройств одновременно одним нажатием, что экономит электроэнергию и повышает безопасность использования; Продуманное эргономичное расположение розеток и USB-портов — конструкция спроектирована таким образом, что при одновременном подключении нескольких устройств они не блокируют доступ друг к другу и не создают неудобств.  Характеристики сетевого фильтра-удлинителя:  Тип: сетевой фильтр-удлинитель; Количество выходных розеток: 3 шт.; Количество USB-портов: 3 шт. USB-A, 1 шт. USB-C; Длина кабеля: 5 м; Длина шнура: 5 м; Тип розеток: европейский стандарт; Кнопка питания: да, с индикатором; Входная вилка: евро; Выходная розетка: евро; Цвет корпуса: черный; Тип устройства: мережевий фільтр-подовжувач; Состояние: новый.  Удлинитель идеально подходит для использования в домашних условиях, офисных пространствах или учебных помещениях. Это оптимальное решение для организации эргономичного рабочего места или удобной зоны отдыха, где требуется одновременное подключение большого количества электронных устройств и современных гаджетов с различными типами зарядных портов.]]></description>
+<quantity_in_stock>15</quantity_in_stock>
+<vendorCode>HP-5-36</vendorCode>
+<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+<param name="Длина шнура">5</param>
+<param name="Количество выходных розеток">3</param>
+<param name="Выключатель">Да</param>
+<param name="Входная вилка">ЕURO</param>
+<param name="Выходная розетка">Евро</param>
+<param name="Длина провода">5</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Черный</param>
 </offer>
 <offer id="500-132-B-96BE" available="true">
 <name>Банное полотенце хлопковое 48*90 см бежевый Colorful Home 500-132-B-96BE</name>
@@ -92190,6 +92190,28 @@
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
+<offer id="HP-42-2" available="true">
+<name>Коврик для сушки посуды Garden 58*58 см диатомитовый HP-42-2</name>
+<price>259</price>
+<vendorprice>198</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>51</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6453/zashchitnyy_kovrik_na_stiralnuyu_mashinu_iz_diatomita_garden_58_58_sm_vlagopogloshchayushchiy_kovrik_iz_diatomita_dlya_vannoy_komnaty.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6453/zashchitnyy_kovrik_na_stiralnuyu_mashinu_iz_diatomita_garden_58_58_sm_vlagopogloshchayushchiy_kovrik_iz_diatomita_dlya_vannoy_komnaty_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6453/zashchitnyy_kovrik_na_stiralnuyu_mashinu_iz_diatomita_garden_58_58_sm_vlagopogloshchayushchiy_kovrik_iz_diatomita_dlya_vannoy_komnaty_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6453/zashchitnyy_kovrik_na_stiralnuyu_mashinu_iz_diatomita_garden_58_58_sm_vlagopogloshchayushchiy_kovrik_iz_diatomita_dlya_vannoy_komnaty_3.jpg</picture>
+<description><![CDATA[Поверхность стиральной машины часто используется как дополнительная полка: здесь стоят порошки, кондиционеры, корзины и разные мелочи. При этом на технике регулярно остаются капли воды, следы от моющих средств и разводы. Диатомитовый коврик помогает решить эту проблему &mdash; он впитывает влагу, защищает поверхность от пятен и сохраняет аккуратный внешний вид техники.  Коврик изготовлен из натурального диатомита &mdash; материала с высокой влагопоглощающей способностью. Он быстро впитывает капли воды и остатки жидких средств, а затем так же быстро высыхает благодаря пористой структуре. Это помогает избежать сырости, липких следов и неприятных запахов в зоне стирки.  Коврик также делает хранение бытовой химии более удобным: флаконы стоят устойчиво, не скользят и не оставляют следов на корпусе стиральной машины.  Характеристики защитного коврика для стиральной машины:   Габариты &mdash; 58&times;57 см; Материал &mdash; диатомит; Влагоабсорбирующие свойства &mdash; да; Прорезиненная основа &mdash; да; Назначение &mdash; для стиральной машины.   Преимущества коврика в ванную комнату для стиральной машины:   эффективно поглощает влагу и защищает поверхности от загрязнений; снижает уровень вибраций и шума во время работы техники; устойчивая прорезиненная основа предотвращает скольжение; универсальность &mdash; подходит для стиральных, сушильных, посудомоечных машин и другой техники; компактные размеры и современный дизайн &mdash; удобно разместить в ванной или прачечной.   Такой защитный коврик станет надежным помощником в уходе за вашей бытовой техникой, продлит срок её службы и добавит удобства в повседневном использовании.]]></description>
+<quantity_in_stock>6</quantity_in_stock>
+<vendorCode>HP-42-2</vendorCode>
+<param name="Тип">Коврик для ванной</param>
+<param name="Подходит для пола с подогревом">Да</param>
+<param name="Ширина">58</param>
+<param name="Количество в наборе">1</param>
+<param name="Цвет">Черный</param>
+<param name="Длина">58</param>
+<param name="Тематика декора, рисунка">Растения, цветы</param>
+<param name="Форма">Квадратная</param>
+</offer>
 <offer id="7090Y" available="true">
 <name>Мягкая игрушка-подушка с пледом Хомяк 110×160 (см) плюшевый детский плед 3в1 Желтый 7090Y</name>
 <price>739</price>
@@ -94167,28 +94189,6 @@
 <param name="Тип тарелки">Обеденная</param>
 <param name="Цвет">Белый</param>
 <param name="Материал тарелки">Фарфор</param>
-</offer>
-<offer id="HP-42-2" available="true">
-<name>Коврик для сушки посуды Garden 58*58 см диатомитовый HP-42-2</name>
-<price>259</price>
-<vendorprice>198</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>51</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6453/zashchitnyy_kovrik_na_stiralnuyu_mashinu_iz_diatomita_garden_58_58_sm_vlagopogloshchayushchiy_kovrik_iz_diatomita_dlya_vannoy_komnaty.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6453/zashchitnyy_kovrik_na_stiralnuyu_mashinu_iz_diatomita_garden_58_58_sm_vlagopogloshchayushchiy_kovrik_iz_diatomita_dlya_vannoy_komnaty_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6453/zashchitnyy_kovrik_na_stiralnuyu_mashinu_iz_diatomita_garden_58_58_sm_vlagopogloshchayushchiy_kovrik_iz_diatomita_dlya_vannoy_komnaty_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6453/zashchitnyy_kovrik_na_stiralnuyu_mashinu_iz_diatomita_garden_58_58_sm_vlagopogloshchayushchiy_kovrik_iz_diatomita_dlya_vannoy_komnaty_3.jpg</picture>
-<description><![CDATA[Поверхность стиральной машины часто используется как дополнительная полка: здесь стоят порошки, кондиционеры, корзины и разные мелочи. При этом на технике регулярно остаются капли воды, следы от моющих средств и разводы. Диатомитовый коврик помогает решить эту проблему &mdash; он впитывает влагу, защищает поверхность от пятен и сохраняет аккуратный внешний вид техники.  Коврик изготовлен из натурального диатомита &mdash; материала с высокой влагопоглощающей способностью. Он быстро впитывает капли воды и остатки жидких средств, а затем так же быстро высыхает благодаря пористой структуре. Это помогает избежать сырости, липких следов и неприятных запахов в зоне стирки.  Коврик также делает хранение бытовой химии более удобным: флаконы стоят устойчиво, не скользят и не оставляют следов на корпусе стиральной машины.  Характеристики защитного коврика для стиральной машины:   Габариты &mdash; 58&times;57 см; Материал &mdash; диатомит; Влагоабсорбирующие свойства &mdash; да; Прорезиненная основа &mdash; да; Назначение &mdash; для стиральной машины.   Преимущества коврика в ванную комнату для стиральной машины:   эффективно поглощает влагу и защищает поверхности от загрязнений; снижает уровень вибраций и шума во время работы техники; устойчивая прорезиненная основа предотвращает скольжение; универсальность &mdash; подходит для стиральных, сушильных, посудомоечных машин и другой техники; компактные размеры и современный дизайн &mdash; удобно разместить в ванной или прачечной.   Такой защитный коврик станет надежным помощником в уходе за вашей бытовой техникой, продлит срок её службы и добавит удобства в повседневном использовании.]]></description>
-<quantity_in_stock>5</quantity_in_stock>
-<vendorCode>HP-42-2</vendorCode>
-<param name="Тип">Коврик для ванной</param>
-<param name="Подходит для пола с подогревом">Да</param>
-<param name="Ширина">58</param>
-<param name="Количество в наборе">1</param>
-<param name="Цвет">Черный</param>
-<param name="Длина">58</param>
-<param name="Тематика декора, рисунка">Растения, цветы</param>
-<param name="Форма">Квадратная</param>
 </offer>
 <offer id="HP-3PBL" available="true">
 <name>Фен стайлер Super Hairdryer мультистайлер 1600 Вт прибор для волос с холодным горячим воздухом 4 насадки Голубой HP-3PBL</name>
