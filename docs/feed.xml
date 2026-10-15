@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-15 16:16">
+<yml_catalog date="2026-10-15 21:00">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -1961,36 +1961,6 @@
 <param name="Длина купола зонта">1.5</param>
 <param name="Высота зонта в разложенном виде">1.8</param>
 </offer>
-<offer id="HP-JG-1" available="true">
-<name>Налобный фонарь аккумуляторный 1200 мАч HP-JG-1</name>
-<price>209</price>
-<vendorprice>112</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>48</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-1/HPJG1_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-1/HPJG1_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-1/HPJG1_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-1/HPJG1_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-1/HPJG1_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-1/HPJG1_2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Налобный фонарь &mdash; это удобное и надежное осветительное устройство, которое обеспечивает яркий свет и оставляет руки свободными. Он идеально подходит для туристов, рыбаков, охотников, любителей активного отдыха, а также для работы в темное время суток или в условиях ограниченной видимости. Компактный размер и прочный корпус делают его практичным решением для использования в любых условиях.  Основные характеристики:   Размер: 8.5х8х6 см; Тип лампы: LED; Мощность: 10 В; Питание: аккумулятор; Емкость аккумулятора: 1200 mAh; Время зарядки: 6 часов до полной зарядки; Время работы на одном заряде: до 12 часов непрерывно; Материал: пластик; Количество режимов работы: 3.   Комплектация:   Аккумулятор; Зарядный шнур; Регулируемый ремешок.   Благодаря аккумуляторному питанию фонарь может работать до 12 часов без подзарядки, что делает его отличным выбором для длительных поездок. Три режима освещения позволяют подобрать оптимальную яркость для различных ситуаций. Удобный регулируемый ремешок обеспечивает надежную фиксацию на голове. Этот налобный фонарь станет вашим надежным помощником в темное время суток.]]></description>
-<quantity_in_stock>58</quantity_in_stock>
-<vendorCode>HP-JG-1</vendorCode>
-<param name="Время работы">12</param>
-<param name="Вес">200</param>
-<param name="Емкость аккумулятора">1200</param>
-<param name="Тип заряда">USB</param>
-<param name="Время заряда аккумулятора">6</param>
-<param name="Тип фонаря">Налобный</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Цвет">Серый</param>
-<param name="Длина">85</param>
-<param name="Тип питания">Аккумулятор</param>
-<param name="Крепление">Ремешок</param>
-<param name="Гарантия">14 дней</param>
-<param name="Тип лампы">LED-лампа</param>
-</offer>
 <offer id="HP39578C" available="true">
 <name>Набор туристической посуды в сумке для похода и кемпинга: кастрюля, сковорода, чайник HP39578C</name>
 <price>2439</price>
@@ -2021,6 +1991,36 @@
 <param name="Состояние">Новое</param>
 <param name="Упаковка">Сумка</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-JG-1" available="true">
+<name>Налобный фонарь аккумуляторный 1200 мАч HP-JG-1</name>
+<price>209</price>
+<vendorprice>112</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>48</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-1/HPJG1_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-1/HPJG1_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-1/HPJG1_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-1/HPJG1_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-1/HPJG1_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-1/HPJG1_2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Налобный фонарь &mdash; это удобное и надежное осветительное устройство, которое обеспечивает яркий свет и оставляет руки свободными. Он идеально подходит для туристов, рыбаков, охотников, любителей активного отдыха, а также для работы в темное время суток или в условиях ограниченной видимости. Компактный размер и прочный корпус делают его практичным решением для использования в любых условиях.  Основные характеристики:   Размер: 8.5х8х6 см; Тип лампы: LED; Мощность: 10 В; Питание: аккумулятор; Емкость аккумулятора: 1200 mAh; Время зарядки: 6 часов до полной зарядки; Время работы на одном заряде: до 12 часов непрерывно; Материал: пластик; Количество режимов работы: 3.   Комплектация:   Аккумулятор; Зарядный шнур; Регулируемый ремешок.   Благодаря аккумуляторному питанию фонарь может работать до 12 часов без подзарядки, что делает его отличным выбором для длительных поездок. Три режима освещения позволяют подобрать оптимальную яркость для различных ситуаций. Удобный регулируемый ремешок обеспечивает надежную фиксацию на голове. Этот налобный фонарь станет вашим надежным помощником в темное время суток.]]></description>
+<quantity_in_stock>57</quantity_in_stock>
+<vendorCode>HP-JG-1</vendorCode>
+<param name="Время работы">12</param>
+<param name="Вес">200</param>
+<param name="Емкость аккумулятора">1200</param>
+<param name="Тип заряда">USB</param>
+<param name="Время заряда аккумулятора">6</param>
+<param name="Тип фонаря">Налобный</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Цвет">Серый</param>
+<param name="Длина">85</param>
+<param name="Тип питания">Аккумулятор</param>
+<param name="Крепление">Ремешок</param>
+<param name="Гарантия">14 дней</param>
+<param name="Тип лампы">LED-лампа</param>
 </offer>
 <offer id="HP-14-17" available="true">
 <name>Термосумка холодильник 16 (л) для еды, напитков, пива холодильная сумка для рыбалки и пикника Голубой HP-14-17</name>
@@ -2082,27 +2082,6 @@
 <param name="Глубина стула">500</param>
 <param name="Чехол для хранения и транспортировки">Да</param>
 </offer>
-<offer id="BQ-19" available="true">
-<name>Набор шампуров 6 штук из нержавеющей стали 55x1см BQ-19</name>
-<price>179</price>
-<vendorprice>88</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>5</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6977/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_55x1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6977/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_55x1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6977/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_55x1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6977/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_55x1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya_3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Набор шампуров из нержавеющей стали (6 штук) подходит для приготовления мяса, птицы, овощей и других блюд на открытом огне или мангале. Длина 55 см позволяет удобно размещать продукты над жаром, обеспечивая достаточное расстояние для комфортного приготовления. Комплект из 6 шампуров дает возможность готовить несколько порций одновременно.  Шампуры изготовлены из нержавеющей стали, которая выдерживает высокие температуры и подходит для регулярного использования. Материал устойчив к влаге, не поддается коррозии и сохраняет форму во время эксплуатации. Ширина 1 см обеспечивает прочность конструкции и надежную фиксацию продуктов во время жарки.  Форма шампуров позволяет равномерно размещать ингредиенты и удобно переворачивать их в процессе приготовления. Подходят для использования с мангалами, грилями и другими устройствами для приготовления на углях. Практичный вариант для пикников, дачи и отдыха на природе.   Характеристики:    Тип: шампури для мангала Количество в наборе: 6 шт Материал: нержавеющая сталь Длина: 55 см Ширина: 1 см Толщина: 1 мм]]></description>
-<quantity_in_stock>45</quantity_in_stock>
-<vendorCode>BQ-19</vendorCode>
-<param name="Тип">Набор шампуров</param>
-<param name="Материал">Нержавеющая сталь</param>
-<param name="Количество предметов в наборе">6</param>
-<param name="Длина">55</param>
-<param name="Состояние">Новое</param>
-<param name="Толщина материала">1</param>
-</offer>
 <offer id="HP-20-72" available="true">
 <name>Набор аксессуаров для барбекю, мангала, гриля 5 предметов 40х10х5 см мангальные принадлежности HP-20-72</name>
 <price>1009</price>
@@ -2151,6 +2130,27 @@
 <param name="Объем">5</param>
 <param name="Цвет">Черный</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="BQ-19" available="true">
+<name>Набор шампуров 6 штук из нержавеющей стали 55x1см BQ-19</name>
+<price>179</price>
+<vendorprice>88</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>5</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6977/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_55x1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6977/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_55x1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6977/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_55x1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/6977/nabor_shampurov_6_shtuk_iz_nerzhaveyushchey_stali_55x1_sm_dlya_kostra_mangala_kempinga_dlya_barbekyu_shashlyku_grilevaniya_3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Набор шампуров из нержавеющей стали (6 штук) подходит для приготовления мяса, птицы, овощей и других блюд на открытом огне или мангале. Длина 55 см позволяет удобно размещать продукты над жаром, обеспечивая достаточное расстояние для комфортного приготовления. Комплект из 6 шампуров дает возможность готовить несколько порций одновременно.  Шампуры изготовлены из нержавеющей стали, которая выдерживает высокие температуры и подходит для регулярного использования. Материал устойчив к влаге, не поддается коррозии и сохраняет форму во время эксплуатации. Ширина 1 см обеспечивает прочность конструкции и надежную фиксацию продуктов во время жарки.  Форма шампуров позволяет равномерно размещать ингредиенты и удобно переворачивать их в процессе приготовления. Подходят для использования с мангалами, грилями и другими устройствами для приготовления на углях. Практичный вариант для пикников, дачи и отдыха на природе.   Характеристики:    Тип: шампури для мангала Количество в наборе: 6 шт Материал: нержавеющая сталь Длина: 55 см Ширина: 1 см Толщина: 1 мм]]></description>
+<quantity_in_stock>44</quantity_in_stock>
+<vendorCode>BQ-19</vendorCode>
+<param name="Тип">Набор шампуров</param>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Количество предметов в наборе">6</param>
+<param name="Длина">55</param>
+<param name="Состояние">Новое</param>
+<param name="Толщина материала">1</param>
 </offer>
 <offer id="HP-JW-4" available="true">
 <name>Зонт кемпинговый 150 см зеленый прочный надежная защита от дождя солнца HP-JW-4</name>
@@ -3809,7 +3809,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/2944/girlyanda_rosa_na_pulte_100_metrov_na_1000_led_svetodiodov_kaplya_zelenyy_provod_belaya_7.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Гирлянда на пульте роса идеально подходит для окон, дверей, стен, картин, елок, фотозоны. Гирлянда оснащена 1000 яркими светодиодами, которые обеспечивают превосходное освещение. Основные характеристики гирлянды роса   гирлянда роса 100 метров; 1000 led светодиодов; пульт управления; класс защиты IP44.   Новогодняя гирлянда Роса - это не только декоративный элемент, но и практичный инструмент для создания особого атмосферного света в вашем доме или на мероприятии любого уровня.  Восемь различных режимов работы гирлянды, позволят Вам выбирать и настраивать их в соответствии с настроением и атмосферой:   комбинированный; волнообразный; плавное угасание; медленный; постоянная вспышка; мерцающий; последовательный; постоянное свечение.   Вы сможете подобрать подходящий режим для любого случая. Купить гирлянду капли росы 100 метров с пультом можно с доставкой по всей Украине. Гирлянда подлежит возврату только в том случае, когда ее исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>1875</quantity_in_stock>
+<quantity_in_stock>1874</quantity_in_stock>
 <vendorCode>1000L100MGW</vendorCode>
 <param name="Количество режимов свечения">8</param>
 <param name="Режим работы">Динамический</param>
@@ -3985,7 +3985,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_1.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Лампочка на аккумуляторах с откидной крышкой и встроенным отсеком для батарей — это эстетичное и функциональное решение для вашего дома, дачи, кемпинга или гаража. Она совмещает в себе дизайн классической лампы и современные технологии автономного освещения. Уникальный корпус с легким доступом к аккумуляторам делает обслуживание быстрым и удобным.  Характеристики лампочки   тип: аварийная лампочка со встроенным аккумулятором; встроенный отсек для двух аккумуляторов; высота лампочки 16 см; диаметр 7 см; тип цоколя E27; мощность 15/20 Вт; напряжение 85-265 В; время работы 3-4 часа; время зарядки 4 часа; частота 50/60 Гц; корпус: ABS-пластик с откидной панелью для замены батарей; цвет: белый глянец.   Преимущества электролампочки   Быстрый доступ к аккумуляторам — удобная крышка для замены батарей за секунды. Работает при отключении света — автономная система освещения на случай ЧП. Универсальное применение — подходит для любого помещения и уличного освещения.   Эта электролампочка с аккумулятором станет вашим верным помощником в ситуациях, когда внезапно отключается свет. Незаменима для дачников, туристов, жителей с нестабильным электроснабжением и всех, кто ценит автономность и комфорт.  Сделайте свой дом независимым от сети — добавьте в корзину аварийную лампочку на аккумуляторах уже сегодня и будьте готовы к любой непредвиденной ситуации.]]></description>
-<quantity_in_stock>1738</quantity_in_stock>
+<quantity_in_stock>1724</quantity_in_stock>
 <vendorCode>HP-5-31</vendorCode>
 <param name="Мощность">15 / 20 Вт</param>
 <param name="Диаметр">7</param>
@@ -4391,7 +4391,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5345/novogodnyaya_girlyanda_shtora_1_5h1_5_m_64_led_komnatnaya_girlyanda_belyy_provod_zheltyy_svet_5.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Светодиодная гирлянда-штора &mdash; это стильное и практичное решение для создания праздничной атмосферы и уютного освещения в любом помещении. Она идеально подходит для декорирования окон, арок, стен или фотозон, добавляя пространству мягкое сияние и гармонию. Мягкое равномерное свечение и 8 режимов работы позволяют легко подобрать нужное настроение &mdash; от спокойного мерцания до яркого праздничного блеска. Гирлянда имеет простую и надёжную конструкцию: горизонтальный шнур, от которого свисают нити со светодиодами. Благодаря этому она легко крепится на любую вертикальную поверхность или карниз. Качественные материалы и ПВХ-изоляция обеспечивают безопасную эксплуатацию, энергоэффективность и долговечность. Во время работы гирлянда не нагревается, что гарантирует комфорт и безопасность при использовании. Основные характеристики светодиодной гирлянды-шторы:  Материал оболочки: ПВХ; Размер: 1,5 &times; 1,5 м; Количество диодов: 64; Мощность: 8 Вт; Питание: от сети; Количество режимов: 8; Цвет провода: белый; Цвет свечения: жёлтый.  Особенности светодиодной гирлянды:  8 режимов световых эффектов; Мягкое и приятное свечение; Энергоэффективность и длительный срок службы; Безопасная эксплуатация, гирлянда не нагревается; Простое крепление на карниз или стену; Подходит для украшения окон, арок, фотозон и интерьера в целом.  Светодиодная гирлянда-штора станет стильным акцентом вашего дома или офиса, создавая тёплую, праздничную и уютную атмосферу. Она сочетает эстетику, надёжность и долговечность, превращая любое пространство в по-настоящему праздничное. Внимание! Этот товар подлежит возврату только в случае проверки его исправности на почте. В остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>1070</quantity_in_stock>
+<quantity_in_stock>1067</quantity_in_stock>
 <vendorCode>ZWM1564LEDY</vendorCode>
 <param name="Количество ламп">64</param>
 <param name="Количество режимов свечения">8</param>
@@ -4907,7 +4907,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5350/novogodnyaya_girlyanda_shtora_3h3_m_192_led_komnatnaya_girlyanda_belyy_provod_zheltyy_svet_4.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Светодиодная гирлянда-штора &mdash; это стильное и практичное решение для создания праздничной атмосферы и уютного освещения в любом помещении. Она идеально подходит для декорирования окон, арок, стен или фотозон, добавляя пространству мягкое сияние и гармонию. Мягкое равномерное свечение и 8 режимов работы позволяют легко подобрать нужное настроение &mdash; от спокойного мерцания до яркого праздничного блеска. Гирлянда имеет простую и надёжную конструкцию: горизонтальный шнур, от которого свисают нити со светодиодами. Благодаря этому она легко крепится на любую вертикальную поверхность или карниз. Качественные материалы и ПВХ-изоляция обеспечивают безопасную эксплуатацию, энергоэффективность и долговечность. Во время работы гирлянда не нагревается, что гарантирует комфорт и безопасность при использовании. Основные характеристики светодиодной гирлянды-шторы:  Материал оболочки: ПВХ; Размер: 3 &times; 3 м; Количество диодов: 192; Мощность: 8 Вт; Питание: от сети; Количество режимов: 8; Цвет провода: белый; Цвет свечения: жёлтый.  Особенности светодиодной гирлянды:  8 режимов световых эффектов; Мягкое и приятное свечение; Энергоэффективность и длительный срок службы; Безопасная эксплуатация, гирлянда не нагревается; Простое крепление на карниз или стену; Подходит для украшения окон, арок, фотозон и интерьера в целом.  Светодиодная гирлянда-штора станет стильным акцентом вашего дома или офиса, создавая тёплую, праздничную и уютную атмосферу. Она сочетает эстетику, надёжность и долговечность, превращая любое пространство в по-настоящему праздничное. Внимание! Этот товар подлежит возврату только в случае проверки его исправности на почте. В остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>840</quantity_in_stock>
+<quantity_in_stock>839</quantity_in_stock>
 <vendorCode>ZWM33192LEDY</vendorCode>
 <param name="Количество режимов свечения">8</param>
 <param name="Потребляемая мощность">8 Вт</param>
@@ -5040,7 +5040,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/65804/5562/novogodnyaya_girlyanda_komnatnaya_shtora_3h3_m_600_led_komnatnaya_girlyanda_shtora_rosa_hvoynaya_lapa_belyy_svet_5.png</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Гирлянда-штора "Роса Хвойная лапа" 3&times;3 м с тёплым белым свечением &mdash; это сочетание изысканного дизайна и мягкого праздничного света. Она создаёт уютную атмосферу, напоминая сияние огоньков среди хвойных ветвей. Благодаря 600 энергоэффективным LED-диодам гирлянда равномерно освещает пространство, идеально подходя для украшения окон, стен, витрин или фотозон. Гибкий медный провод в лаковой изоляции обеспечивает простоту монтажа и долговечность. Уровень защиты IP44 позволяет использовать изделие в помещении или под навесом на улице. Характеристики гирлянды:  Размер: 3&times;3 м; Количество лампочек: 600; Количество нитей: 10; Расстояние от вилки до лампочек: 2,85 м; Расстояние между лампочками: 4,5 см; Влагозащита: IP44; Режимы работы: 8 режимов, переключаются механически; Тип питания: сеть; Возможность подключения удлинителя: отсутствует; Материал: медный провод в лаковой изоляции; Размер в сложенном виде: 13&times;9&times;5,5 см; Вес: 200 г.   Внимание! Данный товар подлежит возврату только в том случае, когда его исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>783</quantity_in_stock>
+<quantity_in_stock>782</quantity_in_stock>
 <vendorCode>D600LED3MW</vendorCode>
 <param name="Высота">3 м</param>
 <param name="Вес">200 г</param>
@@ -5361,7 +5361,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/136/USB100L10MGY-3%281%29.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Гирлянда USB роса идеально подходит для окон, дверей, стен, картин, елок, фотозоны. Гирлянда оснащена 100 яркими светодиодами, которые обеспечивают превосходное освещение.   Основные характеристики гирлянды роса   гирлянда роса 10 метров; 100 led светодиодов; класс защиты IP44.   Особенностью этой гирлянды является ее питание от usb, что обеспечивает максимальную мобильность и удобство в эксплуатации. Новогодняя гирлянда Роса - это не только декоративный элемент, но и практичный инструмент для создания особого атмосферного света в вашем доме или на мероприятии любого уровня.  Купить гирлянду капли росы 10 метров можно с доставкой по всей Украине. Гирлянда подлежит возврату только в том случае, когда ее исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>685</quantity_in_stock>
+<quantity_in_stock>683</quantity_in_stock>
 <vendorCode>USB100L10MGY</vendorCode>
 <param name="Количество светодиодов">100</param>
 <param name="Длина">10 м</param>
@@ -5480,34 +5480,6 @@
 <param name="Высота насадки">5</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="USB200L20MWW" available="true">
-<name>Гирлянда роса 20 метров USB на 200 led светодиодов капля белый провод белая USB200L20MWW</name>
-<price>229</price>
-<vendorprice>155</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>64</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/USB100L10MW-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/2961/girlyanda_rosa_na_pulte_20_metrov_usb_na_200_led_svetodiodov_kaplya_belyy_provod_belaya_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/2961/girlyanda_rosa_na_pulte_20_metrov_usb_na_200_led_svetodiodov_kaplya_belyy_provod_belaya_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/2961/girlyanda_rosa_na_pulte_20_metrov_usb_na_200_led_svetodiodov_kaplya_belyy_provod_belaya_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/2961/girlyanda_rosa_na_pulte_20_metrov_usb_na_200_led_svetodiodov_kaplya_belyy_provod_belaya_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/2961/girlyanda_rosa_na_pulte_20_metrov_usb_na_200_led_svetodiodov_kaplya_belyy_provod_belaya_6.jpg</picture>
-<vendor>Garlando</vendor>
-<description><![CDATA[Гирлянда USB роса идеально подходит для окон, дверей, стен, картин, елок, фотозоны. Гирлянда оснащена 200 яркими светодиодами, которые обеспечивают превосходное освещение.   Основные характеристики гирлянды роса   гирлянда роса 20 метров; 200 led светодиодов;  класс защиты IP44.   Особенностью этой гирлянды является ее питание от usb, что обеспечивает максимальную мобильность и удобство в эксплуатации. Новогодняя гирлянда Роса - это не только декоративный элемент, но и практичный инструмент для создания особого атмосферного света в вашем доме или на мероприятии любого уровня.  Купить гирлянду капли росы 20 метров можно с доставкой по всей Украине. Гирлянда подлежит возврату только в том случае, когда ее исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>656</quantity_in_stock>
-<vendorCode>USB200L20MWW</vendorCode>
-<param name="Режим работы">Динамический</param>
-<param name="Количество светодиодов">200</param>
-<param name="Длина">20 м</param>
-<param name="Тип гирлянды">Гирлянда роса</param>
-<param name="Тип освещения">Светодиодная гирлянда</param>
-<param name="Состояние">Новое</param>
-<param name="Степень защиты IP">44</param>
-<param name="Цвет шнура питания">Белый</param>
-<param name="Угол свечения">360</param>
-<param name="Цвет свечения">Белый</param>
-<param name="Форма лампочки">Капля</param>
-</offer>
 <offer id="LG-02/3PCS" available="true">
 <name>Набор мисок из нержавеющей стали с крышками и терками 3 штуки 16/18/20.5 см LG-02/3PCS</name>
 <price>1399</price>
@@ -5531,6 +5503,34 @@
 <param name="Цвет">Хром</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="USB200L20MWW" available="true">
+<name>Гирлянда роса 20 метров USB на 200 led светодиодов капля белый провод белая USB200L20MWW</name>
+<price>229</price>
+<vendorprice>155</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>64</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/USB100L10MW-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/2961/girlyanda_rosa_na_pulte_20_metrov_usb_na_200_led_svetodiodov_kaplya_belyy_provod_belaya_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/2961/girlyanda_rosa_na_pulte_20_metrov_usb_na_200_led_svetodiodov_kaplya_belyy_provod_belaya_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/2961/girlyanda_rosa_na_pulte_20_metrov_usb_na_200_led_svetodiodov_kaplya_belyy_provod_belaya_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/2961/girlyanda_rosa_na_pulte_20_metrov_usb_na_200_led_svetodiodov_kaplya_belyy_provod_belaya_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/2961/girlyanda_rosa_na_pulte_20_metrov_usb_na_200_led_svetodiodov_kaplya_belyy_provod_belaya_6.jpg</picture>
+<vendor>Garlando</vendor>
+<description><![CDATA[Гирлянда USB роса идеально подходит для окон, дверей, стен, картин, елок, фотозоны. Гирлянда оснащена 200 яркими светодиодами, которые обеспечивают превосходное освещение.   Основные характеристики гирлянды роса   гирлянда роса 20 метров; 200 led светодиодов;  класс защиты IP44.   Особенностью этой гирлянды является ее питание от usb, что обеспечивает максимальную мобильность и удобство в эксплуатации. Новогодняя гирлянда Роса - это не только декоративный элемент, но и практичный инструмент для создания особого атмосферного света в вашем доме или на мероприятии любого уровня.  Купить гирлянду капли росы 20 метров можно с доставкой по всей Украине. Гирлянда подлежит возврату только в том случае, когда ее исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
+<quantity_in_stock>653</quantity_in_stock>
+<vendorCode>USB200L20MWW</vendorCode>
+<param name="Режим работы">Динамический</param>
+<param name="Количество светодиодов">200</param>
+<param name="Длина">20 м</param>
+<param name="Тип гирлянды">Гирлянда роса</param>
+<param name="Тип освещения">Светодиодная гирлянда</param>
+<param name="Состояние">Новое</param>
+<param name="Степень защиты IP">44</param>
+<param name="Цвет шнура питания">Белый</param>
+<param name="Угол свечения">360</param>
+<param name="Цвет свечения">Белый</param>
+<param name="Форма лампочки">Капля</param>
 </offer>
 <offer id="W50LED6MBW" available="true">
 <name>Новогодняя комнатная гирлянда нить 6 м 50 LED черный провод Белый W50LED6MBW</name>
@@ -5673,33 +5673,6 @@
 <param name="Цвет свечения">Мультиколор</param>
 <param name="Форма лампочки">Капля</param>
 </offer>
-<offer id="USB100L10MWY" available="true">
-<name>Гирлянда роса 10 метров USB на 100 led светодиодов капля белый провод желтая USB100L10MWY</name>
-<price>139</price>
-<vendorprice>89</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>64</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/USB100L10MW-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/3002/girlyanda_rosa_na_pulte_10_metrov_usb_na_100_led_svetodiodov_kaplya_belyy_provod_zheltaya_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/3002/girlyanda_rosa_na_pulte_10_metrov_usb_na_100_led_svetodiodov_kaplya_belyy_provod_zheltaya_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/3002/girlyanda_rosa_na_pulte_10_metrov_usb_na_100_led_svetodiodov_kaplya_belyy_provod_zheltaya_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/3002/girlyanda_rosa_na_pulte_10_metrov_usb_na_100_led_svetodiodov_kaplya_belyy_provod_zheltaya_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/129/USB100L10MWY.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/129/USB100L10MWY-1%282%29.jpg</picture>
-<vendor>Garlando</vendor>
-<description><![CDATA[Гирлянда USB роса идеально подходит для окон, дверей, стен, картин, елок, фотозоны. Гирлянда оснащена 100 яркими светодиодами, которые обеспечивают превосходное освещение.  Основные характеристики гирлянды роса   гирлянда роса 10 метров; 100 led светодиодов; класс защиты IP44.   Особенностью этой гирлянды является ее питание от usb, что обеспечивает максимальную мобильность и удобство в эксплуатации. Новогодняя гирлянда Роса - это не только декоративный элемент, но и практичный инструмент для создания особого атмосферного света в вашем доме или на мероприятии любого уровня.  Купить гирлянду капли росы 10 метров можно с доставкой по всей Украине. Гирлянда подлежит возврату только в том случае, когда ее исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>604</quantity_in_stock>
-<vendorCode>USB100L10MWY</vendorCode>
-<param name="Количество светодиодов">100</param>
-<param name="Длина">10 м</param>
-<param name="Тип гирлянды">Гирлянда роса</param>
-<param name="Тип освещения">Светодиодная гирлянда</param>
-<param name="Степень защиты IP">44</param>
-<param name="Цвет шнура питания">Белый</param>
-<param name="Угол свечения">360</param>
-<param name="Цвет свечения">Желтый</param>
-<param name="Форма лампочки">Капля</param>
-</offer>
 <offer id="500L50MWY" available="true">
 <name>Гирлянда роса на пульте 50 метров на 500 led светодиодов капля белый провод желтая 500L50MWY</name>
 <price>429</price>
@@ -5774,6 +5747,33 @@
 <param name="Цвет свечения">Белый</param>
 <param name="Форма лампочки">Капля</param>
 </offer>
+<offer id="USB100L10MWY" available="true">
+<name>Гирлянда роса 10 метров USB на 100 led светодиодов капля белый провод желтая USB100L10MWY</name>
+<price>139</price>
+<vendorprice>89</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>64</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/USB100L10MW-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/3002/girlyanda_rosa_na_pulte_10_metrov_usb_na_100_led_svetodiodov_kaplya_belyy_provod_zheltaya_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/3002/girlyanda_rosa_na_pulte_10_metrov_usb_na_100_led_svetodiodov_kaplya_belyy_provod_zheltaya_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/3002/girlyanda_rosa_na_pulte_10_metrov_usb_na_100_led_svetodiodov_kaplya_belyy_provod_zheltaya_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/3002/girlyanda_rosa_na_pulte_10_metrov_usb_na_100_led_svetodiodov_kaplya_belyy_provod_zheltaya_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/129/USB100L10MWY.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/129/USB100L10MWY-1%282%29.jpg</picture>
+<vendor>Garlando</vendor>
+<description><![CDATA[Гирлянда USB роса идеально подходит для окон, дверей, стен, картин, елок, фотозоны. Гирлянда оснащена 100 яркими светодиодами, которые обеспечивают превосходное освещение.  Основные характеристики гирлянды роса   гирлянда роса 10 метров; 100 led светодиодов; класс защиты IP44.   Особенностью этой гирлянды является ее питание от usb, что обеспечивает максимальную мобильность и удобство в эксплуатации. Новогодняя гирлянда Роса - это не только декоративный элемент, но и практичный инструмент для создания особого атмосферного света в вашем доме или на мероприятии любого уровня.  Купить гирлянду капли росы 10 метров можно с доставкой по всей Украине. Гирлянда подлежит возврату только в том случае, когда ее исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
+<quantity_in_stock>597</quantity_in_stock>
+<vendorCode>USB100L10MWY</vendorCode>
+<param name="Количество светодиодов">100</param>
+<param name="Длина">10 м</param>
+<param name="Тип гирлянды">Гирлянда роса</param>
+<param name="Тип освещения">Светодиодная гирлянда</param>
+<param name="Степень защиты IP">44</param>
+<param name="Цвет шнура питания">Белый</param>
+<param name="Угол свечения">360</param>
+<param name="Цвет свечения">Желтый</param>
+<param name="Форма лампочки">Капля</param>
+</offer>
 <offer id="D400LED2MY" available="true">
 <name>Новогодняя гирлянда Хвойная лапа 3х2 м 400 LED Желтый свет D400LED2MY</name>
 <price>1099</price>
@@ -5786,7 +5786,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/65804/5560/novogodnyaya_girlyanda_komnatnaya_shtora_3h2_m_400_led_komnatnaya_girlyanda_shtora_rosa_hvoynaya_lapa_zheltyy_svet_4.png</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Гирлянда-штора "Роса Хвойная лапа" 3&times;3 м с тёплым желтым свечением &mdash; это сочетание изысканного дизайна и мягкого праздничного света. Она создаёт уютную атмосферу, напоминая сияние огоньков среди хвойных ветвей. Благодаря 400 энергоэффективным LED-диодам гирлянда равномерно освещает пространство, идеально подходя для украшения окон, стен, витрин или фотозон. Гибкий медный провод в лаковой изоляции обеспечивает простоту монтажа и долговечность. Уровень защиты IP44 позволяет использовать изделие в помещении или под навесом на улице. Характеристики гирлянды:  Размер: 3&times;2 м; Количество лампочек: 400; Количество нитей: 10; Расстояние от вилки до лампочек: 2,85 м; Расстояние между лампочками: 4,5 см; Влагозащита: IP44; Режимы работы: 8 режимов, переключаются механически; Тип питания: сеть; Возможность подключения удлинителя: отсутствует; Материал: медный провод в лаковой изоляции; Размер в сложенном виде: 13&times;9&times;5,5 см; Вес: 200 г.   Внимание! Данный товар подлежит возврату только в том случае, когда его исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>593</quantity_in_stock>
+<quantity_in_stock>592</quantity_in_stock>
 <vendorCode>D400LED2MY</vendorCode>
 <param name="Высота">2 м</param>
 <param name="Вес">200 г</param>
@@ -6785,7 +6785,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-35015-53/HP-35015-53_2.jpg</picture>
 <vendor>Household</vendor>
 <description><![CDATA[Характеристики насадки для швабры:    Вес: 0,3 кг;   Габариты товара: 38&times;6,5&times;5 см.    Описание сменной насадки для швабры с губкой:   предназначена для швабр с механизмом отжима для влажной уборки твердых поверхностей; основа выполнена из пористой губки, которая быстро впитывает жидкость и удерживает пыль; равномерная структура материала обеспечивает надежное сцепление с полом при движении; оснащена пластиковым креплением, совместимым со стандартными моделями с роликовым или рычажным механизмом; легко устанавливается и снимается без использования инструментов; устойчива к многократному контакту с водой и моющими средствами, не деформируется; подходит для уборки плитки, ламината, линолеума и других гладких покрытий; благодаря компактной форме и гибкой структуре эффективно очищает углы и края; рекомендована для ежедневного использования в домашних условиях и небольших коммерческих помещениях.]]></description>
-<quantity_in_stock>467</quantity_in_stock>
+<quantity_in_stock>464</quantity_in_stock>
 <vendorCode>HP-35015-53</vendorCode>
 <param name="Комплектация ведром">Нет</param>
 <param name="Длина насадки">38</param>
@@ -7820,42 +7820,6 @@
 <param name="Тип стакана">Высокий</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="6МBY" available="true">
-<name>Новогодняя гирлянда уличная Бахрома 6 м 105 LED черный провод Желтый 6МBY</name>
-<price>669</price>
-<vendorprice>420</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>18</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/FM-56D/6%D0%9CB-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5310/novogodnyaya_girlyanda_ulichnaya_bahroma_6_m_105_led_ulichnaya_girlyanda_chernyy_provod_zheltyy_svet_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5310/novogodnyaya_girlyanda_ulichnaya_bahroma_6_m_105_led_ulichnaya_girlyanda_chernyy_provod_zheltyy_svet_2.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5310/novogodnyaya_girlyanda_ulichnaya_bahroma_6_m_105_led_ulichnaya_girlyanda_chernyy_provod_zheltyy_svet_4.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5310/novogodnyaya_girlyanda_ulichnaya_bahroma_6_m_105_led_ulichnaya_girlyanda_chernyy_provod_zheltyy_svet_5.jpg</picture>
-<vendor>Garlando</vendor>
-<description><![CDATA[Уличная гирлянда Бахрома &mdash; это эффектное решение для создания праздничного освещения и украшения дома, фасада, террасы, кафе или ресторана. Она помогает создать уютную атмосферу и привлекает внимание благодаря яркому мультиколорному свечению с эффектом флеш. Гирлянда имеет прочную конструкцию и высокий уровень защиты от влаги и пыли, что позволяет использовать её на улице в течение всего года. Мягкий свет, плавная передача цветов и разнообразие оттенков делают её идеальной для новогоднего или декоративного оформления любого пространства. Основные характеристики уличной гирлянды:  Тип: бахрома; Длина: 6 м; Количество светодиодов: 105; Цвет свечения: Желтый; Цвет провода: черный; Питание: от сети; Длина шнура питания: 96 см; Расстояние между нитями: 29 см; Расстояние между лампочками: 8 см; Общее количество линий: 21 (длина линий &mdash; 65, 50 и 30 см); Режим работы: флеш; Возможность соединения между собой: есть; Степень защиты: IP44; Вес: 0.50 кг; Размер упаковки: 18&times;10&times;8 см.  Особенности светодиодной гирлянды Бахрома: &bull; Яркое мультиколорное свечение с эффектом флеш; &bull; Высокий уровень влагo- и пылезащиты (IP44); &bull; Возможность соединения нескольких гирлянд между собой; &bull; Безопасная и энергоэффективная работа от сети; &bull; Прочный белый провод с ПВХ-изоляцией, устойчивый к перепадам температуры; &bull; Подходит для украшения фасадов, крыш, балконов, деревьев и витрин; &bull; Долгий срок службы светодиодов &mdash; до 50 000 часов. Гирлянда Бахрома &mdash; это надёжное, долговечное и стильное решение для создания праздничной атмосферы в любое время года. Она сочетает в себе яркость, безопасность и энергоэффективность, становясь красивым акцентом вашего наружного или внутреннего декора.  Внимание! Данный товар подлежит возврату только в случае проверки его исправности на почте. В остальных случаях возврат товара не осуществляется.]]></description>
-<quantity_in_stock>340</quantity_in_stock>
-<vendorCode>6МBY</vendorCode>
-<param name="Вес">500 г</param>
-<param name="Режим работы">Динамический</param>
-<param name="Количество светодиодов">105</param>
-<param name="Длина шнура питания">0.96 м</param>
-<param name="Напряжение">220 В</param>
-<param name="Длина">6 м</param>
-<param name="Тип гирлянды">Бахрома комнатная|Бахрома уличная</param>
-<param name="Тип освещения">Светодиодная гирлянда</param>
-<param name="Состояние">Новое</param>
-<param name="Тип питания">Сеть</param>
-<param name="Упаковка">Коробка</param>
-<param name="Управление">На корпусе</param>
-<param name="Степень защиты IP">44</param>
-<param name="Цвет шнура питания">Черный</param>
-<param name="Угол свечения">360</param>
-<param name="Гарантия">14 дней</param>
-<param name="Цвет свечения">Желтый</param>
-<param name="Форма лампочки">Классическая</param>
-<param name="Форма сечения">Круглая</param>
-<param name="Цветовая гамма">Желтый</param>
-</offer>
 <offer id="W220LED22MWW" available="true">
 <name>Новогодняя гирлянда комнатная нить 22 м 220 LED комнатная гирлянда белый провод Белый свет W220LED22MWW</name>
 <price>489</price>
@@ -7888,6 +7852,42 @@
 <param name="Гарантия">14 дней</param>
 <param name="Цвет свечения">Белый</param>
 <param name="Цветовая гамма">Белый</param>
+</offer>
+<offer id="6МBY" available="true">
+<name>Новогодняя гирлянда уличная Бахрома 6 м 105 LED черный провод Желтый 6МBY</name>
+<price>669</price>
+<vendorprice>420</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>18</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/FM-56D/6%D0%9CB-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5310/novogodnyaya_girlyanda_ulichnaya_bahroma_6_m_105_led_ulichnaya_girlyanda_chernyy_provod_zheltyy_svet_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5310/novogodnyaya_girlyanda_ulichnaya_bahroma_6_m_105_led_ulichnaya_girlyanda_chernyy_provod_zheltyy_svet_2.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5310/novogodnyaya_girlyanda_ulichnaya_bahroma_6_m_105_led_ulichnaya_girlyanda_chernyy_provod_zheltyy_svet_4.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5310/novogodnyaya_girlyanda_ulichnaya_bahroma_6_m_105_led_ulichnaya_girlyanda_chernyy_provod_zheltyy_svet_5.jpg</picture>
+<vendor>Garlando</vendor>
+<description><![CDATA[Уличная гирлянда Бахрома &mdash; это эффектное решение для создания праздничного освещения и украшения дома, фасада, террасы, кафе или ресторана. Она помогает создать уютную атмосферу и привлекает внимание благодаря яркому мультиколорному свечению с эффектом флеш. Гирлянда имеет прочную конструкцию и высокий уровень защиты от влаги и пыли, что позволяет использовать её на улице в течение всего года. Мягкий свет, плавная передача цветов и разнообразие оттенков делают её идеальной для новогоднего или декоративного оформления любого пространства. Основные характеристики уличной гирлянды:  Тип: бахрома; Длина: 6 м; Количество светодиодов: 105; Цвет свечения: Желтый; Цвет провода: черный; Питание: от сети; Длина шнура питания: 96 см; Расстояние между нитями: 29 см; Расстояние между лампочками: 8 см; Общее количество линий: 21 (длина линий &mdash; 65, 50 и 30 см); Режим работы: флеш; Возможность соединения между собой: есть; Степень защиты: IP44; Вес: 0.50 кг; Размер упаковки: 18&times;10&times;8 см.  Особенности светодиодной гирлянды Бахрома: &bull; Яркое мультиколорное свечение с эффектом флеш; &bull; Высокий уровень влагo- и пылезащиты (IP44); &bull; Возможность соединения нескольких гирлянд между собой; &bull; Безопасная и энергоэффективная работа от сети; &bull; Прочный белый провод с ПВХ-изоляцией, устойчивый к перепадам температуры; &bull; Подходит для украшения фасадов, крыш, балконов, деревьев и витрин; &bull; Долгий срок службы светодиодов &mdash; до 50 000 часов. Гирлянда Бахрома &mdash; это надёжное, долговечное и стильное решение для создания праздничной атмосферы в любое время года. Она сочетает в себе яркость, безопасность и энергоэффективность, становясь красивым акцентом вашего наружного или внутреннего декора.  Внимание! Данный товар подлежит возврату только в случае проверки его исправности на почте. В остальных случаях возврат товара не осуществляется.]]></description>
+<quantity_in_stock>339</quantity_in_stock>
+<vendorCode>6МBY</vendorCode>
+<param name="Вес">500 г</param>
+<param name="Режим работы">Динамический</param>
+<param name="Количество светодиодов">105</param>
+<param name="Длина шнура питания">0.96 м</param>
+<param name="Напряжение">220 В</param>
+<param name="Длина">6 м</param>
+<param name="Тип гирлянды">Бахрома комнатная|Бахрома уличная</param>
+<param name="Тип освещения">Светодиодная гирлянда</param>
+<param name="Состояние">Новое</param>
+<param name="Тип питания">Сеть</param>
+<param name="Упаковка">Коробка</param>
+<param name="Управление">На корпусе</param>
+<param name="Степень защиты IP">44</param>
+<param name="Цвет шнура питания">Черный</param>
+<param name="Угол свечения">360</param>
+<param name="Гарантия">14 дней</param>
+<param name="Цвет свечения">Желтый</param>
+<param name="Форма лампочки">Классическая</param>
+<param name="Форма сечения">Круглая</param>
+<param name="Цветовая гамма">Желтый</param>
 </offer>
 <offer id="HP-55-2BR" available="true">
 <name>Детская силиконовая сумка Капибара 12×10×3 (см) через плечо Коричневый HP-55-2BR</name>
@@ -10251,28 +10251,6 @@
 <param name="Пол">Женский</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-11-29BL" available="true">
-<name>Вакууматор бытовой сенсорный для сухих и влажных продуктов 120 Вт со встроенным резаком упаковщик вакуумный HP-11-29BL</name>
-<price>2079</price>
-<vendorprice>1617</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>14</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-11-29BL/HP-11-29BL_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-11-29BL/HP-11-29BL_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-11-29BL/HP-11-29BL_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-11-29BL/HP-11-29BL_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-11-29BL/HP-11-29BL_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-11-29BL/HP-11-29BL_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/68190/6623/vakuumator_bytovoy_sensornyy_dlya_suhih_i_vlazhnyh_produktov_120_vt_so_vstroennym_rezakom_upakovshchik_vakuumnyy_8.jpg</picture>
-<description><![CDATA[Вакуумный упаковщик  &ndash; это современное решение для безопасного и длительного хранения продуктов. Мощное всасывание и широкая запаивающая поверхность гарантируют надежную герметизацию, предотвращая попадание воздуха и продлевая срок хранения продуктов. Вакууматор поддерживает сухие и влажные режимы, подходит для вакуумирования различных продуктов.  Основные характеристики    вакууматора кухонного:   длина шва запаивания: 300 мм; мощность: 120 Вт; размер:     35&times;10.5&times;5 см; давление вакуума: 65 кПа; управление: сенсорная панель; функции: для сухого и влажного вакуумирования; дополнительные возможности: встроенный резак для пакетов; комплектация: 10 вакуумных пакетов.   Комплектация:   вакууматор; 10 пакетов для вакуумирования.   Правила упаковки вакууматора бытового:   используйте только специальные пакеты; кладите пакет максимально ровно; заполняйте пакет не больше, чем на 3/4 объема; жирную пищу упаковывайте в пакет, предварительно подвернув его края, чтобы жир не попал в насос; при упаковке мягких продуктов (например, клубники) следите за процессом, чтобы не повредить ягоды.   Для удобства использования прибор оснащен водонепроницаемым сенсорным экраном и встроенным резаком, что упрощает процесс упаковки и ухода за устройством. Это идеальный выбор для тех, кто хочет сохранить продукты свежими дольше и использовать их для приготовления.]]></description>
-<quantity_in_stock>272</quantity_in_stock>
-<vendorCode>HP-11-29BL</vendorCode>
-<param name="Максимальная ширина пакета">300</param>
-<param name="Цвет">Серый</param>
-<param name="Функции">Вакуумирование|Запайка|Комбинированное</param>
-<param name="Количество пакетов">10</param>
-<param name="Принцип работы">Электронный</param>
-</offer>
 <offer id="HP-YH-71" available="true">
 <name>Конфетница стеклянная двухуровневая Ø 10 см круглая HP-YH-71</name>
 <price>269</price>
@@ -10300,6 +10278,28 @@
 <param name="Состояние">Новое</param>
 <param name="Форма">Круглая</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-11-29BL" available="true">
+<name>Вакууматор бытовой сенсорный для сухих и влажных продуктов 120 Вт со встроенным резаком упаковщик вакуумный HP-11-29BL</name>
+<price>2079</price>
+<vendorprice>1617</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>14</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-11-29BL/HP-11-29BL_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-11-29BL/HP-11-29BL_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-11-29BL/HP-11-29BL_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-11-29BL/HP-11-29BL_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-11-29BL/HP-11-29BL_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-11-29BL/HP-11-29BL_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/68190/6623/vakuumator_bytovoy_sensornyy_dlya_suhih_i_vlazhnyh_produktov_120_vt_so_vstroennym_rezakom_upakovshchik_vakuumnyy_8.jpg</picture>
+<description><![CDATA[Вакуумный упаковщик  &ndash; это современное решение для безопасного и длительного хранения продуктов. Мощное всасывание и широкая запаивающая поверхность гарантируют надежную герметизацию, предотвращая попадание воздуха и продлевая срок хранения продуктов. Вакууматор поддерживает сухие и влажные режимы, подходит для вакуумирования различных продуктов.  Основные характеристики    вакууматора кухонного:   длина шва запаивания: 300 мм; мощность: 120 Вт; размер:     35&times;10.5&times;5 см; давление вакуума: 65 кПа; управление: сенсорная панель; функции: для сухого и влажного вакуумирования; дополнительные возможности: встроенный резак для пакетов; комплектация: 10 вакуумных пакетов.   Комплектация:   вакууматор; 10 пакетов для вакуумирования.   Правила упаковки вакууматора бытового:   используйте только специальные пакеты; кладите пакет максимально ровно; заполняйте пакет не больше, чем на 3/4 объема; жирную пищу упаковывайте в пакет, предварительно подвернув его края, чтобы жир не попал в насос; при упаковке мягких продуктов (например, клубники) следите за процессом, чтобы не повредить ягоды.   Для удобства использования прибор оснащен водонепроницаемым сенсорным экраном и встроенным резаком, что упрощает процесс упаковки и ухода за устройством. Это идеальный выбор для тех, кто хочет сохранить продукты свежими дольше и использовать их для приготовления.]]></description>
+<quantity_in_stock>271</quantity_in_stock>
+<vendorCode>HP-11-29BL</vendorCode>
+<param name="Максимальная ширина пакета">300</param>
+<param name="Цвет">Серый</param>
+<param name="Функции">Вакуумирование|Запайка|Комбинированное</param>
+<param name="Количество пакетов">10</param>
+<param name="Принцип работы">Электронный</param>
 </offer>
 <offer id="XMH-8P" available="true">
 <name>Тарелка десертная фарфоровая Majestic 20 см Yiwu XMH-8P</name>
@@ -11575,42 +11575,6 @@
 <param name="Материал">Стекло</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="W50LED6MWW" available="true">
-<name>Новогодняя комнатная гирлянда нить 6 м 50 LED белый провод Белый W50LED6MWW</name>
-<price>139</price>
-<vendorprice>89</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>64</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/ZWM32144LED/W50LED6MW-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5328/novogodnyaya_komnatnaya_girlyanda_nit_6_m_50_led_komnatnaya_girlyanda_na_elku_okno_belyy_provod_belyy_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5328/novogodnyaya_komnatnaya_girlyanda_nit_6_m_50_led_komnatnaya_girlyanda_na_elku_okno_belyy_provod_belyy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5328/novogodnyaya_komnatnaya_girlyanda_nit_6_m_50_led_komnatnaya_girlyanda_na_elku_okno_belyy_provod_belyy_3.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5328/novogodnyaya_komnatnaya_girlyanda_nit_6_m_50_led_komnatnaya_girlyanda_na_elku_okno_belyy_provod_belyy_4.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5328/novogodnyaya_komnatnaya_girlyanda_nit_6_m_50_led_komnatnaya_girlyanda_na_elku_okno_belyy_provod_belyy_5.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5328/novogodnyaya_komnatnaya_girlyanda_nit_6_m_50_led_komnatnaya_girlyanda_na_elku_okno_belyy_provod_belyy_6.png</picture>
-<vendor>Garlando</vendor>
-<description><![CDATA[Светодиодная гирлянда Нить &ndash; это стильное и практичное решение для создания праздничной атмосферы и уютного освещения в любом пространстве. Она подходит для украшения интерьера, фасада дома, окон, дверных проемов, балконов или летних террас.  Мягкое свечение и несколько режимов работы позволяют подобрать нужное настроение &mdash; от спокойного мерцания до яркого праздничного сияния. Прочный кабель и качественные светодиоды обеспечивают долговечность и безопасность при использовании.  Основные характеристики комнатной     новогодней гирлянды:   Материал оболочки: каучук; Длина: 6 м; Количество диодов: 50; Мощность: 8 Вт; Цвет провода: белый; Цвет свечения: белый.   Особенности    светодиодной гирлянды:   8 режимов световых эффектов; Качественные материалы и надежная изоляция; Энергоэффективность и долговечность; Удобное управление с помощью контроллера; Подходит для украшения дома, офиса и других помещений.   Светодиодная гирлянда станет стильным украшением любого интерьера. Она создаст тёплую и уютную атмосферу, подчеркнёт праздничное настроение и прослужит вам долго благодаря качественным материалам и надёжной работе.   Внимание!!! Данный товар подлежит возврату только в том случае, когда его исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>235</quantity_in_stock>
-<vendorCode>W50LED6MWW</vendorCode>
-<param name="Режим работы">Динамический</param>
-<param name="Количество светодиодов">50</param>
-<param name="Длина шнура питания">6 м</param>
-<param name="Напряжение">220 В</param>
-<param name="Длина">6 м</param>
-<param name="Тип гирлянды">Нить комнатная</param>
-<param name="Тип освещения">Светодиодная гирлянда</param>
-<param name="Состояние">Новое</param>
-<param name="Тип питания">Сеть</param>
-<param name="Упаковка">Коробка</param>
-<param name="Управление">На корпусе</param>
-<param name="Цвет шнура питания">Белый</param>
-<param name="Угол свечения">360</param>
-<param name="Гарантия">14 дней</param>
-<param name="Цвет свечения">Белый</param>
-<param name="Форма лампочки">Классическая</param>
-<param name="Форма сечения">Круглая</param>
-<param name="Цветовая гамма">Белый</param>
-</offer>
 <offer id="HP-36327-3" available="true">
 <name>Коврик для сервировки стола Merry Christmas and Happy New Year 45*30 см HP-36327-3</name>
 <price>99</price>
@@ -11735,6 +11699,42 @@
 <param name="Питание">Сеть</param>
 <param name="Цвет">Черный</param>
 <param name="Состояние">Новое</param>
+</offer>
+<offer id="W50LED6MWW" available="true">
+<name>Новогодняя комнатная гирлянда нить 6 м 50 LED белый провод Белый W50LED6MWW</name>
+<price>139</price>
+<vendorprice>89</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>64</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/ZWM32144LED/W50LED6MW-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5328/novogodnyaya_komnatnaya_girlyanda_nit_6_m_50_led_komnatnaya_girlyanda_na_elku_okno_belyy_provod_belyy_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5328/novogodnyaya_komnatnaya_girlyanda_nit_6_m_50_led_komnatnaya_girlyanda_na_elku_okno_belyy_provod_belyy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5328/novogodnyaya_komnatnaya_girlyanda_nit_6_m_50_led_komnatnaya_girlyanda_na_elku_okno_belyy_provod_belyy_3.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5328/novogodnyaya_komnatnaya_girlyanda_nit_6_m_50_led_komnatnaya_girlyanda_na_elku_okno_belyy_provod_belyy_4.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5328/novogodnyaya_komnatnaya_girlyanda_nit_6_m_50_led_komnatnaya_girlyanda_na_elku_okno_belyy_provod_belyy_5.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5328/novogodnyaya_komnatnaya_girlyanda_nit_6_m_50_led_komnatnaya_girlyanda_na_elku_okno_belyy_provod_belyy_6.png</picture>
+<vendor>Garlando</vendor>
+<description><![CDATA[Светодиодная гирлянда Нить &ndash; это стильное и практичное решение для создания праздничной атмосферы и уютного освещения в любом пространстве. Она подходит для украшения интерьера, фасада дома, окон, дверных проемов, балконов или летних террас.  Мягкое свечение и несколько режимов работы позволяют подобрать нужное настроение &mdash; от спокойного мерцания до яркого праздничного сияния. Прочный кабель и качественные светодиоды обеспечивают долговечность и безопасность при использовании.  Основные характеристики комнатной     новогодней гирлянды:   Материал оболочки: каучук; Длина: 6 м; Количество диодов: 50; Мощность: 8 Вт; Цвет провода: белый; Цвет свечения: белый.   Особенности    светодиодной гирлянды:   8 режимов световых эффектов; Качественные материалы и надежная изоляция; Энергоэффективность и долговечность; Удобное управление с помощью контроллера; Подходит для украшения дома, офиса и других помещений.   Светодиодная гирлянда станет стильным украшением любого интерьера. Она создаст тёплую и уютную атмосферу, подчеркнёт праздничное настроение и прослужит вам долго благодаря качественным материалам и надёжной работе.   Внимание!!! Данный товар подлежит возврату только в том случае, когда его исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
+<quantity_in_stock>233</quantity_in_stock>
+<vendorCode>W50LED6MWW</vendorCode>
+<param name="Режим работы">Динамический</param>
+<param name="Количество светодиодов">50</param>
+<param name="Длина шнура питания">6 м</param>
+<param name="Напряжение">220 В</param>
+<param name="Длина">6 м</param>
+<param name="Тип гирлянды">Нить комнатная</param>
+<param name="Тип освещения">Светодиодная гирлянда</param>
+<param name="Состояние">Новое</param>
+<param name="Тип питания">Сеть</param>
+<param name="Упаковка">Коробка</param>
+<param name="Управление">На корпусе</param>
+<param name="Цвет шнура питания">Белый</param>
+<param name="Угол свечения">360</param>
+<param name="Гарантия">14 дней</param>
+<param name="Цвет свечения">Белый</param>
+<param name="Форма лампочки">Классическая</param>
+<param name="Форма сечения">Круглая</param>
+<param name="Цветовая гамма">Белый</param>
 </offer>
 <offer id="HP-35015-15" available="true">
 <name>Швабра с классической круглой насадкой для влажной уборки пола, подходит для плитки, ламината, линолеума HP-35015-15</name>
@@ -12488,29 +12488,6 @@
 <param name="Диаметр">25,5 см</param>
 <param name="Материал">фарфор</param>
 </offer>
-<offer id="HP-5-50" available="true">
-<name>Сетевой фильтр-удлинитель 5 розеток 4xUSB-A 1xUSB-C 3м черная HP-5-50</name>
-<price>709</price>
-<vendorprice>543</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>78</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-50/HP-5-50-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-50/HP-5-50_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-50/HP-5-50_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-50/HP-5-50_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-50/HP-5-50_3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 5 розеток + 4 USB-A + USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 1 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 3 метра обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 5 Количество USB-A: 4 Количество USB Type-C: 1 Длина кабеля: 3 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 500 г Размеры: 20 &times; 10 &times; 4 см]]></description>
-<quantity_in_stock>222</quantity_in_stock>
-<vendorCode>HP-5-50</vendorCode>
-<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
-<param name="Длина шнура">3</param>
-<param name="Количество выходных розеток">5</param>
-<param name="Длина провода">3</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="Мощность нагрузки">2500</param>
-</offer>
 <offer id="RX-N240126P" available="true">
 <name>Кружка фарфоровая 350 (мл) для кофе и чая Розовая RX-N240126P</name>
 <price>169</price>
@@ -12614,6 +12591,29 @@
 <param name="Материал корпуса">ABS‑пластик + нержавеющая сталь</param>
 <param name="Тип питания">Солнечная батарея|Аккумулятор</param>
 <param name="Тип лампы">LED</param>
+</offer>
+<offer id="HP-5-50" available="true">
+<name>Сетевой фильтр-удлинитель 5 розеток 4xUSB-A 1xUSB-C 3м черная HP-5-50</name>
+<price>709</price>
+<vendorprice>543</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>78</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-50/HP-5-50-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-50/HP-5-50_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-50/HP-5-50_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-50/HP-5-50_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-50/HP-5-50_3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 5 розеток + 4 USB-A + USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 1 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 3 метра обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 5 Количество USB-A: 4 Количество USB Type-C: 1 Длина кабеля: 3 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 500 г Размеры: 20 &times; 10 &times; 4 см]]></description>
+<quantity_in_stock>221</quantity_in_stock>
+<vendorCode>HP-5-50</vendorCode>
+<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+<param name="Длина шнура">3</param>
+<param name="Количество выходных розеток">5</param>
+<param name="Длина провода">3</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Черный</param>
+<param name="Мощность нагрузки">2500</param>
 </offer>
 <offer id="HP-YH-75" available="true">
 <name>Конфетница с крышкой Ø 10 см стеклянная HP-YH-75</name>
@@ -17144,28 +17144,6 @@
 <param name="Размеры">19*10*8 см</param>
 <param name="Материал маслёнки">фарфор</param>
 </offer>
-<offer id="HP-42-78" available="true">
-<name>Коврик для ванной комнаты влагопоглощающий 58*38 см под белый мрамор Yiwu HP-42-78</name>
-<price>199</price>
-<vendorprice>128</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>49</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-42-78/HP-42-78_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7556/kovrik_dlya_vannoy_komnaty_vlagopogloshchayushchiy_58_38_sm_pod_belyy_mramor_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-42-78/HP-42-78_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-42-78/HP-42-78_2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Влагопоглощающий коврик для ванной комнаты под мрамор изготовлен из диатомита и предназначен для использования возле ванны, душевой кабины, умывальника или стиральной машины. Поверхность с текстурой натурального мрамора гармонично дополняет интерьер, а диатомит быстро впитывает влагу и высыхает, помогая поддерживать пол сухим. Материал не накапливает пыль, волосы и мелкий мусор, легко очищается и подходит для ежедневного использования. Размер 58×38 см обеспечивает удобное размещение в большинстве ванных комнат. Преимущества  Изготовлен из диатомита. Быстро впитывает влагу и высыхает. Поверхность с текстурой натурального мрамора. Помогает поддерживать пол сухим. Не накапливает пыль, волосы и мелкий мусор. Легко очищается влажной тканью или водой. Прямоугольная форма подходит для использования возле ванны, душевой кабины, умывальника или стиральной машины. Подходит для ежедневного использования.  Характеристики  Тип: влагопоглощающий коврик для ванной комнаты. Материал: диатомит. Форма: прямоугольная. Размер: 58×38 см. Вес: 400 г. Поверхность: текстура под мрамор.  Правила ухода  Регулярно очищать влажной тряпкой или промывать под проточной водой. После мытья оставлять до полного высыхания. Не использовать абразивные средства и агрессивные химические вещества. Не сворачивать во влажном состоянии и не сушить возле открытого источника тепла.]]></description>
-<quantity_in_stock>171</quantity_in_stock>
-<vendorCode>HP-42-78</vendorCode>
-<param name="Тип">Коврик для ванной</param>
-<param name="Материал">Диатомит</param>
-<param name="Ширина">38</param>
-<param name="Количество в наборе">1</param>
-<param name="Цвет">Белый</param>
-<param name="Длина">58</param>
-<param name="Форма">Прямоугольная</param>
-</offer>
 <offer id="HP-42-123" available="true">
 <name>Коврик универсальный диатомитовый Acanthus 58*38 см прямоугольный Yiwu HP-42-123</name>
 <price>199</price>
@@ -17297,6 +17275,28 @@
 <param name="Объем стакана/рюмки/бокала/стопки">200</param>
 <param name="Нижний диаметр">11</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-42-78" available="true">
+<name>Коврик для ванной комнаты влагопоглощающий 58*38 см под белый мрамор Yiwu HP-42-78</name>
+<price>199</price>
+<vendorprice>128</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>49</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-42-78/HP-42-78_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7556/kovrik_dlya_vannoy_komnaty_vlagopogloshchayushchiy_58_38_sm_pod_belyy_mramor_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-42-78/HP-42-78_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-42-78/HP-42-78_2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Влагопоглощающий коврик для ванной комнаты под мрамор изготовлен из диатомита и предназначен для использования возле ванны, душевой кабины, умывальника или стиральной машины. Поверхность с текстурой натурального мрамора гармонично дополняет интерьер, а диатомит быстро впитывает влагу и высыхает, помогая поддерживать пол сухим. Материал не накапливает пыль, волосы и мелкий мусор, легко очищается и подходит для ежедневного использования. Размер 58×38 см обеспечивает удобное размещение в большинстве ванных комнат. Преимущества  Изготовлен из диатомита. Быстро впитывает влагу и высыхает. Поверхность с текстурой натурального мрамора. Помогает поддерживать пол сухим. Не накапливает пыль, волосы и мелкий мусор. Легко очищается влажной тканью или водой. Прямоугольная форма подходит для использования возле ванны, душевой кабины, умывальника или стиральной машины. Подходит для ежедневного использования.  Характеристики  Тип: влагопоглощающий коврик для ванной комнаты. Материал: диатомит. Форма: прямоугольная. Размер: 58×38 см. Вес: 400 г. Поверхность: текстура под мрамор.  Правила ухода  Регулярно очищать влажной тряпкой или промывать под проточной водой. После мытья оставлять до полного высыхания. Не использовать абразивные средства и агрессивные химические вещества. Не сворачивать во влажном состоянии и не сушить возле открытого источника тепла.]]></description>
+<quantity_in_stock>170</quantity_in_stock>
+<vendorCode>HP-42-78</vendorCode>
+<param name="Тип">Коврик для ванной</param>
+<param name="Материал">Диатомит</param>
+<param name="Ширина">38</param>
+<param name="Количество в наборе">1</param>
+<param name="Цвет">Белый</param>
+<param name="Длина">58</param>
+<param name="Форма">Прямоугольная</param>
 </offer>
 <offer id="173309ML" available="true">
 <name>Гирлянда светодиодная конский хвост GarlandoPro 200LED Роса 2м 10 линий 173309ML</name>
@@ -17613,24 +17613,6 @@
 <param name="Длина">58</param>
 <param name="Форма">Прямоугольная</param>
 </offer>
-<offer id="SP-26B" available="true">
-<name>Камин декоративный с LED-подсветкой 60*10*20 см, черный Yiwu SP-26B</name>
-<price>1959</price>
-<vendorprice>1229</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>26</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7837/kamin_dekorativnyy_s_led_podsvetkoy_60_10_20_sm_chernyy.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Декоративный светодиодный камин длиной 60 см создает атмосферный эффект тлеющих углей и живого пламени без нагрева, дыма и копоти. LED-подсветка имитирует мерцание огня, а легкий пластиковый корпус позволяет удобно размещать камин в нишах, на стенах или в каминных порталах. Автономное питание от 3 батареек типа C позволяет использовать его без подключения к розетке. Преимущества  реалистичный эффект тлеющих углей и пламени; энергоэффективная светодиодная подсветка; не нагревает окружающие предметы; работает от 3 батареек C 1,5 V (в комплект не входят)/ USB легкий пластиковый корпус; подходит для декоративного оформления интерьера; не выделяет дыма, сажи и копоти.  Характеристики  Тип: декоративный светодиодный камин; Материал: пластик; Размеры: 60 × 10 × 20 см; Вес: 1.7 кг; Питание: 3 батарейки типа C 1,5 V; Подсветка: LED; Назначение: для закрытых сухих помещений.  Правила ухода  Протирать корпус мягкой сухой или слегка влажной салфеткой из микрофибры. Не допускать попадания влаги. Не использовать абразивные средства, растворители и жесткие губки.]]></description>
-<quantity_in_stock>166</quantity_in_stock>
-<vendorCode>SP-26B</vendorCode>
-<param name="Высота">20</param>
-<param name="Вес камина">1.7</param>
-<param name="Глубина">10</param>
-<param name="Ширина">60</param>
-<param name="Эффект пламени">Да</param>
-<param name="Материал каркаса">пластик</param>
-</offer>
 <offer id="HPV494B" available="true">
 <name>Фен-щетка VGR для укладки волос с ионизацией, 800 Вт HPV494B</name>
 <price>1549</price>
@@ -17763,6 +17745,24 @@
 <param name="Ширина">17</param>
 <param name="Длина">30</param>
 <param name="Форма">Овальная</param>
+</offer>
+<offer id="SP-26B" available="true">
+<name>Камин декоративный с LED-подсветкой 60*10*20 см, черный Yiwu SP-26B</name>
+<price>1959</price>
+<vendorprice>1229</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>26</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7837/kamin_dekorativnyy_s_led_podsvetkoy_60_10_20_sm_chernyy.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Декоративный светодиодный камин длиной 60 см создает атмосферный эффект тлеющих углей и живого пламени без нагрева, дыма и копоти. LED-подсветка имитирует мерцание огня, а легкий пластиковый корпус позволяет удобно размещать камин в нишах, на стенах или в каминных порталах. Автономное питание от 3 батареек типа C позволяет использовать его без подключения к розетке. Преимущества  реалистичный эффект тлеющих углей и пламени; энергоэффективная светодиодная подсветка; не нагревает окружающие предметы; работает от 3 батареек C 1,5 V (в комплект не входят)/ USB легкий пластиковый корпус; подходит для декоративного оформления интерьера; не выделяет дыма, сажи и копоти.  Характеристики  Тип: декоративный светодиодный камин; Материал: пластик; Размеры: 60 × 10 × 20 см; Вес: 1.7 кг; Питание: 3 батарейки типа C 1,5 V; Подсветка: LED; Назначение: для закрытых сухих помещений.  Правила ухода  Протирать корпус мягкой сухой или слегка влажной салфеткой из микрофибры. Не допускать попадания влаги. Не использовать абразивные средства, растворители и жесткие губки.]]></description>
+<quantity_in_stock>165</quantity_in_stock>
+<vendorCode>SP-26B</vendorCode>
+<param name="Высота">20</param>
+<param name="Вес камина">1.7</param>
+<param name="Глубина">10</param>
+<param name="Ширина">60</param>
+<param name="Эффект пламени">Да</param>
+<param name="Материал каркаса">пластик</param>
 </offer>
 <offer id="SP-26BR" available="true">
 <name>Камин декоративный с LED-подсветкой 60*10*20 см, бронзовый Yiwu SP-26BR</name>
@@ -19467,29 +19467,6 @@
 <param name="Пол">Унисекс</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-14-52P" available="true">
-<name>Термокружка Flower Style с ремешком 500 мл розовая HP-14-52P</name>
-<price>609</price>
-<vendorprice>474</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>153</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3164/termokruzhka_500_ml_kruzhka_termos_dlya_kofe_i_chaya_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali_podarochnaya.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3164/termokruzhka_500_ml_kruzhka_termos_dlya_kofe_i_chaya_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali_podarochnaya_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3164/termokruzhka_500_ml_kruzhka_termos_dlya_kofe_i_chaya_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali_podarochnaya_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3164/termokruzhka_500_ml_kruzhka_termos_dlya_kofe_i_chaya_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali_podarochnaya_3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Термокружка 500 мл – это практичный и удобный аксессуар, который позволит вам наслаждаться любимым напитком, будь то горячий кофе, ароматный чай или освежающий сок, в любом месте и в любое время. Внутренняя колба изготовлена из высококачественной нержавеющей стали - этот материал является безопасным для здоровья, не накапливает запахи и не влияет на вкус напитка.   Основные характеристики    объем 500 мл; высота 19 см; диаметр 6 см.    Основные преимущества    Термокружка с вакуумной изоляцией способна сохранять температуру напитка в течение нескольких часов. В комплект входит текстильный ремешок с надписью, удобный для переноски и фиксации термокружки на сумке или рюкзаке. Крышка термокружки плотно закрывается, что защищает напиток от пролития.   Термокружка незаменима в дороге, в спорт зале, на прогулках и пикниках. Она прекрасно удерживает тепло или холод, сохраняя температуру напитков. Вы сможете долго лакомиться горячим ароматным чаем или идеально ледяным лимонадом.]]></description>
-<quantity_in_stock>145</quantity_in_stock>
-<vendorCode>HP-14-52P</vendorCode>
-<param name="Высота">19 см</param>
-<param name="Время сохранения тепла">6 ч</param>
-<param name="Время сохранения холода">12 ч</param>
-<param name="Материал колбы">Нержавеющая сталь</param>
-<param name="Объем">500 мл</param>
-<param name="Цвет">Розовый</param>
-<param name="Нижний диаметр">6 см</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="CYT-B" available="true">
 <name>Масленка фарфоровая с бамбуковой крышкой и ножом для масла, черный</name>
 <url>https://lugi.com.ua/ru/ru-maslyanka-cyt-b/</url>
@@ -19524,6 +19501,29 @@
 <param name="Материал корпуса">ABS + нержавеющая сталь + оптоволокно</param>
 <param name="Тип питания">Солнечная батарея|Аккумулятор</param>
 <param name="Тип лампы">LED + Fibre Optic</param>
+</offer>
+<offer id="HP-14-52P" available="true">
+<name>Термокружка Flower Style с ремешком 500 мл розовая HP-14-52P</name>
+<price>609</price>
+<vendorprice>474</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>153</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3164/termokruzhka_500_ml_kruzhka_termos_dlya_kofe_i_chaya_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali_podarochnaya.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3164/termokruzhka_500_ml_kruzhka_termos_dlya_kofe_i_chaya_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali_podarochnaya_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3164/termokruzhka_500_ml_kruzhka_termos_dlya_kofe_i_chaya_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali_podarochnaya_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3164/termokruzhka_500_ml_kruzhka_termos_dlya_kofe_i_chaya_s_remeshkom_termochashka_iz_nerzhaveyushchey_stali_podarochnaya_3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Термокружка 500 мл – это практичный и удобный аксессуар, который позволит вам наслаждаться любимым напитком, будь то горячий кофе, ароматный чай или освежающий сок, в любом месте и в любое время. Внутренняя колба изготовлена из высококачественной нержавеющей стали - этот материал является безопасным для здоровья, не накапливает запахи и не влияет на вкус напитка.   Основные характеристики    объем 500 мл; высота 19 см; диаметр 6 см.    Основные преимущества    Термокружка с вакуумной изоляцией способна сохранять температуру напитка в течение нескольких часов. В комплект входит текстильный ремешок с надписью, удобный для переноски и фиксации термокружки на сумке или рюкзаке. Крышка термокружки плотно закрывается, что защищает напиток от пролития.   Термокружка незаменима в дороге, в спорт зале, на прогулках и пикниках. Она прекрасно удерживает тепло или холод, сохраняя температуру напитков. Вы сможете долго лакомиться горячим ароматным чаем или идеально ледяным лимонадом.]]></description>
+<quantity_in_stock>144</quantity_in_stock>
+<vendorCode>HP-14-52P</vendorCode>
+<param name="Высота">19 см</param>
+<param name="Время сохранения тепла">6 ч</param>
+<param name="Время сохранения холода">12 ч</param>
+<param name="Материал колбы">Нержавеющая сталь</param>
+<param name="Объем">500 мл</param>
+<param name="Цвет">Розовый</param>
+<param name="Нижний диаметр">6 см</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-14-54G" available="true">
 <name>Термос спортивный с мундштуком 680 мл серый HP-14-54G</name>
@@ -23366,31 +23366,6 @@
 <param name="Питание">Аккумулятор</param>
 <param name="Длина">850</param>
 </offer>
-<offer id="HP-5-53" available="true">
-<name>Сетевой фильтр-удлинитель 6 розеток 4xUSB-A 2xUSB-C 5м белая HP-5-53</name>
-<price>729</price>
-<vendorprice>562</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>78</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7005/setevoy_filtr_udlinitel_6_rozetok_4xusb_a_2xusb_c_5m_belaya_knopka_otklyucheniya_udlinitel_elektricheskaya_zaryadka.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_1.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 6 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 6 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 23 × 11 × 4 см]]></description>
-<quantity_in_stock>118</quantity_in_stock>
-<vendorCode>HP-5-53</vendorCode>
-<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
-<param name="Длина шнура">5</param>
-<param name="Количество выходных розеток">6</param>
-<param name="Выключатель">Да</param>
-<param name="Входная вилка">ЕURO</param>
-<param name="Выходная розетка">Евро</param>
-<param name="Длина провода">5</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Белый</param>
-</offer>
 <offer id="HP-42-149" available="true">
 <name>Коврик универсальный Monarch 58*58 см диатомитовый Yiwu HP-42-149</name>
 <price>329</price>
@@ -23679,6 +23654,31 @@
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
+<offer id="HP-5-53" available="true">
+<name>Сетевой фильтр-удлинитель 6 розеток 4xUSB-A 2xUSB-C 5м белая HP-5-53</name>
+<price>729</price>
+<vendorprice>562</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>78</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7005/setevoy_filtr_udlinitel_6_rozetok_4xusb_a_2xusb_c_5m_belaya_knopka_otklyucheniya_udlinitel_elektricheskaya_zaryadka.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-53/HP-5-53_1.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 6 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 6 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 23 × 11 × 4 см]]></description>
+<quantity_in_stock>117</quantity_in_stock>
+<vendorCode>HP-5-53</vendorCode>
+<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+<param name="Длина шнура">5</param>
+<param name="Количество выходных розеток">6</param>
+<param name="Выключатель">Да</param>
+<param name="Входная вилка">ЕURO</param>
+<param name="Выходная розетка">Евро</param>
+<param name="Длина провода">5</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Белый</param>
+</offer>
 <offer id="HP-34-51" available="true">
 <name>Лимонадница стеклянная с краном, 1,6 л на металлической подставке Yiwu HP-34-51</name>
 <price>969</price>
@@ -23716,28 +23716,6 @@
 <param name="Ширина">38</param>
 <param name="Количество в наборе">2</param>
 <param name="Длина">118/58</param>
-</offer>
-<offer id="DF-GX831" available="true">
-<name>Набор разделочных досок пластиковых с маркировкой 29,5*20*0,5 см Yiwu DF-GX831</name>
-<price>1129</price>
-<vendorprice>708</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>96</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/DF-GX831/DF-GX831_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77249/7820/nabor_razdelochnyh_dosok_plastikovyh_s_markirovkoy_29_5_20_0_5_sm_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/DF-GX831/DF-GX831_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/DF-GX831/DF-GX831_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/DF-GX831/DF-GX831_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/DF-GX831/DF-GX831_6.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Набор кухонных пластиковых разделочных досок на подставке — практичное и гигиеничное решение для современной кухни. В комплект входят 4 двухсторонние доски с ярлыками для разных типов продуктов (рыба, мясо, овощи и фрукты). Разделение досок по назначению предотвращает смешивание запахов и перекрёстное загрязнение ингредиентов. Преимущества  Маркировка: Каждая доска предназначена для конкретной группы продуктов (рыба, мясо, овощи, другие продукты), что обеспечивает гигиену и порядок при приготовлении пищи. Пищевой пластик: Изготовлены из безопасного полипропилена, который не тупит ножи, не впитывает влагу и запахи и легко очищается. Удобная подставка: Компактная подставка удерживает доски в вертикальном положении, благодаря чему они быстро сохнут и занимают минимум места на рабочей поверхности.  Рекомендации по уходу  Промывайте доски и подставку теплой водой с мягким моющим средством после каждого использования. Для поддержания гигиены периодически дезинфицируйте поверхности мягкими антибактериальными средствами или раствором соды. Избегайте использования жестких металлических мочалок и абразивных чистящих средств, чтобы не царапать поверхность. Можно мыть в посудомоечной машине (в щадящем режиме).  Характеристики  Материал: пластик Размеры: 29,5*20*0,5 см Размеры подставки: 33*6*8 см Вес: 1,3 кг]]></description>
-<quantity_in_stock>117</quantity_in_stock>
-<vendorCode>DF-GX831</vendorCode>
-<param name="Материал">Пластик</param>
-<param name="Ширина">20</param>
-<param name="Толщина">5</param>
-<param name="Длина">29.5</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
 </offer>
 <offer id="YYSH1225" available="true">
 <name>Блюдо фарфоровое прямоугольное Aurelia 36*20*3.3 см с золотым декором Yiwu YYSH1225</name>
@@ -24108,6 +24086,28 @@
 <vendorCode>DF-FSY017</vendorCode>
 <param name="Тип">Набор кухонных принадлежностей</param>
 <param name="Количество предметов в наборе">15</param>
+</offer>
+<offer id="DF-GX831" available="true">
+<name>Набор разделочных досок пластиковых с маркировкой 29,5*20*0,5 см Yiwu DF-GX831</name>
+<price>1129</price>
+<vendorprice>708</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>96</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/DF-GX831/DF-GX831_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77249/7820/nabor_razdelochnyh_dosok_plastikovyh_s_markirovkoy_29_5_20_0_5_sm_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/DF-GX831/DF-GX831_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/DF-GX831/DF-GX831_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/DF-GX831/DF-GX831_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/DF-GX831/DF-GX831_6.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Набор кухонных пластиковых разделочных досок на подставке — практичное и гигиеничное решение для современной кухни. В комплект входят 4 двухсторонние доски с ярлыками для разных типов продуктов (рыба, мясо, овощи и фрукты). Разделение досок по назначению предотвращает смешивание запахов и перекрёстное загрязнение ингредиентов. Преимущества  Маркировка: Каждая доска предназначена для конкретной группы продуктов (рыба, мясо, овощи, другие продукты), что обеспечивает гигиену и порядок при приготовлении пищи. Пищевой пластик: Изготовлены из безопасного полипропилена, который не тупит ножи, не впитывает влагу и запахи и легко очищается. Удобная подставка: Компактная подставка удерживает доски в вертикальном положении, благодаря чему они быстро сохнут и занимают минимум места на рабочей поверхности.  Рекомендации по уходу  Промывайте доски и подставку теплой водой с мягким моющим средством после каждого использования. Для поддержания гигиены периодически дезинфицируйте поверхности мягкими антибактериальными средствами или раствором соды. Избегайте использования жестких металлических мочалок и абразивных чистящих средств, чтобы не царапать поверхность. Можно мыть в посудомоечной машине (в щадящем режиме).  Характеристики  Материал: пластик Размеры: 29,5*20*0,5 см Размеры подставки: 33*6*8 см Вес: 1,3 кг]]></description>
+<quantity_in_stock>116</quantity_in_stock>
+<vendorCode>DF-GX831</vendorCode>
+<param name="Материал">Пластик</param>
+<param name="Ширина">20</param>
+<param name="Толщина">5</param>
+<param name="Длина">29.5</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
 </offer>
 <offer id="AJ2205BL" available="true">
 <name>Ручной отпариватель для одежды SOKANY  250 мл  Темно-синий Lugi AJ2205BL</name>
@@ -34307,30 +34307,6 @@
 <param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-FM-352-2" available="true">
-<name>Термочашка 520 мл с отверстием для трубочки и двойным открыванием розовый HP-FM-352-2</name>
-<price>519</price>
-<vendorprice>407</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>153</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-2/HP-FM-352-2-5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-2/HP-FM-352-2-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-2/HP-FM-352-2-2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-2/HP-FM-352-2-3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-2/HP-FM-352-2-4.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Термочашка 520 мл сочетает функциональность и продуманную конструкцию для ежедневного использования. На корпусе размещен цветочный принт с надписью. Модель оснащена герметичной крышкой с двойным открыванием: отдельный клапан для питья и дополнительное отверстие для использования трубочки. Сбоку закреплен текстильный ремешок с надписью “COFFEE”.  Двойная стенка помогает сохранять температуру напитков дольше, уменьшая нагрев внешней поверхности. Объем 520 мл подходит для кофе, чая, воды или других напитков в течение рабочего дня или прогулки. Конструкция предусматривает плотное закрывание, что снижает риск протеканий в суке или рюкзаке. Нижняя часть имеет усиленную основу для большей устойчивости.     Термочашка подходит для офиса, учебы, путешествий или ежедневного использования в городе. Компактная форма позволяет удобно держать ее в руке и размещать в большинстве подстаканников. Практичное решение для тех, кто ищет удобный формат многоразовой чашки с продуманными деталями.   Характеристики:       Тип: термочашка Объем: 520 мл Конструкция: двойная стенка Крышка: двойное открывание Дополнительно: отверстие для трубочки]]></description>
-<quantity_in_stock>84</quantity_in_stock>
-<vendorCode>HP-FM-352-2</vendorCode>
-<param name="Тип">Термокружка</param>
-<param name="Высота">20</param>
-<param name="Верхний диаметр">8</param>
-<param name="Помповый механизм">Нет</param>
-<param name="Ширина">6.5</param>
-<param name="Объем">520</param>
-<param name="Состояние">Новое</param>
-<param name="Нижний диаметр">6.5</param>
-</offer>
 <offer id="518-11-A-90" available="true">
 <name>Банное полотенце 70×140 см махровое молочный Colorful Home 518-11-A-90</name>
 <price>439</price>
@@ -34465,6 +34441,30 @@
 <param name="Тип вилки">Столовая</param>
 <param name="Длина">210</param>
 <param name="Поверхность">Глянцевая/матовая</param>
+</offer>
+<offer id="HP-FM-352-2" available="true">
+<name>Термочашка 520 мл с отверстием для трубочки и двойным открыванием розовый HP-FM-352-2</name>
+<price>519</price>
+<vendorprice>407</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>153</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-2/HP-FM-352-2-5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-2/HP-FM-352-2-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-2/HP-FM-352-2-2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-2/HP-FM-352-2-3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-2/HP-FM-352-2-4.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Термочашка 520 мл сочетает функциональность и продуманную конструкцию для ежедневного использования. На корпусе размещен цветочный принт с надписью. Модель оснащена герметичной крышкой с двойным открыванием: отдельный клапан для питья и дополнительное отверстие для использования трубочки. Сбоку закреплен текстильный ремешок с надписью “COFFEE”.  Двойная стенка помогает сохранять температуру напитков дольше, уменьшая нагрев внешней поверхности. Объем 520 мл подходит для кофе, чая, воды или других напитков в течение рабочего дня или прогулки. Конструкция предусматривает плотное закрывание, что снижает риск протеканий в суке или рюкзаке. Нижняя часть имеет усиленную основу для большей устойчивости.     Термочашка подходит для офиса, учебы, путешествий или ежедневного использования в городе. Компактная форма позволяет удобно держать ее в руке и размещать в большинстве подстаканников. Практичное решение для тех, кто ищет удобный формат многоразовой чашки с продуманными деталями.   Характеристики:       Тип: термочашка Объем: 520 мл Конструкция: двойная стенка Крышка: двойное открывание Дополнительно: отверстие для трубочки]]></description>
+<quantity_in_stock>83</quantity_in_stock>
+<vendorCode>HP-FM-352-2</vendorCode>
+<param name="Тип">Термокружка</param>
+<param name="Высота">20</param>
+<param name="Верхний диаметр">8</param>
+<param name="Помповый механизм">Нет</param>
+<param name="Ширина">6.5</param>
+<param name="Объем">520</param>
+<param name="Состояние">Новое</param>
+<param name="Нижний диаметр">6.5</param>
 </offer>
 <offer id="HP39568W" available="true">
 <name>Сковорода гриль квадратная 18,3*18,1*2 см рифленая с гранитным покрытием бежевая HP39568W</name>
@@ -34613,29 +34613,6 @@
 <param name="Длина">325</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Форма">Прямоугольная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
-<offer id="HP-8-55" available="true">
-<name>Лопатка силиконовая кухонная для сковороды 33.5 (см) лопатка из силикона для кухни с деревянной ручкой HP-8-55</name>
-<price>209</price>
-<vendorprice>159</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>86</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4530/lopatka_silikonovaya_kuhonnaya_dlya_skovorody_33_5_sm_lopatka_iz_silkona_dlya_kuhni_s_derevyannoy_ruchkoy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4530/lopatka_silikonovaya_kuhonnaya_dlya_skovorody_33_5_sm_lopatka_iz_silkona_dlya_kuhni_s_derevyannoy_ruchkoy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4530/lopatka_silikonovaya_kuhonnaya_dlya_skovorody_33_5_sm_lopatka_iz_silkona_dlya_kuhni_s_derevyannoy_ruchkoy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4530/lopatka_silikonovaya_kuhonnaya_dlya_skovorody_33_5_sm_lopatka_iz_silkona_dlya_kuhni_s_derevyannoy_ruchkoy_3.jpg</picture>
-<vendor>Ding Lanfang</vendor>
-<description><![CDATA[Кухонная силиконовая лопатка с деревянной ручкой &mdash; универсальный аксессуар для повседневного приготовления блюд. Широкая и гибкая рабочая часть из пищевого силикона позволяет удобно переворачивать, перемешивать и подавать мясо, овощи, оладьи, яйца и другие продукты, не повреждая антипригарное покрытие посуды.  Лопатка устойчива к высоким температурам, не впитывает запахи и легко очищается. Деревянная ручка удобно лежит в руке и защищает от ожогов при готовке.  Основные характеристики силиконовой лопатки для сковороды:   Размер: 33.5&times;10 см; Длина: 33.5 см; Материал рабочей части: силикон; Материал ручки: дерево.   Благодаря прочным материалам и продуманной конструкции, лопатка подойдёт как для повседневной домашней кухни, так и для профессионального использования. Это практичное и долговечное решение для каждого, кто ценит удобство и качество на кухне.]]></description>
-<quantity_in_stock>82</quantity_in_stock>
-<vendorCode>HP-8-55</vendorCode>
-<param name="Тип">Лопатка</param>
-<param name="Материал">Силикон</param>
-<param name="Ширина">100</param>
-<param name="Подходит для посуды с тефлоновым покрытием">Да</param>
-<param name="Цвет">Черный</param>
-<param name="Длина">335</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="LB-1572G" available="true">
@@ -34845,6 +34822,29 @@
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Наличие крышки">Нет</param>
 <param name="Форма">Фигурная</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-8-55" available="true">
+<name>Лопатка силиконовая кухонная для сковороды 33.5 (см) лопатка из силикона для кухни с деревянной ручкой HP-8-55</name>
+<price>209</price>
+<vendorprice>159</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>86</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4530/lopatka_silikonovaya_kuhonnaya_dlya_skovorody_33_5_sm_lopatka_iz_silkona_dlya_kuhni_s_derevyannoy_ruchkoy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4530/lopatka_silikonovaya_kuhonnaya_dlya_skovorody_33_5_sm_lopatka_iz_silkona_dlya_kuhni_s_derevyannoy_ruchkoy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4530/lopatka_silikonovaya_kuhonnaya_dlya_skovorody_33_5_sm_lopatka_iz_silkona_dlya_kuhni_s_derevyannoy_ruchkoy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4530/lopatka_silikonovaya_kuhonnaya_dlya_skovorody_33_5_sm_lopatka_iz_silkona_dlya_kuhni_s_derevyannoy_ruchkoy_3.jpg</picture>
+<vendor>Ding Lanfang</vendor>
+<description><![CDATA[Кухонная силиконовая лопатка с деревянной ручкой &mdash; универсальный аксессуар для повседневного приготовления блюд. Широкая и гибкая рабочая часть из пищевого силикона позволяет удобно переворачивать, перемешивать и подавать мясо, овощи, оладьи, яйца и другие продукты, не повреждая антипригарное покрытие посуды.  Лопатка устойчива к высоким температурам, не впитывает запахи и легко очищается. Деревянная ручка удобно лежит в руке и защищает от ожогов при готовке.  Основные характеристики силиконовой лопатки для сковороды:   Размер: 33.5&times;10 см; Длина: 33.5 см; Материал рабочей части: силикон; Материал ручки: дерево.   Благодаря прочным материалам и продуманной конструкции, лопатка подойдёт как для повседневной домашней кухни, так и для профессионального использования. Это практичное и долговечное решение для каждого, кто ценит удобство и качество на кухне.]]></description>
+<quantity_in_stock>81</quantity_in_stock>
+<vendorCode>HP-8-55</vendorCode>
+<param name="Тип">Лопатка</param>
+<param name="Материал">Силикон</param>
+<param name="Ширина">100</param>
+<param name="Подходит для посуды с тефлоновым покрытием">Да</param>
+<param name="Цвет">Черный</param>
+<param name="Длина">335</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="80130301" available="true">
@@ -35555,33 +35555,6 @@
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HW01P" available="true">
-<name>Бутылка с подогревом для детского питания 300 мл с аккумулятором Розовый HW01P</name>
-<price>3019</price>
-<vendorprice>2603</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>153</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/68190/6632/butylka_s_podogrevom_dlya_detskogo_pitaniya_i_napitkov_300_ml_s_akkumulyatorom_podogrevatel_termos_dlya_detskogo_pitaniya_rozovyy.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../00./HW01P/HW01P_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../00./HW01P/HW01P_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../00./HW01P/HW01P_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../00./HW01P/HW01P_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../00./HW01P/HW01P_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../00./HW01P/HW01P_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/68190/6632/butylka_s_podogrevom_dlya_detskogo_pitaniya_i_napitkov_300_ml_s_akkumulyatorom_podogrevatel_termos_dlya_detskogo_pitaniya_rozovyy_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../00./HW01P/HW01P_8.jpg</picture>
-<description><![CDATA[Умный портативный девайс, объединяющий функции чайника и термоса. Устройство предназначено для нагрева воды или готового детского питания напрямую в емкости, поддерживая заданную температуру в течение долгого времени. Идеальное решение для приготовления смеси на прогулке или в дороге без использования внешних подогревателей.   Преимущества:    Прямой нагрев: Не нужно искать розетку или горячую воду, чтобы согреть бутылочку. Следует налить воду прямо в термостат, установиь нужный градус (например, 37&deg;C или 40&deg;C), и через несколько минут теплая основа для смеси готова. Гигиеничность: Колба выполнена из пищевого стекла и стали, которые не впитывают запахи и легко моются. Цифровой контроль: Дисплей в реальном времени показывает текущую температуру жидкости внутри, исключая риск обжечь ребенка. Герметичность: Надежная крышка с фиксатором позволяет носить прибор в сумке с уже налитой водой. Многофункциональность: Можно использовать как походный чайник для подогрева воды до 55&deg;C или как индивидуальный термос.    Характеристики:    Объем: 300 мл Материалы: стекло, нержавеющая сталь, ABS-пластик Аккумулятор: 5000 мАч Температурный шаг: настройка от 37&deg;C до 55&deg;C Интерфейс: зарядка через стандартный USB-кабель]]></description>
-<quantity_in_stock>79</quantity_in_stock>
-<vendorCode>HW01P</vendorCode>
-<param name="Высота">220</param>
-<param name="Вес">800</param>
-<param name="Вместимость бутылочек">1</param>
-<param name="Диаметр">80</param>
-<param name="Дополнительная комплектация">Мерная бутылочка</param>
-<param name="Функции">Поддержание необходимой температуры</param>
-<param name="Цвет корпуса">Розовый</param>
-<param name="Гарантия">3 месяца</param>
-</offer>
 <offer id="HP-5-18G" available="true">
 <name>Шкатулка для украшений из эко кожи 3 отделения с зеркалом 16×10×6 см Серый HP-5-18G</name>
 <price>549</price>
@@ -35919,6 +35892,33 @@
 <param name="Цвет">Черный</param>
 <param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HW01P" available="true">
+<name>Бутылка с подогревом для детского питания 300 мл с аккумулятором Розовый HW01P</name>
+<price>3019</price>
+<vendorprice>2603</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>153</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/68190/6632/butylka_s_podogrevom_dlya_detskogo_pitaniya_i_napitkov_300_ml_s_akkumulyatorom_podogrevatel_termos_dlya_detskogo_pitaniya_rozovyy.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../00./HW01P/HW01P_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../00./HW01P/HW01P_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../00./HW01P/HW01P_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../00./HW01P/HW01P_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../00./HW01P/HW01P_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../00./HW01P/HW01P_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/68190/6632/butylka_s_podogrevom_dlya_detskogo_pitaniya_i_napitkov_300_ml_s_akkumulyatorom_podogrevatel_termos_dlya_detskogo_pitaniya_rozovyy_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../00./HW01P/HW01P_8.jpg</picture>
+<description><![CDATA[Умный портативный девайс, объединяющий функции чайника и термоса. Устройство предназначено для нагрева воды или готового детского питания напрямую в емкости, поддерживая заданную температуру в течение долгого времени. Идеальное решение для приготовления смеси на прогулке или в дороге без использования внешних подогревателей.   Преимущества:    Прямой нагрев: Не нужно искать розетку или горячую воду, чтобы согреть бутылочку. Следует налить воду прямо в термостат, установиь нужный градус (например, 37&deg;C или 40&deg;C), и через несколько минут теплая основа для смеси готова. Гигиеничность: Колба выполнена из пищевого стекла и стали, которые не впитывают запахи и легко моются. Цифровой контроль: Дисплей в реальном времени показывает текущую температуру жидкости внутри, исключая риск обжечь ребенка. Герметичность: Надежная крышка с фиксатором позволяет носить прибор в сумке с уже налитой водой. Многофункциональность: Можно использовать как походный чайник для подогрева воды до 55&deg;C или как индивидуальный термос.    Характеристики:    Объем: 300 мл Материалы: стекло, нержавеющая сталь, ABS-пластик Аккумулятор: 5000 мАч Температурный шаг: настройка от 37&deg;C до 55&deg;C Интерфейс: зарядка через стандартный USB-кабель]]></description>
+<quantity_in_stock>78</quantity_in_stock>
+<vendorCode>HW01P</vendorCode>
+<param name="Высота">220</param>
+<param name="Вес">800</param>
+<param name="Вместимость бутылочек">1</param>
+<param name="Диаметр">80</param>
+<param name="Дополнительная комплектация">Мерная бутылочка</param>
+<param name="Функции">Поддержание необходимой температуры</param>
+<param name="Цвет корпуса">Розовый</param>
+<param name="Гарантия">3 месяца</param>
 </offer>
 <offer id="501-207-C-720BL" available="true">
 <name>Полотенце для кухни 25×50 см из микрофибры голубой Colorful Home 501-207-C-720BL</name>
@@ -37275,33 +37275,6 @@
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-14-12GR" available="true">
-<name>Термокружка Panda с фарфоровой колбой 380 мл Зеленая HP-14-12GR</name>
-<price>769</price>
-<vendorprice>587</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>153</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3087/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_panda.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3087/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_panda_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3087/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_panda_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3087/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_panda_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3087/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_panda_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3087/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_panda_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3087/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_panda_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3087/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_panda_7.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Термокружка 380 мл – это практичный и удобный аксессуар, который позволит вам наслаждаться любимым напитком, будь то горячий кофе, ароматный чай или освежающий сок, в любом месте и в любое время. Внутренняя колба изготовлена из фарфора - этот материал является безопасным для здоровья, не накапливает запахи и не влияет на вкус напитка.   Основные характеристики    объем 380 мл; высота 16.3 см; диаметр td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;} 6 см.    Основные преимущества    Термокружка с вакуумной изоляцией способна сохранять температуру напитка в течение 6 часов. Крышка термокружки плотно закрывается, что защищает напиток от пролития.   Термокружка незаменима в дороге, в спорт зале, на прогулках и пикниках. Она прекрасно удерживает тепло или холод, сохраняя температуру напитков. Вы сможете долго лакомиться горячим ароматным чаем или идеально ледяным лимонадом.]]></description>
-<quantity_in_stock>74</quantity_in_stock>
-<vendorCode>HP-14-12GR</vendorCode>
-<param name="Высота">16.3 см</param>
-<param name="Время сохранения тепла">6 ч</param>
-<param name="Время сохранения холода">12 ч</param>
-<param name="Материал колбы">Керамика</param>
-<param name="Объем">380 мл</param>
-<param name="Цвет">Зелёный</param>
-<param name="Нижний диаметр">6 см</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="SK-19019BL" available="true">
 <name>Напольные весы Sokany электронные до 180 кг синхронизация с телефоном SK-19019BL</name>
 <price>449</price>
@@ -37538,6 +37511,33 @@
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
+<offer id="HP-14-12GR" available="true">
+<name>Термокружка Panda с фарфоровой колбой 380 мл Зеленая HP-14-12GR</name>
+<price>769</price>
+<vendorprice>587</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>153</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3087/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_panda.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3087/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_panda_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3087/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_panda_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3087/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_panda_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3087/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_panda_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3087/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_panda_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3087/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_panda_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/30098/3087/termokruzhka_380_ml_s_keramicheskoy_kolboy_dlya_kofe_i_chaya_kruzhka_termos_termochashka_panda_7.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Термокружка 380 мл – это практичный и удобный аксессуар, который позволит вам наслаждаться любимым напитком, будь то горячий кофе, ароматный чай или освежающий сок, в любом месте и в любое время. Внутренняя колба изготовлена из фарфора - этот материал является безопасным для здоровья, не накапливает запахи и не влияет на вкус напитка.   Основные характеристики    объем 380 мл; высота 16.3 см; диаметр td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;} 6 см.    Основные преимущества    Термокружка с вакуумной изоляцией способна сохранять температуру напитка в течение 6 часов. Крышка термокружки плотно закрывается, что защищает напиток от пролития.   Термокружка незаменима в дороге, в спорт зале, на прогулках и пикниках. Она прекрасно удерживает тепло или холод, сохраняя температуру напитков. Вы сможете долго лакомиться горячим ароматным чаем или идеально ледяным лимонадом.]]></description>
+<quantity_in_stock>73</quantity_in_stock>
+<vendorCode>HP-14-12GR</vendorCode>
+<param name="Высота">16.3 см</param>
+<param name="Время сохранения тепла">6 ч</param>
+<param name="Время сохранения холода">12 ч</param>
+<param name="Материал колбы">Керамика</param>
+<param name="Объем">380 мл</param>
+<param name="Цвет">Зелёный</param>
+<param name="Нижний диаметр">6 см</param>
+<param name="Гарантия">14 дней</param>
+</offer>
 <offer id="HP-YH-38" available="true">
 <name>Блюдо для закусок Lirmartur стеклянное 24,5*20,5*2 см HP-YH-38</name>
 <price>369</price>
@@ -37674,33 +37674,6 @@
 <param name="Тип питания">Сеть 220 В</param>
 <param name="Цвет корпуса">Белый</param>
 <param name="Турмалиновое покрытие">Нет</param>
-</offer>
-<offer id="HP-FM-352-1" available="true">
-<name>Термочашка 520 мл с мл с трубочкой и двойным открыванием белый HP-FM-352-1</name>
-<price>519</price>
-<vendorprice>407</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>153</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/2067952847_max.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-4.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Термочашка 520 мл сочетает функциональность и продуманную конструкцию для ежедневного использования. На корпусе размещен цветочный принт с надписью. Модель оснащена герметичной крышкой с двойным открыванием: отдельный клапан для питья и дополнительное отверстие для использования трубочки. Сбоку закреплен текстильный ремешок с надписью &ldquo;COFFEE&rdquo;.  Двойная стенка помогает сохранять температуру напитков дольше, уменьшая нагрев внешней поверхности. Объем 520 мл подходит для кофе, чая, воды или других напитков в течение рабочего дня или прогулки. Конструкция предусматривает плотное закрывание, что снижает риск протеканий в сумке или рюкзаке. Нижняя часть имеет усиленную основу для большей устойчивости.  Термочашка подходит для офиса, учебы, путешествий или ежедневного использования в городе. Компактная форма позволяет удобно держать ее в руке и размещать в большинстве подстаканников. Практичное решение для тех, кто ищет удобный формат многоразовой чашки с продуманными деталями.   Характеристики:    Тип: термочашка Объем: 520 мл Конструкция: двойная стенка Крышка: двойное открывание Дополнительно: отверстие для трубочки]]></description>
-<quantity_in_stock>73</quantity_in_stock>
-<vendorCode>HP-FM-352-1</vendorCode>
-<param name="Тип">Термокружка</param>
-<param name="Высота">20</param>
-<param name="Верхний диаметр">8</param>
-<param name="Глубина">6.5</param>
-<param name="Крышка">крышка с поилкой</param>
-<param name="Ширина">6.5</param>
-<param name="Объем">520</param>
-<param name="Ручка">Нет</param>
-<param name="Тип термоса">Питьевой</param>
-<param name="Состояние">Новое</param>
-<param name="Нижний диаметр">6.5</param>
 </offer>
 <offer id="HP-17-37" available="true">
 <name>Набор рюмок для крепких напитков Shot glass 6 штук по 75 мл коричневый HP-17-37</name>
@@ -38111,6 +38084,33 @@
 <param name="Съемные нагреваемые пластины">Да</param>
 <param name="Термоизолированный корпус">Да</param>
 <param name="Тип нагреваемой поверхности">Сэндвич панели</param>
+</offer>
+<offer id="HP-FM-352-1" available="true">
+<name>Термочашка 520 мл с мл с трубочкой и двойным открыванием белый HP-FM-352-1</name>
+<price>519</price>
+<vendorprice>407</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>153</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/2067952847_max.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-4.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Термочашка 520 мл сочетает функциональность и продуманную конструкцию для ежедневного использования. На корпусе размещен цветочный принт с надписью. Модель оснащена герметичной крышкой с двойным открыванием: отдельный клапан для питья и дополнительное отверстие для использования трубочки. Сбоку закреплен текстильный ремешок с надписью &ldquo;COFFEE&rdquo;.  Двойная стенка помогает сохранять температуру напитков дольше, уменьшая нагрев внешней поверхности. Объем 520 мл подходит для кофе, чая, воды или других напитков в течение рабочего дня или прогулки. Конструкция предусматривает плотное закрывание, что снижает риск протеканий в сумке или рюкзаке. Нижняя часть имеет усиленную основу для большей устойчивости.  Термочашка подходит для офиса, учебы, путешествий или ежедневного использования в городе. Компактная форма позволяет удобно держать ее в руке и размещать в большинстве подстаканников. Практичное решение для тех, кто ищет удобный формат многоразовой чашки с продуманными деталями.   Характеристики:    Тип: термочашка Объем: 520 мл Конструкция: двойная стенка Крышка: двойное открывание Дополнительно: отверстие для трубочки]]></description>
+<quantity_in_stock>72</quantity_in_stock>
+<vendorCode>HP-FM-352-1</vendorCode>
+<param name="Тип">Термокружка</param>
+<param name="Высота">20</param>
+<param name="Верхний диаметр">8</param>
+<param name="Глубина">6.5</param>
+<param name="Крышка">крышка с поилкой</param>
+<param name="Ширина">6.5</param>
+<param name="Объем">520</param>
+<param name="Ручка">Нет</param>
+<param name="Тип термоса">Питьевой</param>
+<param name="Состояние">Новое</param>
+<param name="Нижний диаметр">6.5</param>
 </offer>
 <offer id="HP-34-74" available="true">
 <name>Набор креманок Crystal Daisy 6 штук по 200 мл Yiwu HP-34-74</name>
@@ -46629,40 +46629,6 @@
 <param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-7323-2" available="true">
-<name>Чашка фарфоровая Garden Rabbits 300 мл в подарочной упаковке HP-7323-2</name>
-<price>469</price>
-<vendorprice>357</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>170</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6704/chashka_farforovaya_na_podarok_garden_rabbits_300_ml_v_podarochnoy_upakovke_s_zaychikom_i_tsvetami.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6704/chashka_farforovaya_na_podarok_garden_rabbits_300_ml_v_podarochnoy_upakovke_s_zaychikom_i_tsvetami_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6704/chashka_farforovaya_na_podarok_garden_rabbits_300_ml_v_podarochnoy_upakovke_s_zaychikom_i_tsvetami_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6704/chashka_farforovaya_na_podarok_garden_rabbits_300_ml_v_podarochnoy_upakovke_s_zaychikom_i_tsvetami_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6704/chashka_farforovaya_na_podarok_garden_rabbits_300_ml_v_podarochnoy_upakovke_s_zaychikom_i_tsvetami_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6704/chashka_farforovaya_na_podarok_garden_rabbits_300_ml_v_podarochnoy_upakovke_s_zaychikom_i_tsvetami_5.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Фарфоровая чашка Garden Rabbits сочетает в себе практичность и декоративность, что делает ее отличным выбором для ежедневного использования и сервировки стола. Ее форма расширяется кверху, обеспечивая удобство при налитии напитков, а суженное основание добавляет устойчивости на любой поверхности. Эргономичная ручка позволяет комфортно держать чашку даже с горячими напитками.  Поверхность изделия украшена детализированным цветочным узором с изображением кролика среди растений. Дизайн создает атмосферу естественной гармонии и добавляет эстетического удовольствия во время чаепития или кофепития. Такая чашка станет стильным акцентом на кухне и приятным подарком для близких.  Подарочная коробка выполнена в едином стиле с аналогичным цветочным принтом и мотивом Garden Rabbits, что подчеркивает целостность дизайна и позволяет вручать изделие без дополнительной упаковки.   Характеристики:    Материал: фарфор Объем: 300 мл Высота: 9 см Диаметр верхний: 9 см Диаметр нижний: 8 см Вес: 300 г Удобная ручка Подарочная коробка]]></description>
-<quantity_in_stock>53</quantity_in_stock>
-<vendorCode>HP-7323-2</vendorCode>
-<param name="Тип">Классическая</param>
-<param name="Материал">Фарфор</param>
-<param name="Высота">9</param>
-<param name="Блюдце">нет</param>
-<param name="Назначение">Для кофе и чая</param>
-<param name="Диаметр">9</param>
-<param name="Крышка">Нет</param>
-<param name="Ширина">9</param>
-<param name="Количество в наборе">1</param>
-<param name="Ложечка">нет</param>
-<param name="Объем">0.3</param>
-<param name="Ситечко">Нет</param>
-<param name="Цвет">Белый</param>
-<param name="Тематика декора, рисунка">Животные</param>
-<param name="Тип емкости">Чашка</param>
-<param name="Подарочная упаковка">Да</param>
-<param name="Состояние">Новое</param>
-</offer>
 <offer id="HP-16978-09" available="true">
 <name>Набор ножей для стейка 6 штук из нержавеющей стали 23 см комплект ножи кухонные принадлежности HP-16978-09</name>
 <price>519</price>
@@ -47197,6 +47163,40 @@
 <param name="Цвет">Пудровый</param>
 <param name="Количество">2</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-7323-2" available="true">
+<name>Чашка фарфоровая Garden Rabbits 300 мл в подарочной упаковке HP-7323-2</name>
+<price>469</price>
+<vendorprice>357</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>170</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6704/chashka_farforovaya_na_podarok_garden_rabbits_300_ml_v_podarochnoy_upakovke_s_zaychikom_i_tsvetami.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6704/chashka_farforovaya_na_podarok_garden_rabbits_300_ml_v_podarochnoy_upakovke_s_zaychikom_i_tsvetami_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6704/chashka_farforovaya_na_podarok_garden_rabbits_300_ml_v_podarochnoy_upakovke_s_zaychikom_i_tsvetami_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6704/chashka_farforovaya_na_podarok_garden_rabbits_300_ml_v_podarochnoy_upakovke_s_zaychikom_i_tsvetami_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6704/chashka_farforovaya_na_podarok_garden_rabbits_300_ml_v_podarochnoy_upakovke_s_zaychikom_i_tsvetami_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/68447/6704/chashka_farforovaya_na_podarok_garden_rabbits_300_ml_v_podarochnoy_upakovke_s_zaychikom_i_tsvetami_5.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Фарфоровая чашка Garden Rabbits сочетает в себе практичность и декоративность, что делает ее отличным выбором для ежедневного использования и сервировки стола. Ее форма расширяется кверху, обеспечивая удобство при налитии напитков, а суженное основание добавляет устойчивости на любой поверхности. Эргономичная ручка позволяет комфортно держать чашку даже с горячими напитками.  Поверхность изделия украшена детализированным цветочным узором с изображением кролика среди растений. Дизайн создает атмосферу естественной гармонии и добавляет эстетического удовольствия во время чаепития или кофепития. Такая чашка станет стильным акцентом на кухне и приятным подарком для близких.  Подарочная коробка выполнена в едином стиле с аналогичным цветочным принтом и мотивом Garden Rabbits, что подчеркивает целостность дизайна и позволяет вручать изделие без дополнительной упаковки.   Характеристики:    Материал: фарфор Объем: 300 мл Высота: 9 см Диаметр верхний: 9 см Диаметр нижний: 8 см Вес: 300 г Удобная ручка Подарочная коробка]]></description>
+<quantity_in_stock>52</quantity_in_stock>
+<vendorCode>HP-7323-2</vendorCode>
+<param name="Тип">Классическая</param>
+<param name="Материал">Фарфор</param>
+<param name="Высота">9</param>
+<param name="Блюдце">нет</param>
+<param name="Назначение">Для кофе и чая</param>
+<param name="Диаметр">9</param>
+<param name="Крышка">Нет</param>
+<param name="Ширина">9</param>
+<param name="Количество в наборе">1</param>
+<param name="Ложечка">нет</param>
+<param name="Объем">0.3</param>
+<param name="Ситечко">Нет</param>
+<param name="Цвет">Белый</param>
+<param name="Тематика декора, рисунка">Животные</param>
+<param name="Тип емкости">Чашка</param>
+<param name="Подарочная упаковка">Да</param>
+<param name="Состояние">Новое</param>
 </offer>
 <offer id="HP-42-177" available="true">
 <name>Набор ковриков для ванной и туалета Happy Countryside 50*80 / 40*50 см Yiwu HP-42-177</name>
@@ -57440,24 +57440,6 @@
 <param name="Вес зонта">500 г</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-42-11PG" available="true">
-<name>Влаговпитывающий коврик для раковины под кран из полиэстера 37,5*13 см HP-42-11PG</name>
-<price>59</price>
-<vendorprice>45</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>50</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-42-11PG/HP-42-11PG_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-42-11PG/HP-42-11PG_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-42-11PG/HP-42-11PG_2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Влаговпитывающий коврик для раковины под кран &mdash; удобный и практичный аксессуар для кухни и ванной. Он эффективно защищает поверхность от капель воды, предотвращает образование разводов и плесени, а также обеспечивает аккуратный внешний вид зоны вокруг крана. Благодаря влагопоглощающим свойствам коврик быстро впитывает жидкость, сохраняя поверхность сухой и чистой. Характеристики влаговпитывающего коврика для раковины: &bull; габариты &mdash; 37,5&times;13 см; &bull; материал &mdash; полиэстер; &bull; влагопоглощающие свойства &mdash; да; &bull; прорезиненная основа &mdash; да; &bull; назначение &mdash; кухня, ванная. Преимущества коврика под смеситель: &bull; защита поверхности от влаги и капель; &bull; удобство в использовании и уходе; &bull; компактные размеры &mdash; легко размещается под краном; &bull; прочный материал &mdash; сохраняет форму и внешний вид; &bull; универсальность &mdash; подходит как для кухни, так и для ванной комнаты. Такой коврик станет практичным решением для поддержания чистоты и порядка в доме.]]></description>
-<quantity_in_stock>36</quantity_in_stock>
-<vendorCode>HP-42-11PG</vendorCode>
-<param name="Ширина">13 см</param>
-<param name="Длина">37.5 см</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="CR-1-4" available="true">
 <name>Молочник фарфоровый New Year 300 (мл) CR-1-4</name>
 <price>269</price>
@@ -58118,6 +58100,24 @@
 <param name="Форм-фактор">Переносной</param>
 <param name="Цвет корпуса">Зеленый</param>
 <param name="Форма">Круглая</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-42-11PG" available="true">
+<name>Влаговпитывающий коврик для раковины под кран из полиэстера 37,5*13 см HP-42-11PG</name>
+<price>59</price>
+<vendorprice>45</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>50</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-42-11PG/HP-42-11PG_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-42-11PG/HP-42-11PG_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0../HP-42-11PG/HP-42-11PG_2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Влаговпитывающий коврик для раковины под кран &mdash; удобный и практичный аксессуар для кухни и ванной. Он эффективно защищает поверхность от капель воды, предотвращает образование разводов и плесени, а также обеспечивает аккуратный внешний вид зоны вокруг крана. Благодаря влагопоглощающим свойствам коврик быстро впитывает жидкость, сохраняя поверхность сухой и чистой. Характеристики влаговпитывающего коврика для раковины: &bull; габариты &mdash; 37,5&times;13 см; &bull; материал &mdash; полиэстер; &bull; влагопоглощающие свойства &mdash; да; &bull; прорезиненная основа &mdash; да; &bull; назначение &mdash; кухня, ванная. Преимущества коврика под смеситель: &bull; защита поверхности от влаги и капель; &bull; удобство в использовании и уходе; &bull; компактные размеры &mdash; легко размещается под краном; &bull; прочный материал &mdash; сохраняет форму и внешний вид; &bull; универсальность &mdash; подходит как для кухни, так и для ванной комнаты. Такой коврик станет практичным решением для поддержания чистоты и порядка в доме.]]></description>
+<quantity_in_stock>35</quantity_in_stock>
+<vendorCode>HP-42-11PG</vendorCode>
+<param name="Ширина">13 см</param>
+<param name="Длина">37.5 см</param>
+<param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-46-10" available="true">
@@ -59923,23 +59923,6 @@
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-56-24G" available="true">
-<name>Подушка-подголовник Minimal для путешествий, серый HP-56-24G</name>
-<price>439</price>
-<vendorprice>338</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>108</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-56-24G/HP-56-24G-4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-56-24G/HP-56-24G-3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-56-24G/HP-56-24G-2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-56-24G/HP-56-24G-1.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Ортопедический подголовник для автомобиля и офисного кресла с мягким матовым покрытием. Разработан для надежной поддержки шейного отдела и головы во время продолжительных поездок, объединяя ортопедическую пену и качественный чехол. Преимущества ортопедического подголовника: &bull; Наполнитель Memory Foam: Гарантирует упругую и точную анатомическую поддержку, подстраиваясь под изгиб шеи и результативно устраняя мышечное напряжение; &bull; Качественный чехол: Выполнен из мягкого матового трикотажа (микрофибра), который имеет гладкую, неворсистую матовую поверхность для элегантного и лаконичного внешнего вида, комфортен на ощупь, но при этом долговечен и стоек к истиранию; &bull; Эргономичный дизайн: Специальная форма-подушечка гарантирует удобную площадь соприкосновения и равномерную поддержку; &bull; Многофункциональное использование: Превосходно подходит для применения в автомобиле или для дополнительной поддержки в рабочем кресле. Технические характеристики подголовника: &bull; Материал подушки: матовый трикотаж; &bull; Наполнитель: memory foam; &bull; Габариты: 30*20*13 см; &bull; Масса: 300 г.]]></description>
-<quantity_in_stock>33</quantity_in_stock>
-<vendorCode>HP-56-24G</vendorCode>
-<param name="Цвет">Серый</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-56-24BL" available="true">
 <name>Подушка-подголовник Minimal для путешествий, голубой HP-56-24BL</name>
 <price>439</price>
@@ -60958,6 +60941,23 @@
 <param name="Вес изделия">600</param>
 <param name="Цвет">Разные цвета</param>
 <param name="Длина">12</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-56-24G" available="true">
+<name>Подушка-подголовник Minimal для путешествий, серый HP-56-24G</name>
+<price>439</price>
+<vendorprice>338</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>108</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-56-24G/HP-56-24G-4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-56-24G/HP-56-24G-3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-56-24G/HP-56-24G-2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-56-24G/HP-56-24G-1.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Ортопедический подголовник для автомобиля и офисного кресла с мягким матовым покрытием. Разработан для надежной поддержки шейного отдела и головы во время продолжительных поездок, объединяя ортопедическую пену и качественный чехол. Преимущества ортопедического подголовника: &bull; Наполнитель Memory Foam: Гарантирует упругую и точную анатомическую поддержку, подстраиваясь под изгиб шеи и результативно устраняя мышечное напряжение; &bull; Качественный чехол: Выполнен из мягкого матового трикотажа (микрофибра), который имеет гладкую, неворсистую матовую поверхность для элегантного и лаконичного внешнего вида, комфортен на ощупь, но при этом долговечен и стоек к истиранию; &bull; Эргономичный дизайн: Специальная форма-подушечка гарантирует удобную площадь соприкосновения и равномерную поддержку; &bull; Многофункциональное использование: Превосходно подходит для применения в автомобиле или для дополнительной поддержки в рабочем кресле. Технические характеристики подголовника: &bull; Материал подушки: матовый трикотаж; &bull; Наполнитель: memory foam; &bull; Габариты: 30*20*13 см; &bull; Масса: 300 г.]]></description>
+<quantity_in_stock>32</quantity_in_stock>
+<vendorCode>HP-56-24G</vendorCode>
+<param name="Цвет">Серый</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-56-25GR" available="true">
@@ -65126,20 +65126,6 @@
 <param name="Материал">стекло</param>
 <param name="Объем лимонадницы">2 л</param>
 </offer>
-<offer id="HP-N51B" available="true">
-<name>Повербанк LEVINO 50000 mAh с фонариком USB-C/USB-A/MicroUSB HP-N51B</name>
-<price>2299</price>
-<vendorprice>1849</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>104</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-N51B/HP-N51B.jpg</picture>
-<description><![CDATA[Levino N-51 — мощный и надёжный повербанк для тех, кто часто бывает в разъездах или нуждается в длительном автономном питании девайсов. Номинальная ёмкость 50 000 mAh (≈185 Wh) — этого достаточно, чтобы полностью зарядить современные смартфоны 8–10 раз, планшеты 3–4 раза и множество мелких гаджетов. Поддержка быстрой зарядки 22.5W (QC 3.0/PD совместимость) быстро восстановит заряд совместимых устройств. Устройство оснащено цифровым LED‑дисплеем с точным процентным индикатором заряда, несколькими выходами, встроенным фонарём и защитой от перегрева, короткого замыкания и перезаряда. Преимущества  Большая ёмкость для многодневных поездок Реальная быстрая зарядка 22.5W для совместимых устройств Одновременная зарядка до трёх девайсов без значительной потери мощности Удобный LED‑дисплей Надёжные системы защиты и качественный корпус  Особенности  Номинальная ёмкость: 50 000 mAh (≈185 Wh) Максимальная мощность выхода: 22.5W (поддержка QC 3.0, PD) Порты: USB‑A ×2, USB‑C (in/out, PD), micro‑USB (вход) Индикатор: цифровой LED‑дисплей (процент заряда) Встроенный фонарь Время полной зарядки: ~8–10 часов с подходящим адаптером Корпус: прочный ABS/PC, компактный и эргономичный; вес ≈500–600 г Безопасность: защита от короткого замыкания, перегрева, перегрузки и т.п. Совместимость: смартфоны (Apple/Android), планшеты, беспроводные наушники, камера и другие USB‑устройства]]></description>
-<quantity_in_stock>27</quantity_in_stock>
-<vendorCode>HP-N51B</vendorCode>
-<param name="Гарантийный срок">3</param>
-<param name="Вес">1.1</param>
-<param name="Емкость аккумулятора">50000</param>
-</offer>
 <offer id="ML2046" available="true">
 <name>Тортовница фарфоровая на ножке 20х10 см круглая ML2046</name>
 <price>699</price>
@@ -66265,22 +66251,6 @@
 <param name="Глубина вазы">150</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-47-8BE" available="true">
-<name>Коврик для душевого поддона противоскользящий 70*40 см, бежевый HP-47-8BE</name>
-<price>279</price>
-<vendorprice>221</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>49</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-47-8BE/HP-47-8BE-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-47-8BE/HP-47-8BE-2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Антискользящий коврик для душевого поддона обеспечивает безопасное использование ванной комнаты на влажных поверхностях. Эргономичная фигурная форма размером 70×40 см идеально подходит для стандартных душевых кабин. Оптимальный вес 500 г гарантирует надежную фиксацию без смещения во время водных процедур. Высококачественный ПВХ материал с прорезиненным покрытием демонстрирует превосходную износостойкость и водоотталкивающие свойства. Специальная перфорированная поверхность с множественными дренажными отверстиями обеспечивает эффективный отвод воды и предотвращает скопление мыльных остатков. Рельефные массажные зоны в анатомической форме стопы создают дополнительный комфорт и улучшают сцепление с ногами пользователя. Противоскользящий коврик характеризуется простотой в уходе, быстрым высыханием и устойчивостью к деформации при интенсивной эксплуатации. Безопасная конструкция особенно рекомендуется для детей, людей пожилого возраста и пользователей с ограниченными физическими возможностями. Технические характеристики противоскользящего коврика для душа: &bull; Габаритные размеры: 70×40 см; &bull; Масса изделия: 500 г; &bull; Основной материал: поливинилхлорид ПВХ; &bull; Тип покрытия: прорезиненная антискользящая поверхность.]]></description>
-<quantity_in_stock>26</quantity_in_stock>
-<vendorCode>HP-47-8BE</vendorCode>
-<param name="Материал">ПВХ</param>
-<param name="Цвет">Бежевый</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="CR-1-49" available="true">
 <name>Набор фарфоровая чашка с пиалой Snowman 350 (мл) чашка на подарок новогодняя для чая и кофе CR-1-49</name>
 <price>609</price>
@@ -66524,6 +66494,20 @@
 <param name="Вес">3,7 кг</param>
 <param name="Материал">стекло</param>
 <param name="Объем лимонадницы">3 л</param>
+</offer>
+<offer id="HP-N51B" available="true">
+<name>Повербанк LEVINO 50000 mAh с фонариком USB-C/USB-A/MicroUSB HP-N51B</name>
+<price>2299</price>
+<vendorprice>1849</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>104</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-N51B/HP-N51B.jpg</picture>
+<description><![CDATA[Levino N-51 — мощный и надёжный повербанк для тех, кто часто бывает в разъездах или нуждается в длительном автономном питании девайсов. Номинальная ёмкость 50 000 mAh (≈185 Wh) — этого достаточно, чтобы полностью зарядить современные смартфоны 8–10 раз, планшеты 3–4 раза и множество мелких гаджетов. Поддержка быстрой зарядки 22.5W (QC 3.0/PD совместимость) быстро восстановит заряд совместимых устройств. Устройство оснащено цифровым LED‑дисплеем с точным процентным индикатором заряда, несколькими выходами, встроенным фонарём и защитой от перегрева, короткого замыкания и перезаряда. Преимущества  Большая ёмкость для многодневных поездок Реальная быстрая зарядка 22.5W для совместимых устройств Одновременная зарядка до трёх девайсов без значительной потери мощности Удобный LED‑дисплей Надёжные системы защиты и качественный корпус  Особенности  Номинальная ёмкость: 50 000 mAh (≈185 Wh) Максимальная мощность выхода: 22.5W (поддержка QC 3.0, PD) Порты: USB‑A ×2, USB‑C (in/out, PD), micro‑USB (вход) Индикатор: цифровой LED‑дисплей (процент заряда) Встроенный фонарь Время полной зарядки: ~8–10 часов с подходящим адаптером Корпус: прочный ABS/PC, компактный и эргономичный; вес ≈500–600 г Безопасность: защита от короткого замыкания, перегрева, перегрузки и т.п. Совместимость: смартфоны (Apple/Android), планшеты, беспроводные наушники, камера и другие USB‑устройства]]></description>
+<quantity_in_stock>26</quantity_in_stock>
+<vendorCode>HP-N51B</vendorCode>
+<param name="Гарантийный срок">3</param>
+<param name="Вес">1.1</param>
+<param name="Емкость аккумулятора">50000</param>
 </offer>
 <offer id="HP-HK-B5" available="true">
 <name>Набор подносов декоративных Vintage 2 штуки 37/32,5 см с ручками HP-HK-B5</name>
@@ -67332,6 +67316,22 @@
 <quantity_in_stock>25</quantity_in_stock>
 <vendorCode>HP-47-2</vendorCode>
 <param name="Материал">ПВХ</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-47-8BE" available="true">
+<name>Коврик для душевого поддона противоскользящий 70*40 см, бежевый HP-47-8BE</name>
+<price>279</price>
+<vendorprice>221</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>49</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-47-8BE/HP-47-8BE-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-47-8BE/HP-47-8BE-2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Антискользящий коврик для душевого поддона обеспечивает безопасное использование ванной комнаты на влажных поверхностях. Эргономичная фигурная форма размером 70×40 см идеально подходит для стандартных душевых кабин. Оптимальный вес 500 г гарантирует надежную фиксацию без смещения во время водных процедур. Высококачественный ПВХ материал с прорезиненным покрытием демонстрирует превосходную износостойкость и водоотталкивающие свойства. Специальная перфорированная поверхность с множественными дренажными отверстиями обеспечивает эффективный отвод воды и предотвращает скопление мыльных остатков. Рельефные массажные зоны в анатомической форме стопы создают дополнительный комфорт и улучшают сцепление с ногами пользователя. Противоскользящий коврик характеризуется простотой в уходе, быстрым высыханием и устойчивостью к деформации при интенсивной эксплуатации. Безопасная конструкция особенно рекомендуется для детей, людей пожилого возраста и пользователей с ограниченными физическими возможностями. Технические характеристики противоскользящего коврика для душа: &bull; Габаритные размеры: 70×40 см; &bull; Масса изделия: 500 г; &bull; Основной материал: поливинилхлорид ПВХ; &bull; Тип покрытия: прорезиненная антискользящая поверхность.]]></description>
+<quantity_in_stock>25</quantity_in_stock>
+<vendorCode>HP-47-8BE</vendorCode>
+<param name="Материал">ПВХ</param>
+<param name="Цвет">Бежевый</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="CR-1-21" available="true">
@@ -69424,27 +69424,6 @@
 <param name="Тип поверхности">Глянцевая</param>
 <param name="Цвет">Белый</param>
 </offer>
-<offer id="HP-42-53" available="true">
-<name>Набор ковриков для пола 3 штуки диатомитовых  98*38 см/2 по 58*38 см HP-42-53</name>
-<price>589</price>
-<vendorprice>451</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>50</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6503/nabor_diatomitovyh_kovrikov_dlya_doma_3_sht_38_58_2_po_38_98_sm_pridvernye_kovriki_dlya_kuhni_koridora.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6503/nabor_diatomitovyh_kovrikov_dlya_doma_3_sht_38_58_2_po_38_98_sm_pridvernye_kovriki_dlya_kuhni_koridora_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6503/nabor_diatomitovyh_kovrikov_dlya_doma_3_sht_38_58_2_po_38_98_sm_pridvernye_kovriki_dlya_kuhni_koridora_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6503/nabor_diatomitovyh_kovrikov_dlya_doma_3_sht_38_58_2_po_38_98_sm_pridvernye_kovriki_dlya_kuhni_koridora_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6503/nabor_diatomitovyh_kovrikov_dlya_doma_3_sht_38_58_2_po_38_98_sm_pridvernye_kovriki_dlya_kuhni_koridora_4.jpg</picture>
-<vendor>Jiamat</vendor>
-<description><![CDATA[Комплект влаговпитывающих ковриков из натурального диатомита станет практичным дополнением любого помещения. Благодаря своим размерам коврики удобно использовать в разных зонах дома — в прихожей, ванной, на кухне, в прачечной или у балконной двери. Они помогают поддерживать сухость и чистоту там, где это особенно важно.  Диатомит быстро впитывает воду, брызги и влагу с обуви или после бытовых дел, а затем быстро высыхает. Это предотвращает появление луж, разводов и сырости на полу. Противоскользящая основа обеспечивает устойчивость ковриков на разных типах напольных покрытий и повышает безопасность при ходьбе.  Характеристики набора ковриков из диатомита для дома:   Количество изделий: 3 штуки; Материал: диатомит; Размеры: 98*38 см/2 по 58*38 см; Общий вес: 1.5 кг; Влагопоглощающие свойства.   Преимущества влаговпитывающих ковриков для пола:   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовые коврики — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
-<quantity_in_stock>23</quantity_in_stock>
-<vendorCode>HP-42-53</vendorCode>
-<param name="Подходит для пола с подогревом">Да</param>
-<param name="Количество в наборе">3</param>
-<param name="Цвет">Серый</param>
-<param name="Форма">Прямоугольная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="P11-QQ6" available="true">
 <name>Камера видеонаблюдения PTZ P11-QQ6 6 Мп Wi-Fi IP уличная с двумя объективами 3,6 мм, поворотная</name>
 <url>https://lugi.com.ua/ru/ip-wi-fi-kamera-p11-qq6-2-3-6mm-p11-qq6/</url>
@@ -70444,6 +70423,27 @@
 <param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
+<offer id="HP-42-53" available="true">
+<name>Набор ковриков для пола 3 штуки диатомитовых  98*38 см/2 по 58*38 см HP-42-53</name>
+<price>589</price>
+<vendorprice>451</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>50</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6503/nabor_diatomitovyh_kovrikov_dlya_doma_3_sht_38_58_2_po_38_98_sm_pridvernye_kovriki_dlya_kuhni_koridora.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6503/nabor_diatomitovyh_kovrikov_dlya_doma_3_sht_38_58_2_po_38_98_sm_pridvernye_kovriki_dlya_kuhni_koridora_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6503/nabor_diatomitovyh_kovrikov_dlya_doma_3_sht_38_58_2_po_38_98_sm_pridvernye_kovriki_dlya_kuhni_koridora_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6503/nabor_diatomitovyh_kovrikov_dlya_doma_3_sht_38_58_2_po_38_98_sm_pridvernye_kovriki_dlya_kuhni_koridora_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6503/nabor_diatomitovyh_kovrikov_dlya_doma_3_sht_38_58_2_po_38_98_sm_pridvernye_kovriki_dlya_kuhni_koridora_4.jpg</picture>
+<vendor>Jiamat</vendor>
+<description><![CDATA[Комплект влаговпитывающих ковриков из натурального диатомита станет практичным дополнением любого помещения. Благодаря своим размерам коврики удобно использовать в разных зонах дома — в прихожей, ванной, на кухне, в прачечной или у балконной двери. Они помогают поддерживать сухость и чистоту там, где это особенно важно.  Диатомит быстро впитывает воду, брызги и влагу с обуви или после бытовых дел, а затем быстро высыхает. Это предотвращает появление луж, разводов и сырости на полу. Противоскользящая основа обеспечивает устойчивость ковриков на разных типах напольных покрытий и повышает безопасность при ходьбе.  Характеристики набора ковриков из диатомита для дома:   Количество изделий: 3 штуки; Материал: диатомит; Размеры: 98*38 см/2 по 58*38 см; Общий вес: 1.5 кг; Влагопоглощающие свойства.   Преимущества влаговпитывающих ковриков для пола:   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовые коврики — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
+<quantity_in_stock>22</quantity_in_stock>
+<vendorCode>HP-42-53</vendorCode>
+<param name="Подходит для пола с подогревом">Да</param>
+<param name="Количество в наборе">3</param>
+<param name="Цвет">Серый</param>
+<param name="Форма">Прямоугольная</param>
+<param name="Гарантия">14 дней</param>
+</offer>
 <offer id="520-20Y" available="true">
 <name>Мягкая игрушка-подушка с пледом Лапка 110×170 (см) плюшевый детский плед 3в1 520-20Y</name>
 <price>679</price>
@@ -71296,34 +71296,6 @@
 <param name="Общая высота">500</param>
 <param name="Тематика декора, рисунка">Без декора</param>
 <param name="Наличие крышки">Нет</param>
-<param name="Гарантия">14 дней</param>
-</offer>
-<offer id="HP-35015-50" available="true">
-<name>Швабра для пола с телескопической ручкой и насадкой, подходит для плитки, ламината, линолеума, уборки дома HP-35015-50</name>
-<price>659</price>
-<vendorprice>527</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>156</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4753/shvabra_dlya_pola_s_teleskopicheskoy_ruchkoy_i_nasadkoy_podhodit_dlya_plitki_laminata_linoleuma_uborki_doma.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4753/shvabra_dlya_pola_s_teleskopicheskoy_ruchkoy_i_nasadkoy_podhodit_dlya_plitki_laminata_linoleuma_uborki_doma_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4753/shvabra_dlya_pola_s_teleskopicheskoy_ruchkoy_i_nasadkoy_podhodit_dlya_plitki_laminata_linoleuma_uborki_doma_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4753/shvabra_dlya_pola_s_teleskopicheskoy_ruchkoy_i_nasadkoy_podhodit_dlya_plitki_laminata_linoleuma_uborki_doma_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4753/shvabra_dlya_pola_s_teleskopicheskoy_ruchkoy_i_nasadkoy_podhodit_dlya_plitki_laminata_linoleuma_uborki_doma_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4753/shvabra_dlya_pola_s_teleskopicheskoy_ruchkoy_i_nasadkoy_podhodit_dlya_plitki_laminata_linoleuma_uborki_doma_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4753/shvabra_dlya_pola_s_teleskopicheskoy_ruchkoy_i_nasadkoy_podhodit_dlya_plitki_laminata_linoleuma_uborki_doma_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4753/shvabra_dlya_pola_s_teleskopicheskoy_ruchkoy_i_nasadkoy_podhodit_dlya_plitki_laminata_linoleuma_uborki_doma_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4753/shvabra_dlya_pola_s_teleskopicheskoy_ruchkoy_i_nasadkoy_podhodit_dlya_plitki_laminata_linoleuma_uborki_doma_8.jpg</picture>
-<vendor>Household</vendor>
-<description><![CDATA[Швабра для пола предназначена для ухода за твердыми покрытиями, включая плитку, ламинат и линолеум. Конструкция состоит из удлиненной ручки и прямоугольной платформы, которая обеспечивает равномерное прилегание к поверхности при уборке. Ручка оснащена соединительными элементами для регулировки длины, а также кольцевым держателем в верхней части для удобного хранения в вертикальном положении.  Характеристики швабры для пола с телескопической ручкой и насадкой:   Вес: 0,7 кг; Габариты насадки: 38&times;17 см; Материал ручки: пластик + нержавеющая сталь; Максимальная длина ручки: 132 см; Минимальная длина ручки: 82 см.   Механизм крепления платформы к ручке включает шарнирное соединение, что дает возможность свободного движения в разных направлениях. Это упрощает уборку под мебелью, вдоль плинтусов и в углах. Рабочая часть оснащена плоской насадкой, которая фиксируется с помощью зажимов или фиксаторов. Насадка изготовлена из влагопоглощающего материала, подходящего для ежедневного ухода без разводов и следов на поверхности.  Ключевые преимущества швабры для пола:   подходит для плитки, ламината, линолеума и других твердых покрытий; регулируемая ручка с удобным держателем для вертикального хранения; шарнирное соединение для уборки под мебелью и в труднодоступных местах; плоская насадка с надежной фиксацией; материал, который хорошо впитывает влагу и не оставляет разводов; компактное хранение и долгий срок службы.   Модель подходит для использования дома, в офисах и коммерческих помещениях, где важно поддерживать чистоту. Благодаря универсальной форме и простой конструкции, швабра легко включается в повседневный процесс уборки. Компактность и возможность вертикального хранения позволяют экономить пространство и обеспечивают быстрый доступ к инвентарю.]]></description>
-<quantity_in_stock>21</quantity_in_stock>
-<vendorCode>HP-35015-50</vendorCode>
-<param name="Материал">Сталь</param>
-<param name="Длина ручки">132</param>
-<param name="Наличие механизма отжима">Нет</param>
-<param name="Материал ручки">Нержавеющая сталь</param>
-<param name="Комплектация ведром">Нет</param>
-<param name="Длина насадки">38</param>
-<param name="Ширина насадки">17</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-55-24CROC" available="true">
@@ -72565,6 +72537,34 @@
 <param name="Нескользящее основание">Нет</param>
 <param name="Подходит для мытья в посудомоечной машине">Нет</param>
 <param name="Форма">Прямоугольная</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-35015-50" available="true">
+<name>Швабра для пола с телескопической ручкой и насадкой, подходит для плитки, ламината, линолеума, уборки дома HP-35015-50</name>
+<price>659</price>
+<vendorprice>527</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>156</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4753/shvabra_dlya_pola_s_teleskopicheskoy_ruchkoy_i_nasadkoy_podhodit_dlya_plitki_laminata_linoleuma_uborki_doma.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4753/shvabra_dlya_pola_s_teleskopicheskoy_ruchkoy_i_nasadkoy_podhodit_dlya_plitki_laminata_linoleuma_uborki_doma_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4753/shvabra_dlya_pola_s_teleskopicheskoy_ruchkoy_i_nasadkoy_podhodit_dlya_plitki_laminata_linoleuma_uborki_doma_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4753/shvabra_dlya_pola_s_teleskopicheskoy_ruchkoy_i_nasadkoy_podhodit_dlya_plitki_laminata_linoleuma_uborki_doma_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4753/shvabra_dlya_pola_s_teleskopicheskoy_ruchkoy_i_nasadkoy_podhodit_dlya_plitki_laminata_linoleuma_uborki_doma_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4753/shvabra_dlya_pola_s_teleskopicheskoy_ruchkoy_i_nasadkoy_podhodit_dlya_plitki_laminata_linoleuma_uborki_doma_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4753/shvabra_dlya_pola_s_teleskopicheskoy_ruchkoy_i_nasadkoy_podhodit_dlya_plitki_laminata_linoleuma_uborki_doma_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4753/shvabra_dlya_pola_s_teleskopicheskoy_ruchkoy_i_nasadkoy_podhodit_dlya_plitki_laminata_linoleuma_uborki_doma_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4753/shvabra_dlya_pola_s_teleskopicheskoy_ruchkoy_i_nasadkoy_podhodit_dlya_plitki_laminata_linoleuma_uborki_doma_8.jpg</picture>
+<vendor>Household</vendor>
+<description><![CDATA[Швабра для пола предназначена для ухода за твердыми покрытиями, включая плитку, ламинат и линолеум. Конструкция состоит из удлиненной ручки и прямоугольной платформы, которая обеспечивает равномерное прилегание к поверхности при уборке. Ручка оснащена соединительными элементами для регулировки длины, а также кольцевым держателем в верхней части для удобного хранения в вертикальном положении.  Характеристики швабры для пола с телескопической ручкой и насадкой:   Вес: 0,7 кг; Габариты насадки: 38&times;17 см; Материал ручки: пластик + нержавеющая сталь; Максимальная длина ручки: 132 см; Минимальная длина ручки: 82 см.   Механизм крепления платформы к ручке включает шарнирное соединение, что дает возможность свободного движения в разных направлениях. Это упрощает уборку под мебелью, вдоль плинтусов и в углах. Рабочая часть оснащена плоской насадкой, которая фиксируется с помощью зажимов или фиксаторов. Насадка изготовлена из влагопоглощающего материала, подходящего для ежедневного ухода без разводов и следов на поверхности.  Ключевые преимущества швабры для пола:   подходит для плитки, ламината, линолеума и других твердых покрытий; регулируемая ручка с удобным держателем для вертикального хранения; шарнирное соединение для уборки под мебелью и в труднодоступных местах; плоская насадка с надежной фиксацией; материал, который хорошо впитывает влагу и не оставляет разводов; компактное хранение и долгий срок службы.   Модель подходит для использования дома, в офисах и коммерческих помещениях, где важно поддерживать чистоту. Благодаря универсальной форме и простой конструкции, швабра легко включается в повседневный процесс уборки. Компактность и возможность вертикального хранения позволяют экономить пространство и обеспечивают быстрый доступ к инвентарю.]]></description>
+<quantity_in_stock>20</quantity_in_stock>
+<vendorCode>HP-35015-50</vendorCode>
+<param name="Материал">Сталь</param>
+<param name="Длина ручки">132</param>
+<param name="Наличие механизма отжима">Нет</param>
+<param name="Материал ручки">Нержавеющая сталь</param>
+<param name="Комплектация ведром">Нет</param>
+<param name="Длина насадки">38</param>
+<param name="Ширина насадки">17</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="SK-19047" available="true">
@@ -79941,40 +79941,6 @@
 <param name="Чашка чайная">6</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-8-15" available="true">
-<name>Овальная терка для овощей и фруктов 12×6×24 (см) многофункциональная из нержавейки HP-8-15</name>
-<price>229</price>
-<vendorprice>173</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>154</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4492/ovalnaya_terka_dlya_ovoshchey_i_fruktov_12_6_24_sm_mnogofunktsionalnaya_mehanicheskaya_terka_iz_nerzhaveyki.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4492/ovalnaya_terka_dlya_ovoshchey_i_fruktov_12_6_24_sm_mnogofunktsionalnaya_mehanicheskaya_terka_iz_nerzhaveyki_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4492/ovalnaya_terka_dlya_ovoshchey_i_fruktov_12_6_24_sm_mnogofunktsionalnaya_mehanicheskaya_terka_iz_nerzhaveyki_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4492/ovalnaya_terka_dlya_ovoshchey_i_fruktov_12_6_24_sm_mnogofunktsionalnaya_mehanicheskaya_terka_iz_nerzhaveyki_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4492/ovalnaya_terka_dlya_ovoshchey_i_fruktov_12_6_24_sm_mnogofunktsionalnaya_mehanicheskaya_terka_iz_nerzhaveyki_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4492/ovalnaya_terka_dlya_ovoshchey_i_fruktov_12_6_24_sm_mnogofunktsionalnaya_mehanicheskaya_terka_iz_nerzhaveyki_5.jpg</picture>
-<vendor>Ding Lanfang</vendor>
-<description><![CDATA[Овальная двусторонняя тёрка &mdash; это удобный и практичный инструмент для ежедневного использования на кухне. Она оснащена тремя рабочими поверхностями: одна расположена на одной стороне и две &mdash; на противоположной. Такое решение позволяет использовать тёрку для различных задач: натирания овощей, фруктов, сыра или других продуктов на крупную, среднюю и мелкую стружку &mdash; всё зависит от выбранной поверхности. Корпус выполнен из прочной нержавеющей стали, устойчивой к коррозии и механическим повреждениям. Эргономичная форма и ручка с прорезиненным покрытием обеспечивают комфортный захват и безопасное использование &mdash; терка не скользит в руке во время работы. Противоскользящая основа делает процесс натирания стабильным и безопасным.  Основные характеристики ручной терки из нержавейки:   Материал терки: нержавеющая сталь; Материал ручки: нержавеющая сталь; Размер:    12&times;6&times;24 см; Количество рабочих сторон: 2; Ширина рабочей поверхности: 8 см; Длина  рабочей поверхности: 15 см; Противоскользящее основание: да.   Особенности металлической терки для овощей:   2 рабочие стороны с тремя рабочими поверхностями; Удобная ручка с прорезиненным покрытием для комфортного захвата; Эстетичный корпус; Подходит для овощей, сыра, шоколада, фруктов, орехов и др.; Простая очистка &mdash; можно мыть вручную или в посудомоечной машине.   Кухонная терка  &mdash; это сочетание стиля, качества и функциональности. Она станет незаменимым помощником на кухне, с лёгкостью справляясь с ежедневными задачами по приготовлению пищи. Независимо от того, готовите ли вы дома или работаете на профессиональной кухне &mdash; такая тёрка обеспечит комфорт и эффективность в работе.]]></description>
-<quantity_in_stock>14</quantity_in_stock>
-<vendorCode>HP-8-15</vendorCode>
-<param name="Тип">Терка-пирамида</param>
-<param name="Материал">Нержавеющая сталь</param>
-<param name="Высота">24 см</param>
-<param name="Количество трущих/режущих поверхностей">2</param>
-<param name="Вес">300 г</param>
-<param name="Наличие контейнера (поддона)">Не предусмотрен</param>
-<param name="Основное назначение">Для цедры цитрусовых|Для сыра|Многофункциональная|Для овощей|Для фруктов</param>
-<param name="Ширина">6 см</param>
-<param name="Ручка">Есть</param>
-<param name="Материал ручки">нержавеющая сталь/Резина</param>
-<param name="Материал корпуса">Нержавеющая сталь</param>
-<param name="Цвет">Черный</param>
-<param name="Длина">12 см</param>
-<param name="Нескользящее основание">Да</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-42-11W" available="true">
 <name>Влаговпитывающий коврик для раковины под кран из полиэстера 37,5*13 см HP-42-11W</name>
 <price>59</price>
@@ -81311,6 +81277,40 @@
 <param name="Количество персон">6</param>
 <param name="Материал посуды">фарфор</param>
 <param name="Диаметр тарелок">27, 19, 14 см</param>
+</offer>
+<offer id="HP-8-15" available="true">
+<name>Овальная терка для овощей и фруктов 12×6×24 (см) многофункциональная из нержавейки HP-8-15</name>
+<price>229</price>
+<vendorprice>173</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>154</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4492/ovalnaya_terka_dlya_ovoshchey_i_fruktov_12_6_24_sm_mnogofunktsionalnaya_mehanicheskaya_terka_iz_nerzhaveyki.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4492/ovalnaya_terka_dlya_ovoshchey_i_fruktov_12_6_24_sm_mnogofunktsionalnaya_mehanicheskaya_terka_iz_nerzhaveyki_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4492/ovalnaya_terka_dlya_ovoshchey_i_fruktov_12_6_24_sm_mnogofunktsionalnaya_mehanicheskaya_terka_iz_nerzhaveyki_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4492/ovalnaya_terka_dlya_ovoshchey_i_fruktov_12_6_24_sm_mnogofunktsionalnaya_mehanicheskaya_terka_iz_nerzhaveyki_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4492/ovalnaya_terka_dlya_ovoshchey_i_fruktov_12_6_24_sm_mnogofunktsionalnaya_mehanicheskaya_terka_iz_nerzhaveyki_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4492/ovalnaya_terka_dlya_ovoshchey_i_fruktov_12_6_24_sm_mnogofunktsionalnaya_mehanicheskaya_terka_iz_nerzhaveyki_5.jpg</picture>
+<vendor>Ding Lanfang</vendor>
+<description><![CDATA[Овальная двусторонняя тёрка &mdash; это удобный и практичный инструмент для ежедневного использования на кухне. Она оснащена тремя рабочими поверхностями: одна расположена на одной стороне и две &mdash; на противоположной. Такое решение позволяет использовать тёрку для различных задач: натирания овощей, фруктов, сыра или других продуктов на крупную, среднюю и мелкую стружку &mdash; всё зависит от выбранной поверхности. Корпус выполнен из прочной нержавеющей стали, устойчивой к коррозии и механическим повреждениям. Эргономичная форма и ручка с прорезиненным покрытием обеспечивают комфортный захват и безопасное использование &mdash; терка не скользит в руке во время работы. Противоскользящая основа делает процесс натирания стабильным и безопасным.  Основные характеристики ручной терки из нержавейки:   Материал терки: нержавеющая сталь; Материал ручки: нержавеющая сталь; Размер:    12&times;6&times;24 см; Количество рабочих сторон: 2; Ширина рабочей поверхности: 8 см; Длина  рабочей поверхности: 15 см; Противоскользящее основание: да.   Особенности металлической терки для овощей:   2 рабочие стороны с тремя рабочими поверхностями; Удобная ручка с прорезиненным покрытием для комфортного захвата; Эстетичный корпус; Подходит для овощей, сыра, шоколада, фруктов, орехов и др.; Простая очистка &mdash; можно мыть вручную или в посудомоечной машине.   Кухонная терка  &mdash; это сочетание стиля, качества и функциональности. Она станет незаменимым помощником на кухне, с лёгкостью справляясь с ежедневными задачами по приготовлению пищи. Независимо от того, готовите ли вы дома или работаете на профессиональной кухне &mdash; такая тёрка обеспечит комфорт и эффективность в работе.]]></description>
+<quantity_in_stock>13</quantity_in_stock>
+<vendorCode>HP-8-15</vendorCode>
+<param name="Тип">Терка-пирамида</param>
+<param name="Материал">Нержавеющая сталь</param>
+<param name="Высота">24 см</param>
+<param name="Количество трущих/режущих поверхностей">2</param>
+<param name="Вес">300 г</param>
+<param name="Наличие контейнера (поддона)">Не предусмотрен</param>
+<param name="Основное назначение">Для цедры цитрусовых|Для сыра|Многофункциональная|Для овощей|Для фруктов</param>
+<param name="Ширина">6 см</param>
+<param name="Ручка">Есть</param>
+<param name="Материал ручки">нержавеющая сталь/Резина</param>
+<param name="Материал корпуса">Нержавеющая сталь</param>
+<param name="Цвет">Черный</param>
+<param name="Длина">12 см</param>
+<param name="Нескользящее основание">Да</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-23-12M" available="true">
 <name>Классический детский зонт-трость механический из полиэстера прочный надежный 8 спиц диаметр 89 см Мятный HP-23-12M</name>
@@ -84623,34 +84623,6 @@
 <param name="Объем">500 мл</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="SK-08068" available="true">
-<name>Электрическая орешница Sokany 750 Вт с антипригарным покрытием SK-08068</name>
-<price>1229</price>
-<vendorprice>944</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>15</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2744/oreshnitsa_na_6_oreshkov_bytovaya_elektricheskaya_dlya_doma_sokany_s_antiprigarnym_pokrytiem_750_vt.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2744/oreshnitsa_na_6_oreshkov_bytovaya_elektricheskaya_dlya_doma_sokany_s_antiprigarnym_pokrytiem_750_vt_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2744/oreshnitsa_na_6_oreshkov_bytovaya_elektricheskaya_dlya_doma_sokany_s_antiprigarnym_pokrytiem_750_vt_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2744/oreshnitsa_na_6_oreshkov_bytovaya_elektricheskaya_dlya_doma_sokany_s_antiprigarnym_pokrytiem_750_vt_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2744/oreshnitsa_na_6_oreshkov_bytovaya_elektricheskaya_dlya_doma_sokany_s_antiprigarnym_pokrytiem_750_vt_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2744/oreshnitsa_na_6_oreshkov_bytovaya_elektricheskaya_dlya_doma_sokany_s_antiprigarnym_pokrytiem_750_vt_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2744/oreshnitsa_na_6_oreshkov_bytovaya_elektricheskaya_dlya_doma_sokany_s_antiprigarnym_pokrytiem_750_vt_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2744/oreshnitsa_na_6_oreshkov_bytovaya_elektricheskaya_dlya_doma_sokany_s_antiprigarnym_pokrytiem_750_vt_7.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Орешница с антипригарным покрытием - удобный и универсальный прибор для приготовления вкусных орехов в домашних условиях. Мощность 750 Вт и возможность готовить до шести орехов одновременно, этот электроприбор обеспечивает быстрый и равномерный нагрев с обеих сторон для достижения идеального результата.  Основные характеристики орешницы Sokany       Мощность 750 Вт. Эффективное и экономное использование энергии для быстрого приготовления. Двусторонний нагрев. Равномерный нагрев верхней и нижней сторон для идеальной текстуры и цвета. Антипригарное покрытие. Легко снимающиеся гайки для легкой очистки. Простота использования Интуитивно понятное управление и индикатор готовности для комфортного приготовления.     Создайте ароматные, хрустящие орешки с орешницей Sokany и подарите себе и своим близким вкус домашней выпечки в лучшем виде.]]></description>
-<quantity_in_stock>10</quantity_in_stock>
-<vendorCode>SK-08068</vendorCode>
-<param name="Вариант установки">Настольный</param>
-<param name="Потребляемая мощность">750 Вт</param>
-<param name="Ширина рабочей поверхности">20 см</param>
-<param name="Материал корпуса">Металл|Пластик</param>
-<param name="Индикатор работы">Да</param>
-<param name="Наличие антипригарного покрытия">Да</param>
-<param name="Гарантия">3 мес</param>
-<param name="Съемные нагреваемые пластины">Нет</param>
-<param name="Тип прибора">Орешница</param>
-</offer>
 <offer id="HP-15-31" available="true">
 <name>Набор банок с подставкой для сыпучих продуктов, 400 мл, зеленые HP-15-31</name>
 <price>1599</price>
@@ -86248,6 +86220,34 @@
 <param name="Длина">33.5 см</param>
 <param name="Форма">Овальная</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="SK-08068" available="true">
+<name>Электрическая орешница Sokany 750 Вт с антипригарным покрытием SK-08068</name>
+<price>1229</price>
+<vendorprice>944</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>15</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2744/oreshnitsa_na_6_oreshkov_bytovaya_elektricheskaya_dlya_doma_sokany_s_antiprigarnym_pokrytiem_750_vt.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2744/oreshnitsa_na_6_oreshkov_bytovaya_elektricheskaya_dlya_doma_sokany_s_antiprigarnym_pokrytiem_750_vt_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2744/oreshnitsa_na_6_oreshkov_bytovaya_elektricheskaya_dlya_doma_sokany_s_antiprigarnym_pokrytiem_750_vt_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2744/oreshnitsa_na_6_oreshkov_bytovaya_elektricheskaya_dlya_doma_sokany_s_antiprigarnym_pokrytiem_750_vt_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2744/oreshnitsa_na_6_oreshkov_bytovaya_elektricheskaya_dlya_doma_sokany_s_antiprigarnym_pokrytiem_750_vt_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2744/oreshnitsa_na_6_oreshkov_bytovaya_elektricheskaya_dlya_doma_sokany_s_antiprigarnym_pokrytiem_750_vt_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2744/oreshnitsa_na_6_oreshkov_bytovaya_elektricheskaya_dlya_doma_sokany_s_antiprigarnym_pokrytiem_750_vt_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/28102/2744/oreshnitsa_na_6_oreshkov_bytovaya_elektricheskaya_dlya_doma_sokany_s_antiprigarnym_pokrytiem_750_vt_7.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Орешница с антипригарным покрытием - удобный и универсальный прибор для приготовления вкусных орехов в домашних условиях. Мощность 750 Вт и возможность готовить до шести орехов одновременно, этот электроприбор обеспечивает быстрый и равномерный нагрев с обеих сторон для достижения идеального результата.  Основные характеристики орешницы Sokany       Мощность 750 Вт. Эффективное и экономное использование энергии для быстрого приготовления. Двусторонний нагрев. Равномерный нагрев верхней и нижней сторон для идеальной текстуры и цвета. Антипригарное покрытие. Легко снимающиеся гайки для легкой очистки. Простота использования Интуитивно понятное управление и индикатор готовности для комфортного приготовления.     Создайте ароматные, хрустящие орешки с орешницей Sokany и подарите себе и своим близким вкус домашней выпечки в лучшем виде.]]></description>
+<quantity_in_stock>9</quantity_in_stock>
+<vendorCode>SK-08068</vendorCode>
+<param name="Вариант установки">Настольный</param>
+<param name="Потребляемая мощность">750 Вт</param>
+<param name="Ширина рабочей поверхности">20 см</param>
+<param name="Материал корпуса">Металл|Пластик</param>
+<param name="Индикатор работы">Да</param>
+<param name="Наличие антипригарного покрытия">Да</param>
+<param name="Гарантия">3 мес</param>
+<param name="Съемные нагреваемые пластины">Нет</param>
+<param name="Тип прибора">Орешница</param>
 </offer>
 <offer id="HP-4-417G" available="true">
 <name>Алюминиевая сковорода 1,4 л, мраморное антипригарное покрытие Ø 22 см, толстое дно MGC серый HP-4-417G</name>
