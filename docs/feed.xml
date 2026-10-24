@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-23 21:09">
+<yml_catalog date="2026-10-24 02:55">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -5936,38 +5936,6 @@
 <param name="Форма сечения">Круглая</param>
 <param name="Цветовая гамма">Желтый</param>
 </offer>
-<offer id="HP-5-31" available="true">
-<name>Аварийная лампочка на аккумуляторах E27 со съёмной крышкой — электролампочка с аккумулятором HP-5-31</name>
-<price>299</price>
-<vendorprice>237</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_1.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Лампочка на аккумуляторах с откидной крышкой и встроенным отсеком для батарей — это эстетичное и функциональное решение для вашего дома, дачи, кемпинга или гаража. Она совмещает в себе дизайн классической лампы и современные технологии автономного освещения. Уникальный корпус с легким доступом к аккумуляторам делает обслуживание быстрым и удобным.  Характеристики лампочки   тип: аварийная лампочка со встроенным аккумулятором; встроенный отсек для двух аккумуляторов; высота лампочки 16 см; диаметр 7 см; тип цоколя E27; мощность 15/20 Вт; напряжение 85-265 В; время работы 3-4 часа; время зарядки 4 часа; частота 50/60 Гц; корпус: ABS-пластик с откидной панелью для замены батарей; цвет: белый глянец.   Преимущества электролампочки   Быстрый доступ к аккумуляторам — удобная крышка для замены батарей за секунды. Работает при отключении света — автономная система освещения на случай ЧП. Универсальное применение — подходит для любого помещения и уличного освещения.   Эта электролампочка с аккумулятором станет вашим верным помощником в ситуациях, когда внезапно отключается свет. Незаменима для дачников, туристов, жителей с нестабильным электроснабжением и всех, кто ценит автономность и комфорт.  Сделайте свой дом независимым от сети — добавьте в корзину аварийную лампочку на аккумуляторах уже сегодня и будьте готовы к любой непредвиденной ситуации.]]></description>
-<quantity_in_stock>943</quantity_in_stock>
-<vendorCode>HP-5-31</vendorCode>
-<param name="Мощность">15 / 20 Вт</param>
-<param name="Диаметр">7</param>
-<param name="Напряжение">220</param>
-<param name="Количество в упаковке">1</param>
-<param name="Минимальное рабочее напряжение">85</param>
-<param name="Длина">16</param>
-<param name="Максимальное рабочее напряжение">265</param>
-<param name="Минимальная цветовая температура">8000</param>
-<param name="Максимальная цветовая температура">8500</param>
-<param name="Срок службы ламп">50000</param>
-<param name="Цоколь">E27</param>
-<param name="Рабочее напряжение (В)">175-265|170-260|85-265</param>
-<param name="Световой поток">1400</param>
-<param name="Угол свечения">180</param>
-<param name="Рабочее положение">Вертикальное</param>
-<param name="Тип лампы">Светодиодная</param>
-</offer>
 <offer id="1000L100MWY" available="true">
 <name>Гирлянда роса на пульте 100 метров на 1000 led светодиодов капля белый провод  желтый 1000L100MWY</name>
 <price>799</price>
@@ -6006,6 +5974,38 @@
 <param name="Форма лампочки">Классическая</param>
 <param name="Форма сечения">Круглая</param>
 <param name="Цветовая гамма">Желтый</param>
+</offer>
+<offer id="HP-5-31" available="true">
+<name>Аварийная лампочка на аккумуляторах E27 со съёмной крышкой — электролампочка с аккумулятором HP-5-31</name>
+<price>299</price>
+<vendorprice>237</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>128</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_1.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Лампочка на аккумуляторах с откидной крышкой и встроенным отсеком для батарей — это эстетичное и функциональное решение для вашего дома, дачи, кемпинга или гаража. Она совмещает в себе дизайн классической лампы и современные технологии автономного освещения. Уникальный корпус с легким доступом к аккумуляторам делает обслуживание быстрым и удобным.  Характеристики лампочки   тип: аварийная лампочка со встроенным аккумулятором; встроенный отсек для двух аккумуляторов; высота лампочки 16 см; диаметр 7 см; тип цоколя E27; мощность 15/20 Вт; напряжение 85-265 В; время работы 3-4 часа; время зарядки 4 часа; частота 50/60 Гц; корпус: ABS-пластик с откидной панелью для замены батарей; цвет: белый глянец.   Преимущества электролампочки   Быстрый доступ к аккумуляторам — удобная крышка для замены батарей за секунды. Работает при отключении света — автономная система освещения на случай ЧП. Универсальное применение — подходит для любого помещения и уличного освещения.   Эта электролампочка с аккумулятором станет вашим верным помощником в ситуациях, когда внезапно отключается свет. Незаменима для дачников, туристов, жителей с нестабильным электроснабжением и всех, кто ценит автономность и комфорт.  Сделайте свой дом независимым от сети — добавьте в корзину аварийную лампочку на аккумуляторах уже сегодня и будьте готовы к любой непредвиденной ситуации.]]></description>
+<quantity_in_stock>938</quantity_in_stock>
+<vendorCode>HP-5-31</vendorCode>
+<param name="Мощность">15 / 20 Вт</param>
+<param name="Диаметр">7</param>
+<param name="Напряжение">220</param>
+<param name="Количество в упаковке">1</param>
+<param name="Минимальное рабочее напряжение">85</param>
+<param name="Длина">16</param>
+<param name="Максимальное рабочее напряжение">265</param>
+<param name="Минимальная цветовая температура">8000</param>
+<param name="Максимальная цветовая температура">8500</param>
+<param name="Срок службы ламп">50000</param>
+<param name="Цоколь">E27</param>
+<param name="Рабочее напряжение (В)">175-265|170-260|85-265</param>
+<param name="Световой поток">1400</param>
+<param name="Угол свечения">180</param>
+<param name="Рабочее положение">Вертикальное</param>
+<param name="Тип лампы">Светодиодная</param>
 </offer>
 <offer id="1733043GR" available="true">
 <name>Умная гирлянда Smart 250 LED длина 2,5 м с управлением со смартфона зеленая, мультиколор 1733043GR</name>
@@ -7816,7 +7816,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5300/ulichnaya_girlyanda_bahroma_25_m_405_led_girlyanda_shtora_na_ulitsu_na_dom_chernyy_provod_zheltyy_6.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Гирлянда &laquo;Бахрома&raquo; с 405 светодиодными лампочками создаёт выразительное декоративное освещение и помогает оформить пространство к празднику. Длина основного шнура &mdash; 25 метров, что позволяет использовать гирлянду для украшения фасадов, окон, балконов, витрин или интерьера помещений. Благодаря чёрному кабелю изделие выглядит аккуратно и незаметно днём, а в тёмное время суток равномерно рассеивает свет, создавая эффект мягкого сияния.  Конструкция включает подвесные линии разной длины &mdash; 65 см, 50 см и 30 см, которые формируют красивый каскад. Расстояние между линиями &mdash; 30 см, между лампочками &mdash; 8 см, что обеспечивает плотное и равномерное свечение без затемнённых участков. Удлинённый провод от вилки до первой лампочки (102 см) обеспечивает удобство подключения.  Основные характеристики уличной новогодней гирлянды:   Тип: гирлянда &laquo;Бахрома&raquo;; Источник питания: от сети; Количество LED: 405 шт.; Общая длина: 25 м; Расстояние от вилки до первой лампочки: 102 см; Расстояние между линиями: 30 см; Расстояние между лампочками: 8 см; Количество линий: 81; Длина линий: 65 см, 50 см, 30 см; Режим работы: флеш; Цвет провода: черный; Цвет свечения: желтый.   Особенности    светодиодной гирлянды на дом:   405 ярких светодиодов для равномерного и насыщенного свечения. Общая длина гирлянды &mdash; 25 м, удобна для оформления больших площадей. 81 подвесных нитей разной длины (65, 50 и 30 см) создают эффект каскада. Расстояние между линиями &mdash; 30 см, между лампочками &mdash; 8 см. Удлинённый провод от вилки до первой лампочки &mdash; 102 см. Работает от сети, оснащена режимом мягкого мерцания (&laquo;флеш&raquo;). Светодиоды энергоэффективны, долговечны и не нагреваются. Подходит для внутреннего и внешнего оформления. Нейтральный чёрный кабель &mdash; эстетично и аккуратно при монтаже.   Светодиодная гирлянда &laquo;Бахрома&raquo; &mdash; это сочетание функциональности, эстетики и надёжности. Она станет универсальным элементом праздничного оформления, создаст уютную атмосферу и подчеркнёт индивидуальный стиль любого пространства.]]></description>
-<quantity_in_stock>513</quantity_in_stock>
+<quantity_in_stock>512</quantity_in_stock>
 <vendorCode>25MBY</vendorCode>
 <param name="Вес">1.3 м</param>
 <param name="Режим работы">Динамический</param>
@@ -9152,7 +9152,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/71232/6858/ulichnyy_svetilnik_podvesnoy_adamant_1_cob_led_s_solnechnoy_panelyu_fonar_turisticheskiy_dlya_palatki_dekorativnaya_lampa.png</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Автономный декоративный светильник для акцентного освещения зон отдыха. Главной особенностью модели является лампа нестандартной граненой формы, которая в сочетании с технологией COB создает эффект преломления света.   Особенности:    Дизайн лампы: Световой элемент имеет многогранную конусовидную форму, что обеспечивает необычную игру света и выделяет модель среди стандартных садовых фонарей. Защитный плафон: Внешний корпус классической округлой формы надежно защищает декоративную лампу от осадков и пыли. Интеллектуальное управление: Встроенный фотоэлемент автоматически включает устройство в темное время суток. Удобство монтажа: Светильник комплектуется прочным стальным крючком для подвешивания на перголы, ветки или кронштейны.    Характеристики:    Солнечная панель: 2 V / 100 mA, поликремниевая Источник света: 1 COB с имитацией нити накаливания Емкость аккумулятора: 600 mA*h Время работы: 8&ndash;10 часов при полном заряде Материал: пластик]]></description>
-<quantity_in_stock>363</quantity_in_stock>
+<quantity_in_stock>362</quantity_in_stock>
 <vendorCode>HP-L-19</vendorCode>
 <param name="Материал корпуса">Пластик</param>
 <param name="Тип питания">Аккумулятор</param>
@@ -21250,27 +21250,6 @@
 <param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-42-46" available="true">
-<name>Коврик для кухни Coffee House 58*38 см диатомитовый HP-42-46</name>
-<price>169</price>
-<vendorprice>130</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>50</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-46/HP-42-46_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-46/HP-42-46_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-46/HP-42-46_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6497/kovrik_na_kuhnyu_3d_kovrik_iz_diatomita_dlya_kuhni_bezvorsovyy_38_58_sm_kovrik_kuhonnyy_na_pol_v_kuhnyu_3.jpg</picture>
-<description><![CDATA[Этот коврик станет стильным и функциональным дополнением вашей кухни. Изготовленный из натурального диатомита, он эффективно впитывает влагу, брызги воды и капли во время готовки, быстро сохнет и помогает поддерживать чистоту и сухость пола. Прочная структура и противоскользящая основа делают его удобным для ежедневного использования у рабочей зоны, возле мойки или столешницы.  Характеристики коврика на кухню из диатомита:   Материал: натуральный диатомит — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома.   Преимущества влаговпитывающего кбезворсового коврика на пол для кухни:   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
-<quantity_in_stock>141</quantity_in_stock>
-<vendorCode>HP-42-46</vendorCode>
-<param name="Подходит для пола с подогревом">Да</param>
-<param name="Ширина">38</param>
-<param name="Количество в наборе">1</param>
-<param name="Цвет">Коричневый</param>
-<param name="Длина">58</param>
-<param name="Форма">Прямоугольная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HPBH17202P" available="true">
 <name>Увлажнитель воздуха Олененок 220ml Розовый HPBH17202P</name>
 <price>179</price>
@@ -21385,6 +21364,27 @@
 <param name="Наличие механизма отжима">Нет</param>
 <param name="Материал ручки">Нержавеющая сталь</param>
 <param name="Комплектация ведром">Нет</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-42-46" available="true">
+<name>Коврик для кухни Coffee House 58*38 см диатомитовый HP-42-46</name>
+<price>169</price>
+<vendorprice>130</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>50</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-46/HP-42-46_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-46/HP-42-46_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-46/HP-42-46_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6497/kovrik_na_kuhnyu_3d_kovrik_iz_diatomita_dlya_kuhni_bezvorsovyy_38_58_sm_kovrik_kuhonnyy_na_pol_v_kuhnyu_3.jpg</picture>
+<description><![CDATA[Этот коврик станет стильным и функциональным дополнением вашей кухни. Изготовленный из натурального диатомита, он эффективно впитывает влагу, брызги воды и капли во время готовки, быстро сохнет и помогает поддерживать чистоту и сухость пола. Прочная структура и противоскользящая основа делают его удобным для ежедневного использования у рабочей зоны, возле мойки или столешницы.  Характеристики коврика на кухню из диатомита:   Материал: натуральный диатомит — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома.   Преимущества влаговпитывающего кбезворсового коврика на пол для кухни:   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
+<quantity_in_stock>139</quantity_in_stock>
+<vendorCode>HP-42-46</vendorCode>
+<param name="Подходит для пола с подогревом">Да</param>
+<param name="Ширина">38</param>
+<param name="Количество в наборе">1</param>
+<param name="Цвет">Коричневый</param>
+<param name="Длина">58</param>
+<param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="YYSH1217" available="true">
@@ -38537,30 +38537,6 @@
 <param name="Гарантия">14 дней</param>
 <param name="Толщина стенки">4 мм</param>
 </offer>
-<offer id="SK-19019BL" available="true">
-<name>Напольные весы Sokany электронные до 180 кг синхронизация с телефоном SK-19019BL</name>
-<price>449</price>
-<vendorprice>344</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>11</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3567/napolnye_vesy_sokany_elektronnye_do_180_kg_sinhronizatsiya_s_telefonom.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/127/SK-19019/sk19019%5D_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/127/SK-19019/sk19019%5D_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/127/SK-19019/sk19019%5D_1.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Напольные весы Sokany — это идеальное сочетание стиля, функциональности и точности. Весы оснащены прочной платформой из закаленного стекла, которая выдерживает нагрузку до 180 кг, обеспечивая точные измерения веса. Компактный и современный дизайн делает весы не только удобными в использовании, но и эстетически приятными, что позволит им вписаться в любой интерьер. Основные характеристики   размер 26х26 см; максимальная нагрузка: 180 кг; материал платформы - закаленное стекло; точность измерения 50 г.   Весы Sokany синхронизируют данные с мобильным приложением, позволяя вам отслеживать каждое изменение в своем теле в любое время.   Весы напольные Sokany — это надежный и стильный аксессуар для вашего дома. Они позволят вам следить за своим весом с максимальной точностью и комфортом. Прочный материал и эргономичный дизайн обеспечат долговечность и простоту использования.]]></description>
-<quantity_in_stock>70</quantity_in_stock>
-<vendorCode>SK-19019BL</vendorCode>
-<param name="Дисплей">Да</param>
-<param name="Единицы измерения">Килограммы</param>
-<param name="Ширина">26</param>
-<param name="Материал платформы">Закаленное стекло</param>
-<param name="Максимальный вес">180</param>
-<param name="Состояние">Новое</param>
-<param name="Система диагностики">Да</param>
-<param name="Тип весов">Электронные весы</param>
-<param name="Точность измерения">50</param>
-</offer>
 <offer id="HP-5-30B" available="true">
 <name>Шкатулка для украшений из эко кожи 16×11×4.7 см органайзер для ювелирных изделий HP-5-30B</name>
 <price>559</price>
@@ -38908,6 +38884,30 @@
 <param name="Цвет">Серебристый</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="SK-19019BL" available="true">
+<name>Напольные весы Sokany электронные до 180 кг синхронизация с телефоном SK-19019BL</name>
+<price>449</price>
+<vendorprice>344</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>11</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3567/napolnye_vesy_sokany_elektronnye_do_180_kg_sinhronizatsiya_s_telefonom.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/127/SK-19019/sk19019%5D_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/127/SK-19019/sk19019%5D_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/127/SK-19019/sk19019%5D_1.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Напольные весы Sokany — это идеальное сочетание стиля, функциональности и точности. Весы оснащены прочной платформой из закаленного стекла, которая выдерживает нагрузку до 180 кг, обеспечивая точные измерения веса. Компактный и современный дизайн делает весы не только удобными в использовании, но и эстетически приятными, что позволит им вписаться в любой интерьер. Основные характеристики   размер 26х26 см; максимальная нагрузка: 180 кг; материал платформы - закаленное стекло; точность измерения 50 г.   Весы Sokany синхронизируют данные с мобильным приложением, позволяя вам отслеживать каждое изменение в своем теле в любое время.   Весы напольные Sokany — это надежный и стильный аксессуар для вашего дома. Они позволят вам следить за своим весом с максимальной точностью и комфортом. Прочный материал и эргономичный дизайн обеспечат долговечность и простоту использования.]]></description>
+<quantity_in_stock>69</quantity_in_stock>
+<vendorCode>SK-19019BL</vendorCode>
+<param name="Дисплей">Да</param>
+<param name="Единицы измерения">Килограммы</param>
+<param name="Ширина">26</param>
+<param name="Материал платформы">Закаленное стекло</param>
+<param name="Максимальный вес">180</param>
+<param name="Состояние">Новое</param>
+<param name="Система диагностики">Да</param>
+<param name="Тип весов">Электронные весы</param>
+<param name="Точность измерения">50</param>
 </offer>
 <offer id="HP-YH-16" available="true">
 <name>Конфетница трехъярусная стеклянная с крышкой Ø 10 см HP-YH-16</name>
@@ -40903,30 +40903,6 @@
 <param name="Тематика декора, рисунка">Растения, цветы</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-42-61" available="true">
-<name>Антискользящий 3D коврик из мягкого диатомита 38×58(см) влаговпитывающий Синий HP-42-61</name>
-<price>169</price>
-<vendorprice>130</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>50</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6511/antiskolzyashchiy_3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta_siniy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6511/antiskolzyashchiy_3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta_siniy_3.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61_4.jpg</picture>
-<vendor>Jiamat</vendor>
-<description><![CDATA[Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты.  Характеристики 3d коврика из диатомита:   Материал: натуральный диатом &mdash; природный минерал с высокой влагопоглощающей способностью; Размер: 38&times;58 см; Вес: 0.4 кг; Применение: универсальный коврик для дома.   Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовый коврик &mdash; это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
-<quantity_in_stock>65</quantity_in_stock>
-<vendorCode>HP-42-61</vendorCode>
-<param name="Ширина">38</param>
-<param name="Количество в наборе">1</param>
-<param name="Цвет">Синий</param>
-<param name="Длина">58</param>
-<param name="Тематика декора, рисунка">Растения, цветы</param>
-<param name="Форма">Прямоугольная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="AP-10" available="true">
 <name>Блюдо сервировочное фарфоровое Aurelia 30 см Yiwu AP-10</name>
 <price>719</price>
@@ -41714,6 +41690,30 @@
 <param name="Длина">58</param>
 <param name="Тематика декора, рисунка">Растения, цветы</param>
 <param name="Форма">Квадратная</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-42-61" available="true">
+<name>Антискользящий 3D коврик из мягкого диатомита 38×58(см) влаговпитывающий Синий HP-42-61</name>
+<price>169</price>
+<vendorprice>130</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>50</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6511/antiskolzyashchiy_3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta_siniy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6511/antiskolzyashchiy_3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta_siniy_3.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61_4.jpg</picture>
+<vendor>Jiamat</vendor>
+<description><![CDATA[Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты.  Характеристики 3d коврика из диатомита:   Материал: натуральный диатом &mdash; природный минерал с высокой влагопоглощающей способностью; Размер: 38&times;58 см; Вес: 0.4 кг; Применение: универсальный коврик для дома.   Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовый коврик &mdash; это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
+<quantity_in_stock>63</quantity_in_stock>
+<vendorCode>HP-42-61</vendorCode>
+<param name="Ширина">38</param>
+<param name="Количество в наборе">1</param>
+<param name="Цвет">Синий</param>
+<param name="Длина">58</param>
+<param name="Тематика декора, рисунка">Растения, цветы</param>
+<param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-7-21" available="true">
@@ -42620,29 +42620,6 @@
 <param name="Материал ручек">Дерево</param>
 <param name="Форма">Круглая</param>
 </offer>
-<offer id="HP-34-75" available="true">
-<name>Набор рюмок на ножке Vintage Crystal для крепких напитков 6 штук 50 мл Yiwu HP-34-75</name>
-<price>449</price>
-<vendorprice>283</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>167</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-34-75/HP-34-75_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7533/nabor_ryumok_na_nozhke_vintage_crystal_dlya_krepkih_napitkov_6_shtuk_50_ml_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-34-75/HP-34-75_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-34-75/HP-34-75_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-34-75/HP-34-75_3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Набор рюмок на ножке Vintage Crystal 6 шт. предназначен для подачи водки, коньяка, бренди, ликеров, настоек и других крепких напитков. U-образная чаша обеспечивает удобство использования, а сочетание алмазной гравировки в нижней части и вертикальной рифленой поверхности в верхней создает выразительный декоративный эффект. Рюмки изготовлены из стекла, имеют изящную ножку с декоративным утолщением и устойчивое круглое основание. Объем 50 мл, высота 11,5 см и компактный размер делают набор практичным для домашнего использования, праздничной сервировки, кафе и ресторанов. Преимущества  Набор из 6 рюмок на ножке. Подходят для водки, коньяка, бренди, ликеров, настоек и других крепких напитков. Изготовлены из стекла. Нижняя часть чаши украшена ромбовидной гравировкой. Верхняя часть имеет вертикальную рифлёнку. Ножка с декоративным утолщением обеспечивает удобное удержание. Круглое основание придаёт устойчивость. Подходят для повседневного использования и праздничной сервировки. Используются дома, в кафе, ресторанах или в качестве подарочного набора.  Характеристики  Тип: рюмки на ножке. Серия: Vintage Crystal. Комплектация: 6 шт. Материал: стекло. Объем: 50 мл. Высота рюмки: 11,5 см. Высота ножки: 5,5 см. Диаметр: 4 см. Вес набора: 0,6 кг.  Правила ухода  Перед первым использованием вымойте с помощью моющих средств. Мойте вручную или в посудомоечной машине на деликатном режиме. Для очистки используйте мягкую губку без абразивных материалов. Избегайте сильных механических ударов и резких перепадов температур. После мытья вытирайте насухо мягкой тканью.]]></description>
-<quantity_in_stock>61</quantity_in_stock>
-<vendorCode>HP-34-75</vendorCode>
-<param name="Материал">Стекло</param>
-<param name="Высота">11.5</param>
-<param name="Верхний диаметр">4</param>
-<param name="Количество в наборе">6</param>
-<param name="Объем">0.05</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-</offer>
 <offer id="HP9290" available="true">
 <name>Салфетница-органайзер из эко-кожи 3 отделения 26.5*14*9.5 см Белый с коричневым HP9290</name>
 <price>959</price>
@@ -42891,6 +42868,29 @@
 <param name="Состояние">Новое</param>
 <param name="Цвет корпуса">Белый</param>
 <param name="Тип миксера">Стационарный</param>
+</offer>
+<offer id="HP-34-75" available="true">
+<name>Набор рюмок на ножке Vintage Crystal для крепких напитков 6 штук 50 мл Yiwu HP-34-75</name>
+<price>449</price>
+<vendorprice>283</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>167</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-34-75/HP-34-75_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7533/nabor_ryumok_na_nozhke_vintage_crystal_dlya_krepkih_napitkov_6_shtuk_50_ml_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-34-75/HP-34-75_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-34-75/HP-34-75_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-34-75/HP-34-75_3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Набор рюмок на ножке Vintage Crystal 6 шт. предназначен для подачи водки, коньяка, бренди, ликеров, настоек и других крепких напитков. U-образная чаша обеспечивает удобство использования, а сочетание алмазной гравировки в нижней части и вертикальной рифленой поверхности в верхней создает выразительный декоративный эффект. Рюмки изготовлены из стекла, имеют изящную ножку с декоративным утолщением и устойчивое круглое основание. Объем 50 мл, высота 11,5 см и компактный размер делают набор практичным для домашнего использования, праздничной сервировки, кафе и ресторанов. Преимущества  Набор из 6 рюмок на ножке. Подходят для водки, коньяка, бренди, ликеров, настоек и других крепких напитков. Изготовлены из стекла. Нижняя часть чаши украшена ромбовидной гравировкой. Верхняя часть имеет вертикальную рифлёнку. Ножка с декоративным утолщением обеспечивает удобное удержание. Круглое основание придаёт устойчивость. Подходят для повседневного использования и праздничной сервировки. Используются дома, в кафе, ресторанах или в качестве подарочного набора.  Характеристики  Тип: рюмки на ножке. Серия: Vintage Crystal. Комплектация: 6 шт. Материал: стекло. Объем: 50 мл. Высота рюмки: 11,5 см. Высота ножки: 5,5 см. Диаметр: 4 см. Вес набора: 0,6 кг.  Правила ухода  Перед первым использованием вымойте с помощью моющих средств. Мойте вручную или в посудомоечной машине на деликатном режиме. Для очистки используйте мягкую губку без абразивных материалов. Избегайте сильных механических ударов и резких перепадов температур. После мытья вытирайте насухо мягкой тканью.]]></description>
+<quantity_in_stock>60</quantity_in_stock>
+<vendorCode>HP-34-75</vendorCode>
+<param name="Материал">Стекло</param>
+<param name="Высота">11.5</param>
+<param name="Верхний диаметр">4</param>
+<param name="Количество в наборе">6</param>
+<param name="Объем">0.05</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
 </offer>
 <offer id="HP-42-169" available="true">
 <name>Набор ковриков для ванной 2 штуки 80*50 см/50*40 см диатомитовых, бежевый Yiwu HP-42-169</name>
@@ -46140,30 +46140,6 @@
 <param name="Форма">Фигурная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-8-45" available="true">
-<name>Половник металлический кухонный 36,5 см из нержавейки с деревянной ручкой HP-8-45</name>
-<price>509</price>
-<vendorprice>390</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>85</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona_4.jpg</picture>
-<vendor>Ding Lanfang</vendor>
-<description><![CDATA[Половник кухонный &ndash; незаменимый инструмент для сервировки супов, борщей, бульонов и других жидких блюд. Благодаря глубокой чаше и удлинённой ручке он позволяет легко и аккуратно наливать жидкости без риска проливания и ожогов.  Материал рабочей части &ndash; пищевая нержавеющая сталь. Она устойчива к коррозии, не впитывает запахи и легко моется даже после интенсивного использования. Ручка изготовлена из натурального дерева, придающего эргономику и эстетику, не нагревается во время использования и приятна на ощупь. Благодаря отверстию на конце ручки половник удобно хранить в подвешенном виде.  Основные характеристики половника:   Длина:       27 см; Материал рабочей части: нержавеющая сталь; Материал ручки: дерево.   Половник станет незаменимым помощником на вашей кухне &mdash; будь то повседневная готовка или подача первых блюд на праздничный стол. Его прочность, удобство и эстетичный внешний вид делают его удачным выбором как для домашнего, так и для профессионального использования.]]></description>
-<quantity_in_stock>53</quantity_in_stock>
-<vendorCode>HP-8-45</vendorCode>
-<param name="Тип">Половник</param>
-<param name="Материал основной части">Нержавеющая сталь</param>
-<param name="Количество в наборе">1</param>
-<param name="Материал ручки">дерево</param>
-<param name="Цвет">Коричневый</param>
-<param name="Длина">27 см</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HB-40-4BE" available="true">
 <name>Набор подставок под горячее из дерева 4 шт Ø19 (см) + держатель подставки на стол под горячее HB-40-4BE</name>
 <price>729</price>
@@ -46489,6 +46465,30 @@
 <param name="Хранение в холодильнике">Да</param>
 <param name="Хранение в морозильной камере">Нет</param>
 <param name="Цвет">Желтый</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-8-45" available="true">
+<name>Половник металлический кухонный 36,5 см из нержавейки с деревянной ручкой HP-8-45</name>
+<price>509</price>
+<vendorprice>390</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>85</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/59315/4521/polovnik_metallicheskiy_kuhonnyy_27_sm_polovnik_nerzhaveyka_s_derevyannoy_ruchkoy_dlya_supa_bulona_4.jpg</picture>
+<vendor>Ding Lanfang</vendor>
+<description><![CDATA[Половник кухонный &ndash; незаменимый инструмент для сервировки супов, борщей, бульонов и других жидких блюд. Благодаря глубокой чаше и удлинённой ручке он позволяет легко и аккуратно наливать жидкости без риска проливания и ожогов.  Материал рабочей части &ndash; пищевая нержавеющая сталь. Она устойчива к коррозии, не впитывает запахи и легко моется даже после интенсивного использования. Ручка изготовлена из натурального дерева, придающего эргономику и эстетику, не нагревается во время использования и приятна на ощупь. Благодаря отверстию на конце ручки половник удобно хранить в подвешенном виде.  Основные характеристики половника:   Длина:       27 см; Материал рабочей части: нержавеющая сталь; Материал ручки: дерево.   Половник станет незаменимым помощником на вашей кухне &mdash; будь то повседневная готовка или подача первых блюд на праздничный стол. Его прочность, удобство и эстетичный внешний вид делают его удачным выбором как для домашнего, так и для профессионального использования.]]></description>
+<quantity_in_stock>52</quantity_in_stock>
+<vendorCode>HP-8-45</vendorCode>
+<param name="Тип">Половник</param>
+<param name="Материал основной части">Нержавеющая сталь</param>
+<param name="Количество в наборе">1</param>
+<param name="Материал ручки">дерево</param>
+<param name="Цвет">Коричневый</param>
+<param name="Длина">27 см</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
@@ -68246,49 +68246,6 @@
 <param name="Цвет">Коричневый</param>
 <param name="Тип емкости">Рюмка</param>
 </offer>
-<offer id="HP-19-307" available="true">
-<name>Лимонадница Amber Ice 2 литра с краном</name>
-<url>https://lugi.com.ua/ru/limonadnica-amber-ice-2-litra-s-kranom/</url>
-<price>1669</price>
-<vendorprice>1044</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>66</categoryId>
-<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/lumonadnici/HP-19-307/HP-19-307-1-600x600.jpg</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/lumonadnici/HP-19-307/_T5B5380-600x600.jpg</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/lumonadnici/HP-19-307/HP-19-307-2-600x600.jpg</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/lumonadnici/HP-19-307/HP-19-307-3-600x600.jpg</picture>
-<description><![CDATA[<p>Компактный диспенсер из плотного стекла теплого янтарного оттенка. Подходит для красивой подачи воды, лимонадов и прохладительных напитков как на праздничном столе, так и в повседневной жизни.</p><p><b>Особенности:</b></p><ol><li>Янтарное стекло: Приятный золотистый цвет материала создает уютную атмосферу и эффектно подсвечивает напиток изнутри.</li><li>Объем 2 литра: Компактный размер, который удобно разместить даже на небольшом кухонном столе или барной стойке.</li><li>Дизайн: Рельефный узор на стенках красиво преломляет свет, подчеркивая форму изделия.</li><li>Устойчивость: Массивное квадратное основание обеспечивает надежное положение диспенсера на поверхности.</li><li>Комплектация: В комплекте есть стеклянная крышка с декоративным элементом, которая плотно закрывает емкость.</li><li>Применение: Идеально подходит для лимонадов, соков, компотов или воды с фруктами.</li></ol><p><b>Характеристики:</b></p><ul><li>Материал: стекло</li><li>Объем: 2 л</li><li>Диаметр: 17 см</li><li>Высота: 48 см</li><li>Материал краника: пластик</li><li>Вес: 2,9 кг</li></ul>]]></description>
-<quantity_in_stock>22</quantity_in_stock>
-<vendorCode>HP-19-307</vendorCode>
-<param name="Вес">2,9 кг</param>
-<param name="Материал">стекло</param>
-<param name="Объем лимонадницы">2 л</param>
-</offer>
-<offer id="HP-5-56" available="true">
-<name>Сетевой фильтр-удлинитель 8 розеток 4xUSB-A 2xUSB-C 5м черный HP-5-56</name>
-<price>829</price>
-<vendorprice>644</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>77</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7008/setevoy_filtr_udlinitel_8_rozetok_4xusb_a_2xusb_c_5m_knopka_otklyucheniya_chernyy_udlinitel_elektricheskoy_zaryadki.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-56/HP-5-56_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-56/HP-5-56_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-56/HP-5-56_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-56/HP-5-56_2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 8 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 8 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 27 &times; 11 &times; 4 см]]></description>
-<quantity_in_stock>22</quantity_in_stock>
-<vendorCode>HP-5-56</vendorCode>
-<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
-<param name="Длина шнура">5</param>
-<param name="Количество выходных розеток">6</param>
-<param name="Выключатель">Да</param>
-<param name="Входная вилка">ЕURO</param>
-<param name="Выходная розетка">Евро</param>
-<param name="Длина провода">5</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Черный</param>
-</offer>
 <offer id="HP-HK-B10" available="true">
 <name>Набор подносов декоративных 2 штуки 40х30х4 см HP-HK-B10</name>
 <price>1379</price>
@@ -69406,6 +69363,31 @@
 <param name="Объем">180</param>
 <param name="Цвет">Прозрачный</param>
 <param name="Подходит для мытья в посудомоечной машине">Нет</param>
+</offer>
+<offer id="HP-5-56" available="true">
+<name>Сетевой фильтр-удлинитель 8 розеток 4xUSB-A 2xUSB-C 5м черный HP-5-56</name>
+<price>829</price>
+<vendorprice>644</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>77</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7008/setevoy_filtr_udlinitel_8_rozetok_4xusb_a_2xusb_c_5m_knopka_otklyucheniya_chernyy_udlinitel_elektricheskoy_zaryadki.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-56/HP-5-56_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-56/HP-5-56_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-56/HP-5-56_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-56/HP-5-56_2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 8 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 8 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 27 &times; 11 &times; 4 см]]></description>
+<quantity_in_stock>21</quantity_in_stock>
+<vendorCode>HP-5-56</vendorCode>
+<param name="Тип удлинителя">Сетевой фильтр-удлинитель</param>
+<param name="Длина шнура">5</param>
+<param name="Количество выходных розеток">6</param>
+<param name="Выключатель">Да</param>
+<param name="Входная вилка">ЕURO</param>
+<param name="Выходная розетка">Евро</param>
+<param name="Длина провода">5</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Черный</param>
 </offer>
 <offer id="HP-5-76" available="true">
 <name>Уличный лед фонарь на солнечных батареях прожектор светодиодный уличный 330 LED 400 Вт с солнечной панелью HP-5-76</name>
@@ -70778,6 +70760,24 @@
 <param name="Вес">5,1 кг</param>
 <param name="Материал">стекло</param>
 <param name="Объем лимонадницы">5 л</param>
+</offer>
+<offer id="HP-19-307" available="true">
+<name>Лимонадница Amber Ice 2 литра с краном</name>
+<url>https://lugi.com.ua/ru/limonadnica-amber-ice-2-litra-s-kranom/</url>
+<price>1669</price>
+<vendorprice>1044</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>66</categoryId>
+<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/lumonadnici/HP-19-307/HP-19-307-1-600x600.jpg</picture>
+<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/lumonadnici/HP-19-307/_T5B5380-600x600.jpg</picture>
+<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/lumonadnici/HP-19-307/HP-19-307-2-600x600.jpg</picture>
+<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/lumonadnici/HP-19-307/HP-19-307-3-600x600.jpg</picture>
+<description><![CDATA[<p>Компактный диспенсер из плотного стекла теплого янтарного оттенка. Подходит для красивой подачи воды, лимонадов и прохладительных напитков как на праздничном столе, так и в повседневной жизни.</p><p><b>Особенности:</b></p><ol><li>Янтарное стекло: Приятный золотистый цвет материала создает уютную атмосферу и эффектно подсвечивает напиток изнутри.</li><li>Объем 2 литра: Компактный размер, который удобно разместить даже на небольшом кухонном столе или барной стойке.</li><li>Дизайн: Рельефный узор на стенках красиво преломляет свет, подчеркивая форму изделия.</li><li>Устойчивость: Массивное квадратное основание обеспечивает надежное положение диспенсера на поверхности.</li><li>Комплектация: В комплекте есть стеклянная крышка с декоративным элементом, которая плотно закрывает емкость.</li><li>Применение: Идеально подходит для лимонадов, соков, компотов или воды с фруктами.</li></ol><p><b>Характеристики:</b></p><ul><li>Материал: стекло</li><li>Объем: 2 л</li><li>Диаметр: 17 см</li><li>Высота: 48 см</li><li>Материал краника: пластик</li><li>Вес: 2,9 кг</li></ul>]]></description>
+<quantity_in_stock>20</quantity_in_stock>
+<vendorCode>HP-19-307</vendorCode>
+<param name="Вес">2,9 кг</param>
+<param name="Материал">стекло</param>
+<param name="Объем лимонадницы">2 л</param>
 </offer>
 <offer id="ML789-11" available="true">
 <name>Мармитница фарфоровая 1 л прямоугольная на металлической подставке 31х16х11 см ML789-11</name>
@@ -73989,49 +73989,6 @@
 <param name="Состояние">Новое</param>
 <param name="Цвет корпуса">Черный</param>
 </offer>
-<offer id="SK-02012B" available="true">
-<name>Блендер ручной погружной с насадками 4 в 1 600 Вт  2 чаши и венчик Черный Sokany SK-02012B</name>
-<price>1459</price>
-<vendorprice>1128</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>6</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3552/blender_ruchnoy_pogruzhnoy_s_nasadkami_4_v_1_600_vt_2_chashi_i_venchik_chernyy_sokany.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/124/SK-02012/_T5B3608.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/124/SK-02012/sk02012_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/124/SK-02012/sk02012_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/124/SK-02012/sk02012_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/124/SK-02012/sk02012_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/124/SK-02012/sk02012_7.jpg</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Блендер погружной 4 в 1 SOKANY SK-02012 &mdash; универсальное устройство для приготовления разнообразных блюд, сочетающее в себе функции блендера, измельчителя, венчика для взбивания и мерной чаши. Благодаря мощности 600 Вт этот блендер эффективно справляется со всеми задачами, от размельчения овощей и фруктов до приготовления пюре, коктейлей и соусов.  Основные характеристики блендера Sokany   Высота 38 см; Мощность: 600 Вт; Напряжение: 220-240 В; Частота: 50/60 Гц; Материал насадки: - нержавеющая сталь; Материал корпуса: - пластик; Насадки можно мыть в посудомоечной машине; В комплекте есть измельчитель, венчик для взбивания, а также мерная чаша.   Мультифункциональность устройства позволяет с помощью одного прибора выполнять различные кулинарные задачи. Благодаря компактному дизайну и удобным насадкам этот блендер идеально подходит для любой кухни.  Инновационный дизайн и мощность позволяют блендеру работать непрерывно и эффективно, удовлетворяя потребности даже самых требовательных пользователей.]]></description>
-<quantity_in_stock>17</quantity_in_stock>
-<vendorCode>SK-02012B</vendorCode>
-<param name="Высота">380</param>
-<param name="Беспроводная технология">Нет</param>
-<param name="Гарантийный срок">3 мес</param>
-<param name="Вес">1</param>
-<param name="Венчик для взбивания">Да</param>
-<param name="Потребляемая мощность">600</param>
-<param name="Длина сетевого шнура">0.95</param>
-<param name="Ширина">50</param>
-<param name="Питание">Сеть 220В</param>
-<param name="Импульсный режим">Нет</param>
-<param name="Материал погружной части">нержавеющая сталь</param>
-<param name="Количество скоростей">2</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Крепление на стену">Нет</param>
-<param name="Прорезиненная ручка">Нет</param>
-<param name="Состояние">Новое</param>
-<param name="Насадка для замеса теста">Нет</param>
-<param name="Цвет корпуса">Черный</param>
-<param name="Насадки для нарезки и шинковки">Нет</param>
-<param name="Режим Турбо">Нет</param>
-<param name="Многофункциональная чаша-измельчитель">Да</param>
-<param name="Стационарное зарядное устройство">Нет</param>
-<param name="Тип блендера">Погружной</param>
-<param name="Тип управления">Механическое</param>
-<param name="Универсальный измельчитель">Да</param>
-</offer>
 <offer id="HP-20-29" available="true">
 <name>Набор столовых приборов в футляре на 6 персон столовый набор 30 предметов Бронза HP-20-29</name>
 <price>3809</price>
@@ -74783,6 +74740,49 @@
 <param name="Тип термоса">Питьевой</param>
 <param name="Нижний диаметр">8 см</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="SK-02012B" available="true">
+<name>Блендер ручной погружной с насадками 4 в 1 600 Вт  2 чаши и венчик Черный Sokany SK-02012B</name>
+<price>1459</price>
+<vendorprice>1128</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>6</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53020/3552/blender_ruchnoy_pogruzhnoy_s_nasadkami_4_v_1_600_vt_2_chashi_i_venchik_chernyy_sokany.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/124/SK-02012/_T5B3608.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/124/SK-02012/sk02012_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/124/SK-02012/sk02012_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/124/SK-02012/sk02012_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/124/SK-02012/sk02012_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/124/SK-02012/sk02012_7.jpg</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Блендер погружной 4 в 1 SOKANY SK-02012 &mdash; универсальное устройство для приготовления разнообразных блюд, сочетающее в себе функции блендера, измельчителя, венчика для взбивания и мерной чаши. Благодаря мощности 600 Вт этот блендер эффективно справляется со всеми задачами, от размельчения овощей и фруктов до приготовления пюре, коктейлей и соусов.  Основные характеристики блендера Sokany   Высота 38 см; Мощность: 600 Вт; Напряжение: 220-240 В; Частота: 50/60 Гц; Материал насадки: - нержавеющая сталь; Материал корпуса: - пластик; Насадки можно мыть в посудомоечной машине; В комплекте есть измельчитель, венчик для взбивания, а также мерная чаша.   Мультифункциональность устройства позволяет с помощью одного прибора выполнять различные кулинарные задачи. Благодаря компактному дизайну и удобным насадкам этот блендер идеально подходит для любой кухни.  Инновационный дизайн и мощность позволяют блендеру работать непрерывно и эффективно, удовлетворяя потребности даже самых требовательных пользователей.]]></description>
+<quantity_in_stock>16</quantity_in_stock>
+<vendorCode>SK-02012B</vendorCode>
+<param name="Высота">380</param>
+<param name="Беспроводная технология">Нет</param>
+<param name="Гарантийный срок">3 мес</param>
+<param name="Вес">1</param>
+<param name="Венчик для взбивания">Да</param>
+<param name="Потребляемая мощность">600</param>
+<param name="Длина сетевого шнура">0.95</param>
+<param name="Ширина">50</param>
+<param name="Питание">Сеть 220В</param>
+<param name="Импульсный режим">Нет</param>
+<param name="Материал погружной части">нержавеющая сталь</param>
+<param name="Количество скоростей">2</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Крепление на стену">Нет</param>
+<param name="Прорезиненная ручка">Нет</param>
+<param name="Состояние">Новое</param>
+<param name="Насадка для замеса теста">Нет</param>
+<param name="Цвет корпуса">Черный</param>
+<param name="Насадки для нарезки и шинковки">Нет</param>
+<param name="Режим Турбо">Нет</param>
+<param name="Многофункциональная чаша-измельчитель">Да</param>
+<param name="Стационарное зарядное устройство">Нет</param>
+<param name="Тип блендера">Погружной</param>
+<param name="Тип управления">Механическое</param>
+<param name="Универсальный измельчитель">Да</param>
 </offer>
 <offer id="HP-1315" available="true">
 <name>Набор для специй на подставке 12 шт 120 мл карусель для специй Белый HP-1315</name>
@@ -78930,35 +78930,6 @@
 <param name="Форма">Квадратная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-5-16CR" available="true">
-<name>Шкатулка для украшений из эко кожи 3 яруса органайзер для ювелирных изделий HP-5-16CR</name>
-<price>2519</price>
-<vendorprice>1932</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>95</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3864/shkatulka_dlya_ukrasheniy_iz_eko_kozhi_3_yarusa_organayzer_dlya_yuvelirnyh_izdeliy_7.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Шкатулка для украшений из эко кожи, 3 яруса &ndash; идеальный органайзер для бережного хранения ваших ювелирных изделий. Компактный и функциональный дизайн с размерами 23&times;20&times;15 см обеспечивает удобство использования и легкость хранения. Выполненная из качественной эко кожи, эта шкатулка станет стильным дополнением любого интерьера, сочетая в себе практичность и элегантность.  Основные характеристики органайзера для хранения бижутерии   размеры шкатулки для украшений 23&times;20&times;15 см; количество ярусов - 3 шт; количество отсеков - 9 шт; материал корпуса - экокожа; внутреннее покрытие - велюр.   Шкатулка оборудована тремя вместительными ярусами, предлагающими 9 разнообразных отсеков. Это позволяет аккуратно разместить кольца, серьги, цепочки, браслеты и другие украшения, предотвращая их повреждения и спутывание. Внутреннее покрытие из мягкого велюра обеспечивает дополнительную защиту от царапин и повреждений.  Основные преимущества шкатулки для украшений из эко-кожи   Экологичная кожа приятна на ощупь, долговечна и устойчива к внешним повреждениям, а велюровое покрытие внутри бережно хранит драгоценности и предотвращает появление царапин. Благодаря 9 отдельным отсекам и трем просторным ярусам, все украшения аккуратно размещены и всегда находятся под рукой. Современное исполнение и сдержанные цвета органично вписываются в любой интерьер, превращая органайзер в стильный элемент декора. Отличное решение для подарка по любому поводу: День рождения, 8 марта, годовщина, День святого Валентина или Новый год.   Шкатулка из эко кожи отлично подходит в качестве подарка на любой праздник, а также будет полезным приобретением для личного использования. Купить шкатулку для ювелирных изделий можно с доставкой по всей Украине.]]></description>
-<quantity_in_stock>12</quantity_in_stock>
-<vendorCode>HP-5-16CR</vendorCode>
-<param name="Материал">Экокожа</param>
-<param name="Высота">15</param>
-<param name="Внутренняя отделка">Велюр</param>
-<param name="Вес">1.9</param>
-<param name="Декоративное оформление">Без декора</param>
-<param name="Ширина">20</param>
-<param name="Цвет">Бежевый</param>
-<param name="Состояние">Новое</param>
-<param name="Форма">Квадратная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-34-28" available="true">
 <name>Лимонадница стеклянная 3в1 на подставке с золотыми кранами 5.5 л HP-34-28</name>
 <price>3089</price>
@@ -79885,6 +79856,35 @@
 <param name="Декоративное оформление">Без декора</param>
 <param name="Ширина">200</param>
 <param name="Цвет">Серый</param>
+<param name="Состояние">Новое</param>
+<param name="Форма">Квадратная</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-5-16CR" available="true">
+<name>Шкатулка для украшений из эко кожи 3 яруса органайзер для ювелирных изделий HP-5-16CR</name>
+<price>2519</price>
+<vendorprice>1932</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>95</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000000000/HP-5-16/HP516GR_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53713/3864/shkatulka_dlya_ukrasheniy_iz_eko_kozhi_3_yarusa_organayzer_dlya_yuvelirnyh_izdeliy_7.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Шкатулка для украшений из эко кожи, 3 яруса &ndash; идеальный органайзер для бережного хранения ваших ювелирных изделий. Компактный и функциональный дизайн с размерами 23&times;20&times;15 см обеспечивает удобство использования и легкость хранения. Выполненная из качественной эко кожи, эта шкатулка станет стильным дополнением любого интерьера, сочетая в себе практичность и элегантность.  Основные характеристики органайзера для хранения бижутерии   размеры шкатулки для украшений 23&times;20&times;15 см; количество ярусов - 3 шт; количество отсеков - 9 шт; материал корпуса - экокожа; внутреннее покрытие - велюр.   Шкатулка оборудована тремя вместительными ярусами, предлагающими 9 разнообразных отсеков. Это позволяет аккуратно разместить кольца, серьги, цепочки, браслеты и другие украшения, предотвращая их повреждения и спутывание. Внутреннее покрытие из мягкого велюра обеспечивает дополнительную защиту от царапин и повреждений.  Основные преимущества шкатулки для украшений из эко-кожи   Экологичная кожа приятна на ощупь, долговечна и устойчива к внешним повреждениям, а велюровое покрытие внутри бережно хранит драгоценности и предотвращает появление царапин. Благодаря 9 отдельным отсекам и трем просторным ярусам, все украшения аккуратно размещены и всегда находятся под рукой. Современное исполнение и сдержанные цвета органично вписываются в любой интерьер, превращая органайзер в стильный элемент декора. Отличное решение для подарка по любому поводу: День рождения, 8 марта, годовщина, День святого Валентина или Новый год.   Шкатулка из эко кожи отлично подходит в качестве подарка на любой праздник, а также будет полезным приобретением для личного использования. Купить шкатулку для ювелирных изделий можно с доставкой по всей Украине.]]></description>
+<quantity_in_stock>11</quantity_in_stock>
+<vendorCode>HP-5-16CR</vendorCode>
+<param name="Материал">Экокожа</param>
+<param name="Высота">15</param>
+<param name="Внутренняя отделка">Велюр</param>
+<param name="Вес">1.9</param>
+<param name="Декоративное оформление">Без декора</param>
+<param name="Ширина">20</param>
+<param name="Цвет">Бежевый</param>
 <param name="Состояние">Новое</param>
 <param name="Форма">Квадратная</param>
 <param name="Гарантия">14 дней</param>
@@ -81762,6 +81762,50 @@
 <param name="Кількість у комплекті">2 штуки</param>
 <param name="Малий килимок">40×50 см</param>
 <param name="Комплектация">2 килимки</param>
+</offer>
+<offer id="35*35" available="true">
+<name>Винный столик-менажница 35*35*18 см, дуб</name>
+<url>https://lugi.com.ua/ru/vinnyj_stolik-menazhnica_35_35_18_sm_dub/</url>
+<price>469</price>
+<vendorprice>390</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>153</categoryId>
+<picture>https://lugi.com.ua/image/cache/external/a9662edee07666450b50bbc79bb6be83-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/60c3fa18f0a99b62e5bfdebfff61b441-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/b9ef362c151635f85917749685212a1c-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/c4eb5d3b27088da3f8f84f19ce78ba63-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/af433017ca789fd8b6d19a7f4716f262-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/17624fe6aebd7b16126f8ede772f2764-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/2eef66fe7579a1f1c996eb0108fb9f02-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/5509fbbb4ef8082067a73816dd5a6f55-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/33c975ce286f27bd34aa0f2328296727-600x600.webp</picture>
+<description><![CDATA[<p>Дубовый винный столик - это стильный и практичный аксессуар для настоящих ценителей комфорта. Благодаря натуральному дубу, он имеет привлекательный вид, демонстрируя благородную текстуру и теплые оттенки древесины. Его универсальный дизайн позволяет использовать столик не только дома, но и на пикнике.<br />
+Столик имеет 5 секций для закусок, благодаря чему можно реализовать различные варианты подачи. Также есть 4 отделения для бокалов и отверстие для бутылки, что обеспечивает простоту сервировки и устойчивость даже на неровных поверхностях.<br />
+Винный столик имеет складные ножки, дополнительно укрепленные мебельной фурнитурой. Благодаря этому он идеально подходит для транспортировки и хранения. Изделие изготовлено из натурального дуба, все элементы конструкции тщательно зашлифованы и покрыты маслом.<br />
+<br />
+Такой столик станет замечательным подарком для друзей, коллег или близких. Он выглядит стильно и современно, но в то же время сохраняет нотки традиционного уюта. Идеальный выбор для создания атмосферных моментов в вашем доме.<br />
+<br />
+<strong>Характеристики:</strong></p>
+<ul>
+	<li>Материал: Дуб</li>
+	<li>Диаметр: 35 см</li>
+	<li>Высота: 18 см</li>
+</ul>
+<strong>Обратите внимание:</strong>
+<ol>
+	<li>Столешница безопасна для пищевых продуктов, однако во время эксплуатации&nbsp;желательно использовать пергамент. Особенно при длительном контакте с влажными продуктами.</li>
+	<li>Категорически не рекомендуется использовать для очистки моющие средства или помещать столик в посудомоечную машину.</li>
+	<li>Также не рекомендуется мыть столик водой. Лучше использовать влажную ткань или губку.</li>
+	<li>Хранить изделие следует в сухом помещении, избегая воздействия прямых солнечных лучей и влаги.</li>
+	<li>Для поддержания красивого внешнего вида периодически стоит обрабатывать поверхность обычным растительным маслом.</li>
+</ol>]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<vendorCode>35*35</vendorCode>
+<param name="Количество в наборе">1</param>
+<param name="Гарантийный срок">14 дней</param>
+<param name="Размер">35*35*18 см</param>
+<param name="Количество секций">9</param>
+<param name="Материал">Дуб</param>
 </offer>
 <offer id="HP-FLG-7 RED" available="true">
 <name>Кокотница чугунная эмалированная 7,5 л, красный Yiwu HP-FLG-7 RED</name>
