@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-26 22:31">
+<yml_catalog date="2026-10-27 03:19">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -2619,35 +2619,6 @@
 <param name="Форма сечения">Круглая</param>
 <param name="Цветовая гамма">Синий</param>
 </offer>
-<offer id="HP-JG-2" available="true">
-<name>Налобный фонарь аккумуляторный 7х7х5 см LED 3 режима работы HP-JG-2</name>
-<price>209</price>
-<vendorprice>114</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>48</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_1.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Налобный фонарь &mdash; это удобное и надежное осветительное устройство, которое обеспечивает яркий свет и оставляет руки свободными. Он идеально подходит для туристов, рыбаков, охотников, любителей активного отдыха, а также для работы в темное время суток или в условиях ограниченной видимости. Компактный размер и прочный корпус делают его практичным решением для использования в любых условиях.  Основные характеристики:   Размер:    7х7х5 см; Тип лампы: LED; Питание: аккумулятор; Время зарядки: 6 часов до полной зарядки; Время работы на одном заряде: до 12 часов непрерывно; Материал: пластик; Количество режимов работы: 3.   Комплектация:   Зарядный шнур; Регулируемый ремешок.   Благодаря аккумуляторному питанию фонарь может работать до 12 часов без подзарядки, что делает его отличным выбором для длительных поездок. Три режима освещения позволяют подобрать оптимальную яркость для различных ситуаций. Удобный регулируемый ремешок обеспечивает надежную фиксацию на голове. Этот налобный фонарь станет вашим надежным помощником в темное время суток.]]></description>
-<quantity_in_stock>71</quantity_in_stock>
-<vendorCode>HP-JG-2</vendorCode>
-<param name="Время работы">12</param>
-<param name="Вес">200</param>
-<param name="Тип заряда">USB</param>
-<param name="Время заряда аккумулятора">6</param>
-<param name="Тип фонаря">Налобный</param>
-<param name="Материал корпуса">Пластик</param>
-<param name="Длина">70</param>
-<param name="Тип питания">Аккумулятор</param>
-<param name="Крепление">Ремешок</param>
-<param name="Гарантия">14 дней</param>
-<param name="Тип лампы">Светодиодная</param>
-</offer>
 <offer id="HP-14-18" available="true">
 <name>Термосумка для бутылки 1.5 (л) сумка холодильник для напитков термосумка для пива Зеленый HP-14-18</name>
 <price>329</price>
@@ -2697,6 +2668,35 @@
 <param name="Ширина купола зонта">1.7</param>
 <param name="Длина купола зонта">1.7</param>
 <param name="Высота зонта в разложенном виде">2.2</param>
+</offer>
+<offer id="HP-JG-2" available="true">
+<name>Налобный фонарь аккумуляторный 7х7х5 см LED 3 режима работы HP-JG-2</name>
+<price>209</price>
+<vendorprice>114</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>48</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000/HP-JG-2/HPJG2_1.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Налобный фонарь &mdash; это удобное и надежное осветительное устройство, которое обеспечивает яркий свет и оставляет руки свободными. Он идеально подходит для туристов, рыбаков, охотников, любителей активного отдыха, а также для работы в темное время суток или в условиях ограниченной видимости. Компактный размер и прочный корпус делают его практичным решением для использования в любых условиях.  Основные характеристики:   Размер:    7х7х5 см; Тип лампы: LED; Питание: аккумулятор; Время зарядки: 6 часов до полной зарядки; Время работы на одном заряде: до 12 часов непрерывно; Материал: пластик; Количество режимов работы: 3.   Комплектация:   Зарядный шнур; Регулируемый ремешок.   Благодаря аккумуляторному питанию фонарь может работать до 12 часов без подзарядки, что делает его отличным выбором для длительных поездок. Три режима освещения позволяют подобрать оптимальную яркость для различных ситуаций. Удобный регулируемый ремешок обеспечивает надежную фиксацию на голове. Этот налобный фонарь станет вашим надежным помощником в темное время суток.]]></description>
+<quantity_in_stock>70</quantity_in_stock>
+<vendorCode>HP-JG-2</vendorCode>
+<param name="Время работы">12</param>
+<param name="Вес">200</param>
+<param name="Тип заряда">USB</param>
+<param name="Время заряда аккумулятора">6</param>
+<param name="Тип фонаря">Налобный</param>
+<param name="Материал корпуса">Пластик</param>
+<param name="Длина">70</param>
+<param name="Тип питания">Аккумулятор</param>
+<param name="Крепление">Ремешок</param>
+<param name="Гарантия">14 дней</param>
+<param name="Тип лампы">Светодиодная</param>
 </offer>
 <offer id="HP-SY-1B" available="true">
 <name>Кресло раскладное туристическое 52×53×77 см Бежевое HP-SY-1B</name>
@@ -6682,38 +6682,6 @@
 <param name="Форма лампочки">Классическая</param>
 <param name="Цветовая гамма">Желтый</param>
 </offer>
-<offer id="HP-5-31" available="true">
-<name>Аварийная лампочка на аккумуляторах E27 со съёмной крышкой — электролампочка с аккумулятором HP-5-31</name>
-<price>299</price>
-<vendorprice>237</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>128</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_1.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Лампочка на аккумуляторах с откидной крышкой и встроенным отсеком для батарей — это эстетичное и функциональное решение для вашего дома, дачи, кемпинга или гаража. Она совмещает в себе дизайн классической лампы и современные технологии автономного освещения. Уникальный корпус с легким доступом к аккумуляторам делает обслуживание быстрым и удобным.  Характеристики лампочки   тип: аварийная лампочка со встроенным аккумулятором; встроенный отсек для двух аккумуляторов; высота лампочки 16 см; диаметр 7 см; тип цоколя E27; мощность 15/20 Вт; напряжение 85-265 В; время работы 3-4 часа; время зарядки 4 часа; частота 50/60 Гц; корпус: ABS-пластик с откидной панелью для замены батарей; цвет: белый глянец.   Преимущества электролампочки   Быстрый доступ к аккумуляторам — удобная крышка для замены батарей за секунды. Работает при отключении света — автономная система освещения на случай ЧП. Универсальное применение — подходит для любого помещения и уличного освещения.   Эта электролампочка с аккумулятором станет вашим верным помощником в ситуациях, когда внезапно отключается свет. Незаменима для дачников, туристов, жителей с нестабильным электроснабжением и всех, кто ценит автономность и комфорт.  Сделайте свой дом независимым от сети — добавьте в корзину аварийную лампочку на аккумуляторах уже сегодня и будьте готовы к любой непредвиденной ситуации.]]></description>
-<quantity_in_stock>732</quantity_in_stock>
-<vendorCode>HP-5-31</vendorCode>
-<param name="Мощность">15 / 20 Вт</param>
-<param name="Диаметр">7</param>
-<param name="Напряжение">220</param>
-<param name="Количество в упаковке">1</param>
-<param name="Минимальное рабочее напряжение">85</param>
-<param name="Длина">16</param>
-<param name="Максимальное рабочее напряжение">265</param>
-<param name="Минимальная цветовая температура">8000</param>
-<param name="Максимальная цветовая температура">8500</param>
-<param name="Срок службы ламп">50000</param>
-<param name="Цоколь">E27</param>
-<param name="Рабочее напряжение (В)">175-265|170-260|85-265</param>
-<param name="Световой поток">1400</param>
-<param name="Угол свечения">180</param>
-<param name="Рабочее положение">Вертикальное</param>
-<param name="Тип лампы">Светодиодная</param>
-</offer>
 <offer id="HP-35015-2" available="true">
 <name>Складное ведро-таз пластиковое с силиконовыми вставками Household HP-35015-2</name>
 <price>349</price>
@@ -6734,6 +6702,38 @@
 <param name="Размер в сложенном виде">56×26×7</param>
 <param name="Объем">10</param>
 <param name="Состояние">Новое</param>
+</offer>
+<offer id="HP-5-31" available="true">
+<name>Аварийная лампочка на аккумуляторах E27 со съёмной крышкой — электролампочка с аккумулятором HP-5-31</name>
+<price>299</price>
+<vendorprice>237</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>128</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_1.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Лампочка на аккумуляторах с откидной крышкой и встроенным отсеком для батарей — это эстетичное и функциональное решение для вашего дома, дачи, кемпинга или гаража. Она совмещает в себе дизайн классической лампы и современные технологии автономного освещения. Уникальный корпус с легким доступом к аккумуляторам делает обслуживание быстрым и удобным.  Характеристики лампочки   тип: аварийная лампочка со встроенным аккумулятором; встроенный отсек для двух аккумуляторов; высота лампочки 16 см; диаметр 7 см; тип цоколя E27; мощность 15/20 Вт; напряжение 85-265 В; время работы 3-4 часа; время зарядки 4 часа; частота 50/60 Гц; корпус: ABS-пластик с откидной панелью для замены батарей; цвет: белый глянец.   Преимущества электролампочки   Быстрый доступ к аккумуляторам — удобная крышка для замены батарей за секунды. Работает при отключении света — автономная система освещения на случай ЧП. Универсальное применение — подходит для любого помещения и уличного освещения.   Эта электролампочка с аккумулятором станет вашим верным помощником в ситуациях, когда внезапно отключается свет. Незаменима для дачников, туристов, жителей с нестабильным электроснабжением и всех, кто ценит автономность и комфорт.  Сделайте свой дом независимым от сети — добавьте в корзину аварийную лампочку на аккумуляторах уже сегодня и будьте готовы к любой непредвиденной ситуации.]]></description>
+<quantity_in_stock>728</quantity_in_stock>
+<vendorCode>HP-5-31</vendorCode>
+<param name="Мощность">15 / 20 Вт</param>
+<param name="Диаметр">7</param>
+<param name="Напряжение">220</param>
+<param name="Количество в упаковке">1</param>
+<param name="Минимальное рабочее напряжение">85</param>
+<param name="Длина">16</param>
+<param name="Максимальное рабочее напряжение">265</param>
+<param name="Минимальная цветовая температура">8000</param>
+<param name="Максимальная цветовая температура">8500</param>
+<param name="Срок службы ламп">50000</param>
+<param name="Цоколь">E27</param>
+<param name="Рабочее напряжение (В)">175-265|170-260|85-265</param>
+<param name="Световой поток">1400</param>
+<param name="Угол свечения">180</param>
+<param name="Рабочее положение">Вертикальное</param>
+<param name="Тип лампы">Светодиодная</param>
 </offer>
 <offer id="HP-19-21" available="true">
 <name>Набор ситечек 3 штуки для чая круп и муки 8/14 /20 см  из нержавеющей стали Золотистый HP-19-21</name>
@@ -8803,7 +8803,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/129/USB100L10MWY-1%282%29.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Гирлянда USB роса идеально подходит для окон, дверей, стен, картин, елок, фотозоны. Гирлянда оснащена 100 яркими светодиодами, которые обеспечивают превосходное освещение.  Основные характеристики гирлянды роса   гирлянда роса 10 метров; 100 led светодиодов; класс защиты IP44.   Особенностью этой гирлянды является ее питание от usb, что обеспечивает максимальную мобильность и удобство в эксплуатации. Новогодняя гирлянда Роса - это не только декоративный элемент, но и практичный инструмент для создания особого атмосферного света в вашем доме или на мероприятии любого уровня.  Купить гирлянду капли росы 10 метров можно с доставкой по всей Украине. Гирлянда подлежит возврату только в том случае, когда ее исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>383</quantity_in_stock>
+<quantity_in_stock>382</quantity_in_stock>
 <vendorCode>USB100L10MWY</vendorCode>
 <param name="Количество светодиодов">100</param>
 <param name="Длина">10 м</param>
@@ -19683,25 +19683,6 @@
 <param name="Форма сечения">Круглая</param>
 <param name="Цветовая гамма">Белый</param>
 </offer>
-<offer id="HP-42-193" available="true">
-<name>Коврик диатомитовый для сушки посуды Beauties 40*30 см Yiwu HP-42-193</name>
-<price>139</price>
-<vendorprice>89</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>50</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-42-193/HP-42-193_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7623/kovrik_diatomitovyy_dlya_sushki_posudy_beauties_40_30_sm_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-42-193/HP-42-193_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-42-193/HP-42-193_2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Универсальный коврик из диатомита для кухонной столешницы. Быстро впитывает влагу от мокрой посуды, кружек и столовых приборов, оставляя рабочую поверхность сухой и чистой. Нескользящее основание надежно удерживает коврик на столе, не позволяя ему съезжать. Благодаря мягкости и эластичности материала его легко сворачивать для хранения. Характеристики  Размер: 30 × 40 см Основа: диатомит Уход: очистка водой или влажной салфеткой]]></description>
-<quantity_in_stock>159</quantity_in_stock>
-<vendorCode>HP-42-193</vendorCode>
-<param name="Материал">Диатомит</param>
-<param name="Ширина">30</param>
-<param name="Количество в наборе">1</param>
-<param name="Длина">40</param>
-</offer>
 <offer id="YYSH1235" available="true">
 <name>Блюдо сервировочное фарфоровое Margaret 30*17*2 см Yiwu YYSH1235</name>
 <price>789</price>
@@ -19720,6 +19701,25 @@
 <param name="Ширина">17</param>
 <param name="Длина">30</param>
 <param name="Форма">Овальная</param>
+</offer>
+<offer id="HP-42-193" available="true">
+<name>Коврик диатомитовый для сушки посуды Beauties 40*30 см Yiwu HP-42-193</name>
+<price>139</price>
+<vendorprice>89</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>50</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-42-193/HP-42-193_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7623/kovrik_diatomitovyy_dlya_sushki_posudy_beauties_40_30_sm_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-42-193/HP-42-193_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-42-193/HP-42-193_2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Универсальный коврик из диатомита для кухонной столешницы. Быстро впитывает влагу от мокрой посуды, кружек и столовых приборов, оставляя рабочую поверхность сухой и чистой. Нескользящее основание надежно удерживает коврик на столе, не позволяя ему съезжать. Благодаря мягкости и эластичности материала его легко сворачивать для хранения. Характеристики  Размер: 30 × 40 см Основа: диатомит Уход: очистка водой или влажной салфеткой]]></description>
+<quantity_in_stock>158</quantity_in_stock>
+<vendorCode>HP-42-193</vendorCode>
+<param name="Материал">Диатомит</param>
+<param name="Ширина">30</param>
+<param name="Количество в наборе">1</param>
+<param name="Длина">40</param>
 </offer>
 <offer id="HP-14-15P" available="true">
 <name>Термокружка Bears с фарфоровой колбой 480 мл белая HP-14-15P</name>
@@ -25115,29 +25115,6 @@
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-42-50" available="true">
-<name>Коврик диатомитовый Floral Oval 58*38 см универсальный овальный HP-42-50</name>
-<price>169</price>
-<vendorprice>130</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>50</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-50/HP-42-50_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-50/HP-42-50_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-50/HP-42-50_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6500/diatomitovyy_ovalnyy_kovrik_dlya_doma_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_kuhni_vanny_i_tualeta_3.jpg</picture>
-<vendor>Jiamat</vendor>
-<description><![CDATA[Диатомовый коврик универсального назначения сочетает практичность и сдержанный декоративный стиль. Овальная форма, размер 58*38 см и вес 400 г позволяют удобно разместить его в ванной комнате, прихожей или другой зоне дома. Диатомовая поверхность быстро впитывает влагу, помогая поддерживать сухость и комфорт под ногами.  Коврик прост в уходе и подходит для ежедневного использования. Универсальный формат и сбалансированный дизайн делают его не только практичным, но и приятным визуальным акцентом в интерьере.  Характеристики коврика для дома:   Материал: диатомит; Форма: овальная; Размер: 58*38 см; Вес: 400 г; Влагопоглощающие свойства.   Преимущества влаговпитывающего коврика для ванной комнаты и туалета:   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
-<quantity_in_stock>114</quantity_in_stock>
-<vendorCode>HP-42-50</vendorCode>
-<param name="Подходит для пола с подогревом">Да</param>
-<param name="Ширина">38</param>
-<param name="Количество в наборе">1</param>
-<param name="Цвет">Бежевый</param>
-<param name="Длина">58</param>
-<param name="Тематика декора, рисунка">Растения, цветы</param>
-<param name="Форма">Овальная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-42-148" available="true">
 <name>Коврик универсальный Rose 58*58 см диатомитовый Yiwu HP-42-148</name>
 <price>329</price>
@@ -25551,24 +25528,27 @@
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="64486-74" available="true">
-<name>Набор стеклянных трубочек с щеточкой (6+1) 64486-74</name>
-<price>119</price>
-<vendorprice>96</vendorprice>
+<offer id="HP-42-50" available="true">
+<name>Коврик диатомитовый Floral Oval 58*38 см универсальный овальный HP-42-50</name>
+<price>169</price>
+<vendorprice>130</vendorprice>
 <currencyId>UAH</currencyId>
-<categoryId>54</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/64486-74/64486-74-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/64486-74/64486-74-2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Набор стеклянных трубочек для напитков &mdash; это практичный и экологичный аксессуар, который заменит одноразовые пластиковые аналоги. Изготовленные из прочного боросиликатного стекла, трубочки устойчивы к высоким температурам и подойдут для любых напитков &mdash; от соков до коктейлей. Благодаря стильному дизайну они станут отличным дополнением к сервировке стола.  Характеристики набора стеклянных трубочек:  &bull; Вес: 0.100 кг; &bull; Длина трубочек: 19.5 см; &bull; Материалы: стекло, металл; &bull; Комплектация: 6 стеклянных трубочек в наборе; &bull; Дополнительные элементы: щёточка для очистки; &bull; Диаметр трубочек: 5 мм.  Преимущества набора трубочек из стекла:  &bull; Экологичность &mdash; многоразовое использование без вреда для природы; &bull; Гигиеничность &mdash; легко очищаются и не впитывают запахи; &bull; Универсальность &mdash; подходят для холодных и горячих напитков; &bull; Эстетичность &mdash; прозрачное стекло выглядит стильно и современно; &bull; Практичность &mdash; щёточка в комплекте облегчает уход.]]></description>
+<categoryId>50</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-50/HP-42-50_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-50/HP-42-50_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-50/HP-42-50_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6500/diatomitovyy_ovalnyy_kovrik_dlya_doma_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_kuhni_vanny_i_tualeta_3.jpg</picture>
+<vendor>Jiamat</vendor>
+<description><![CDATA[Диатомовый коврик универсального назначения сочетает практичность и сдержанный декоративный стиль. Овальная форма, размер 58*38 см и вес 400 г позволяют удобно разместить его в ванной комнате, прихожей или другой зоне дома. Диатомовая поверхность быстро впитывает влагу, помогая поддерживать сухость и комфорт под ногами.  Коврик прост в уходе и подходит для ежедневного использования. Универсальный формат и сбалансированный дизайн делают его не только практичным, но и приятным визуальным акцентом в интерьере.  Характеристики коврика для дома:   Материал: диатомит; Форма: овальная; Размер: 58*38 см; Вес: 400 г; Влагопоглощающие свойства.   Преимущества влаговпитывающего коврика для ванной комнаты и туалета:   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
 <quantity_in_stock>113</quantity_in_stock>
-<vendorCode>64486-74</vendorCode>
-<param name="Материал">Боросиликатное стекло</param>
-<param name="Вес">0.1</param>
-<param name="Диаметр">5</param>
-<param name="Количество в упаковке">6</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Длина">19.5</param>
+<vendorCode>HP-42-50</vendorCode>
+<param name="Подходит для пола с подогревом">Да</param>
+<param name="Ширина">38</param>
+<param name="Количество в наборе">1</param>
+<param name="Цвет">Бежевый</param>
+<param name="Длина">58</param>
+<param name="Тематика декора, рисунка">Растения, цветы</param>
+<param name="Форма">Овальная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-34-88" available="true">
@@ -25662,6 +25642,26 @@
 <param name="Количество в упаковке">6</param>
 <param name="Цвет">Бронзовый</param>
 <param name="Длина">220</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="64486-74" available="true">
+<name>Набор стеклянных трубочек с щеточкой (6+1) 64486-74</name>
+<price>119</price>
+<vendorprice>96</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>54</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/64486-74/64486-74-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/64486-74/64486-74-2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Набор стеклянных трубочек для напитков &mdash; это практичный и экологичный аксессуар, который заменит одноразовые пластиковые аналоги. Изготовленные из прочного боросиликатного стекла, трубочки устойчивы к высоким температурам и подойдут для любых напитков &mdash; от соков до коктейлей. Благодаря стильному дизайну они станут отличным дополнением к сервировке стола.  Характеристики набора стеклянных трубочек:  &bull; Вес: 0.100 кг; &bull; Длина трубочек: 19.5 см; &bull; Материалы: стекло, металл; &bull; Комплектация: 6 стеклянных трубочек в наборе; &bull; Дополнительные элементы: щёточка для очистки; &bull; Диаметр трубочек: 5 мм.  Преимущества набора трубочек из стекла:  &bull; Экологичность &mdash; многоразовое использование без вреда для природы; &bull; Гигиеничность &mdash; легко очищаются и не впитывают запахи; &bull; Универсальность &mdash; подходят для холодных и горячих напитков; &bull; Эстетичность &mdash; прозрачное стекло выглядит стильно и современно; &bull; Практичность &mdash; щёточка в комплекте облегчает уход.]]></description>
+<quantity_in_stock>112</quantity_in_stock>
+<vendorCode>64486-74</vendorCode>
+<param name="Материал">Боросиликатное стекло</param>
+<param name="Вес">0.1</param>
+<param name="Диаметр">5</param>
+<param name="Количество в упаковке">6</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Длина">19.5</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="64486-21" available="true">
@@ -28376,38 +28376,6 @@
 <param name="Форма">Фигурная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="W160LED16MWY" available="true">
-<name>Новогодняя гирлянда комнатная нить 14 м 160 LED комнатная гирлянда белый провод Желтый свет W160LED16MWY</name>
-<price>359</price>
-<vendorprice>217</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>64</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/FM-56D/W120LED10MW-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../W120LED10MWY/W120LED10MWY1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5333/novogodnyaya_girlyanda_komnatnaya_nit_14_m_160_led_komnatnaya_girlyanda_belyy_provod_zheltyy_svet_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5333/novogodnyaya_girlyanda_komnatnaya_nit_14_m_160_led_komnatnaya_girlyanda_belyy_provod_zheltyy_svet_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5333/novogodnyaya_girlyanda_komnatnaya_nit_14_m_160_led_komnatnaya_girlyanda_belyy_provod_zheltyy_svet_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5333/novogodnyaya_girlyanda_komnatnaya_nit_14_m_160_led_komnatnaya_girlyanda_belyy_provod_zheltyy_svet_4.jpg</picture>
-<vendor>Garlando</vendor>
-<description><![CDATA[Светодиодная гирлянда Нить &ndash; это стильное и практичное решение для создания праздничной атмосферы и уютного освещения в любом пространстве. Она подходит для украшения интерьера, фасада дома, окон, дверных проемов, балконов или летних террас. Мягкое свечение и несколько режимов работы позволяют подобрать нужное настроение &mdash; от спокойного мерцания до яркого праздничного сияния. Прочный кабель и качественные светодиоды обеспечивают долговечность и безопасность при использовании. Основные характеристики комнатной   новогодней гирлянды:  Материал оболочки: каучук; Длина: 16 м; Количество диодов: 160; Мощность: 8 Вт; Цвет провода: белый; Цвет свечения: желтый.  Особенности  светодиодной гирлянды:  8 режимов световых эффектов; Качественные материалы и надежная изоляция; Энергоэффективность и долговечность; Удобное управление с помощью контроллера; Подходит для украшения дома, офиса и других помещений.  Светодиодная гирлянда станет стильным украшением любого интерьера. Она создаст тёплую и уютную атмосферу, подчеркнёт праздничное настроение и прослужит вам долго благодаря качественным материалам и надёжной работе.  Внимание! Данный товар подлежит возврату только в том случае, когда его исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>103</quantity_in_stock>
-<vendorCode>W160LED16MWY</vendorCode>
-<param name="Количество ламп">160</param>
-<param name="Количество режимов свечения">8</param>
-<param name="Потребляемая мощность">8</param>
-<param name="Режим работы">Динамический</param>
-<param name="Количество светодиодов">160</param>
-<param name="Длина шнура питания">16</param>
-<param name="Напряжение">220</param>
-<param name="Длина">16</param>
-<param name="Тип освещения">Светодиодная гирлянда</param>
-<param name="Тип питания">Сеть</param>
-<param name="Упаковка">Коробка</param>
-<param name="Цвет шнура питания">Белый</param>
-<param name="Гарантия">14 дней</param>
-<param name="Цвет свечения">Желтый</param>
-<param name="Цветовая гамма">Желтый</param>
-</offer>
 <offer id="SCT-641" available="true">
 <name>Набор масленок для сливочного масла и намазок 2 (шт)  с ножами 2 (шт) на бамбуковой подставке SCT-641</name>
 <price>929</price>
@@ -28686,6 +28654,38 @@
 <param name="Гарантия">14 дней</param>
 <param name="Толщина стенки">5 мм</param>
 <param name="Многослойное дно">Да</param>
+</offer>
+<offer id="W160LED16MWY" available="true">
+<name>Новогодняя гирлянда комнатная нить 14 м 160 LED комнатная гирлянда белый провод Желтый свет W160LED16MWY</name>
+<price>359</price>
+<vendorprice>217</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>64</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/FM-56D/W120LED10MW-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../W120LED10MWY/W120LED10MWY1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5333/novogodnyaya_girlyanda_komnatnaya_nit_14_m_160_led_komnatnaya_girlyanda_belyy_provod_zheltyy_svet_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5333/novogodnyaya_girlyanda_komnatnaya_nit_14_m_160_led_komnatnaya_girlyanda_belyy_provod_zheltyy_svet_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5333/novogodnyaya_girlyanda_komnatnaya_nit_14_m_160_led_komnatnaya_girlyanda_belyy_provod_zheltyy_svet_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5333/novogodnyaya_girlyanda_komnatnaya_nit_14_m_160_led_komnatnaya_girlyanda_belyy_provod_zheltyy_svet_4.jpg</picture>
+<vendor>Garlando</vendor>
+<description><![CDATA[Светодиодная гирлянда Нить &ndash; это стильное и практичное решение для создания праздничной атмосферы и уютного освещения в любом пространстве. Она подходит для украшения интерьера, фасада дома, окон, дверных проемов, балконов или летних террас. Мягкое свечение и несколько режимов работы позволяют подобрать нужное настроение &mdash; от спокойного мерцания до яркого праздничного сияния. Прочный кабель и качественные светодиоды обеспечивают долговечность и безопасность при использовании. Основные характеристики комнатной   новогодней гирлянды:  Материал оболочки: каучук; Длина: 16 м; Количество диодов: 160; Мощность: 8 Вт; Цвет провода: белый; Цвет свечения: желтый.  Особенности  светодиодной гирлянды:  8 режимов световых эффектов; Качественные материалы и надежная изоляция; Энергоэффективность и долговечность; Удобное управление с помощью контроллера; Подходит для украшения дома, офиса и других помещений.  Светодиодная гирлянда станет стильным украшением любого интерьера. Она создаст тёплую и уютную атмосферу, подчеркнёт праздничное настроение и прослужит вам долго благодаря качественным материалам и надёжной работе.  Внимание! Данный товар подлежит возврату только в том случае, когда его исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
+<quantity_in_stock>102</quantity_in_stock>
+<vendorCode>W160LED16MWY</vendorCode>
+<param name="Количество ламп">160</param>
+<param name="Количество режимов свечения">8</param>
+<param name="Потребляемая мощность">8</param>
+<param name="Режим работы">Динамический</param>
+<param name="Количество светодиодов">160</param>
+<param name="Длина шнура питания">16</param>
+<param name="Напряжение">220</param>
+<param name="Длина">16</param>
+<param name="Тип освещения">Светодиодная гирлянда</param>
+<param name="Тип питания">Сеть</param>
+<param name="Упаковка">Коробка</param>
+<param name="Цвет шнура питания">Белый</param>
+<param name="Гарантия">14 дней</param>
+<param name="Цвет свечения">Желтый</param>
+<param name="Цветовая гамма">Желтый</param>
 </offer>
 <offer id="WH045" available="true">
 <name>Фарфоровое блюдо для сервировки стола в форме листа 35×18.5×5 (см) блюдо для подачи закусок Золото WH045</name>
@@ -61149,33 +61149,6 @@
 <param name="Тип управления">Механическое</param>
 <param name="Тип прибора">Универсальный измельчитель</param>
 </offer>
-<offer id="HP1201" available="true">
-<name>Набор банок для сыпучих продуктов 3 шт по 200 мл, на бамбуковой подставке HP1201</name>
-<price>1149</price>
-<vendorprice>887</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>1</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000000/HP1201/nabor_banochek_dlya_sypuchih_produktov_3_shtuki_po_200_ml_s_lozhkami_belyy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/00000000000000/HP1201/mg_9243.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/22514/2387/nabor_dlya_sousov_na_derevyannoy_podstavke_3_sht_po_200_ml_banochki_dlya_spetsiy_keramicheskie_s_lozhkami_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/22514/2387/nabor_dlya_sousov_na_derevyannoy_podstavke_3_sht_po_200_ml_banochki_dlya_spetsiy_keramicheskie_s_lozhkami_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/22514/2387/nabor_dlya_sousov_na_derevyannoy_podstavke_3_sht_po_200_ml_banochki_dlya_spetsiy_keramicheskie_s_lozhkami_4.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Стильный набор для сыпучих продуктов станет прекрасным дополнением вашей кухни, сочетая в себе функциональность, элегантность и удобство. В комплект входят три керамические баночки, каждая с бамбуковой крышкой и керамической ложечкой, а также бамбуковая подставка, которая удобно вмещает все три баночки.  Характеристики:   Материал банок: Керамика Материал подставки: Бамбук Объем баночек: 0.2 л   Преимущества:   Керамические баночки: Изготовленные из высококачественной керамики, баночки обеспечивают долговечность и сохранение вкуса и аромата специй. Керамика легко моется и не взаимодействует с содержимым, гарантируя чистоту вкуса. Бамбуковые крышки: Плотно закрываются, защищая содержимое от влаги и пыли, что помогает сохранять специи свежими и ароматными. Керамические ложечки: В каждой баночке есть керамическая ложечка, что обеспечивает удобное и чистое использование специй без необходимости в отдельных ложках. Бамбуковая подставка: Добавляет эстетической привлекательности и обеспечивает организованное хранение баночек. Подставка помогает поддерживать порядок на кухне и обеспечивает легкий доступ к специям. Легкость в уходе: Все элементы набора можно мыть в посудомоечной машине, что упрощает их обслуживание.  Этот набор не только организует ваше кухонное пространство, но и добавляет нотку элегантности, став прекрасным дополнением для любой кухни.]]></description>
-<quantity_in_stock>30</quantity_in_stock>
-<vendorCode>HP1201</vendorCode>
-<param name="Тип">Набор для специй</param>
-<param name="Материал">Керамика</param>
-<param name="Декоративное оформление">Без декора</param>
-<param name="Количество емкостей">3</param>
-<param name="Материал подставки">Бамбук</param>
-<param name="Материал крышки">Бамбук</param>
-<param name="Ложечка">Керамика</param>
-<param name="Объем">200 мл</param>
-<param name="Цвет">Белый</param>
-<param name="Подходит для мытья в посудомоечной машине">Да</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="YRUR8" available="true">
 <name>Набор кухонных принадлежностей на подставке 6 штук кухонные аксессуары Дерево YRUR8</name>
 <price>1109</price>
@@ -61925,6 +61898,33 @@
 <param name="Материал">Фарфор</param>
 <param name="Ширина">15</param>
 <param name="Длина">15</param>
+</offer>
+<offer id="HP1201" available="true">
+<name>Набор банок для сыпучих продуктов 3 шт по 200 мл, на бамбуковой подставке HP1201</name>
+<price>1149</price>
+<vendorprice>887</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000000/HP1201/nabor_banochek_dlya_sypuchih_produktov_3_shtuki_po_200_ml_s_lozhkami_belyy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/00000000000000/HP1201/mg_9243.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/22514/2387/nabor_dlya_sousov_na_derevyannoy_podstavke_3_sht_po_200_ml_banochki_dlya_spetsiy_keramicheskie_s_lozhkami_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/22514/2387/nabor_dlya_sousov_na_derevyannoy_podstavke_3_sht_po_200_ml_banochki_dlya_spetsiy_keramicheskie_s_lozhkami_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/22514/2387/nabor_dlya_sousov_na_derevyannoy_podstavke_3_sht_po_200_ml_banochki_dlya_spetsiy_keramicheskie_s_lozhkami_4.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Стильный набор для сыпучих продуктов станет прекрасным дополнением вашей кухни, сочетая в себе функциональность, элегантность и удобство. В комплект входят три керамические баночки, каждая с бамбуковой крышкой и керамической ложечкой, а также бамбуковая подставка, которая удобно вмещает все три баночки.  Характеристики:   Материал банок: Керамика Материал подставки: Бамбук Объем баночек: 0.2 л   Преимущества:   Керамические баночки: Изготовленные из высококачественной керамики, баночки обеспечивают долговечность и сохранение вкуса и аромата специй. Керамика легко моется и не взаимодействует с содержимым, гарантируя чистоту вкуса. Бамбуковые крышки: Плотно закрываются, защищая содержимое от влаги и пыли, что помогает сохранять специи свежими и ароматными. Керамические ложечки: В каждой баночке есть керамическая ложечка, что обеспечивает удобное и чистое использование специй без необходимости в отдельных ложках. Бамбуковая подставка: Добавляет эстетической привлекательности и обеспечивает организованное хранение баночек. Подставка помогает поддерживать порядок на кухне и обеспечивает легкий доступ к специям. Легкость в уходе: Все элементы набора можно мыть в посудомоечной машине, что упрощает их обслуживание.  Этот набор не только организует ваше кухонное пространство, но и добавляет нотку элегантности, став прекрасным дополнением для любой кухни.]]></description>
+<quantity_in_stock>29</quantity_in_stock>
+<vendorCode>HP1201</vendorCode>
+<param name="Тип">Набор для специй</param>
+<param name="Материал">Керамика</param>
+<param name="Декоративное оформление">Без декора</param>
+<param name="Количество емкостей">3</param>
+<param name="Материал подставки">Бамбук</param>
+<param name="Материал крышки">Бамбук</param>
+<param name="Ложечка">Керамика</param>
+<param name="Объем">200 мл</param>
+<param name="Цвет">Белый</param>
+<param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP605" available="true">
 <name>Тарелка глубокая квадратная из фарфора 16.5*16.5 см HP605</name>
@@ -102568,22 +102568,6 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <description><![CDATA[<p>Комплект изготовлен из полиэстеровой ткани с эффектом жатого муслина — легкой, приятной на ощупь и неприхотливой в уходе. Ткань обладает выраженной жатой фактурой, которая образуется за счет особого переплетения нитей и обеспечивает мягкость полотна. Материал характеризуется хорошей воздухопроницаемостью, повышенной износостойкостью и не требует глажки после стирки, сохраняя рельефность структуры при длительной эксплуатации.</p><p>Размеры набора соответствуют стандарту «евро». Комплект укомплектован простыней на резинке, рассчитанной на матрас шириной 180 см и длиной 200 см. Бортик высотой 25 см позволяет надежно зафиксировать полотно на матрасе, исключая его смещение и сползание. Пододеяльник формата 200х230 см рассчитан на эксплуатацию с широкими одеялами с учетом установленных технологических допусков.</p><p><b>Рекомендации по уходу</b></p><ol><li>Стирать на деликатном режиме при температуре не выше 40°C.</li><li>Применять жидкие моющие средства без содержания хлора.</li><li>Рекомендуемый отжим — на низких оборотах (до 600 в минуту).</li><li>Сушить в естественных условиях в расправленном виде.</li><li>Складывание допускается без использования утюга для сохранения рельефной структуры «жатки».</li></ol><p><b>Комплектация</b></p><ul><li>Пододеяльник: 200х230 (±5) см — 1 шт.</li><li>Простыня (на резинке): 180х200 + 25 см — 1 шт.</li><li>Наволочка: 50х70 см — 2 шт.</li></ul><p><b>Обратите внимание:</b></p><p>Фактический оттенок изделия может отличаться от изображения на экране устройства из-за индивидуальных настроек цветопередачи монитора или смартфона, а также условий освещения при фотосъемке.</p>]]></description>
 <quantity_in_stock>1</quantity_in_stock>
 <vendorCode>004-143-4-24-8</vendorCode>
-</offer>
-<offer id="004-143-4-24-11" available="true">
-<name>Комплект постельного белья евро муслин жатка люкс 200×230 см Coquette</name>
-<url>https://lugi.com.ua/ru/ru-komplekt-postilnoyi-bilizni-004-143-4-24-11/</url>
-<price>1659</price>
-<vendorprice>1279</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>113</categoryId>
-<picture>https://lugi.com.ua/image/cache/catalog/images/Tekstil/postilna_bilyzna/004-143-4-24-11/4(4)-600x600.png</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/Tekstil/postilna_bilyzna/004-143-4-24-11/3_4-600x600.png</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/Tekstil/postilna_bilyzna/004-143-4-24-11/1(9)-600x600.png</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/Tekstil/postilna_bilyzna/004-143-4-24-11/HQ1-600x600.png</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/Tekstil/postilna_bilyzna/004-143-4-24-11/image(3)-600x600.png</picture>
-<description><![CDATA[<p>Комплект изготовлен из полиэстеровой ткани с эффектом жатого муслина — легкой, приятной на ощупь и неприхотливой в уходе. Ткань обладает выраженной жатой фактурой, которая образуется за счет особого переплетения нитей и обеспечивает мягкость полотна. Материал характеризуется хорошей воздухопроницаемостью, повышенной износостойкостью и не требует глажки после стирки, сохраняя рельефность структуры при длительной эксплуатации.</p><p>Размеры набора соответствуют стандарту «евро». Комплект укомплектован простыней на резинке, рассчитанной на матрас шириной 180 см и длиной 200 см. Бортик высотой 25 см позволяет надежно зафиксировать полотно на матрасе, исключая его смещение и сползание. Пододеяльник формата 200х230 см рассчитан на эксплуатацию с широкими одеялами с учетом установленных технологических допусков.</p><p><b>Рекомендации по уходу</b></p><ol><li>Стирать на деликатном режиме при температуре не выше 40°C.</li><li>Применять жидкие моющие средства без содержания хлора.</li><li>Рекомендуемый отжим — на низких оборотах (до 600 в минуту).</li><li>Сушить в естественных условиях в расправленном виде.</li><li>Складывание допускается без использования утюга для сохранения рельефной структуры «жатки».</li></ol><p><b>Комплектация</b></p><ul><li>Пододеяльник: 200х230 (±5) см — 1 шт.</li><li>Простыня (на резинке): 180х200 + 25 см — 1 шт.</li><li>Наволочка: 50х70 см — 2 шт.</li></ul><p><b>Обратите внимание:</b></p><p>Фактический оттенок изделия может отличаться от изображения на экране устройства из-за индивидуальных настроек цветопередачи монитора или смартфона, а также условий освещения при фотосъемке.</p>]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<vendorCode>004-143-4-24-11</vendorCode>
 </offer>
 <offer id="004-154-15-20-1" available="true">
 <name>Комплект постельного белья полутоный 150×210 см, бежевый</name>
