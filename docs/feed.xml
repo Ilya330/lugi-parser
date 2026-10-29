@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-28 22:25">
+<yml_catalog date="2026-10-29 03:57">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -7495,7 +7495,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/0000/0000/HP-5-31/531_1.jpg</picture>
 <vendor>Yiwu</vendor>
 <description><![CDATA[Лампочка на аккумуляторах с откидной крышкой и встроенным отсеком для батарей — это эстетичное и функциональное решение для вашего дома, дачи, кемпинга или гаража. Она совмещает в себе дизайн классической лампы и современные технологии автономного освещения. Уникальный корпус с легким доступом к аккумуляторам делает обслуживание быстрым и удобным.  Характеристики лампочки   тип: аварийная лампочка со встроенным аккумулятором; встроенный отсек для двух аккумуляторов; высота лампочки 16 см; диаметр 7 см; тип цоколя E27; мощность 15/20 Вт; напряжение 85-265 В; время работы 3-4 часа; время зарядки 4 часа; частота 50/60 Гц; корпус: ABS-пластик с откидной панелью для замены батарей; цвет: белый глянец.   Преимущества электролампочки   Быстрый доступ к аккумуляторам — удобная крышка для замены батарей за секунды. Работает при отключении света — автономная система освещения на случай ЧП. Универсальное применение — подходит для любого помещения и уличного освещения.   Эта электролампочка с аккумулятором станет вашим верным помощником в ситуациях, когда внезапно отключается свет. Незаменима для дачников, туристов, жителей с нестабильным электроснабжением и всех, кто ценит автономность и комфорт.  Сделайте свой дом независимым от сети — добавьте в корзину аварийную лампочку на аккумуляторах уже сегодня и будьте готовы к любой непредвиденной ситуации.]]></description>
-<quantity_in_stock>542</quantity_in_stock>
+<quantity_in_stock>536</quantity_in_stock>
 <vendorCode>HP-5-31</vendorCode>
 <param name="Мощность">15 / 20 Вт</param>
 <param name="Диаметр">7</param>
@@ -9115,33 +9115,6 @@
 <param name="Материал">Фарфор</param>
 <param name="Диаметр">30.5</param>
 </offer>
-<offer id="USB100L10MWY" available="true">
-<name>Гирлянда роса 10 метров USB на 100 led светодиодов капля белый провод желтая USB100L10MWY</name>
-<price>139</price>
-<vendorprice>89</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>64</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/USB100L10MW-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/3002/girlyanda_rosa_na_pulte_10_metrov_usb_na_100_led_svetodiodov_kaplya_belyy_provod_zheltaya_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/3002/girlyanda_rosa_na_pulte_10_metrov_usb_na_100_led_svetodiodov_kaplya_belyy_provod_zheltaya_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/3002/girlyanda_rosa_na_pulte_10_metrov_usb_na_100_led_svetodiodov_kaplya_belyy_provod_zheltaya_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/3002/girlyanda_rosa_na_pulte_10_metrov_usb_na_100_led_svetodiodov_kaplya_belyy_provod_zheltaya_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/129/USB100L10MWY.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/129/USB100L10MWY-1%282%29.jpg</picture>
-<vendor>Garlando</vendor>
-<description><![CDATA[Гирлянда USB роса идеально подходит для окон, дверей, стен, картин, елок, фотозоны. Гирлянда оснащена 100 яркими светодиодами, которые обеспечивают превосходное освещение.  Основные характеристики гирлянды роса   гирлянда роса 10 метров; 100 led светодиодов; класс защиты IP44.   Особенностью этой гирлянды является ее питание от usb, что обеспечивает максимальную мобильность и удобство в эксплуатации. Новогодняя гирлянда Роса - это не только декоративный элемент, но и практичный инструмент для создания особого атмосферного света в вашем доме или на мероприятии любого уровня.  Купить гирлянду капли росы 10 метров можно с доставкой по всей Украине. Гирлянда подлежит возврату только в том случае, когда ее исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>352</quantity_in_stock>
-<vendorCode>USB100L10MWY</vendorCode>
-<param name="Количество светодиодов">100</param>
-<param name="Длина">10 м</param>
-<param name="Тип гирлянды">Гирлянда роса</param>
-<param name="Тип освещения">Светодиодная гирлянда</param>
-<param name="Степень защиты IP">44</param>
-<param name="Цвет шнура питания">Белый</param>
-<param name="Угол свечения">360</param>
-<param name="Цвет свечения">Желтый</param>
-<param name="Форма лампочки">Капля</param>
-</offer>
 <offer id="HP-19-146BL" available="true">
 <name>Чашка стеклянная 400 мл с бамбуковой крышкой и синей трубочкой HP-19-146BL</name>
 <price>179</price>
@@ -9159,6 +9132,33 @@
 <param name="Объем">0.4</param>
 <param name="Тип стакана">Высокий</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="USB100L10MWY" available="true">
+<name>Гирлянда роса 10 метров USB на 100 led светодиодов капля белый провод желтая USB100L10MWY</name>
+<price>139</price>
+<vendorprice>89</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>64</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/USB100L10MW-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/3002/girlyanda_rosa_na_pulte_10_metrov_usb_na_100_led_svetodiodov_kaplya_belyy_provod_zheltaya_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/3002/girlyanda_rosa_na_pulte_10_metrov_usb_na_100_led_svetodiodov_kaplya_belyy_provod_zheltaya_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/3002/girlyanda_rosa_na_pulte_10_metrov_usb_na_100_led_svetodiodov_kaplya_belyy_provod_zheltaya_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/3002/girlyanda_rosa_na_pulte_10_metrov_usb_na_100_led_svetodiodov_kaplya_belyy_provod_zheltaya_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/129/USB100L10MWY.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/129/USB100L10MWY-1%282%29.jpg</picture>
+<vendor>Garlando</vendor>
+<description><![CDATA[Гирлянда USB роса идеально подходит для окон, дверей, стен, картин, елок, фотозоны. Гирлянда оснащена 100 яркими светодиодами, которые обеспечивают превосходное освещение.  Основные характеристики гирлянды роса   гирлянда роса 10 метров; 100 led светодиодов; класс защиты IP44.   Особенностью этой гирлянды является ее питание от usb, что обеспечивает максимальную мобильность и удобство в эксплуатации. Новогодняя гирлянда Роса - это не только декоративный элемент, но и практичный инструмент для создания особого атмосферного света в вашем доме или на мероприятии любого уровня.  Купить гирлянду капли росы 10 метров можно с доставкой по всей Украине. Гирлянда подлежит возврату только в том случае, когда ее исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
+<quantity_in_stock>351</quantity_in_stock>
+<vendorCode>USB100L10MWY</vendorCode>
+<param name="Количество светодиодов">100</param>
+<param name="Длина">10 м</param>
+<param name="Тип гирлянды">Гирлянда роса</param>
+<param name="Тип освещения">Светодиодная гирлянда</param>
+<param name="Степень защиты IP">44</param>
+<param name="Цвет шнура питания">Белый</param>
+<param name="Угол свечения">360</param>
+<param name="Цвет свечения">Желтый</param>
+<param name="Форма лампочки">Капля</param>
 </offer>
 <offer id="LB-1606B" available="true">
 <name>Тарелка обеденная фарфоровая 25,5 см с золотым кантом Yiwu LB-1606B</name>
@@ -9742,34 +9742,6 @@
 <param name="Подходит для мытья в посудомоечной машине">Нет</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="USB173304Y" available="true">
-<name>Гирлянда-штора Роса 200 LED 10 нитей 3*2 м USB Garlando USB173304Y</name>
-<price>499</price>
-<vendorprice>310</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>64</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77955/8111/girlyanda_shtora_rosa_200_led_10_nitey_3_2_m_usb_garlandopro.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77955/8111/girlyanda_shtora_rosa_200_led_10_nitey_3_2_m_usb_garlandopro_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77955/8111/girlyanda_shtora_rosa_200_led_10_nitey_3_2_m_usb_garlandopro_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77955/8111/girlyanda_shtora_rosa_200_led_10_nitey_3_2_m_usb_garlandopro_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77955/8111/girlyanda_shtora_rosa_200_led_10_nitey_3_2_m_usb_garlandopro_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77955/8111/girlyanda_shtora_rosa_200_led_10_nitey_3_2_m_usb_garlandopro_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77955/8111/girlyanda_shtora_rosa_200_led_10_nitey_3_2_m_usb_garlandopro_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77955/8111/girlyanda_shtora_rosa_200_led_10_nitey_3_2_m_usb_garlandopro_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77955/8111/girlyanda_shtora_rosa_200_led_10_nitey_3_2_m_usb_garlandopro_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77955/8111/girlyanda_shtora_rosa_200_led_10_nitey_3_2_m_usb_garlandopro_9.jpg</picture>
-<vendor>Garlando</vendor>
-<description><![CDATA[Светодиодная гирлянда-штора Роса подойдет для вертикального оформления стен, оконных проемов, фоновых зон и интерьерных перегородок. Особенности:  Формат занавеса (3×2 м): Конструкция представляет собой несущий горизонтальный кабель длиной 3 м, от которого вниз спускаются гибкие вертикальные нити длиной 2 м. Плотность свечения: Равномерно распределенные светодиоды на тонкой медной проволоке создают аккуратное светящееся полотно. Питание от USB: Универсальный интерфейс позволяет подключать гирлянду к сетевому адаптеру, внешнему аккумулятору (Power Bank), ноутбуку или другим источникам питания 5V. Гибкая основа: Проволочные нити легко фиксируются на гардинах, карнизах или стеновых креплениях, сохраняя заданное положение.  Рекомендации по уходу и эксплуатации  Разворачивайте вертикальные нити поочередно после фиксации несущего кабеля во избежание спутывания. Избегайте острых заломов и сильного натяжения проволочных жил при монтаже. При очистке от пыли используйте сухую мягкую салфетку; не допускайте попадания воды на USB-штекер.  Характеристики  Размер: 3*2 м Количество диодов: 200 Количество режимов работы: 8 Материал: медная проволока]]></description>
-<quantity_in_stock>325</quantity_in_stock>
-<vendorCode>USB173304Y</vendorCode>
-<param name="Количество режимов свечения">8</param>
-<param name="Количество светодиодов">200</param>
-<param name="Длина шнура питания">3</param>
-<param name="Напряжение">5</param>
-<param name="Ширина">2</param>
-<param name="Длина">3</param>
-<param name="Цвет свечения">Желтый</param>
-</offer>
 <offer id="RX-N240139CR" available="true">
 <name>Кружка фарфоровая с цветочным принтом 400 (мл) для чая и кофе RX-N240139CR</name>
 <price>209</price>
@@ -9801,6 +9773,34 @@
 <param name="Тип емкости">Кружка</param>
 <param name="Подарочная упаковка">Нет</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="USB173304Y" available="true">
+<name>Гирлянда-штора Роса 200 LED 10 нитей 3*2 м USB Garlando USB173304Y</name>
+<price>499</price>
+<vendorprice>310</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>64</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77955/8111/girlyanda_shtora_rosa_200_led_10_nitey_3_2_m_usb_garlandopro.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77955/8111/girlyanda_shtora_rosa_200_led_10_nitey_3_2_m_usb_garlandopro_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77955/8111/girlyanda_shtora_rosa_200_led_10_nitey_3_2_m_usb_garlandopro_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77955/8111/girlyanda_shtora_rosa_200_led_10_nitey_3_2_m_usb_garlandopro_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77955/8111/girlyanda_shtora_rosa_200_led_10_nitey_3_2_m_usb_garlandopro_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77955/8111/girlyanda_shtora_rosa_200_led_10_nitey_3_2_m_usb_garlandopro_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77955/8111/girlyanda_shtora_rosa_200_led_10_nitey_3_2_m_usb_garlandopro_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77955/8111/girlyanda_shtora_rosa_200_led_10_nitey_3_2_m_usb_garlandopro_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77955/8111/girlyanda_shtora_rosa_200_led_10_nitey_3_2_m_usb_garlandopro_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77955/8111/girlyanda_shtora_rosa_200_led_10_nitey_3_2_m_usb_garlandopro_9.jpg</picture>
+<vendor>Garlando</vendor>
+<description><![CDATA[Светодиодная гирлянда-штора Роса подойдет для вертикального оформления стен, оконных проемов, фоновых зон и интерьерных перегородок. Особенности:  Формат занавеса (3×2 м): Конструкция представляет собой несущий горизонтальный кабель длиной 3 м, от которого вниз спускаются гибкие вертикальные нити длиной 2 м. Плотность свечения: Равномерно распределенные светодиоды на тонкой медной проволоке создают аккуратное светящееся полотно. Питание от USB: Универсальный интерфейс позволяет подключать гирлянду к сетевому адаптеру, внешнему аккумулятору (Power Bank), ноутбуку или другим источникам питания 5V. Гибкая основа: Проволочные нити легко фиксируются на гардинах, карнизах или стеновых креплениях, сохраняя заданное положение.  Рекомендации по уходу и эксплуатации  Разворачивайте вертикальные нити поочередно после фиксации несущего кабеля во избежание спутывания. Избегайте острых заломов и сильного натяжения проволочных жил при монтаже. При очистке от пыли используйте сухую мягкую салфетку; не допускайте попадания воды на USB-штекер.  Характеристики  Размер: 3*2 м Количество диодов: 200 Количество режимов работы: 8 Материал: медная проволока]]></description>
+<quantity_in_stock>324</quantity_in_stock>
+<vendorCode>USB173304Y</vendorCode>
+<param name="Количество режимов свечения">8</param>
+<param name="Количество светодиодов">200</param>
+<param name="Длина шнура питания">3</param>
+<param name="Напряжение">5</param>
+<param name="Ширина">2</param>
+<param name="Длина">3</param>
+<param name="Цвет свечения">Желтый</param>
 </offer>
 <offer id="RX-N240143GKV" available="true">
 <name>Чашка фарфоровая 400 (мл) чашка для кофе и чая з надписью и сердцем Lugi RX-N240143GKV</name>
@@ -26690,29 +26690,6 @@
 <param name="Нижний диаметр">6 см</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-35015-14" available="true">
-<name>Швабра с самовыжимом из микрофибры, универсальная, вращающаяся 360°, телескопическая ручка HP-35015-14</name>
-<price>289</price>
-<vendorprice>231</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>154</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4709/shvabra_s_samovyzhimom_iz_mikrofibry_universalnaya_vrashchayushchayasya_360_teleskopicheskaya_ruchka.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4709/shvabra_s_samovyzhimom_iz_mikrofibry_universalnaya_vrashchayushchayasya_360_teleskopicheskaya_ruchka_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4709/shvabra_s_samovyzhimom_iz_mikrofibry_universalnaya_vrashchayushchayasya_360_teleskopicheskaya_ruchka_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4709/shvabra_s_samovyzhimom_iz_mikrofibry_universalnaya_vrashchayushchayasya_360_teleskopicheskaya_ruchka_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4709/shvabra_s_samovyzhimom_iz_mikrofibry_universalnaya_vrashchayushchayasya_360_teleskopicheskaya_ruchka_4.jpg</picture>
-<vendor>Household</vendor>
-<description><![CDATA[Швабра с самовыжимом &ndash; удобный и практичный инструмент для уборки пола. Подходит для плитки, линолеума, ламината, паркета и других покрытий. Насадка из микрофибры эффективно впитывает влагу, удерживает грязь и обеспечивает качественное очищение. Благодаря встроенному механизму отжима руки остаются сухими и чистыми. Конструкция из прочного металла и пластика гарантирует долговечность и удобство использования.  Характеристики швабры телескопической с самоотжимом:   Вес: 0,5 кг; Материал: пластик + нержавеющая сталь; Максимальная длина ручки: 140 см; Назначение: уборка полов разных типов с функцией самоотжима; Компактное хранение: да.   Преимущества швабры с самовыжимом:   высокая способность впитывать воду; вращающаяся головка на 360 градусов; прочный материал из микрофибры; регулируемая телескопическая ручка; простая сборка и разборка; универсальность для разных напольных покрытий.]]></description>
-<quantity_in_stock>108</quantity_in_stock>
-<vendorCode>HP-35015-14</vendorCode>
-<param name="Материал">Сталь</param>
-<param name="Длина ручки">140</param>
-<param name="Материал насадки">Ткань-веревки</param>
-<param name="Наличие механизма отжима">Нет</param>
-<param name="Материал ручки">Нержавеющая сталь</param>
-<param name="Комплектация ведром">Нет</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="64486-14" available="true">
 <name>Набор банок для хранения 3 штуки с бамбуковыми крышками 400/600/800 мл 64486-14</name>
 <price>1129</price>
@@ -26995,6 +26972,29 @@
 <param name="Нескользящее основание">Да</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Состояние">Новое</param>
+</offer>
+<offer id="HP-35015-14" available="true">
+<name>Швабра с самовыжимом из микрофибры, универсальная, вращающаяся 360°, телескопическая ручка HP-35015-14</name>
+<price>289</price>
+<vendorprice>231</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>154</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4709/shvabra_s_samovyzhimom_iz_mikrofibry_universalnaya_vrashchayushchayasya_360_teleskopicheskaya_ruchka.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4709/shvabra_s_samovyzhimom_iz_mikrofibry_universalnaya_vrashchayushchayasya_360_teleskopicheskaya_ruchka_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4709/shvabra_s_samovyzhimom_iz_mikrofibry_universalnaya_vrashchayushchayasya_360_teleskopicheskaya_ruchka_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4709/shvabra_s_samovyzhimom_iz_mikrofibry_universalnaya_vrashchayushchayasya_360_teleskopicheskaya_ruchka_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/62036/4709/shvabra_s_samovyzhimom_iz_mikrofibry_universalnaya_vrashchayushchayasya_360_teleskopicheskaya_ruchka_4.jpg</picture>
+<vendor>Household</vendor>
+<description><![CDATA[Швабра с самовыжимом &ndash; удобный и практичный инструмент для уборки пола. Подходит для плитки, линолеума, ламината, паркета и других покрытий. Насадка из микрофибры эффективно впитывает влагу, удерживает грязь и обеспечивает качественное очищение. Благодаря встроенному механизму отжима руки остаются сухими и чистыми. Конструкция из прочного металла и пластика гарантирует долговечность и удобство использования.  Характеристики швабры телескопической с самоотжимом:   Вес: 0,5 кг; Материал: пластик + нержавеющая сталь; Максимальная длина ручки: 140 см; Назначение: уборка полов разных типов с функцией самоотжима; Компактное хранение: да.   Преимущества швабры с самовыжимом:   высокая способность впитывать воду; вращающаяся головка на 360 градусов; прочный материал из микрофибры; регулируемая телескопическая ручка; простая сборка и разборка; универсальность для разных напольных покрытий.]]></description>
+<quantity_in_stock>107</quantity_in_stock>
+<vendorCode>HP-35015-14</vendorCode>
+<param name="Материал">Сталь</param>
+<param name="Длина ручки">140</param>
+<param name="Материал насадки">Ткань-веревки</param>
+<param name="Наличие механизма отжима">Нет</param>
+<param name="Материал ручки">Нержавеющая сталь</param>
+<param name="Комплектация ведром">Нет</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="CR-1-20" available="true">
 <name>Новогодняя фарфоровая чашка с крышкой Merry Christmas 350 (мл) CR-1-20</name>
@@ -32415,28 +32415,6 @@
 <param name="Длина">58</param>
 <param name="Форма">Квадратная</param>
 </offer>
-<offer id="SP-47W" available="true">
-<name>Камин декоративный с LED-подсветкой 101 см, белый Yiwu SP-47W</name>
-<price>5299</price>
-<vendorprice>3325</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>25</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7843/kamin_dekorativnyy_s_led_podsvetkoy_101_sm_belyy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7843/kamin_dekorativnyy_s_led_podsvetkoy_101_sm_belyy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7843/kamin_dekorativnyy_s_led_podsvetkoy_101_sm_belyy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7843/kamin_dekorativnyy_s_led_podsvetkoy_101_sm_belyy_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7843/kamin_dekorativnyy_s_led_podsvetkoy_101_sm_belyy_4.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Декоративный светодиодный светильник-камин — настенный или настольный интерьерный фонарь с имитацией тлеющих углей и эффектом живого пламени. Особенности  Длина 101 см: Широкая панель позволяет использовать светильник как самостоятельный элемент декора для стен, ниш или каминных порталов. Светодиодная подсветка (LED): Энергоэффективные светодиоды воспроизводят динамический эффект мерцания углей и огня без нагрева и выделения дыма. Легкий пластиковый корпус: Прочный пластик упрощает монтаж и транспортировку, исключая высокую нагрузку на настенные крепления или полки. Устройство поддерживает два типа питания: автономное от 3 батареек типа C (1.5V R14, приобретаются отдельно) или постоянное от любого USB-порта с помощью комплектного кабеля USB-DC. Это позволяет разместить декоративный камин в любом удобном месте дома без привязки к розеткам. Безопасность: Не выделяет гари, сажи и копоти, не нагревает окружающие предметы, безопасен для использования в жилых помещениях.  Рекомендации по уходу и эксплуатации  Только для закрытых помещений: Предназначен для использования внутри сухих отапливаемых помещений (избегайте попадания влаги). Очистка: Протирайте корпус и переднюю панель сухой или слегка влажной мягкой салфеткой из микрофибры. Уход: Во избежание появления царапин на пластике не используйте абразивные чистящие средства, растворители и жесткие губки.  Характеристики  Материал: пластик Размеры: 101*14*28 см Вес: 3,9 кг]]></description>
-<quantity_in_stock>90</quantity_in_stock>
-<vendorCode>SP-47W</vendorCode>
-<param name="Высота">28</param>
-<param name="Вес камина">3.9</param>
-<param name="Глубина">14</param>
-<param name="Ширина">101</param>
-<param name="Эффект пламени">Да</param>
-<param name="Материал каркаса">пластик</param>
-</offer>
 <offer id="D1800L3MGML" available="true">
 <name>Гирлянда Конский хвост Мишура 1800 LED 20 нитей 3 м зеленая, мультиколор GarlandoPro D1800L3MGML</name>
 <price>2849</price>
@@ -32885,6 +32863,28 @@
 <param name="Объем">0.8</param>
 <param name="Цвет">Голубой</param>
 <param name="Материал корпуса термоса">Нержавеющая сталь</param>
+</offer>
+<offer id="SP-47W" available="true">
+<name>Камин декоративный с LED-подсветкой 101 см, белый Yiwu SP-47W</name>
+<price>5299</price>
+<vendorprice>3325</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>25</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7843/kamin_dekorativnyy_s_led_podsvetkoy_101_sm_belyy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7843/kamin_dekorativnyy_s_led_podsvetkoy_101_sm_belyy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7843/kamin_dekorativnyy_s_led_podsvetkoy_101_sm_belyy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7843/kamin_dekorativnyy_s_led_podsvetkoy_101_sm_belyy_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7843/kamin_dekorativnyy_s_led_podsvetkoy_101_sm_belyy_4.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Декоративный светодиодный светильник-камин — настенный или настольный интерьерный фонарь с имитацией тлеющих углей и эффектом живого пламени. Особенности  Длина 101 см: Широкая панель позволяет использовать светильник как самостоятельный элемент декора для стен, ниш или каминных порталов. Светодиодная подсветка (LED): Энергоэффективные светодиоды воспроизводят динамический эффект мерцания углей и огня без нагрева и выделения дыма. Легкий пластиковый корпус: Прочный пластик упрощает монтаж и транспортировку, исключая высокую нагрузку на настенные крепления или полки. Устройство поддерживает два типа питания: автономное от 3 батареек типа C (1.5V R14, приобретаются отдельно) или постоянное от любого USB-порта с помощью комплектного кабеля USB-DC. Это позволяет разместить декоративный камин в любом удобном месте дома без привязки к розеткам. Безопасность: Не выделяет гари, сажи и копоти, не нагревает окружающие предметы, безопасен для использования в жилых помещениях.  Рекомендации по уходу и эксплуатации  Только для закрытых помещений: Предназначен для использования внутри сухих отапливаемых помещений (избегайте попадания влаги). Очистка: Протирайте корпус и переднюю панель сухой или слегка влажной мягкой салфеткой из микрофибры. Уход: Во избежание появления царапин на пластике не используйте абразивные чистящие средства, растворители и жесткие губки.  Характеристики  Материал: пластик Размеры: 101*14*28 см Вес: 3,9 кг]]></description>
+<quantity_in_stock>89</quantity_in_stock>
+<vendorCode>SP-47W</vendorCode>
+<param name="Высота">28</param>
+<param name="Вес камина">3.9</param>
+<param name="Глубина">14</param>
+<param name="Ширина">101</param>
+<param name="Эффект пламени">Да</param>
+<param name="Материал каркаса">пластик</param>
 </offer>
 <offer id="HP-35015-6" available="true">
 <name>Швабра с вертикальной камерой для отжима, телескопическая ручка, уборка плитки, ламината, паркета, линолеума HP-35015-6</name>
@@ -37496,31 +37496,6 @@
 <param name="Тип пылесборника">Контейнер</param>
 <param name="Потребляємая мощность">2000 Вт</param>
 </offer>
-<offer id="HP-14-23P" available="true">
-<name>Термокружка Coffee &amp;amp; Tea с трубочкой розовая HP-14-23P</name>
-<price>569</price>
-<vendorprice>443</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>151</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0000000000/HP-14-23/termokruzhka_coffee_tea_480_ml_s_trubochkoy_i_dvoynym_otkryvaniem_rozovyy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000000000/HP-14-23/hp-14-23p.1%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000000000/HP-14-23/hp-14-23p.2%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000000000/HP-14-23/hp-14-23p.3%281%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000000000/HP-14-23/hp-14-23be.4%281%29.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Термокружка с ручкой 480 мл – это практичный и удобный аксессуар, который позволит вам наслаждаться любимым напитком, будь то горячий кофе, ароматный чай или освежающий сок, в любом месте и в любое время. Внутренняя колба изготовлена из высококачественной нержавеющей стали - этот материал является безопасным для здоровья, не накапливает запахи и не влияет на вкус напитка.  Розовая матовая термокружка объединяет в себе сразу два формата для комфортного питья:   металлическую трубочку; отверстие с клапаном.   Оба отверстия надежно закрываются защитными герметичными клапанами, которые предотвращают пролитие напитка.   Основные характеристики    объем 480 мл; высота 10 см; диаметр 6 см.    Основные преимущества    Термокружка с вакуумной изоляцией способна сохранять температуру напитка в течение нескольких часов. Ручка обеспечивает удобный хват, даже если ваша рука в перчатке. Крышка термокружки плотно закрывается, что защищает напиток от пролития.   Термокружка незаменима в дороге, в спорт зале, на прогулках и пикниках. Она прекрасно удерживает тепло или холод, сохраняя температуру напитков. Вы сможете долго лакомиться горячим ароматным чаем или идеально ледяным лимонадом.]]></description>
-<quantity_in_stock>73</quantity_in_stock>
-<vendorCode>HP-14-23P</vendorCode>
-<param name="Высота">10 см</param>
-<param name="Время сохранения тепла">6 ч</param>
-<param name="Время сохранения холода">12 ч</param>
-<param name="Материал колбы">Нержавеющая сталь</param>
-<param name="Материал крышки">Пластик</param>
-<param name="Объем">480 мл</param>
-<param name="Цвет">Розовый</param>
-<param name="Нижний диаметр">6 см</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-YH-38" available="true">
 <name>Блюдо для закусок Lirmartur стеклянное 24,5*20,5*2 см HP-YH-38</name>
 <price>369</price>
@@ -37855,6 +37830,31 @@
 <param name="Цвет">Розовый</param>
 <param name="Тип термоса">Питьевой</param>
 <param name="Нижний диаметр">6.5 см</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-14-23P" available="true">
+<name>Термокружка Coffee &amp;amp; Tea с трубочкой розовая HP-14-23P</name>
+<price>569</price>
+<vendorprice>443</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>151</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0000000000/HP-14-23/termokruzhka_coffee_tea_480_ml_s_trubochkoy_i_dvoynym_otkryvaniem_rozovyy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000000000/HP-14-23/hp-14-23p.1%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000000000/HP-14-23/hp-14-23p.2%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000000000/HP-14-23/hp-14-23p.3%281%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000000000/HP-14-23/hp-14-23be.4%281%29.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Термокружка с ручкой 480 мл – это практичный и удобный аксессуар, который позволит вам наслаждаться любимым напитком, будь то горячий кофе, ароматный чай или освежающий сок, в любом месте и в любое время. Внутренняя колба изготовлена из высококачественной нержавеющей стали - этот материал является безопасным для здоровья, не накапливает запахи и не влияет на вкус напитка.  Розовая матовая термокружка объединяет в себе сразу два формата для комфортного питья:   металлическую трубочку; отверстие с клапаном.   Оба отверстия надежно закрываются защитными герметичными клапанами, которые предотвращают пролитие напитка.   Основные характеристики    объем 480 мл; высота 10 см; диаметр 6 см.    Основные преимущества    Термокружка с вакуумной изоляцией способна сохранять температуру напитка в течение нескольких часов. Ручка обеспечивает удобный хват, даже если ваша рука в перчатке. Крышка термокружки плотно закрывается, что защищает напиток от пролития.   Термокружка незаменима в дороге, в спорт зале, на прогулках и пикниках. Она прекрасно удерживает тепло или холод, сохраняя температуру напитков. Вы сможете долго лакомиться горячим ароматным чаем или идеально ледяным лимонадом.]]></description>
+<quantity_in_stock>72</quantity_in_stock>
+<vendorCode>HP-14-23P</vendorCode>
+<param name="Высота">10 см</param>
+<param name="Время сохранения тепла">6 ч</param>
+<param name="Время сохранения холода">12 ч</param>
+<param name="Материал колбы">Нержавеющая сталь</param>
+<param name="Материал крышки">Пластик</param>
+<param name="Объем">480 мл</param>
+<param name="Цвет">Розовый</param>
+<param name="Нижний диаметр">6 см</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-10-2AP" available="true">
@@ -38400,41 +38400,6 @@
 <param name="Гарантия">14 дней</param>
 <param name="Тип управления">Механическое</param>
 </offer>
-<offer id="HP39575B" available="true">
-<name>Сковорода гриль Ø 25 см на три секции с антипригарным покрытием круглая черная HP39575B</name>
-<price>779</price>
-<vendorprice>600</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>134</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0000000/HP39575/HP39575_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000000/HP39575/HP39575_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000000/HP39575/HP39575_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000000/HP39575/HP39575_2.jpg</picture>
-<vendor>Breakfast</vendor>
-<description><![CDATA[Сковорода гриль 3 в 1 – универсальный кухонный инструмент, изготовленный из алюминия с антипригарным покрытием. Сковорода поделена на 3 секции, одна из которых имеет рифленое дно, идеально подходящее для жарки мяса и овощей.    Антипригарное покрытие предотвращает пригорание, обеспечивая легкость в приготовлении и чистке. Уникальная конструкция дна обеспечивает отличную теплопроводность и равномерное распределение температуры по всей поверхности сковороды. Эта сковорода станет отличным дополнением к вашей кухне для создания вкусных блюд!     Рекомендации по использованию сковороды:      Рекомендуется готовить на малом или среднем огне. Чтобы защитить поверхность от царапин, используйте силиконовые или деревянные столовые приборы. Категорически не рекомендуется использовать металлические ложки и кухонные лопатки. Чтобы избежать повреждения, следует мыть сковороду только после полного охлаждения, не использовать жесткие мочалки, щетки, абразивные пасты и чистящие порошки, агрессивные вещества.      Основные характеристики сковороды:      диаметр сковороды 25 см; высота сковороды 2.5 см; объем одной секции 200 мл; толщина стен 4 мм; материал ручки – бакелит; антипригарное покрытие.      Преимущества сковороды:      сковорода подходит для газовых и электрических плит; не вступает в реакцию с пищевыми продуктами; одновременно можно готовить три порционных блюда.]]></description>
-<quantity_in_stock>70</quantity_in_stock>
-<vendorCode>HP39575B</vendorCode>
-<param name="Материал">Алюминий</param>
-<param name="Антипригарное покрытие">Есть</param>
-<param name="Верхний диаметр посуды">25 (см)</param>
-<param name="Вес">0.7 кг</param>
-<param name="Высота стенок">2.5 см</param>
-<param name="Количество ручек">1</param>
-<param name="Использование в микроволновке">Нет</param>
-<param name="Крышка">нет</param>
-<param name="Количество в наборе">1</param>
-<param name="Использование в духовке">Нет</param>
-<param name="Съемная ручка">Нет</param>
-<param name="Хранение в холодильнике">Да</param>
-<param name="Цвет">Черный</param>
-<param name="Индикатор нагрева">Нет</param>
-<param name="Тип посуды">Сковорода порционная</param>
-<param name="Состояние">Новое</param>
-<param name="Материал ручек">Бакелит</param>
-<param name="Форма">Круглая</param>
-<param name="Гарантия">14 дней</param>
-<param name="Толщина стенки">4 мм</param>
-</offer>
 <offer id="HP-14-12B" available="true">
 <name>Термокружка Panda с фарфоровой колбой 380 мл Черная HP-14-12B</name>
 <price>769</price>
@@ -38670,6 +38635,41 @@
 <param name="Цвет">Золотистый</param>
 <param name="Длина">41</param>
 <param name="Форма">Овальная</param>
+</offer>
+<offer id="HP39575B" available="true">
+<name>Сковорода гриль Ø 25 см на три секции с антипригарным покрытием круглая черная HP39575B</name>
+<price>779</price>
+<vendorprice>600</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>134</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0000000/HP39575/HP39575_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000000/HP39575/HP39575_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000000/HP39575/HP39575_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000000/HP39575/HP39575_2.jpg</picture>
+<vendor>Breakfast</vendor>
+<description><![CDATA[Сковорода гриль 3 в 1 – универсальный кухонный инструмент, изготовленный из алюминия с антипригарным покрытием. Сковорода поделена на 3 секции, одна из которых имеет рифленое дно, идеально подходящее для жарки мяса и овощей.    Антипригарное покрытие предотвращает пригорание, обеспечивая легкость в приготовлении и чистке. Уникальная конструкция дна обеспечивает отличную теплопроводность и равномерное распределение температуры по всей поверхности сковороды. Эта сковорода станет отличным дополнением к вашей кухне для создания вкусных блюд!     Рекомендации по использованию сковороды:      Рекомендуется готовить на малом или среднем огне. Чтобы защитить поверхность от царапин, используйте силиконовые или деревянные столовые приборы. Категорически не рекомендуется использовать металлические ложки и кухонные лопатки. Чтобы избежать повреждения, следует мыть сковороду только после полного охлаждения, не использовать жесткие мочалки, щетки, абразивные пасты и чистящие порошки, агрессивные вещества.      Основные характеристики сковороды:      диаметр сковороды 25 см; высота сковороды 2.5 см; объем одной секции 200 мл; толщина стен 4 мм; материал ручки – бакелит; антипригарное покрытие.      Преимущества сковороды:      сковорода подходит для газовых и электрических плит; не вступает в реакцию с пищевыми продуктами; одновременно можно готовить три порционных блюда.]]></description>
+<quantity_in_stock>69</quantity_in_stock>
+<vendorCode>HP39575B</vendorCode>
+<param name="Материал">Алюминий</param>
+<param name="Антипригарное покрытие">Есть</param>
+<param name="Верхний диаметр посуды">25 (см)</param>
+<param name="Вес">0.7 кг</param>
+<param name="Высота стенок">2.5 см</param>
+<param name="Количество ручек">1</param>
+<param name="Использование в микроволновке">Нет</param>
+<param name="Крышка">нет</param>
+<param name="Количество в наборе">1</param>
+<param name="Использование в духовке">Нет</param>
+<param name="Съемная ручка">Нет</param>
+<param name="Хранение в холодильнике">Да</param>
+<param name="Цвет">Черный</param>
+<param name="Индикатор нагрева">Нет</param>
+<param name="Тип посуды">Сковорода порционная</param>
+<param name="Состояние">Новое</param>
+<param name="Материал ручек">Бакелит</param>
+<param name="Форма">Круглая</param>
+<param name="Гарантия">14 дней</param>
+<param name="Толщина стенки">4 мм</param>
 </offer>
 <offer id="HP-16-11" available="true">
 <name>Набор из 6 стаканов, 450 мл, для лимонада, воды, сока и коктейлей HP-16-11</name>
@@ -40861,33 +40861,6 @@
 <param name="Цвет">Розовый</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="SJ-0029-2" available="true">
-<name>Подстилка под палатку 195х195 см с фольгированным покрытием SJ-0029-2</name>
-<price>429</price>
-<vendorprice>291</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>159</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_9.jpg</picture>
-<vendor>Lugi</vendor>
-<description><![CDATA[Подкладка влагозащитная имеет размеры 195х195 см метра, что делает ее удобной для использования под палатками или другими походными аксессуарами. Она обеспечивает дополнительную защиту от влаги, предотвращая попадание влаги с земли на внутреннюю поверхность палатки или другого снаряжения.  Основные характеристики:    Размеры: 195х195х0.3 см; Материал: утеплитель с фольгированным покрытием; Количество шаров: 1; Наличие чехла: есть.   Материал подкладки изготовлен из водонепроницаемых материалов, эффективно защищающих от влаги и сырости. Это позволяет создать комфортные условия для отдыха на природе, даже во влажную погоду.  Подкладка является легкой и компактной, что позволяет без труда транспортировать ее в сложенном виде. Она также удобна для использования на любых природных поверхностях, добавляя защиту от грязи и влаги.]]></description>
-<quantity_in_stock>64</quantity_in_stock>
-<vendorCode>SJ-0029-2</vendorCode>
-<param name="Материал">Алюминизированный полиетилен</param>
-<param name="Комплектующие для палаток">Подкладка</param>
-<param name="Цвет">Серебристый</param>
-<param name="Длина">195</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-5-30G" available="true">
 <name>Шкатулка для украшений из эко кожи 16×11×4.7 см органайзер для ювелирных изделий HP-5-30G</name>
 <price>559</price>
@@ -41206,6 +41179,33 @@
 <param name="Цвет">Черный</param>
 <param name="Длина">21</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="SJ-0029-2" available="true">
+<name>Подстилка под палатку 195х195 см с фольгированным покрытием SJ-0029-2</name>
+<price>429</price>
+<vendorprice>291</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>159</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53708/3756/podstilka_pod_palatku_195h195_sm_alyuminievaya_plenka_vlagostoykaya_podstilka_kemping_s_folgirovannym_pokrytiem_9.jpg</picture>
+<vendor>Lugi</vendor>
+<description><![CDATA[Подкладка влагозащитная имеет размеры 195х195 см метра, что делает ее удобной для использования под палатками или другими походными аксессуарами. Она обеспечивает дополнительную защиту от влаги, предотвращая попадание влаги с земли на внутреннюю поверхность палатки или другого снаряжения.  Основные характеристики:    Размеры: 195х195х0.3 см; Материал: утеплитель с фольгированным покрытием; Количество шаров: 1; Наличие чехла: есть.   Материал подкладки изготовлен из водонепроницаемых материалов, эффективно защищающих от влаги и сырости. Это позволяет создать комфортные условия для отдыха на природе, даже во влажную погоду.  Подкладка является легкой и компактной, что позволяет без труда транспортировать ее в сложенном виде. Она также удобна для использования на любых природных поверхностях, добавляя защиту от грязи и влаги.]]></description>
+<quantity_in_stock>63</quantity_in_stock>
+<vendorCode>SJ-0029-2</vendorCode>
+<param name="Материал">Алюминизированный полиетилен</param>
+<param name="Комплектующие для палаток">Подкладка</param>
+<param name="Цвет">Серебристый</param>
+<param name="Длина">195</param>
+<param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-34-24" available="true">
@@ -42204,33 +42204,6 @@
 <param name="Вилка десертная">2</param>
 <param name="Упаковка">Коробка</param>
 </offer>
-<offer id="HP-FM-352-1" available="true">
-<name>Термочашка 520 мл с мл с трубочкой и двойным открыванием белый HP-FM-352-1</name>
-<price>519</price>
-<vendorprice>407</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>151</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/2067952847_max.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-4.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Термочашка 520 мл сочетает функциональность и продуманную конструкцию для ежедневного использования. На корпусе размещен цветочный принт с надписью. Модель оснащена герметичной крышкой с двойным открыванием: отдельный клапан для питья и дополнительное отверстие для использования трубочки. Сбоку закреплен текстильный ремешок с надписью &ldquo;COFFEE&rdquo;.  Двойная стенка помогает сохранять температуру напитков дольше, уменьшая нагрев внешней поверхности. Объем 520 мл подходит для кофе, чая, воды или других напитков в течение рабочего дня или прогулки. Конструкция предусматривает плотное закрывание, что снижает риск протеканий в сумке или рюкзаке. Нижняя часть имеет усиленную основу для большей устойчивости.  Термочашка подходит для офиса, учебы, путешествий или ежедневного использования в городе. Компактная форма позволяет удобно держать ее в руке и размещать в большинстве подстаканников. Практичное решение для тех, кто ищет удобный формат многоразовой чашки с продуманными деталями.   Характеристики:    Тип: термочашка Объем: 520 мл Конструкция: двойная стенка Крышка: двойное открывание Дополнительно: отверстие для трубочки]]></description>
-<quantity_in_stock>61</quantity_in_stock>
-<vendorCode>HP-FM-352-1</vendorCode>
-<param name="Тип">Термокружка</param>
-<param name="Высота">20</param>
-<param name="Верхний диаметр">8</param>
-<param name="Глубина">6.5</param>
-<param name="Крышка">крышка с поилкой</param>
-<param name="Ширина">6.5</param>
-<param name="Объем">520</param>
-<param name="Ручка">Нет</param>
-<param name="Тип термоса">Питьевой</param>
-<param name="Состояние">Новое</param>
-<param name="Нижний диаметр">6.5</param>
-</offer>
 <offer id="HP9290" available="true">
 <name>Салфетница-органайзер из эко-кожи 3 отделения 26.5*14*9.5 см Белый с коричневым HP9290</name>
 <price>959</price>
@@ -42433,6 +42406,33 @@
 <description><![CDATA[<p>Объемная новогодняя пуансеттия с блестками - отличное украшение на елку и декор для новогодних и рождественских праздников. Во многих странах она считается символом Рождества и подойдет для создания праздничных композиций, венков, фотозон, а также в качестве самостоятельного элемента для интерьера.</p><p>Цветок изготовлен из безопасных материалов, имеет гибкую ножку, что позволяет удобно зафиксировать его в вазе или венке, и использовать в помещениях, куда имеют доступ маленькие дети и домашние животные.</p><p><b>Характеристики:</b></p><ul><li>Материал: экокожа</li><li>Диаметр: 12 см</li></ul>]]></description>
 <quantity_in_stock>60</quantity_in_stock>
 <vendorCode>26120661</vendorCode>
+</offer>
+<offer id="HP-FM-352-1" available="true">
+<name>Термочашка 520 мл с мл с трубочкой и двойным открыванием белый HP-FM-352-1</name>
+<price>519</price>
+<vendorprice>407</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>151</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/2067952847_max.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0000/HP-FM-352-1/HP-FM-352-4.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Термочашка 520 мл сочетает функциональность и продуманную конструкцию для ежедневного использования. На корпусе размещен цветочный принт с надписью. Модель оснащена герметичной крышкой с двойным открыванием: отдельный клапан для питья и дополнительное отверстие для использования трубочки. Сбоку закреплен текстильный ремешок с надписью &ldquo;COFFEE&rdquo;.  Двойная стенка помогает сохранять температуру напитков дольше, уменьшая нагрев внешней поверхности. Объем 520 мл подходит для кофе, чая, воды или других напитков в течение рабочего дня или прогулки. Конструкция предусматривает плотное закрывание, что снижает риск протеканий в сумке или рюкзаке. Нижняя часть имеет усиленную основу для большей устойчивости.  Термочашка подходит для офиса, учебы, путешествий или ежедневного использования в городе. Компактная форма позволяет удобно держать ее в руке и размещать в большинстве подстаканников. Практичное решение для тех, кто ищет удобный формат многоразовой чашки с продуманными деталями.   Характеристики:    Тип: термочашка Объем: 520 мл Конструкция: двойная стенка Крышка: двойное открывание Дополнительно: отверстие для трубочки]]></description>
+<quantity_in_stock>60</quantity_in_stock>
+<vendorCode>HP-FM-352-1</vendorCode>
+<param name="Тип">Термокружка</param>
+<param name="Высота">20</param>
+<param name="Верхний диаметр">8</param>
+<param name="Глубина">6.5</param>
+<param name="Крышка">крышка с поилкой</param>
+<param name="Ширина">6.5</param>
+<param name="Объем">520</param>
+<param name="Ручка">Нет</param>
+<param name="Тип термоса">Питьевой</param>
+<param name="Состояние">Новое</param>
+<param name="Нижний диаметр">6.5</param>
 </offer>
 <offer id="HP-34-80" available="true">
 <name>Сотейник из термостойкого стекла 2.5 л с деревянной ручкой кастрюля для соусов блюд HP-34-80</name>
@@ -81815,6 +81815,50 @@
 <param name="Кількість у комплекті">2 штуки</param>
 <param name="Малий килимок">40×50 см</param>
 <param name="Комплектация">2 килимки</param>
+</offer>
+<offer id="35*35" available="true">
+<name>Винный столик-менажница 35*35*18 см, дуб</name>
+<url>https://lugi.com.ua/ru/vinnyj_stolik-menazhnica_35_35_18_sm_dub/</url>
+<price>469</price>
+<vendorprice>390</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>153</categoryId>
+<picture>https://lugi.com.ua/image/cache/external/a9662edee07666450b50bbc79bb6be83-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/60c3fa18f0a99b62e5bfdebfff61b441-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/b9ef362c151635f85917749685212a1c-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/c4eb5d3b27088da3f8f84f19ce78ba63-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/af433017ca789fd8b6d19a7f4716f262-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/17624fe6aebd7b16126f8ede772f2764-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/2eef66fe7579a1f1c996eb0108fb9f02-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/5509fbbb4ef8082067a73816dd5a6f55-600x600.webp</picture>
+<picture>https://lugi.com.ua/image/cache/external/33c975ce286f27bd34aa0f2328296727-600x600.webp</picture>
+<description><![CDATA[<p>Дубовый винный столик - это стильный и практичный аксессуар для настоящих ценителей комфорта. Благодаря натуральному дубу, он имеет привлекательный вид, демонстрируя благородную текстуру и теплые оттенки древесины. Его универсальный дизайн позволяет использовать столик не только дома, но и на пикнике.<br />
+Столик имеет 5 секций для закусок, благодаря чему можно реализовать различные варианты подачи. Также есть 4 отделения для бокалов и отверстие для бутылки, что обеспечивает простоту сервировки и устойчивость даже на неровных поверхностях.<br />
+Винный столик имеет складные ножки, дополнительно укрепленные мебельной фурнитурой. Благодаря этому он идеально подходит для транспортировки и хранения. Изделие изготовлено из натурального дуба, все элементы конструкции тщательно зашлифованы и покрыты маслом.<br />
+<br />
+Такой столик станет замечательным подарком для друзей, коллег или близких. Он выглядит стильно и современно, но в то же время сохраняет нотки традиционного уюта. Идеальный выбор для создания атмосферных моментов в вашем доме.<br />
+<br />
+<strong>Характеристики:</strong></p>
+<ul>
+	<li>Материал: Дуб</li>
+	<li>Диаметр: 35 см</li>
+	<li>Высота: 18 см</li>
+</ul>
+<strong>Обратите внимание:</strong>
+<ol>
+	<li>Столешница безопасна для пищевых продуктов, однако во время эксплуатации&nbsp;желательно использовать пергамент. Особенно при длительном контакте с влажными продуктами.</li>
+	<li>Категорически не рекомендуется использовать для очистки моющие средства или помещать столик в посудомоечную машину.</li>
+	<li>Также не рекомендуется мыть столик водой. Лучше использовать влажную ткань или губку.</li>
+	<li>Хранить изделие следует в сухом помещении, избегая воздействия прямых солнечных лучей и влаги.</li>
+	<li>Для поддержания красивого внешнего вида периодически стоит обрабатывать поверхность обычным растительным маслом.</li>
+</ol>]]></description>
+<quantity_in_stock>10</quantity_in_stock>
+<vendorCode>35*35</vendorCode>
+<param name="Количество в наборе">1</param>
+<param name="Гарантийный срок">14 дней</param>
+<param name="Размер">35*35*18 см</param>
+<param name="Количество секций">9</param>
+<param name="Материал">Дуб</param>
 </offer>
 <offer id="HP-FLG-2 BLACK" available="true">
 <name>Кастрюля чугунная эмалированная 5 л, черный Yiwu HP-FLG-2 BLACK</name>
