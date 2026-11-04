@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-03 23:06">
+<yml_catalog date="2026-11-04 04:21">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -1814,38 +1814,6 @@
 <param name="Ширина">24 см</param>
 <param name="Цвет">Розовый</param>
 </offer>
-<offer id="HP-B-1" available="true">
-<name>Душ туристический для кемпинга подвесной 50х46 см с термометром для воды 20 л HP-B-1</name>
-<price>1079</price>
-<vendorprice>607</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>35</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-B-1/1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-B-1/4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-B-1/2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-B-1/3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-B-1/5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-B-1/7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-B-1/8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-B-1/9.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-B-1/11.jpg</picture>
-<vendor>Lugi</vendor>
-<description><![CDATA[Портативная душевая сумка для кемпинга оснащена прочной ручкой для надежного подвешивания и переноски. Встроенный термометр на задней части сумки позволяет контролировать температуру воды. Передняя часть содержит карман, рассчитанный на хранение мыла, шампуня и других банных аксессуаров.   Основные характеристики:   Размер:     50х46 см; Толщина:     1 см; Объем:     20 л; Длина шланга: 40 см; Материал:     ПВХ; Комплектация: резервуар для воды, шланг, лейка.   Конструкция состоит из четырех слоев: прозрачного ПВХ-листа, черного ПВХ-листа, теплоизоляционной пены и прочной рип-стоп ткани. Это обеспечивает эффективный нагрев воды под солнечными лучами. Для удобства использования предусмотрены большой заправочный клапан с закручивающимся колпачком, душевая головка с переключателем включения/выключения и ремни на липучках для фиксации шланга.  Чтобы подготовить душ к использованию, необходимо подключить шланг, промыть его теплой водой с содой перед первым применением, наполнить сумку холодной водой и оставить на солнце примерно на 3 часа. После нагревания вода готова для душа. Благодаря компактности и легкости эта сумка станет полезным аксессуаром для кемпинга, походов и других активных видов отдыха.]]></description>
-<quantity_in_stock>185</quantity_in_stock>
-<vendorCode>HP-B-1</vendorCode>
-<param name="Материал">ПВХ</param>
-<param name="Вес">400</param>
-<param name="Сезон">Лето</param>
-<param name="Особенности душа">Карман для мыла|Термометр</param>
-<param name="Ширина">46</param>
-<param name="Объем">20</param>
-<param name="Толщина">1</param>
-<param name="Цвет">Зелёный</param>
-<param name="Длина">50</param>
-<param name="Вид душа">Туристический|Полевой</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HB-40-5" available="true">
 <name>Сервировочный коврик бамбук 39х29, подставка для посуды деревянная HB-40-5</name>
 <price>119</price>
@@ -1900,6 +1868,38 @@
 <param name="Форма лампочки">Классическая</param>
 <param name="Форма сечения">Круглая</param>
 <param name="Цветовая гамма">RGB</param>
+</offer>
+<offer id="HP-B-1" available="true">
+<name>Душ туристический для кемпинга подвесной 50х46 см с термометром для воды 20 л HP-B-1</name>
+<price>1079</price>
+<vendorprice>607</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>35</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-B-1/1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-B-1/4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-B-1/2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-B-1/3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-B-1/5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-B-1/7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-B-1/8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-B-1/9.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000001/HP-B-1/11.jpg</picture>
+<vendor>Lugi</vendor>
+<description><![CDATA[Портативная душевая сумка для кемпинга оснащена прочной ручкой для надежного подвешивания и переноски. Встроенный термометр на задней части сумки позволяет контролировать температуру воды. Передняя часть содержит карман, рассчитанный на хранение мыла, шампуня и других банных аксессуаров.   Основные характеристики:   Размер:     50х46 см; Толщина:     1 см; Объем:     20 л; Длина шланга: 40 см; Материал:     ПВХ; Комплектация: резервуар для воды, шланг, лейка.   Конструкция состоит из четырех слоев: прозрачного ПВХ-листа, черного ПВХ-листа, теплоизоляционной пены и прочной рип-стоп ткани. Это обеспечивает эффективный нагрев воды под солнечными лучами. Для удобства использования предусмотрены большой заправочный клапан с закручивающимся колпачком, душевая головка с переключателем включения/выключения и ремни на липучках для фиксации шланга.  Чтобы подготовить душ к использованию, необходимо подключить шланг, промыть его теплой водой с содой перед первым применением, наполнить сумку холодной водой и оставить на солнце примерно на 3 часа. После нагревания вода готова для душа. Благодаря компактности и легкости эта сумка станет полезным аксессуаром для кемпинга, походов и других активных видов отдыха.]]></description>
+<quantity_in_stock>184</quantity_in_stock>
+<vendorCode>HP-B-1</vendorCode>
+<param name="Материал">ПВХ</param>
+<param name="Вес">400</param>
+<param name="Сезон">Лето</param>
+<param name="Особенности душа">Карман для мыла|Термометр</param>
+<param name="Ширина">46</param>
+<param name="Объем">20</param>
+<param name="Толщина">1</param>
+<param name="Цвет">Зелёный</param>
+<param name="Длина">50</param>
+<param name="Вид душа">Туристический|Полевой</param>
+<param name="Состояние">Новое</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="LC-BYL-100-S" available="true">
 <name>Менажница фарфоровая на 4 секции для закусок 18×18×3 (см) с ручкой Белый с серебром LC-BYL-100-S</name>
@@ -31405,7 +31405,7 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7830/novogodnyaya_girlyanda_hvoynaya_lapa_komnatnaya_rosa_50_m_1000_led_komnatnaya_girlyanda_rosa_zelenyy_provod_zheltoe_siyanie_7.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Гирлянда-нитка «Роса Хвойная лапа» длиной 50 метров — декоративное решение для создания праздничной атмосферы в доме, на елочке, окнах, лестнице и в интерьерных композициях. Гирлянда выполнена в виде еловой ветки с равномерно расположенными 1000 светодиодами, которые напоминают капельки росы и создают мягкий декоративный свет. Гибкая медная проволока в лаковой изоляции легко принимает нужную форму, благодаря чему гирлянда-нитка длиной 50 м подходит для различных вариантов праздничного оформления. Кабель длиной 1 метр от вилки до первого диода обеспечивает удобное подключение, а компактная катушка размером 24×20×6 см упрощает хранение и транспортировку.  Особенности:    Декоративная гирлянда-нитка «Роса Хвойная лапа» длиной 50 м.  Оформление в виде еловой ветки с LED-диодами, напоминающими капельки росы.  1000 LED-диодов обеспечивают равномерное декоративное освещение.  Гибкую медную проволоку легко придать нужную форму.  Лаковая изоляция медной проволоки обеспечивает защиту проводника.  1 м кабеля от вилки до первого диода обеспечивает удобное подключение.  Подходит для украшения елки, окон, лестниц, интерьера и праздничных композиций.  Компактная катушка удобна для хранения и транспортировки.  Вес изделия — всего 500 г.   Рекомендации по уходу и эксплуатации:    Перед использованием проверьте целостность провода, изоляции, вилки и светодиодов.  Расматывайте гирлянду постепенно, избегая сильного натяжения и резких перегибов.  Не используйте острые предметы во время монтажа, чтобы не повредить изоляцию.  Не допускайте контакта электрических частей гирлянды с водой и другими жидкостями.  Перед очисткой, перемещением или демонтажем отсоединяйте изделие от электросети.  Не оставляйте подключенную гирлянду без присмотра на длительное время.  Для хранения аккуратно смотайте сухую гирлянду на катушку, избегая заломов провода.  Используйте изделие в соответствии с его техническими характеристиками и назначением.   Характеристики:    Тип: гирлянда-нитка  Модель: Роса Хвойная лапа  Длина: 50 м  Количество светодиодов: 1000  Режим свечения: Флеш  Расстояние от вилки до первого светодиода: 1 м  Материал: медная проволока в лаковой изоляции  Размер катушки: 24×20×6 см  Вес: 500 г]]></description>
-<quantity_in_stock>1905</quantity_in_stock>
+<quantity_in_stock>1904</quantity_in_stock>
 <vendorCode>D1000L50MGY</vendorCode>
 <param name="Режим работы">Динамический</param>
 <param name="Количество светодиодов">1000</param>
@@ -31502,7 +31502,7 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/29156/2944/girlyanda_rosa_na_pulte_100_metrov_na_1000_led_svetodiodov_kaplya_zelenyy_provod_belaya_7.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Гирлянда на пульте роса идеально подходит для окон, дверей, стен, картин, елок, фотозоны. Гирлянда оснащена 1000 яркими светодиодами, которые обеспечивают превосходное освещение. Основные характеристики гирлянды роса   гирлянда роса 100 метров; 1000 led светодиодов; пульт управления; класс защиты IP44.   Новогодняя гирлянда Роса - это не только декоративный элемент, но и практичный инструмент для создания особого атмосферного света в вашем доме или на мероприятии любого уровня.  Восемь различных режимов работы гирлянды, позволят Вам выбирать и настраивать их в соответствии с настроением и атмосферой:   комбинированный; волнообразный; плавное угасание; медленный; постоянная вспышка; мерцающий; последовательный; постоянное свечение.   Вы сможете подобрать подходящий режим для любого случая. Купить гирлянду капли росы 100 метров с пультом можно с доставкой по всей Украине. Гирлянда подлежит возврату только в том случае, когда ее исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>1848</quantity_in_stock>
+<quantity_in_stock>1847</quantity_in_stock>
 <vendorCode>1000L100MGW</vendorCode>
 <param name="Количество режимов свечения">8</param>
 <param name="Режим работы">Динамический</param>
@@ -31624,7 +31624,7 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7868/girlyanda_konskiy_hvost_mishura_640_led_16_nitey_2_m_zelenaya_zheltyy_garlandopro_9.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Светодиодная гирлянда Конский хвост Мишура — компактное решение для украшения небольших и средних новогодних елей высотой до 1,5–1,8 метра. Особенности  Конструкция: 16 нитей сгруппированы в одном блоке, что позволяет быстро закрепить гирлянду на верхушке ели и равномерно распределить нити по ветвям. Плотность свечения: Концентрация светодиодов на проволоке создает эффектную иллюминацию. Гибкая проволочная основа: Нити легко принимают форму, фиксируются на ветках без дополнительного крепежа и огибают хвою. Энергоэффективность: Светодиоды имеют низкое энергопотребление и не нагреваются при длительной работе.  Рекомендации по уходу и эксплуатации  Расправляйте и аккуратно раскручивайте нити поочередно от основания во избежание излома токоведущих жил. Храните в смотанном виде в сухом помещении, защищенном от прямого попадания влаги и механических повреждений. При очистке от пыли используйте сухую мягкую салфетку; избегайте контакта с водой и химическими растворителями.  Характеристики  Длина: 2 м Степень защиты: IP 44 Количество диодов: 640 Материал: медная проволока Питание: от сети Количество режимов работы: 8  В комплекте: пульт, европейская вилка, влагоизолированный коннектор]]></description>
-<quantity_in_stock>1610</quantity_in_stock>
+<quantity_in_stock>1609</quantity_in_stock>
 <vendorCode>D640L2MGY</vendorCode>
 <param name="Количество режимов свечения">8</param>
 <param name="Количество светодиодов">640</param>
@@ -31738,7 +31738,7 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7832/novogodnyaya_girlyanda_hvoynaya_lapa_komnatnaya_rosa_50_m_1000_led_komnatnaya_girlyanda_rosa_zelenyy_provod_beloe_siyanie_7.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Гирлянда-нитка «Роса Хвойная лапа» длиной 50 метров — декоративное решение для создания праздничной атмосферы в доме, на елочке, окнах, лестнице и в интерьерных композициях. Гирлянда выполнена в виде еловой ветки с равномерно расположенными 1000 светодиодами, которые напоминают капельки росы и создают мягкий декоративный свет. Гибкая медная проволока в лаковой изоляции легко принимает нужную форму, благодаря чему гирлянда-нитка длиной 50 м подходит для различных вариантов праздничного оформления. Кабель длиной 1 метр от вилки до первого диода обеспечивает удобное подключение, а компактная катушка размером 24×20×6 см упрощает хранение и транспортировку.  Особенности:    Декоративная гирлянда-нитка «Роса Хвойная лапа» длиной 50 м.  Оформление в виде еловой ветки с LED-диодами, напоминающими капельки росы.  1000 LED-диодов обеспечивают равномерное декоративное освещение.  Гибкую медную проволоку легко придать нужную форму.  Лаковая изоляция медной проволоки обеспечивает защиту проводника.  1 м кабеля от вилки до первого диода обеспечивает удобное подключение.  Подходит для украшения елки, окон, лестниц, интерьера и праздничных композиций.  Компактная катушка удобна для хранения и транспортировки.  Вес изделия — всего 500 г.   Рекомендации по уходу и эксплуатации:    Перед использованием проверьте целостность провода, изоляции, вилки и светодиодов.  Расматывайте гирлянду постепенно, избегая сильного натяжения и резких перегибов.  Не используйте острые предметы во время монтажа, чтобы не повредить изоляцию.  Не допускайте контакта электрических частей гирлянды с водой и другими жидкостями.  Перед очисткой, перемещением или демонтажем отсоединяйте изделие от электросети.  Не оставляйте подключенную гирлянду без присмотра на длительное время.  Для хранения аккуратно смотайте сухую гирлянду на катушку, избегая заломов провода.  Используйте изделие в соответствии с его техническими характеристиками и назначением.   Характеристики:    Тип: гирлянда-нитка  Модель: Роса Хвойная лапа  Длина: 50 м  Количество светодиодов: 1000  Режим свечения: Флеш Расстояние от вилки до первого светодиода: 1 м  Материал: медная проволока в лаковой изоляции  Размер катушки: 24×20×6 см  Вес: 500 г]]></description>
-<quantity_in_stock>1237</quantity_in_stock>
+<quantity_in_stock>1236</quantity_in_stock>
 <vendorCode>D1000L50MGW</vendorCode>
 <param name="Режим работы">Динамический</param>
 <param name="Количество светодиодов">1000</param>
@@ -32308,7 +32308,7 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/65804/5569/novogodnyaya_girlyanda_komnatnaya_shtora_3h3_m_600_led_komnatnaya_girlyanda_shtora_rosa_hvoynaya_lapa_zheltyy_svet_6.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Гирлянда-штора "Роса Хвойная лапа" 3&times;3 м с тёплым желтым свечением &mdash; это сочетание изысканного дизайна и мягкого праздничного света. Она создаёт уютную атмосферу, напоминая сияние огоньков среди хвойных ветвей. Благодаря 600 энергоэффективным LED-диодам гирлянда равномерно освещает пространство, идеально подходя для украшения окон, стен, витрин или фотозон. Гибкий медный провод в лаковой изоляции обеспечивает простоту монтажа и долговечность. Уровень защиты IP44 позволяет использовать изделие в помещении или под навесом на улице. Характеристики гирлянды:  Размер: 3&times;3 м; Количество лампочек: 600; Количество нитей: 10; Расстояние от вилки до лампочек: 2,85 м; Расстояние между лампочками: 4,5 см; Влагозащита: IP44; Режимы работы: 8 режимов, переключаются механически; Тип питания: сеть; Возможность подключения удлинителя: отсутствует; Материал: медный провод в лаковой изоляции; Размер в сложенном виде: 13&times;9&times;5,5 см; Вес: 200 г.   Внимание! Данный товар подлежит возврату только в том случае, когда его исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>859</quantity_in_stock>
+<quantity_in_stock>858</quantity_in_stock>
 <vendorCode>D600LED3MY</vendorCode>
 <param name="Высота">3 м</param>
 <param name="Вес">200 г</param>
@@ -34345,7 +34345,7 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <picture>https://feed.lugi.com.ua/image/catalog/135/500L50MGY-4%281%29.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Гирлянда на пульте роса идеально подходит для окон, дверей, стен, картин, елок, фотозоны. Гирлянда оснащена 500 яркими светодиодами, которые обеспечивают превосходное освещение. Основные характеристики гирлянды роса   гирлянда роса 50 метров; 500 led светодиодов; пульт управления; класс защиты IP44.   Новогодняя гирлянда Роса - это не только декоративный элемент, но и практичный инструмент для создания особого атмосферного света в вашем доме или на мероприятии любого уровня.  Восемь различных режимов работы гирлянды, позволят Вам выбирать и настраивать их в соответствии с настроением и атмосферой:   комбинированный; волнообразный; плавное угасание; медленный; постоянная вспышка; мерцающий; последовательный; постоянное свечение.   Вы сможете подобрать подходящий режим для любого случая. Купить гирлянду капли росы 50 метров с пультом можно с доставкой по всей Украине. Гирлянда подлежит возврату только в том случае, когда ее исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>472</quantity_in_stock>
+<quantity_in_stock>471</quantity_in_stock>
 <vendorCode>500L50MGY</vendorCode>
 <param name="Количество режимов свечения">8</param>
 <param name="Режим работы">Динамический</param>
@@ -34912,7 +34912,7 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7855/girlyanda_konskiy_hvost_200_led_10_nitey_2_m_zelenaya_zheltyy_garlandopro_2.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Светодиодная гирлянда Конский хвост Роса — компактное решение для точечной акцентной подсветки небольших елей высотой до 1,2–1,5 метра или каркасных фигур. Особенности  Конструкция: Все 10 нитей зафиксированы в едином блоке, что позволяет накинуть гирлянду на верхушку ели и равномерно спустить нити по ярусам ветвей. Плотность свечения: 200 диодов на тонкой медной проволоке создают аккуратное и ненавязчивое контурное свечение. Гибкая проволочная основа: Нити легко огибают хвою, принимают нужную форму и удерживаются на ветках без дополнительного крепежа. Энергоэффективность: Светодиоды обладают минимальным нагревом и низким энергопотреблением при длительной работе.  Рекомендации по уходу и эксплуатации  Расправляйте и аккуратно раскручивайте нити поочередно от основания во избежание излома токоведущих жил. Храните в смотанном виде в сухом помещении, защищенном от прямого попадания влаги и механических повреждений. При очистке от пыли используйте сухую мягкую салфетку; избегайте контакта с водой и химическими растворителями.  Характеристики  Длина: 2 м Степень защиты: IP 44 Количество диодов: 200 Материал: медная проволока Питание: от сети Количество режимов работы: 8]]></description>
-<quantity_in_stock>379</quantity_in_stock>
+<quantity_in_stock>378</quantity_in_stock>
 <vendorCode>1733012GY</vendorCode>
 <param name="Количество режимов свечения">8</param>
 <param name="Количество светодиодов">200</param>
@@ -39160,40 +39160,6 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Тип питания">Солнечная батарея|Аккумулятор</param>
 <param name="Тип лампы">LED</param>
 </offer>
-<offer id="25MWY" available="true">
-<name>Уличная гирлянда Бахрома 25 м 405 LED гирлянда штора белый провод Желтый 25MWY</name>
-<price>1689</price>
-<vendorprice>1057</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>17</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/12MW/12MW.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5303/ulichnaya_girlyanda_bahroma_25_m_405_led_girlyanda_shtora_na_ulitsu_na_dom_belyy_provod_zheltyy_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5303/ulichnaya_girlyanda_bahroma_25_m_405_led_girlyanda_shtora_na_ulitsu_na_dom_belyy_provod_zheltyy_2.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5303/ulichnaya_girlyanda_bahroma_25_m_405_led_girlyanda_shtora_na_ulitsu_na_dom_belyy_provod_zheltyy_3.png</picture>
-<vendor>Garlando</vendor>
-<description><![CDATA[Гирлянда &laquo;Бахрома&raquo; с 405 светодиодными лампочками создаёт выразительное декоративное освещение и помогает оформить пространство к празднику. Длина основного шнура &mdash; 25 метров, что позволяет использовать гирлянду для украшения фасадов, окон, балконов, витрин или интерьера помещений. Благодаря чёрному кабелю изделие выглядит аккуратно и незаметно днём, а в тёмное время суток равномерно рассеивает свет, создавая эффект мягкого сияния.  Конструкция включает подвесные линии разной длины &mdash; 65 см, 50 см и 30 см, которые формируют красивый каскад. Расстояние между линиями &mdash; 30 см, между лампочками &mdash; 8 см, что обеспечивает плотное и равномерное свечение без затемнённых участков. Удлинённый провод от вилки до первой лампочки (102 см) обеспечивает удобство подключения.  Основные характеристики уличной новогодней гирлянды:   Тип: гирлянда &laquo;Бахрома&raquo;; Источник питания: от сети; Количество LED: 405 шт.; Общая длина: 25 м; Расстояние от вилки до первой лампочки: 102 см; Расстояние между линиями: 30 см; Расстояние между лампочками: 8 см; Количество линий: 81; Длина линий: 65 см, 50 см, 30 см; Режим работы: флеш; Цвет провода: белый; Цвет свечения: желтый.   Особенности    светодиодной гирлянды на дом:   405 ярких светодиодов для равномерного и насыщенного свечения. Общая длина гирлянды &mdash; 25 м, удобна для оформления больших площадей. 81 подвесных нитей разной длины (65, 50 и 30 см) создают эффект каскада. Расстояние между линиями &mdash; 30 см, между лампочками &mdash; 8 см. Удлинённый провод от вилки до первой лампочки &mdash; 102 см. Работает от сети, оснащена режимом мягкого мерцания (&laquo;флеш&raquo;). Светодиоды энергоэффективны, долговечны и не нагреваются. Подходит для внутреннего и внешнего оформления.   Светодиодная гирлянда &laquo;Бахрома&raquo; &mdash; это сочетание функциональности, эстетики и надёжности. Она станет универсальным элементом праздничного оформления, создаст уютную атмосферу и подчеркнёт индивидуальный стиль любого пространства.]]></description>
-<quantity_in_stock>219</quantity_in_stock>
-<vendorCode>25MWY</vendorCode>
-<param name="Вес">1.3 м</param>
-<param name="Режим работы">Динамический</param>
-<param name="Количество светодиодов">405</param>
-<param name="Длина шнура питания">1.02 м</param>
-<param name="Напряжение">220 В</param>
-<param name="Длина">25 м</param>
-<param name="Тип гирлянды">Бахрома уличная</param>
-<param name="Тип освещения">Светодиодная гирлянда</param>
-<param name="Состояние">Новое</param>
-<param name="Тип питания">Сеть</param>
-<param name="Упаковка">Коробка</param>
-<param name="Степень защиты IP">44</param>
-<param name="Цвет шнура питания">Белый</param>
-<param name="Угол свечения">360</param>
-<param name="Гарантия">14 дней</param>
-<param name="Цвет свечения">Желтый</param>
-<param name="Форма лампочки">Классическая</param>
-<param name="Форма сечения">Круглая</param>
-<param name="Цветовая гамма">Желтый</param>
-</offer>
 <offer id="HP-8-57" available="true">
 <name>Силиконовая ложка для спагетти с деревянной ручкой 30 (см) ложка для макарон, пасты лопатка для спагетти HP-8-57</name>
 <price>199</price>
@@ -39255,6 +39221,40 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Диаметр">140</param>
 <param name="Материал ручки">стекло</param>
 <param name="Тип посуды">Подставка-подогреватель для чайника</param>
+</offer>
+<offer id="25MWY" available="true">
+<name>Уличная гирлянда Бахрома 25 м 405 LED гирлянда штора белый провод Желтый 25MWY</name>
+<price>1689</price>
+<vendorprice>1057</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>17</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../1733012Y/12MW/12MW.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5303/ulichnaya_girlyanda_bahroma_25_m_405_led_girlyanda_shtora_na_ulitsu_na_dom_belyy_provod_zheltyy_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5303/ulichnaya_girlyanda_bahroma_25_m_405_led_girlyanda_shtora_na_ulitsu_na_dom_belyy_provod_zheltyy_2.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/63126/5303/ulichnaya_girlyanda_bahroma_25_m_405_led_girlyanda_shtora_na_ulitsu_na_dom_belyy_provod_zheltyy_3.png</picture>
+<vendor>Garlando</vendor>
+<description><![CDATA[Гирлянда &laquo;Бахрома&raquo; с 405 светодиодными лампочками создаёт выразительное декоративное освещение и помогает оформить пространство к празднику. Длина основного шнура &mdash; 25 метров, что позволяет использовать гирлянду для украшения фасадов, окон, балконов, витрин или интерьера помещений. Благодаря чёрному кабелю изделие выглядит аккуратно и незаметно днём, а в тёмное время суток равномерно рассеивает свет, создавая эффект мягкого сияния.  Конструкция включает подвесные линии разной длины &mdash; 65 см, 50 см и 30 см, которые формируют красивый каскад. Расстояние между линиями &mdash; 30 см, между лампочками &mdash; 8 см, что обеспечивает плотное и равномерное свечение без затемнённых участков. Удлинённый провод от вилки до первой лампочки (102 см) обеспечивает удобство подключения.  Основные характеристики уличной новогодней гирлянды:   Тип: гирлянда &laquo;Бахрома&raquo;; Источник питания: от сети; Количество LED: 405 шт.; Общая длина: 25 м; Расстояние от вилки до первой лампочки: 102 см; Расстояние между линиями: 30 см; Расстояние между лампочками: 8 см; Количество линий: 81; Длина линий: 65 см, 50 см, 30 см; Режим работы: флеш; Цвет провода: белый; Цвет свечения: желтый.   Особенности    светодиодной гирлянды на дом:   405 ярких светодиодов для равномерного и насыщенного свечения. Общая длина гирлянды &mdash; 25 м, удобна для оформления больших площадей. 81 подвесных нитей разной длины (65, 50 и 30 см) создают эффект каскада. Расстояние между линиями &mdash; 30 см, между лампочками &mdash; 8 см. Удлинённый провод от вилки до первой лампочки &mdash; 102 см. Работает от сети, оснащена режимом мягкого мерцания (&laquo;флеш&raquo;). Светодиоды энергоэффективны, долговечны и не нагреваются. Подходит для внутреннего и внешнего оформления.   Светодиодная гирлянда &laquo;Бахрома&raquo; &mdash; это сочетание функциональности, эстетики и надёжности. Она станет универсальным элементом праздничного оформления, создаст уютную атмосферу и подчеркнёт индивидуальный стиль любого пространства.]]></description>
+<quantity_in_stock>218</quantity_in_stock>
+<vendorCode>25MWY</vendorCode>
+<param name="Вес">1.3 м</param>
+<param name="Режим работы">Динамический</param>
+<param name="Количество светодиодов">405</param>
+<param name="Длина шнура питания">1.02 м</param>
+<param name="Напряжение">220 В</param>
+<param name="Длина">25 м</param>
+<param name="Тип гирлянды">Бахрома уличная</param>
+<param name="Тип освещения">Светодиодная гирлянда</param>
+<param name="Состояние">Новое</param>
+<param name="Тип питания">Сеть</param>
+<param name="Упаковка">Коробка</param>
+<param name="Степень защиты IP">44</param>
+<param name="Цвет шнура питания">Белый</param>
+<param name="Угол свечения">360</param>
+<param name="Гарантия">14 дней</param>
+<param name="Цвет свечения">Желтый</param>
+<param name="Форма лампочки">Классическая</param>
+<param name="Форма сечения">Круглая</param>
+<param name="Цветовая гамма">Желтый</param>
 </offer>
 <offer id="RX-N240546BL" available="true">
 <name>фарфоровый стакан с силиконовой крышкой и отверстием для трубочки 420 мл Голубой RX-N240546BL</name>
@@ -42471,38 +42471,6 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Длина">58</param>
 <param name="Форма">Прямоугольная</param>
 </offer>
-<offer id="D640L2MGW" available="true">
-<name>Гирлянда Конский хвост Мишура 640 LED 16 нитей 2 м зеленая, белый GarlandoPro D640L2MGW</name>
-<price>1349</price>
-<vendorprice>843</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>64</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7864/girlyanda_konskiy_hvost_mishura_640_led_16_nitey_2_m_zelenaya_belyy_garlandopro.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7864/girlyanda_konskiy_hvost_mishura_640_led_16_nitey_2_m_zelenaya_belyy_garlandopro_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7864/girlyanda_konskiy_hvost_mishura_640_led_16_nitey_2_m_zelenaya_belyy_garlandopro_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7864/girlyanda_konskiy_hvost_mishura_640_led_16_nitey_2_m_zelenaya_belyy_garlandopro_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7864/girlyanda_konskiy_hvost_mishura_640_led_16_nitey_2_m_zelenaya_belyy_garlandopro_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7864/girlyanda_konskiy_hvost_mishura_640_led_16_nitey_2_m_zelenaya_belyy_garlandopro_5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7864/girlyanda_konskiy_hvost_mishura_640_led_16_nitey_2_m_zelenaya_belyy_garlandopro_6.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7864/girlyanda_konskiy_hvost_mishura_640_led_16_nitey_2_m_zelenaya_belyy_garlandopro_7.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7864/girlyanda_konskiy_hvost_mishura_640_led_16_nitey_2_m_zelenaya_belyy_garlandopro_8.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7864/girlyanda_konskiy_hvost_mishura_640_led_16_nitey_2_m_zelenaya_belyy_garlandopro_9.jpg</picture>
-<vendor>Garlando</vendor>
-<description><![CDATA[Светодиодная гирлянда Конский хвост Мишура — компактное решение для украшения небольших и средних новогодних елей высотой до 1,5–1,8 метра. Особенности  Конструкция: 16 нитей сгруппированы в одном блоке, что позволяет быстро закрепить гирлянду на верхушке ели и равномерно распределить нити по ветвям. Плотность свечения: Концентрация светодиодов на проволоке создает эффектную иллюминацию. Гибкая проволочная основа: Нити легко принимают форму, фиксируются на ветках без дополнительного крепежа и огибают хвою. Энергоэффективность: Светодиоды имеют низкое энергопотребление и не нагреваются при длительной работе.  Рекомендации по уходу и эксплуатации  Расправляйте и аккуратно раскручивайте нити поочередно от основания во избежание излома токоведущих жил. Храните в смотанном виде в сухом помещении, защищенном от прямого попадания влаги и механических повреждений. При очистке от пыли используйте сухую мягкую салфетку; избегайте контакта с водой и химическими растворителями.  Характеристики  Длина: 2 м Степень защиты: IP 44 Количество диодов: 640 Материал: медная проволока Питание: от сети Количество режимов работы: 8  В комплекте: пульт, европейская вилка, влагоизолированный коннектор]]></description>
-<quantity_in_stock>176</quantity_in_stock>
-<vendorCode>D640L2MGW</vendorCode>
-<param name="Количество режимов свечения">8</param>
-<param name="Количество светодиодов">640</param>
-<param name="Длина шнура питания">2.9</param>
-<param name="Напряжение">220</param>
-<param name="Длина">2</param>
-<param name="Тип освещения">Конский хвост</param>
-<param name="Тип питания">Сеть</param>
-<param name="Степень защиты IP">44</param>
-<param name="Цвет шнура питания">Зелений</param>
-<param name="Цвет провода">Зеленый</param>
-<param name="Цвет свечения">Белый</param>
-</offer>
 <offer id="HP-HK-C35" available="true">
 <name>Салатница квадратная фарфоровая Pearl 20,5*20,5 см Yiwu HP-HK-C35</name>
 <price>639</price>
@@ -42671,6 +42639,38 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Материал">Фарфор</param>
 <param name="Диаметр">23</param>
 <param name="Цвет">Золотистый</param>
+</offer>
+<offer id="D640L2MGW" available="true">
+<name>Гирлянда Конский хвост Мишура 640 LED 16 нитей 2 м зеленая, белый GarlandoPro D640L2MGW</name>
+<price>1349</price>
+<vendorprice>843</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>64</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7864/girlyanda_konskiy_hvost_mishura_640_led_16_nitey_2_m_zelenaya_belyy_garlandopro.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7864/girlyanda_konskiy_hvost_mishura_640_led_16_nitey_2_m_zelenaya_belyy_garlandopro_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7864/girlyanda_konskiy_hvost_mishura_640_led_16_nitey_2_m_zelenaya_belyy_garlandopro_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7864/girlyanda_konskiy_hvost_mishura_640_led_16_nitey_2_m_zelenaya_belyy_garlandopro_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7864/girlyanda_konskiy_hvost_mishura_640_led_16_nitey_2_m_zelenaya_belyy_garlandopro_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7864/girlyanda_konskiy_hvost_mishura_640_led_16_nitey_2_m_zelenaya_belyy_garlandopro_5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7864/girlyanda_konskiy_hvost_mishura_640_led_16_nitey_2_m_zelenaya_belyy_garlandopro_6.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7864/girlyanda_konskiy_hvost_mishura_640_led_16_nitey_2_m_zelenaya_belyy_garlandopro_7.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7864/girlyanda_konskiy_hvost_mishura_640_led_16_nitey_2_m_zelenaya_belyy_garlandopro_8.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7864/girlyanda_konskiy_hvost_mishura_640_led_16_nitey_2_m_zelenaya_belyy_garlandopro_9.jpg</picture>
+<vendor>Garlando</vendor>
+<description><![CDATA[Светодиодная гирлянда Конский хвост Мишура — компактное решение для украшения небольших и средних новогодних елей высотой до 1,5–1,8 метра. Особенности  Конструкция: 16 нитей сгруппированы в одном блоке, что позволяет быстро закрепить гирлянду на верхушке ели и равномерно распределить нити по ветвям. Плотность свечения: Концентрация светодиодов на проволоке создает эффектную иллюминацию. Гибкая проволочная основа: Нити легко принимают форму, фиксируются на ветках без дополнительного крепежа и огибают хвою. Энергоэффективность: Светодиоды имеют низкое энергопотребление и не нагреваются при длительной работе.  Рекомендации по уходу и эксплуатации  Расправляйте и аккуратно раскручивайте нити поочередно от основания во избежание излома токоведущих жил. Храните в смотанном виде в сухом помещении, защищенном от прямого попадания влаги и механических повреждений. При очистке от пыли используйте сухую мягкую салфетку; избегайте контакта с водой и химическими растворителями.  Характеристики  Длина: 2 м Степень защиты: IP 44 Количество диодов: 640 Материал: медная проволока Питание: от сети Количество режимов работы: 8  В комплекте: пульт, европейская вилка, влагоизолированный коннектор]]></description>
+<quantity_in_stock>175</quantity_in_stock>
+<vendorCode>D640L2MGW</vendorCode>
+<param name="Количество режимов свечения">8</param>
+<param name="Количество светодиодов">640</param>
+<param name="Длина шнура питания">2.9</param>
+<param name="Напряжение">220</param>
+<param name="Длина">2</param>
+<param name="Тип освещения">Конский хвост</param>
+<param name="Тип питания">Сеть</param>
+<param name="Степень защиты IP">44</param>
+<param name="Цвет шнура питания">Зелений</param>
+<param name="Цвет провода">Зеленый</param>
+<param name="Цвет свечения">Белый</param>
 </offer>
 <offer id="D2000L100MGY" available="true">
 <name>Гирлянда-нитка Роса Хвойная лапа 2000 LED 100 метров зеленая нить желтый Garlando D2000L100MGY</name>
@@ -90861,8 +90861,8 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <offer id="004-154-15-20-7" available="true">
 <name>Комплект постельного белья полутоный 150×210 см, сиреневый</name>
 <url>https://lugi.com.ua/ru/ru-komplekt-postilnoyi-bilizni-004-154-15-20-7/</url>
-<price>1699</price>
-<vendorprice>1319</vendorprice>
+<price>1799</price>
+<vendorprice>1412</vendorprice>
 <currencyId>UAH</currencyId>
 <categoryId>113</categoryId>
 <picture>https://lugi.com.ua/image/cache/catalog/images/postilna_biluzna/004-154-15-20-7/-__v4-600x600.png</picture>
@@ -90883,8 +90883,8 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <offer id="004-154-4-20-3" available="true">
 <name>Комплект постельного белья евро 200×230 см, светло-серый</name>
 <url>https://lugi.com.ua/ru/ru-komplekt-postilnoyi-bilizni-004-154-4-20-3/</url>
-<price>1899</price>
-<vendorprice>1480</vendorprice>
+<price>1999</price>
+<vendorprice>1588</vendorprice>
 <currencyId>UAH</currencyId>
 <categoryId>113</categoryId>
 <picture>https://lugi.com.ua/image/cache/catalog/images/postilna_biluzna/004-154-4-20_3/v1-600x600.png</picture>
@@ -92214,8 +92214,8 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <offer id="004-154-15-20-4" available="true">
 <name>Комплект постельного белья полутоный 150×210 см, песочный</name>
 <url>https://lugi.com.ua/ru/ru-komplekt-postilnoyi-bilizni-004-154-15-20-4/</url>
-<price>1699</price>
-<vendorprice>1319</vendorprice>
+<price>1799</price>
+<vendorprice>1412</vendorprice>
 <currencyId>UAH</currencyId>
 <categoryId>113</categoryId>
 <picture>https://lugi.com.ua/image/cache/catalog/images/postilna_biluzna/004-154-15-20-/Bez-nazvi-3-600x600.jpg</picture>
@@ -92239,8 +92239,8 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <offer id="004-154-15-20-5" available="true">
 <name>Комплект постельного белья полутоный 150×210 см, синий</name>
 <url>https://lugi.com.ua/ru/ru-komplekt-postilnoyi-bilizni-004-154-15-20-5/</url>
-<price>1699</price>
-<vendorprice>1319</vendorprice>
+<price>1799</price>
+<vendorprice>1412</vendorprice>
 <currencyId>UAH</currencyId>
 <categoryId>113</categoryId>
 <picture>https://lugi.com.ua/image/cache/catalog/images/postilna_biluzna/004-154-15-20-5/v3-600x600.png</picture>
@@ -92262,8 +92262,8 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <offer id="004-154-15-20-8" available="true">
 <name>Комплект постельного белья полутоный 150×210 см, баклажановый</name>
 <url>https://lugi.com.ua/ru/ru-komplekt-postilnoyi-bilizni-004-154-15-20-8/</url>
-<price>1699</price>
-<vendorprice>1319</vendorprice>
+<price>1799</price>
+<vendorprice>1412</vendorprice>
 <currencyId>UAH</currencyId>
 <categoryId>113</categoryId>
 <picture>https://lugi.com.ua/image/cache/catalog/images/postilna_biluzna/004-154-15-20-/Bez-nazvi-7-600x600.jpg</picture>
@@ -92284,8 +92284,8 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <offer id="004-154-15-20-9" available="true">
 <name>Комплект постельного белья полутоный 150×210 см, кофейный</name>
 <url>https://lugi.com.ua/ru/ru-komplekt-postilnoyi-bilizni-004-154-15-20-9/</url>
-<price>1699</price>
-<vendorprice>1319</vendorprice>
+<price>1799</price>
+<vendorprice>1412</vendorprice>
 <currencyId>UAH</currencyId>
 <categoryId>113</categoryId>
 <picture>https://lugi.com.ua/image/cache/catalog/images/postilna_biluzna/004-154-15-20-9/v3-600x600.png</picture>
@@ -92307,8 +92307,8 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <offer id="004-154-15-20-10" available="true">
 <name>Комплект постельного белья полутоный 150×210 см, коричневый</name>
 <url>https://lugi.com.ua/ru/ru-komplekt-postilnoyi-bilizni-004-154-15-20-10/</url>
-<price>1699</price>
-<vendorprice>1319</vendorprice>
+<price>1799</price>
+<vendorprice>1412</vendorprice>
 <currencyId>UAH</currencyId>
 <categoryId>113</categoryId>
 <picture>https://lugi.com.ua/image/cache/catalog/images/postilna_biluzna/004-154-15-20-10/v3(1)-600x600.png</picture>
@@ -92328,8 +92328,8 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <offer id="004-154-4-20-8" available="true">
 <name>Комплект постельного белья евро 200×230 см, баклажановый</name>
 <url>https://lugi.com.ua/ru/ru-komplekt-postilnoyi-bilizni-004-154-4-20-8/</url>
-<price>1899</price>
-<vendorprice>1480</vendorprice>
+<price>1999</price>
+<vendorprice>1588</vendorprice>
 <currencyId>UAH</currencyId>
 <categoryId>113</categoryId>
 <picture>https://lugi.com.ua/image/cache/catalog/images/postilna_biluzna/004-154-15-20-/Bez-nazvi-7-600x600.jpg</picture>
@@ -92350,8 +92350,8 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <offer id="004-154-4-20-9" available="true">
 <name>Комплект постельного белья евро 200×230 см, кофейный</name>
 <url>https://lugi.com.ua/ru/ru-komplekt-postilnoyi-bilizni-004-154-4-20-9/</url>
-<price>1899</price>
-<vendorprice>1480</vendorprice>
+<price>1999</price>
+<vendorprice>1588</vendorprice>
 <currencyId>UAH</currencyId>
 <categoryId>113</categoryId>
 <picture>https://lugi.com.ua/image/cache/catalog/images/postilna_biluzna/004-154-4-20-9/v3-600x600.png</picture>
@@ -92373,8 +92373,8 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <offer id="004-154-4-20-10" available="true">
 <name>Комплект постельного белья евро 200×230 см, коричневый</name>
 <url>https://lugi.com.ua/ru/ru-komplekt-postilnoyi-bilizni-004-154-4-20-10/</url>
-<price>1899</price>
-<vendorprice>1480</vendorprice>
+<price>1999</price>
+<vendorprice>1588</vendorprice>
 <currencyId>UAH</currencyId>
 <categoryId>113</categoryId>
 <picture>https://lugi.com.ua/image/cache/catalog/images/postilna_biluzna/004-154-4-20-10/v3(1)-600x600.png</picture>
@@ -94331,8 +94331,8 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <offer id="004-154-15-20-2" available="true">
 <name>Комплект постельного белья полутоный 150×210 см, серый</name>
 <url>https://lugi.com.ua/ru/ru-komplekt-postilnoyi-bilizni-004-154-15-20-2/</url>
-<price>1699</price>
-<vendorprice>1319</vendorprice>
+<price>1799</price>
+<vendorprice>1412</vendorprice>
 <currencyId>UAH</currencyId>
 <categoryId>113</categoryId>
 <picture>https://lugi.com.ua/image/cache/catalog/images/postilna_biluzna/004-154-15-20-2/v4(1)-600x600.png</picture>
@@ -94354,8 +94354,8 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <offer id="004-154-15-20-3" available="true">
 <name>Комплект постельного белья полутоный 150×210 см, светло-серый</name>
 <url>https://lugi.com.ua/ru/ru-komplekt-postilnoyi-bilizni-004-154-15-20-3/</url>
-<price>1699</price>
-<vendorprice>1319</vendorprice>
+<price>1799</price>
+<vendorprice>1412</vendorprice>
 <currencyId>UAH</currencyId>
 <categoryId>113</categoryId>
 <picture>https://lugi.com.ua/image/cache/catalog/images/postilna_biluzna/004-154-15-20-3/v3(1)-600x600.png</picture>
@@ -94377,8 +94377,8 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <offer id="004-154-15-20-6" available="true">
 <name>Комплект постельного белья полутоный 150×210 см, лавандовый</name>
 <url>https://lugi.com.ua/ru/ru-komplekt-postilnoyi-bilizni-004-154-15-20-6/</url>
-<price>1699</price>
-<vendorprice>1319</vendorprice>
+<price>1799</price>
+<vendorprice>1412</vendorprice>
 <currencyId>UAH</currencyId>
 <categoryId>113</categoryId>
 <picture>https://lugi.com.ua/image/cache/catalog/images/postilna_biluzna/004-154-15-20-/Bez-nazvi-2-600x600.jpg</picture>
@@ -94399,8 +94399,8 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <offer id="004-154-4-20-2" available="true">
 <name>Комплект постельного белья евро 200×230 см, серый</name>
 <url>https://lugi.com.ua/ru/ru-komplekt-postilnoyi-bilizni-004-154-4-20-2/</url>
-<price>1899</price>
-<vendorprice>1480</vendorprice>
+<price>1999</price>
+<vendorprice>1588</vendorprice>
 <currencyId>UAH</currencyId>
 <categoryId>113</categoryId>
 <picture>https://lugi.com.ua/image/cache/catalog/images/postilna_biluzna/004-154-4-20_2/v4(1)-600x600.png</picture>
@@ -94421,8 +94421,8 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <offer id="004-154-4-20-4" available="true">
 <name>Комплект постельного белья евро 200×230 см, песочный</name>
 <url>https://lugi.com.ua/ru/ru-komplekt-postilnoyi-bilizni-004-154-4-20-4/</url>
-<price>1899</price>
-<vendorprice>1480</vendorprice>
+<price>1999</price>
+<vendorprice>1588</vendorprice>
 <currencyId>UAH</currencyId>
 <categoryId>113</categoryId>
 <picture>https://lugi.com.ua/image/cache/catalog/images/postilna_biluzna/004-154-15-20-/Bez-nazvi-3-600x600.jpg</picture>
@@ -94446,8 +94446,8 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <offer id="004-154-4-20-5" available="true">
 <name>Комплект постельного белья евро 200×230 см, синий</name>
 <url>https://lugi.com.ua/ru/ru-komplekt-postilnoyi-bilizni-004-154-4-20-5/</url>
-<price>1899</price>
-<vendorprice>1480</vendorprice>
+<price>1999</price>
+<vendorprice>1588</vendorprice>
 <currencyId>UAH</currencyId>
 <categoryId>113</categoryId>
 <picture>https://lugi.com.ua/image/cache/catalog/images/postilna_biluzna/004-154-4-20_5/v3-600x600.png</picture>
@@ -94469,8 +94469,8 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <offer id="004-154-4-20-6" available="true">
 <name>Комплект постельного белья евро 200×230 см, лавандовый</name>
 <url>https://lugi.com.ua/ru/ru-komplekt-postilnoyi-bilizni-004-154-4-20-6/</url>
-<price>1899</price>
-<vendorprice>1480</vendorprice>
+<price>1999</price>
+<vendorprice>1588</vendorprice>
 <currencyId>UAH</currencyId>
 <categoryId>113</categoryId>
 <picture>https://lugi.com.ua/image/cache/catalog/images/postilna_biluzna/004-154-15-20-/Bez-nazvi-2-600x600.jpg</picture>
