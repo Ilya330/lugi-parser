@@ -16,6 +16,7 @@ import os
 import re
 import ssl
 import sys
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -54,18 +55,46 @@ def make_ssl_context():
 SSL_CTX = make_ssl_context()
 
 
+# Заглушка антибот-защиты хостинга: с сентября 2026 сайт отдаёт её раннерам GitHub
+# (IP Azure, США) с кодом 429 на ПЕРВЫЙ же запрос. Повторы её не снимают, а страница
+# без блоков товаров иначе читалась бы как «товара нет на сайте».
+BLOCK_TITLE_RE = re.compile(r"<title>\s*(Захищена сторінка|Защищенная страница)", re.IGNORECASE)
+
+
+class SiteBlocked(RuntimeError):
+    """Сайт отдал заглушку защиты вместо страницы — повторять бессмысленно."""
+
+
+def _blocked_reason(status, body):
+    if BLOCK_TITLE_RE.search(body[:4000]):
+        return f"HTTP {status}: заглушка защиты хостинга «Захищена сторінка»"
+    return None
+
+
 def get(url, retries=3):
+    import time
     last = None
     for attempt in range(retries):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": UA})
             with urllib.request.urlopen(req, timeout=45, context=SSL_CTX) as r:
-                return r.read().decode("utf-8", "replace")
+                body = r.read().decode("utf-8", "replace")
+                reason = _blocked_reason(r.status, body)
+                if reason:
+                    raise SiteBlocked(reason)
+                return body
+        except SiteBlocked:
+            raise
+        except urllib.error.HTTPError as e:
+            body = e.read().decode("utf-8", "replace") if e.fp else ""
+            reason = _blocked_reason(e.code, body)
+            if reason:
+                raise SiteBlocked(reason) from None
+            last = f"HTTP {e.code} {e.reason}"
         except Exception as e:  # noqa: BLE001
-            last = e
-            import time
-            time.sleep(1.0 * (attempt + 1))
-    raise RuntimeError(f"GET failed {url}: {last}")
+            last = f"{type(e).__name__}: {e}"
+        time.sleep(1.0 * (attempt + 1))
+    raise RuntimeError(f"GET {url}: {last}")
 
 
 def _product_href(block):
@@ -166,44 +195,74 @@ def scrape_sku(sku):
     return data
 
 
+def warn(title, msg):
+    """В лог и, на раннере GitHub, аннотацией в сводку прогона (видно без чтения лога)."""
+    print(f"  ВНИМАНИЕ: {title}: {msg}", file=sys.stderr)
+    if os.environ.get("GITHUB_ACTIONS") == "true":
+        print(f"::warning title={title}::{msg}", flush=True)
+
+
 def scrape_many(skus, log_every=100):
-    """Многопоточно. Возвращает (found, not_found):
+    """Многопоточно. Возвращает (found, not_found, blocked):
     found     — {SKU_UPPER: data} успешно спарсенные;
-    not_found — set(SKU_UPPER) ТОЧНО отсутствующих на сайте (поиск без результата).
-    Упавшие по сетевой ошибке НЕ попадают ни туда, ни туда (повтор в следующий раз)."""
+    not_found — set(SKU_UPPER) ТОЧНО отсутствующих на сайте (поиск без результата);
+    blocked   — None или причина, по которой сайт отдаёт заглушку защиты. Тогда скрейп
+                прерывается сразу (не долбим сайт 20 минут впустую), остальные SKU
+                считаются несделанными.
+    Упавшие по сетевой ошибке НЕ попадают ни в found, ни в not_found (повтор в след. раз)."""
+    import collections
+    import threading
+    import time
+
     found = {}
     not_found = set()
-    done = [0]
-    errors = [0]
+    reasons = collections.Counter()
+    stop = threading.Event()
+    blocked = []
+    done = errors = 0
 
     def work(sku):
-        import time
-        errored = False
+        if stop.is_set():
+            return sku, None, None
         try:
             d = scrape_sku(sku)
-        except Exception:  # noqa: BLE001
-            d = None
-            errored = True
+        except SiteBlocked as e:
+            blocked.append(str(e))
+            stop.set()
+            return sku, None, str(e)
+        except Exception as e:  # noqa: BLE001
+            # «GET <url>: <причина>» -> «<причина>», чтобы одинаковые сбои сложились.
+            return sku, None, str(e).split(": ", 1)[-1] or type(e).__name__
         time.sleep(DELAY)
-        return sku, d, errored
+        return sku, d, None
 
     with cf.ThreadPoolExecutor(max_workers=WORKERS) as ex:
-        for sku, d, errored in ex.map(work, skus):
-            done[0] += 1
+        for sku, d, err in ex.map(work, skus):
+            done += 1
             key = sku.strip().upper()
             if d and d.get("name"):
                 found[key] = d
-            elif errored:
-                errors[0] += 1
-            else:
+            elif err:
+                errors += 1
+                reasons[err] += 1
+            elif not stop.is_set():
                 not_found.add(key)
-            if done[0] % log_every == 0:
-                print(f"  скрейп {done[0]}/{len(skus)} … найдено {len(found)}, "
-                      f"нет на сайте {len(not_found)}, ошибок {errors[0]}",
+            if done % log_every == 0 and not stop.is_set():
+                print(f"  скрейп {done}/{len(skus)} … найдено {len(found)}, "
+                      f"нет на сайте {len(not_found)}, ошибок {errors}",
                       file=sys.stderr)
-    if errors[0]:
-        print(f"  сетевых ошибок (будут повторены позже): {errors[0]}", file=sys.stderr)
-    return found, not_found
+
+    if blocked:
+        skipped = len(skus) - len(found) - len(not_found) - errors
+        warn("lugi.com.ua закрыт защитой",
+             f"{blocked[0]}. Скрейп прерван: найдено {len(found)}, "
+             f"не сделано {errors + skipped} из {len(skus)} (повтор в след. прогон)")
+    elif errors:
+        top = "; ".join(f"{r} ×{n}" for r, n in reasons.most_common(3))
+        print(f"  сетевых ошибок (будут повторены позже): {errors} — {top}", file=sys.stderr)
+        if errors == len(skus):
+            warn("Скрейп lugi.com.ua: все запросы с ошибкой", top)
+    return found, not_found, (blocked[0] if blocked else None)
 
 
 if __name__ == "__main__":

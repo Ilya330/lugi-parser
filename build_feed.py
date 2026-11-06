@@ -79,7 +79,7 @@ def main():
     to_scrape = [k for k in targets if k not in catalog and k not in not_on_site]
     if to_scrape and LAZY_SCRAPE:
         print(f"Новых к до-скрейпу: {len(to_scrape)}", file=sys.stderr)
-        found, not_found = scrape_site.scrape_many(to_scrape)
+        found, not_found, _blocked = scrape_site.scrape_many(to_scrape)
         for k, d in found.items():
             d.setdefault("params", [])
             d["source"] = "site"

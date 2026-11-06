@@ -83,6 +83,7 @@ def main():
     old = json.load(open(CATALOG, encoding="utf-8")) if os.path.exists(CATALOG) else {}
     not_on_site = set(json.load(open(NOT_ON_SITE, encoding="utf-8"))) \
         if os.path.exists(NOT_ON_SITE) else set()
+    old_not_on_site = set(not_on_site)
 
     feed_cat = catalog_from_feed()
     print(f"Из фида: {len(feed_cat)}", file=sys.stderr)
@@ -107,7 +108,7 @@ def main():
     print(f"К скрейпу с сайта: {len(to_scrape)} SKU (REFRESH={refresh})", file=sys.stderr)
 
     if to_scrape:
-        found, clean_not_found = scrape_site.scrape_many(to_scrape)
+        found, clean_not_found, blocked = scrape_site.scrape_many(to_scrape)
         for k, d in found.items():
             d.setdefault("params", [])
             d["source"] = "site"
@@ -115,17 +116,32 @@ def main():
             not_on_site.discard(k)
         # Точно отсутствующие на сайте -> skip-лист.
         not_on_site |= clean_not_found
-        # Упавшие по сетевой ошибке (ни найдены, ни точно-нет): страхуемся старыми
-        # данными из прежнего каталога, чтобы не потерять товар из-за сбоя.
+        # Не проверенные из-за сбоя (ни найдены, ни точно-нет) сохраняют прежний статус:
+        # старую карточку или место в skip-листе. Иначе каждый сбойный рефреш стирал
+        # not_on_site и карточки (сентябрь–ноябрь 2026: 986 -> 586 site-товаров).
         errored = set(to_scrape) - set(found) - clean_not_found
-        rescued = 0
+        rescued = kept_nos = 0
         for k in errored:
             if k in old and old[k].get("source") == "site":
                 catalog[k] = old[k]
                 rescued += 1
+            elif k in old_not_on_site:
+                not_on_site.add(k)
+                kept_nos += 1
         print(f"Скрейп: найдено {len(found)}, нет на сайте {len(clean_not_found)}, "
-              f"сетевых сбоев {len(errored)} (из них спасено старыми данными {rescued})",
-              file=sys.stderr)
+              f"не проверено {len(errored)} (спасено карточек {rescued}, "
+              f"оставлено в not_on_site {kept_nos})", file=sys.stderr)
+        if refresh and blocked:
+            # Сайт закрыт — пересбор не состоялся. Не выбрасываем и то, что в скрейп
+            # не попало (site-карточки товаров не в наличии): иначе их уже не вернуть.
+            kept = 0
+            for k, v in old.items():
+                if v.get("source") == "site" and k not in catalog:
+                    catalog[k] = v
+                    kept += 1
+            not_on_site |= old_not_on_site - set(catalog)
+            print(f"Сайт закрыт: оставлено прежних site-карточек не в наличии {kept}, "
+                  f"not_on_site как было ({len(not_on_site)})", file=sys.stderr)
 
     json.dump(catalog, open(CATALOG, "w", encoding="utf-8"), ensure_ascii=False)
     json.dump(sorted(not_on_site), open(NOT_ON_SITE, "w", encoding="utf-8"),
