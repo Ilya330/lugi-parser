@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-12 23:01">
+<yml_catalog date="2026-11-13 04:12">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -1537,7 +1537,7 @@
 <picture>https://feed.lugi.com.ua/image/catalog/136/USB200L20MGML-3%281%29.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Гирлянда USB роса идеально подходит для окон, дверей, стен, картин, елок, фотозоны. Гирлянда оснащена 200 яркими светодиодами, которые обеспечивают превосходное освещение.   Основные характеристики гирлянды роса   гирлянда роса 20 метров; 200 led светодиодов;  класс защиты IP44.   Особенностью этой гирлянды является ее питание от usb, что обеспечивает максимальную мобильность и удобство в эксплуатации. Новогодняя гирлянда Роса - это не только декоративный элемент, но и практичный инструмент для создания особого атмосферного света в вашем доме или на мероприятии любого уровня.  Купить гирлянду капли росы 20 метров можно с доставкой по всей Украине. Гирлянда подлежит возврату только в том случае, когда ее исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>213</quantity_in_stock>
+<quantity_in_stock>211</quantity_in_stock>
 <vendorCode>USB200L20MGML</vendorCode>
 <param name="Режим работы">Динамический</param>
 <param name="Количество светодиодов">200</param>
@@ -42106,28 +42106,6 @@ Nice 620 мл - это отличная бутылка для воды для л
 <param name="Длина">45 см</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-5-55" available="true">
-<name>Сетевой фильтр-удлинитель 8 розеток 4xUSB-A 2xUSB-C 5м белая HP-5-55</name>
-<price>829</price>
-<vendorprice>644</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>76</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7007/setevoy_filtr_udlinitel_8_rozetok_4xusb_a_2xusb_c_5m_belaya_knopka_otklyucheniya_udlinitel_elektricheskaya_zaryadka.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-55/HP-5-55-5.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-55/HP-5-55%282%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-55/HP-5-55%283%29.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-55/HP-5-55-4.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 8 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 8 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 27 × 11 × 4 см]]></description>
-<quantity_in_stock>200</quantity_in_stock>
-<vendorCode>HP-5-55</vendorCode>
-<param name="Длина шнура">5</param>
-<param name="Количество выходных розеток">6</param>
-<param name="Выключатель">Да</param>
-<param name="Входная вилка">ЕURO</param>
-<param name="Выходная розетка">Евро</param>
-<param name="Цвет корпуса">Белый</param>
-</offer>
 <offer id="2026-CR-2-16" available="true">
 <name>Бант новогодний бархатный 30*100 см, красный 2026-CR-2-16</name>
 <price>629</price>
@@ -42145,6 +42123,28 @@ Nice 620 мл - это отличная бутылка для воды для л
 <param name="Цвет">Красный</param>
 <param name="Количество">1</param>
 <param name="Длина">100</param>
+</offer>
+<offer id="HP-5-55" available="true">
+<name>Сетевой фильтр-удлинитель 8 розеток 4xUSB-A 2xUSB-C 5м белая HP-5-55</name>
+<price>829</price>
+<vendorprice>644</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>76</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/71237/7007/setevoy_filtr_udlinitel_8_rozetok_4xusb_a_2xusb_c_5m_belaya_knopka_otklyucheniya_udlinitel_elektricheskaya_zaryadka.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-55/HP-5-55-5.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-55/HP-5-55%282%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-55/HP-5-55%283%29.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../000/HP-5-55/HP-5-55-4.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Сетевой фильтр-удлинитель с пятью розетками и USB портами позволяет организовать подключение нескольких устройств в одном месте. Формат 8 розеток + 4 USB-A +2 USB Type-C подходит для одновременного питания бытовой техники и зарядки мобильных гаджетов без дополнительных адаптеров. Это решение удобно использовать дома, в офисе или учебном пространстве, где важно оптимизировать доступ к электросети.  Корпус изготовлен из огнестойкого ABS-пластика и имеет компактные размеры, что позволяет разместить удлинитель даже в ограниченном пространстве. Евророзетки расположены с учетом удобства подключения различных видов вилок. На корпусе предусмотрено 4 USB-A порта и 2 USB Type-C для зарядки смартфонов, планшетов, наушников и других устройств.  Длина кабеля 5 метров обеспечивает гибкость в расположении, а кнопка питания с индикатором позволяет быстро выключать все подключенные устройства одновременно. Мощность до 2500 Вт дает возможность подключать бытовую технику средней нагрузки, что делает удлинитель практичным вариантом для ежедневного использования.   Характеристики:    Тип: сетевой фильтр-удлинитель Количество розеток: 8 Количество USB-A: 4 Количество USB Type-C: 2 Длина кабеля: 5 м Мощность: 2500 Вт Материал корпуса: огнестойкий ABS-пластик Тип розеток: европейский стандарт Кнопка питания: да, с индикатором Вес: 700 г Размеры: 27 × 11 × 4 см]]></description>
+<quantity_in_stock>199</quantity_in_stock>
+<vendorCode>HP-5-55</vendorCode>
+<param name="Длина шнура">5</param>
+<param name="Количество выходных розеток">6</param>
+<param name="Выключатель">Да</param>
+<param name="Входная вилка">ЕURO</param>
+<param name="Выходная розетка">Евро</param>
+<param name="Цвет корпуса">Белый</param>
 </offer>
 <offer id="HP-42-120" available="true">
 <name>Коврик универсальный диатомитовый Frame 58*38 см прямоугольный Yiwu HP-42-120</name>
@@ -46440,29 +46440,6 @@ Nice 620 мл - это отличная бутылка для воды для л
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-42-36" available="true">
-<name>Коврик для ванной комнаты с 3D-эффектом Hover Bloom 58*38 см диатомитовый Синий HP-42-36</name>
-<price>169</price>
-<vendorprice>130</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>47</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-36/HP-42-36_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-36/HP-42-36_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6487/3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-36/HP-42-36_1.jpg</picture>
-<vendor>Jiamat</vendor>
-<description><![CDATA[Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты.  Характеристики 3d коврика из диатомита:   Материал: натуральный диатом — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома.   Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
-<quantity_in_stock>155</quantity_in_stock>
-<vendorCode>HP-42-36</vendorCode>
-<param name="Подходит для пола с подогревом">Да</param>
-<param name="Ширина">38</param>
-<param name="Количество в наборе">1</param>
-<param name="Цвет">Синий</param>
-<param name="Длина">58</param>
-<param name="Тематика декора, рисунка">Растения, цветы</param>
-<param name="Форма">Овальная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-42-123" available="true">
 <name>Коврик универсальный диатомитовый Acanthus 58*38 см прямоугольный Yiwu HP-42-123</name>
 <price>199</price>
@@ -46520,6 +46497,29 @@ Nice 620 мл - это отличная бутылка для воды для л
 <param name="Высота">17 см</param>
 <param name="Объем">380 мл</param>
 <param name="Цвет">Розовый</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-42-36" available="true">
+<name>Коврик для ванной комнаты с 3D-эффектом Hover Bloom 58*38 см диатомитовый Синий HP-42-36</name>
+<price>169</price>
+<vendorprice>130</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>47</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-36/HP-42-36_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-36/HP-42-36_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6487/3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-36/HP-42-36_1.jpg</picture>
+<vendor>Jiamat</vendor>
+<description><![CDATA[Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты.  Характеристики 3d коврика из диатомита:   Материал: натуральный диатом — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома.   Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
+<quantity_in_stock>154</quantity_in_stock>
+<vendorCode>HP-42-36</vendorCode>
+<param name="Подходит для пола с подогревом">Да</param>
+<param name="Ширина">38</param>
+<param name="Количество в наборе">1</param>
+<param name="Цвет">Синий</param>
+<param name="Длина">58</param>
+<param name="Тематика декора, рисунка">Растения, цветы</param>
+<param name="Форма">Овальная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-34-121" available="true">
@@ -49139,24 +49139,6 @@ Nice 620 мл - это отличная бутылка для воды для л
 <param name="Подходит для мытья в посудомоечной машине">Нет</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="SJ-0043" available="true">
-<name>Уличный подвесной светильник лампа для кемпинга подвесная светодиодная 1200 мАч Yiwu SJ-0043</name>
-<price>409</price>
-<vendorprice>318</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>46</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/79410/8483/ulichnyy_podvesnoy_svetilnik_lampa_dlya_kempinga_podvesnaya_svetodiodnaya_1200_mach_turisticheskiy_fonar_dlya_palatki.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/79410/8483/ulichnyy_podvesnoy_svetilnik_lampa_dlya_kempinga_podvesnaya_svetodiodnaya_1200_mach_turisticheskiy_fonar_dlya_palatki_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/79410/8483/ulichnyy_podvesnoy_svetilnik_lampa_dlya_kempinga_podvesnaya_svetodiodnaya_1200_mach_turisticheskiy_fonar_dlya_palatki_2.png</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Компактный и мощный переносной светильник, который выручит при отключении света, пригодится в походе или станет уютным ночником для дома. Несмотря на небольшой размер, лампа выдает яркий направленный свет.  Особенности:   Ультракомпактность: Диаметр корпуса всего 8 см. Лампа легко помещается в карман или ладонь, ее удобно брать с собой на прогулку или гараж. Мощное освещение: Мощность 30 Вт обеспечивает яркий световой поток, достаточный для освещения небольшой комнаты, палатки или рабочего места. Автономная работа: Благодаря встроенному аккумулятору на 1200 мАч, светильник работает полностью без проводов. Заряжается через стандартный порт (USB) от повербанка, ноутбука или сети.   Характеристики:   Материал корпуса: пластик Мощность: 30 Вт Емкость аккумулятора: 1200 мАч Время работы: около 3-6 часов Питание: USB Высота: 8 см]]></description>
-<quantity_in_stock>127</quantity_in_stock>
-<vendorCode>SJ-0043</vendorCode>
-<param name="Материал корпуса">Пластик</param>
-<param name="Состояние">Новое</param>
-<param name="Тип питания">Аккумулятор</param>
-<param name="Тип лампы">Светодиодная</param>
-</offer>
 <offer id="HP-14-18GR" available="true">
 <name>Термокружка Chiobbe с трубочкой и ремешком 450 мл зеленая HP-14-18GR</name>
 <price>709</price>
@@ -49200,6 +49182,24 @@ Nice 620 мл - это отличная бутылка для воды для л
 <param name="Цвет">Серебристый</param>
 <param name="Длина">35 см</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="SJ-0043" available="true">
+<name>Уличный подвесной светильник лампа для кемпинга подвесная светодиодная 1200 мАч Yiwu SJ-0043</name>
+<price>409</price>
+<vendorprice>318</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>46</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/79410/8483/ulichnyy_podvesnoy_svetilnik_lampa_dlya_kempinga_podvesnaya_svetodiodnaya_1200_mach_turisticheskiy_fonar_dlya_palatki.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/79410/8483/ulichnyy_podvesnoy_svetilnik_lampa_dlya_kempinga_podvesnaya_svetodiodnaya_1200_mach_turisticheskiy_fonar_dlya_palatki_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/79410/8483/ulichnyy_podvesnoy_svetilnik_lampa_dlya_kempinga_podvesnaya_svetodiodnaya_1200_mach_turisticheskiy_fonar_dlya_palatki_2.png</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Компактный и мощный переносной светильник, который выручит при отключении света, пригодится в походе или станет уютным ночником для дома. Несмотря на небольшой размер, лампа выдает яркий направленный свет.  Особенности:   Ультракомпактность: Диаметр корпуса всего 8 см. Лампа легко помещается в карман или ладонь, ее удобно брать с собой на прогулку или гараж. Мощное освещение: Мощность 30 Вт обеспечивает яркий световой поток, достаточный для освещения небольшой комнаты, палатки или рабочего места. Автономная работа: Благодаря встроенному аккумулятору на 1200 мАч, светильник работает полностью без проводов. Заряжается через стандартный порт (USB) от повербанка, ноутбука или сети.   Характеристики:   Материал корпуса: пластик Мощность: 30 Вт Емкость аккумулятора: 1200 мАч Время работы: около 3-6 часов Питание: USB Высота: 8 см]]></description>
+<quantity_in_stock>126</quantity_in_stock>
+<vendorCode>SJ-0043</vendorCode>
+<param name="Материал корпуса">Пластик</param>
+<param name="Состояние">Новое</param>
+<param name="Тип питания">Аккумулятор</param>
+<param name="Тип лампы">Светодиодная</param>
 </offer>
 <offer id="HKPP-8" available="true">
 <name>Тарелка десертная фарфоровая Antique White 20 см Yiwu HKPP-8</name>
@@ -55212,28 +55212,6 @@ Nice 620 мл - это отличная бутылка для воды для л
 <param name="Длина">58</param>
 <param name="Форма">Квадратная</param>
 </offer>
-<offer id="CR-8-9" available="true">
-<name>Набор тарелок сервировочных керамических &amp;quot;Старый город&amp;quot; 4 штуки по 27,2 см Yiwu CR-8-9</name>
-<price>2999</price>
-<vendorprice>2347</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>90</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/78680/8161/nabor_tarelok_servirovochnyh_farforovyh_staryy_gorod_4_shtuki_po_27_2_sm.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/78680/8161/nabor_tarelok_servirovochnyh_farforovyh_staryy_gorod_4_shtuki_po_27_2_sm_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/78680/8161/nabor_tarelok_servirovochnyh_farforovyh_staryy_gorod_4_shtuki_po_27_2_sm_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/78680/8161/nabor_tarelok_servirovochnyh_farforovyh_staryy_gorod_4_shtuki_po_27_2_sm_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/78680/8161/nabor_tarelok_servirovochnyh_farforovyh_staryy_gorod_4_shtuki_po_27_2_sm_4.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/78680/8161/nabor_tarelok_servirovochnyh_farforovyh_staryy_gorod_4_shtuki_po_27_2_sm_5.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Набор сервировочных тарелок «Старый город» — практичная керамическая посуда для красивого оформления праздничного и повседневного стола. В набор входят 4 тарелки диаметром 27,2 см, которые подходят для подачи основных блюд, мясных и рыбных угощений, гарниров, закусок и кулинарных изделий. Керамические сервировочные тарелки сочетают в себе функциональность и классический дизайн, помогая создать гармоничную композицию во время семейных обедов, праздничных застолий и приема гостей. Коллекция «Старый город» станет удачным дополнением к домашней посуде и подойдет тем, кто ищет набор керамических тарелок для сервировки стола. Благодаря универсальному назначению тарелки можно использовать как для повседневной подачи блюд, так и для особых событий. Преимущества  4 сервировочные тарелки в одном наборе. Изготовлены из керамики. Диаметр 27,2 см для удобной подачи разнообразных блюд. Классический дизайн коллекции «Старый город». Подходят для повседневной и праздничной сервировки. Возможность сочетания с другой посудой для оформления стола.  Рекомендации по уходу  Ручная мойка (рекомендуется): Для сохранения четкости тонких линий рисунка и целостности обводки рекомендуется промывать вручную мягкой губкой. Посудомоечная машина (с ограничениями): Допускается мытье в посудомоечной машине только на деликатном/эко-режиме при температуре не выше 40 °C. Выбор моющих средств: Используйте только мягкие жидкие гели. Категорически запрещены щелочные таблетки, режимы с высокой температурой, сушка горячим воздухом, а также абразивные чистящие порошки и жесткие мочалки.  Характеристики  Тип: набор сервировочных тарелок. Количество в наборе: 4 шт. Материал: керамика. Коллекция: «Старый город». Диаметр тарелки: 27,2 см. Высота тарелки: 2 см. Вес набора: 2,7 кг.]]></description>
-<quantity_in_stock>98</quantity_in_stock>
-<vendorCode>CR-8-9</vendorCode>
-<param name="Материал">Керамика</param>
-<param name="Высота">2</param>
-<param name="Диаметр">27.2</param>
-<param name="Количество в наборе">4</param>
-<param name="Тематика декора, рисунка">Новый год, Рождество</param>
-</offer>
 <offer id="HP39572C" available="true">
 <name>Сковорода прямоугольная на 3 секции с антипригарным покрытием серая HP39572C</name>
 <price>659</price>
@@ -55365,6 +55343,28 @@ Nice 620 мл - это отличная бутылка для воды для л
 <param name="Количество в наборе">1</param>
 <param name="Длина">58</param>
 <param name="Форма">Прямоугольная</param>
+</offer>
+<offer id="CR-8-9" available="true">
+<name>Набор тарелок сервировочных керамических &amp;quot;Старый город&amp;quot; 4 штуки по 27,2 см Yiwu CR-8-9</name>
+<price>2999</price>
+<vendorprice>2347</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>90</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/78680/8161/nabor_tarelok_servirovochnyh_farforovyh_staryy_gorod_4_shtuki_po_27_2_sm.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/78680/8161/nabor_tarelok_servirovochnyh_farforovyh_staryy_gorod_4_shtuki_po_27_2_sm_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/78680/8161/nabor_tarelok_servirovochnyh_farforovyh_staryy_gorod_4_shtuki_po_27_2_sm_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/78680/8161/nabor_tarelok_servirovochnyh_farforovyh_staryy_gorod_4_shtuki_po_27_2_sm_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/78680/8161/nabor_tarelok_servirovochnyh_farforovyh_staryy_gorod_4_shtuki_po_27_2_sm_4.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/78680/8161/nabor_tarelok_servirovochnyh_farforovyh_staryy_gorod_4_shtuki_po_27_2_sm_5.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Набор сервировочных тарелок «Старый город» — практичная керамическая посуда для красивого оформления праздничного и повседневного стола. В набор входят 4 тарелки диаметром 27,2 см, которые подходят для подачи основных блюд, мясных и рыбных угощений, гарниров, закусок и кулинарных изделий. Керамические сервировочные тарелки сочетают в себе функциональность и классический дизайн, помогая создать гармоничную композицию во время семейных обедов, праздничных застолий и приема гостей. Коллекция «Старый город» станет удачным дополнением к домашней посуде и подойдет тем, кто ищет набор керамических тарелок для сервировки стола. Благодаря универсальному назначению тарелки можно использовать как для повседневной подачи блюд, так и для особых событий. Преимущества  4 сервировочные тарелки в одном наборе. Изготовлены из керамики. Диаметр 27,2 см для удобной подачи разнообразных блюд. Классический дизайн коллекции «Старый город». Подходят для повседневной и праздничной сервировки. Возможность сочетания с другой посудой для оформления стола.  Рекомендации по уходу  Ручная мойка (рекомендуется): Для сохранения четкости тонких линий рисунка и целостности обводки рекомендуется промывать вручную мягкой губкой. Посудомоечная машина (с ограничениями): Допускается мытье в посудомоечной машине только на деликатном/эко-режиме при температуре не выше 40 °C. Выбор моющих средств: Используйте только мягкие жидкие гели. Категорически запрещены щелочные таблетки, режимы с высокой температурой, сушка горячим воздухом, а также абразивные чистящие порошки и жесткие мочалки.  Характеристики  Тип: набор сервировочных тарелок. Количество в наборе: 4 шт. Материал: керамика. Коллекция: «Старый город». Диаметр тарелки: 27,2 см. Высота тарелки: 2 см. Вес набора: 2,7 кг.]]></description>
+<quantity_in_stock>97</quantity_in_stock>
+<vendorCode>CR-8-9</vendorCode>
+<param name="Материал">Керамика</param>
+<param name="Высота">2</param>
+<param name="Диаметр">27.2</param>
+<param name="Количество в наборе">4</param>
+<param name="Тематика декора, рисунка">Новый год, Рождество</param>
 </offer>
 <offer id="SM-3012" available="true">
 <name>Электро кофемолка 180 Вт автоматическая 75 г для дома с мелким помолом Белая Sokany SM-3012</name>
@@ -56224,28 +56224,6 @@ Nice 620 мл - это отличная бутылка для воды для л
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-11-20" available="true">
-<name>Пакеты для вакууматора 15*500 см пакеты для вакуумирования продуктов в рулоне HP-11-20</name>
-<price>99</price>
-<vendorprice>86</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>13</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5735/pakety_dlya_vakuumatora_15_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5735/pakety_dlya_vakuumatora_15_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Вакуумные пакеты 15*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования.  Основные характеристики пакетов для вакууматора:  размер: 15*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен.  Преимущества:  Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки.  Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.]]></description>
-<quantity_in_stock>94</quantity_in_stock>
-<vendorCode>HP-11-20</vendorCode>
-<param name="Материал">Полиэтилен</param>
-<param name="Вес">100</param>
-<param name="Ширина">500</param>
-<param name="Применение">Универсальное</param>
-<param name="Цвет">Прозрачный</param>
-<param name="Длина">15</param>
-<param name="Наличие индикатора">Нет</param>
-<param name="Комплектация насосом">Нет</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-5-47" available="true">
 <name>Сетевой фильтр-удлинитель 4 розетки 2xUSB-A 1xUSB-C 5м белый HP-5-47</name>
 <price>619</price>
@@ -56731,6 +56709,28 @@ Nice 620 мл - это отличная бутылка для воды для л
 <param name="Количество отделений">1</param>
 <param name="Ширина">10 см</param>
 <param name="Состояние">Новое</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-11-20" available="true">
+<name>Пакеты для вакууматора 15*500 см пакеты для вакуумирования продуктов в рулоне HP-11-20</name>
+<price>99</price>
+<vendorprice>86</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>13</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5735/pakety_dlya_vakuumatora_15_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5735/pakety_dlya_vakuumatora_15_5_sm_pakety_dlya_vakuumirovaniya_produktov_v_rulone_1.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Вакуумные пакеты 15*500 см (в рулоне) – это идеальное решение для тех, кто хочет сохранить свежесть продуктов без потери их вкусовых качеств. Они надежно защищают содержимое от воздуха, влаги и посторонних запахов, помогая продлить срок хранения и сохранить естественную текстуру пищи. Изготовленные из прочного пищевого материала, пакеты подходят как для домашнего, так и для профессионального использования.  Основные характеристики пакетов для вакууматора:  размер: 15*500 см; тип: рулон; структура пленки: рифленая одна сторона; материал: пищевой полиэтилен.  Преимущества:  Продление свежести продуктов в несколько раз. Защита от влаги, окисления и посторонних запахов. Универсальность – подходят для мяса, рыбы, овощей, сыра и других продуктов. Прочные и безопасные материалы, устойчивые к температурным изменениям. Простота использования и удобство маркировки.  Вакуумные пакеты – это удобный и практичный способ сохранить продукты свежими и ароматными на долгое время.]]></description>
+<quantity_in_stock>92</quantity_in_stock>
+<vendorCode>HP-11-20</vendorCode>
+<param name="Материал">Полиэтилен</param>
+<param name="Вес">100</param>
+<param name="Ширина">500</param>
+<param name="Применение">Универсальное</param>
+<param name="Цвет">Прозрачный</param>
+<param name="Длина">15</param>
+<param name="Наличие индикатора">Нет</param>
+<param name="Комплектация насосом">Нет</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="80126603" available="true">
@@ -71503,30 +71503,6 @@ Nice 620 мл - это отличная бутылка для воды для л
 <param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-42-61" available="true">
-<name>Антискользящий 3D коврик из мягкого диатомита 38×58(см) влаговпитывающий Синий HP-42-61</name>
-<price>169</price>
-<vendorprice>130</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>48</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6511/antiskolzyashchiy_3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta_siniy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6511/antiskolzyashchiy_3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta_siniy_3.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61_4.jpg</picture>
-<vendor>Jiamat</vendor>
-<description><![CDATA[Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты.  Характеристики 3d коврика из диатомита:   Материал: натуральный диатом &mdash; природный минерал с высокой влагопоглощающей способностью; Размер: 38&times;58 см; Вес: 0.4 кг; Применение: универсальный коврик для дома.   Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовый коврик &mdash; это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
-<quantity_in_stock>46</quantity_in_stock>
-<vendorCode>HP-42-61</vendorCode>
-<param name="Ширина">38</param>
-<param name="Количество в наборе">1</param>
-<param name="Цвет">Синий</param>
-<param name="Длина">58</param>
-<param name="Тематика декора, рисунка">Растения, цветы</param>
-<param name="Форма">Прямоугольная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="NL-001-40" available="true">
 <name>Паяльник электрический 40W - NL-001 для пайки компонентов микросхем и проводов  NL-001-40</name>
 <price>209</price>
@@ -72061,6 +72037,30 @@ Nice 620 мл - это отличная бутылка для воды для л
 <description><![CDATA[<p>Объемная новогодняя пуансеттия с блестками - отличное украшение на елку и декор для новогодних и рождественских праздников. Во многих странах она считается символом Рождества и подойдет для создания праздничных композиций, венков, фотозон, а также в качестве самостоятельного элемента для интерьера.</p><p>Цветок изготовлен из безопасных материалов, имеет гибкую ножку, что позволяет удобно зафиксировать его в вазе или венке, и использовать в помещениях, куда имеют доступ маленькие дети и домашние животные.</p><p><b>Характеристики:</b></p><ul><li>Материал: экокожа</li><li>Диаметр: 12 см</li></ul>]]></description>
 <quantity_in_stock>45</quantity_in_stock>
 <vendorCode>26120661</vendorCode>
+</offer>
+<offer id="HP-42-61" available="true">
+<name>Антискользящий 3D коврик из мягкого диатомита 38×58(см) влаговпитывающий Синий HP-42-61</name>
+<price>169</price>
+<vendorprice>130</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>48</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6511/antiskolzyashchiy_3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta_siniy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6511/antiskolzyashchiy_3d_kovrik_dlya_vannoy_komnaty_iz_myagkogo_diatomita_38_58_sm_vlagovpityvayushchiy_kovrik_dlya_doma_vanny_tualeta_siniy_3.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0...../0../000/HP-42-61/HP-42-61_4.jpg</picture>
+<vendor>Jiamat</vendor>
+<description><![CDATA[Этот коврик станет стильным и функциональным дополнением любого интерьера. Изготовлен из натурального диатомита, он быстро впитывает влагу и мгновенно сохнет, создавая сухую и безопасную поверхность. Благодаря противоскользящей основе и прочной структуре, коврик подходит не только для ванной, но и для кухни, прихожей, прачечной или детской комнаты.  Характеристики 3d коврика из диатомита:   Материал: натуральный диатом &mdash; природный минерал с высокой влагопоглощающей способностью; Размер: 38&times;58 см; Вес: 0.4 кг; Применение: универсальный коврик для дома.   Преимущества влаговпитывающего коврика для дома, ванной комнаты и туалета   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Универсальность: идеально подходит для ванной, кухни, прихожей, прачечной, детской комнаты или под кормушки для домашних животных. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовый коврик &mdash; это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
+<quantity_in_stock>45</quantity_in_stock>
+<vendorCode>HP-42-61</vendorCode>
+<param name="Ширина">38</param>
+<param name="Количество в наборе">1</param>
+<param name="Цвет">Синий</param>
+<param name="Длина">58</param>
+<param name="Тематика декора, рисунка">Растения, цветы</param>
+<param name="Форма">Прямоугольная</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="SX42-2" available="true">
 <name>Мармитница фарфоровая Tiffany 1.5 л квадратная подставке с подогревом 34х26х7 см SX42-2</name>
@@ -121718,31 +121718,6 @@ SOKANY SK-SH-1071 сочетает стильный дизайн и удобст
 <param name="Высота кастрюли без крышки">12</param>
 <param name="Высота кастрюли с крышкой">17</param>
 <param name="Цвет">Красный</param>
-</offer>
-<offer id="HP-FLG-22 RED" available="true">
-<name>Жаровня-голландская печь чугунная эмалированная 2 л, красный</name>
-<url>https://lugi.com.ua/ru/ru-zharovnya-hp-flg-22-red/</url>
-<price>4319</price>
-<vendorprice>2707</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>16</categoryId>
-<picture>https://lugi.com.ua/image/cache/catalog/images/kokotnici/HP-FLG-22RED/HP-FLG-22RED_3-600x600.jpg</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/posyd/kastruli/HP-FLG-22RED/_T5B8993-600x600.jpg</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/kokotnici/HP-FLG-22RED/HP-FLG-22RED_1-600x600.jpg</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/kokotnici/HP-FLG-22RED/HP-FLG-22RED_4-600x600.jpg</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/kokotnici/HP-FLG-22RED/HP-FLG-22RED_2-600x600.jpg</picture>
-<description><![CDATA[<div class="opis-switch" role="tablist">
- <button type="button" class="opis-switch-btn active" data-pane="opis-pane-desc" role="tab" aria-selected="true">Описание</button>
- <button type="button" class="opis-switch-btn" data-pane="opis-pane-spec" role="tab" aria-selected="false">Характеристики</button>
- </div>
- <div class="opis-pane active" id="opis-pane-desc">
- <h2 class="opisanie-h2">Описание:</h2>
- <p>Эмалированная чугунная жаровня-голландская печь с куполообразной крышкой - многофункциональный элемент кухонной посуды, который подходит для приготовления широкого разнообразия блюд</p><p><b>Применение:</b></p><ol><li>Запекание хлеба: купол крышки удерживает пар и способствует образованию корочки, поэтому изделие часто используют как домашнюю «пекарную кастрюлю».</li><li>Тушение и медленное приготовление: идеальна для тушения мяса, рагу, супов и жаркого.</li><li>Запеканки и цельная запечённая птица: равномерно распределяет тепло внутри.</li><li>Приготовление как на плите, так и в духовке (подходит для высоких температур).</li><li>Для жарки и обжаривания с последующим запеканием.</li></ol><p><b>Преимущества:</b></p><ul><li>Отличная теплоёмкость и удержание тепла благодаря чугуну.</li><li>Равномерное распределение тепла.</li><li>Эмалированная поверхность предотвращает реакцию с кислыми продуктами и облегчает чистку.</li><li>Универсальность: от плиты до духовки и сервировки на стол.</li></ul><p><b>Подходящие блюда и объём:</b></p><ol><li>Хлеб: подходит для выпечки небольшой буханки (обычно ~500–800 г теста) — объёма 2 л хватает для одной средней буханки.</li><li>Тушение и рагу: порция на 1–2 человека; удобно для небольших порционных запеканок.</li><li>Супы/соусы: небольшие порции, подойдёт для гарнира или первых блюд на 1–2 человека.</li><li>Запечённая птица/мясо: подходит для небольших кусочков или цыплёнка маленького размера.</li></ol><p><b>Уход и использование:</b></p><ol><li>При использовании на плите важно следить, чтобы огонь не выходил за пределы дна — это продлит срок службы эмали.</li><li>Мойка: тёплая вода и мягкая губка; избегать абразивов и металлических щёток.</li><li>Нагрев: плавный разогрев, нельзя резко охлаждать горячую посуду.</li><li>Инструменты: деревянные/силиконовые лопатки во избежание царапин.</li><li>Хранение: если складировать с крышкой, можно уложить мягкую прокладку между крышкой и дном, чтобы не поцарапать эмаль.</li></ol><p><b>Характеристики:</b></p><ul><li>Материал: чугун с эмалированным покрытием</li><li>Объем: 2 л</li><li>Толщина стенок: 2 мм</li><li>Размеры (диаметр/высота): 24/19 см</li><li>Высота без крышки: 6 см</li><li>Вес: 5,6 кг</li></ul>]]></description>
-<quantity_in_stock>1</quantity_in_stock>
-<vendorCode>HP-FLG-22 RED</vendorCode>
-<param name="Материал">чугун</param>
-<param name="Вес (кг)">5,6 кг</param>
-<param name="Объем (л)">2 л</param>
 </offer>
 <offer id="HP-FLG-24 BLACK" available="true">
 <name>Набор посуды чугунный с эмалированным покрытием 2/3/4/1 л, черный</name>
