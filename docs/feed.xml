@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-13 23:04">
+<yml_catalog date="2026-11-14 04:08">
 <shop>
 <name>Lugi</name>
 <company>Lugi</company>
@@ -25405,33 +25405,6 @@
 <param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-9-11" available="true">
-<name>Ваза декоративная 26 см для цветов стеклянная фигурная ваза из цветного стекла 1.2 л Желто-серая HP-9-11</name>
-<price>1629</price>
-<vendorprice>817</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>12</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0000/HP-9-11_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/000/0000/HP-9-11_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/53718/4049/vaza_dekorativnaya_26_sm_dlya_tsvetov_steklyannaya_figurnaya_vaza_iz_tsvetnogo_stekla_1_2_l_zhelto_seraya_3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Декоративная ваза выполнена из высококачественного стекла, сочетающего простоту и элегантность. Ее дизайн отличается минималистичными формами, что придает вазе особый шарм. Высота вазы составляет 30 см, что делает ее универсальной для разнообразных цветочных композиций или как акцентный элемент в интерьере.  Основные характеристики:   Материал: стекло; Объем: 1.2 л; Диаметр: общий - 13 см, верхний - 8 см, нижний - 9 см; Высота: 26 см; Глубина: 21 см.   Для ухода за вазой необходимо регулярно чистить ее от остатков воды и растений, использовать мягкие моющие средства и избегать абразивных материалов, чтобы не повредить поверхность стекла.  Эта ваза станет стильным дополнением вашего интерьера и подчеркнет красоту каждого букета, делая его еще более выразительным. Ее элегантный внешний вид гармонично вписывается в классические и современные дизайнерские решения, привнося нотку утонченности и изысканности.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
-<vendorCode>HP-9-11</vendorCode>
-<param name="Материал">Стекло</param>
-<param name="Высота вазы">26 см</param>
-<param name="Диаметр вазы">13 см</param>
-<param name="Декоративное оформление">Без декора</param>
-<param name="Применение">Внутри помещения</param>
-<param name="Форма вазы">Фигурная</param>
-<param name="Ширина вазы">13 см</param>
-<param name="Диаметр горловины">8 см</param>
-<param name="Цвет">Желто-серый</param>
-<param name="Глубина вазы">21 см</param>
-<param name="Диаметр основания">9 см</param>
-<param name="Состояние">Новое</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-3Y-1S" available="true">
 <name>Часы настенные диаметр 10 см круглые на кухню в стиле лофт HP-3Y-1S</name>
 <price>349</price>
@@ -25882,6 +25855,33 @@
 <param name="Цвет">Молочный</param>
 <param name="Состояние">Новое</param>
 <param name="Форма">Круглая</param>
+<param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-9-11" available="true">
+<name>Ваза декоративная 26 см для цветов стеклянная фигурная ваза из цветного стекла 1.2 л Желто-серая HP-9-11</name>
+<price>1629</price>
+<vendorprice>817</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>12</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0000/HP-9-11_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/000/0000/HP-9-11_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/53718/4049/vaza_dekorativnaya_26_sm_dlya_tsvetov_steklyannaya_figurnaya_vaza_iz_tsvetnogo_stekla_1_2_l_zhelto_seraya_3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Декоративная ваза выполнена из высококачественного стекла, сочетающего простоту и элегантность. Ее дизайн отличается минималистичными формами, что придает вазе особый шарм. Высота вазы составляет 30 см, что делает ее универсальной для разнообразных цветочных композиций или как акцентный элемент в интерьере.  Основные характеристики:   Материал: стекло; Объем: 1.2 л; Диаметр: общий - 13 см, верхний - 8 см, нижний - 9 см; Высота: 26 см; Глубина: 21 см.   Для ухода за вазой необходимо регулярно чистить ее от остатков воды и растений, использовать мягкие моющие средства и избегать абразивных материалов, чтобы не повредить поверхность стекла.  Эта ваза станет стильным дополнением вашего интерьера и подчеркнет красоту каждого букета, делая его еще более выразительным. Ее элегантный внешний вид гармонично вписывается в классические и современные дизайнерские решения, привнося нотку утонченности и изысканности.]]></description>
+<quantity_in_stock>8</quantity_in_stock>
+<vendorCode>HP-9-11</vendorCode>
+<param name="Материал">Стекло</param>
+<param name="Высота вазы">26 см</param>
+<param name="Диаметр вазы">13 см</param>
+<param name="Декоративное оформление">Без декора</param>
+<param name="Применение">Внутри помещения</param>
+<param name="Форма вазы">Фигурная</param>
+<param name="Ширина вазы">13 см</param>
+<param name="Диаметр горловины">8 см</param>
+<param name="Цвет">Желто-серый</param>
+<param name="Глубина вазы">21 см</param>
+<param name="Диаметр основания">9 см</param>
+<param name="Состояние">Новое</param>
 <param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-4-14" available="true">
@@ -33406,7 +33406,7 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <picture>https://feed.lugi.com.ua/image/catalog/111/USB200L20MGW-1%281%29.jpg</picture>
 <vendor>Garlando</vendor>
 <description><![CDATA[Гирлянда USB роса идеально подходит для окон, дверей, стен, картин, елок, фотозоны. Гирлянда оснащена 100 яркими светодиодами, которые обеспечивают превосходное освещение.   Основные характеристики гирлянды роса   гирлянда роса 10 метров; 100 led светодиодов;  класс защиты IP44.   Особенностью этой гирлянды является ее питание от usb, что обеспечивает максимальную мобильность и удобство в эксплуатации. Новогодняя гирлянда Роса - это не только декоративный элемент, но и практичный инструмент для создания особого атмосферного света в вашем доме или на мероприятии любого уровня.  Купить гирлянду капли росы 10 метров можно с доставкой по всей Украине. Гирлянда подлежит возврату только в том случае, когда ее исправность проверена на почте. Во всех остальных случаях данный товар возврату не подлежит.]]></description>
-<quantity_in_stock>1526</quantity_in_stock>
+<quantity_in_stock>1525</quantity_in_stock>
 <vendorCode>USB100L10MWW</vendorCode>
 <param name="Количество светодиодов">100</param>
 <param name="Длина">10 м</param>
@@ -44556,27 +44556,6 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Форма лампочки">Классическая</param>
 <param name="Цветовая гамма">Желтый</param>
 </offer>
-<offer id="HP-42-43" available="true">
-<name>Коврик для кухни But first Coffee 58*38 см диатомитовый HP-42-43</name>
-<price>169</price>
-<vendorprice>130</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>48</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-43/HP-42-43_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-43/HP-42-43_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-43/HP-42-43_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6494/kovrik_na_kuhnyu_3d_kovrik_iz_diatomita_dlya_kuhni_bezvorsovyy_but_first_coffe_38_58_sm_kovrik_kuhonnyy_na_pol_v_kuhnyu_3.jpg</picture>
-<vendor>Jiamat</vendor>
-<description><![CDATA[Этот коврик станет стильным и функциональным дополнением вашей кухни. Изготовленный из натурального диатомита, он эффективно впитывает влагу, брызги воды и капли во время готовки, быстро сохнет и помогает поддерживать чистоту и сухость пола. Прочная структура и противоскользящая основа делают его удобным для ежедневного использования у рабочей зоны, возле мойки или столешницы.  Характеристики коврика на кухню из диатомита:   Материал: натуральный диатомит — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома.   Преимущества влаговпитывающего кбезворсового коврика на пол для кухни:   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
-<quantity_in_stock>172</quantity_in_stock>
-<vendorCode>HP-42-43</vendorCode>
-<param name="Подходит для пола с подогревом">Да</param>
-<param name="Ширина">38</param>
-<param name="Количество в наборе">1</param>
-<param name="Цвет">Черный</param>
-<param name="Длина">58</param>
-<param name="Форма">Прямоугольная</param>
-</offer>
 <offer id="HP-42-56" available="true">
 <name>Диатомитовый овальный коврик Good Luck 38×58 (см) влаговпитывающий HP-42-56</name>
 <price>169</price>
@@ -44677,6 +44656,27 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Цвет">Розовый</param>
 <param name="Тип термоса">Питьевой</param>
 <param name="Гарантия">14 дней</param>
+</offer>
+<offer id="HP-42-43" available="true">
+<name>Коврик для кухни But first Coffee 58*38 см диатомитовый HP-42-43</name>
+<price>169</price>
+<vendorprice>130</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>48</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-43/HP-42-43_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-43/HP-42-43_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-43/HP-42-43_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67156/6494/kovrik_na_kuhnyu_3d_kovrik_iz_diatomita_dlya_kuhni_bezvorsovyy_but_first_coffe_38_58_sm_kovrik_kuhonnyy_na_pol_v_kuhnyu_3.jpg</picture>
+<vendor>Jiamat</vendor>
+<description><![CDATA[Этот коврик станет стильным и функциональным дополнением вашей кухни. Изготовленный из натурального диатомита, он эффективно впитывает влагу, брызги воды и капли во время готовки, быстро сохнет и помогает поддерживать чистоту и сухость пола. Прочная структура и противоскользящая основа делают его удобным для ежедневного использования у рабочей зоны, возле мойки или столешницы.  Характеристики коврика на кухню из диатомита:   Материал: натуральный диатомит — природный минерал с высокой влагопоглощающей способностью; Размер: 58*38 см; Вес: 0.4 кг; Применение: универсальный коврик для дома.   Преимущества влаговпитывающего кбезворсового коврика на пол для кухни:   Влагопоглощение: мгновенно впитывает воду и брызги, сохраняя пол сухим. Быстрое высыхание: пористая структура диатома обеспечивает быстрое испарение влаги. Противоскользящая поверхность: надежно держится на любой поверхности, предотвращая падения. Легкий уход: достаточно протереть влажной тряпкой или промыть под душем; при необходимости можно использовать немного моющего средства. Стиль и долговечность: современный дизайн легко вписывается в любой интерьер, а прочный материал сохраняет коврик надолго.   Диатомовый коврик — это сочетание комфорта, безопасности и стиля, которое делает каждый уголок вашего дома уютным и практичным.]]></description>
+<quantity_in_stock>171</quantity_in_stock>
+<vendorCode>HP-42-43</vendorCode>
+<param name="Подходит для пола с подогревом">Да</param>
+<param name="Ширина">38</param>
+<param name="Количество в наборе">1</param>
+<param name="Цвет">Черный</param>
+<param name="Длина">58</param>
+<param name="Форма">Прямоугольная</param>
 </offer>
 <offer id="503-31-F" available="true">
 <name>Набор кухонных полотенец из льна 2 штуки 30*40 см</name>
@@ -60511,26 +60511,6 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Цвет">Прозрачный</param>
 <param name="Форма">Круглая</param>
 </offer>
-<offer id="HP-42-155" available="true">
-<name>Коврик универсальный Ornament 58*58 см диатомитовый Yiwu HP-42-155</name>
-<price>329</price>
-<vendorprice>205</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>48</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-42-155/HP-42-155_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7586/kovrik_universalnyy_ornament_58_58_sm_diatomitovyy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-42-155/HP-42-155_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/HP-42-155/HP-42-155_3.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Универсальный диатомитовый коврик 58×58 см — практичный аксессуар для помещений, где важно поддерживать сухость и чистоту поверхности. Изготовленный из натурального диатомита, коврик быстро впитывает влагу и способствует её быстрому испарению. Нескользящая основа обеспечивает надёжную фиксацию на различных типах покрытий, повышая безопасность при использовании. Квадратная форма размером 58×58 см обеспечивает удобное размещение, а прочный материал сохраняет свои свойства даже при ежедневном использовании. Диатомитовый коврик сочетает в себе эффективное поглощение влаги, быстрое высыхание, простоту ухода и современный внешний вид, что делает его практичным решением для любого интерьера. Преимущества  Изготовлен из натурального диатомита. Быстро впитывает влагу. Быстро высыхает после намокания. Нескользящая основа для надёжной фиксации. Помогает поддерживать поверхность сухой и чистой. Прост в уходе и долговечен.  Характеристики  Тип: универсальный коврик. Форма: квадратная. Материал: диатомит. Основа: нескользящая. Размер: 58×58 см. Вес: 600 г.  Правила ухода  Очищать влажной тканью или мягкой губкой. При необходимости промывать чистой водой. Не стирать в стиральной машине. Сушить естественным способом. Не использовать абразивные средства для очистки.]]></description>
-<quantity_in_stock>77</quantity_in_stock>
-<vendorCode>HP-42-155</vendorCode>
-<param name="Материал">Диатомит</param>
-<param name="Ширина">58</param>
-<param name="Количество в наборе">1</param>
-<param name="Длина">58</param>
-<param name="Форма">Квадратная</param>
-</offer>
 <offer id="HP-GM-17" available="true">
 <name>Термочашка &amp;quot;Coffee&amp;quot; 400 мл с ремешком и откидной крышкой-клапаном, черный Yiwu HP-GM-17</name>
 <price>699</price>
@@ -60810,6 +60790,26 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Тип тарелки">Глубокая</param>
 <param name="Цвет">Белый</param>
 <param name="Длина">120</param>
+<param name="Форма">Квадратная</param>
+</offer>
+<offer id="HP-42-155" available="true">
+<name>Коврик универсальный Ornament 58*58 см диатомитовый Yiwu HP-42-155</name>
+<price>329</price>
+<vendorprice>205</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>48</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-42-155/HP-42-155_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77244/7586/kovrik_universalnyy_ornament_58_58_sm_diatomitovyy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-42-155/HP-42-155_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/HP-42-155/HP-42-155_3.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Универсальный диатомитовый коврик 58×58 см — практичный аксессуар для помещений, где важно поддерживать сухость и чистоту поверхности. Изготовленный из натурального диатомита, коврик быстро впитывает влагу и способствует её быстрому испарению. Нескользящая основа обеспечивает надёжную фиксацию на различных типах покрытий, повышая безопасность при использовании. Квадратная форма размером 58×58 см обеспечивает удобное размещение, а прочный материал сохраняет свои свойства даже при ежедневном использовании. Диатомитовый коврик сочетает в себе эффективное поглощение влаги, быстрое высыхание, простоту ухода и современный внешний вид, что делает его практичным решением для любого интерьера. Преимущества  Изготовлен из натурального диатомита. Быстро впитывает влагу. Быстро высыхает после намокания. Нескользящая основа для надёжной фиксации. Помогает поддерживать поверхность сухой и чистой. Прост в уходе и долговечен.  Характеристики  Тип: универсальный коврик. Форма: квадратная. Материал: диатомит. Основа: нескользящая. Размер: 58×58 см. Вес: 600 г.  Правила ухода  Очищать влажной тканью или мягкой губкой. При необходимости промывать чистой водой. Не стирать в стиральной машине. Сушить естественным способом. Не использовать абразивные средства для очистки.]]></description>
+<quantity_in_stock>76</quantity_in_stock>
+<vendorCode>HP-42-155</vendorCode>
+<param name="Материал">Диатомит</param>
+<param name="Ширина">58</param>
+<param name="Количество в наборе">1</param>
+<param name="Длина">58</param>
 <param name="Форма">Квадратная</param>
 </offer>
 <offer id="HP-GP-8" available="true">
@@ -61107,28 +61107,6 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Диаметр">26</param>
 <param name="Объем">2</param>
 <param name="Цвет">Золотистый</param>
-</offer>
-<offer id="SP-47W" available="true">
-<name>Камин декоративный с LED-подсветкой 101 см, белый Yiwu SP-47W</name>
-<price>5299</price>
-<vendorprice>3325</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>25</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7843/kamin_dekorativnyy_s_led_podsvetkoy_101_sm_belyy.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7843/kamin_dekorativnyy_s_led_podsvetkoy_101_sm_belyy_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7843/kamin_dekorativnyy_s_led_podsvetkoy_101_sm_belyy_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7843/kamin_dekorativnyy_s_led_podsvetkoy_101_sm_belyy_3.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7843/kamin_dekorativnyy_s_led_podsvetkoy_101_sm_belyy_4.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Декоративный светодиодный светильник-камин — настенный или настольный интерьерный фонарь с имитацией тлеющих углей и эффектом живого пламени. Особенности  Длина 101 см: Широкая панель позволяет использовать светильник как самостоятельный элемент декора для стен, ниш или каминных порталов. Светодиодная подсветка (LED): Энергоэффективные светодиоды воспроизводят динамический эффект мерцания углей и огня без нагрева и выделения дыма. Легкий пластиковый корпус: Прочный пластик упрощает монтаж и транспортировку, исключая высокую нагрузку на настенные крепления или полки. Устройство поддерживает два типа питания: автономное от 3 батареек типа C (1.5V R14, приобретаются отдельно) или постоянное от любого USB-порта с помощью комплектного кабеля USB-DC. Это позволяет разместить декоративный камин в любом удобном месте дома без привязки к розеткам. Безопасность: Не выделяет гари, сажи и копоти, не нагревает окружающие предметы, безопасен для использования в жилых помещениях.  Рекомендации по уходу и эксплуатации  Только для закрытых помещений: Предназначен для использования внутри сухих отапливаемых помещений (избегайте попадания влаги). Очистка: Протирайте корпус и переднюю панель сухой или слегка влажной мягкой салфеткой из микрофибры. Уход: Во избежание появления царапин на пластике не используйте абразивные чистящие средства, растворители и жесткие губки.  Характеристики  Материал: пластик Размеры: 101*14*28 см Вес: 3,9 кг]]></description>
-<quantity_in_stock>75</quantity_in_stock>
-<vendorCode>SP-47W</vendorCode>
-<param name="Высота">28</param>
-<param name="Вес камина">3.9</param>
-<param name="Глубина">14</param>
-<param name="Ширина">101</param>
-<param name="Эффект пламени">Да</param>
-<param name="Материал каркаса">пластик</param>
 </offer>
 <offer id="HP-SDHK-29" available="true">
 <name>Набор тарелок сервировочных &amp;quot;Рождественская традиция&amp;quot; 6 штук по 27 см, красный Yiwu HP-SDHK-29</name>
@@ -61458,6 +61436,28 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Материал ручки">Сталь</param>
 <param name="Цвет">Зелёный</param>
 <param name="Материал корпуса термоса">Пластик</param>
+</offer>
+<offer id="SP-47W" available="true">
+<name>Камин декоративный с LED-подсветкой 101 см, белый Yiwu SP-47W</name>
+<price>5299</price>
+<vendorprice>3325</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>25</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7843/kamin_dekorativnyy_s_led_podsvetkoy_101_sm_belyy.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7843/kamin_dekorativnyy_s_led_podsvetkoy_101_sm_belyy_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7843/kamin_dekorativnyy_s_led_podsvetkoy_101_sm_belyy_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7843/kamin_dekorativnyy_s_led_podsvetkoy_101_sm_belyy_3.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/77939/7843/kamin_dekorativnyy_s_led_podsvetkoy_101_sm_belyy_4.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Декоративный светодиодный светильник-камин — настенный или настольный интерьерный фонарь с имитацией тлеющих углей и эффектом живого пламени. Особенности  Длина 101 см: Широкая панель позволяет использовать светильник как самостоятельный элемент декора для стен, ниш или каминных порталов. Светодиодная подсветка (LED): Энергоэффективные светодиоды воспроизводят динамический эффект мерцания углей и огня без нагрева и выделения дыма. Легкий пластиковый корпус: Прочный пластик упрощает монтаж и транспортировку, исключая высокую нагрузку на настенные крепления или полки. Устройство поддерживает два типа питания: автономное от 3 батареек типа C (1.5V R14, приобретаются отдельно) или постоянное от любого USB-порта с помощью комплектного кабеля USB-DC. Это позволяет разместить декоративный камин в любом удобном месте дома без привязки к розеткам. Безопасность: Не выделяет гари, сажи и копоти, не нагревает окружающие предметы, безопасен для использования в жилых помещениях.  Рекомендации по уходу и эксплуатации  Только для закрытых помещений: Предназначен для использования внутри сухих отапливаемых помещений (избегайте попадания влаги). Очистка: Протирайте корпус и переднюю панель сухой или слегка влажной мягкой салфеткой из микрофибры. Уход: Во избежание появления царапин на пластике не используйте абразивные чистящие средства, растворители и жесткие губки.  Характеристики  Материал: пластик Размеры: 101*14*28 см Вес: 3,9 кг]]></description>
+<quantity_in_stock>74</quantity_in_stock>
+<vendorCode>SP-47W</vendorCode>
+<param name="Высота">28</param>
+<param name="Вес камина">3.9</param>
+<param name="Глубина">14</param>
+<param name="Ширина">101</param>
+<param name="Эффект пламени">Да</param>
+<param name="Материал каркаса">пластик</param>
 </offer>
 <offer id="YF807A-2000W" available="true">
 <name>Светодиодное дерево декоративное 2000 LED 150 см 8 режимов свечения, белый Yiwu YF807A-2000W</name>
@@ -76199,27 +76199,6 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Форма">Овальная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-47-6M" available="true">
-<name>Коврик привратный декоративный 60*40 см Мятный HP-47-6M</name>
-<price>259</price>
-<vendorprice>197</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>49</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6370/pridvernyy_kovrik_60h40_sm_hello_s_bultererom_milyy_gryazezashchitnyy_kovrik_pvh.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6370/pridvernyy_kovrik_60h40_sm_hello_s_bultererom_milyy_gryazezashchitnyy_kovrik_pvh_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6370/pridvernyy_kovrik_60h40_sm_hello_s_bultererom_milyy_gryazezashchitnyy_kovrik_pvh_2.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Этот коврик заставит улыбнуться каждого, кто переступает порог вашего дома. Вместо скучного черного прямоугольника, гостей встречает волшебный белый бультерьер с забавным черным пятном на глазу и приветливой надписью "hello".  Нежный мятный цвет фона добавит свежести интерьеру прихожей, а жизнерадостный дизайн поднимет настроение даже в пасмурную погоду. Коврик изготовлен из современного пористого ПВХ (структура "лапша" или "спираль"), который работает как щетка: упругие волокна эффективно счищают грязь, песок и снег из подошвы обуви, задерживая их внутри и не позволяя разноситься по квартире.  Он не скользит, не боится влаги и очень прост в уходе - чтобы очистить, достаточно просто вытряхнуть его или промыть под душем. Это идеальный выбор для владельцев домашних животных и людей с чувством юмора.  Характеристики придверного коврика и грязезащитного покрытия:   Тип изделия: коврик под дверь, грязезащитный; Материал: ПВХ (поливинилхлорид); Структура: ворсистая, "вермишель"; Размер (ДхШ): 60 х 40 см; Вес изделия: 0,600 кг; Декор: рисунок собаки (бультерьер), надпись "hello Welcome Home"; Цвет: мятный/бирюзовый с белым; Назначение: для прихожей, коридора, крыльца; Особенности: легко моется, задерживает грязь, водостойкий.]]></description>
-<quantity_in_stock>36</quantity_in_stock>
-<vendorCode>HP-47-6M</vendorCode>
-<param name="Материал">ПВХ</param>
-<param name="Подходит для пола с подогревом">Да</param>
-<param name="Ширина">40</param>
-<param name="Количество в наборе">1</param>
-<param name="Длина">60</param>
-<param name="Форма">Прямоугольная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="CR-5-8" available="true">
 <name>Новогодняя фигурка с подсветкой Девочка на снежном шаре из фарфора 8×7×16 (см) новогодний декор для дома, квартиры на подарок CR-5-8</name>
 <price>429</price>
@@ -76827,6 +76806,27 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Тематика декора, рисунка">Новый год, Рождество</param>
 <param name="Подходит для мытья в посудомоечной машине">Да</param>
 <param name="Форма">Круглая</param>
+</offer>
+<offer id="HP-47-6M" available="true">
+<name>Коврик привратный декоративный 60*40 см Мятный HP-47-6M</name>
+<price>259</price>
+<vendorprice>197</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>49</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6370/pridvernyy_kovrik_60h40_sm_hello_s_bultererom_milyy_gryazezashchitnyy_kovrik_pvh.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6370/pridvernyy_kovrik_60h40_sm_hello_s_bultererom_milyy_gryazezashchitnyy_kovrik_pvh_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/67151/6370/pridvernyy_kovrik_60h40_sm_hello_s_bultererom_milyy_gryazezashchitnyy_kovrik_pvh_2.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Этот коврик заставит улыбнуться каждого, кто переступает порог вашего дома. Вместо скучного черного прямоугольника, гостей встречает волшебный белый бультерьер с забавным черным пятном на глазу и приветливой надписью "hello".  Нежный мятный цвет фона добавит свежести интерьеру прихожей, а жизнерадостный дизайн поднимет настроение даже в пасмурную погоду. Коврик изготовлен из современного пористого ПВХ (структура "лапша" или "спираль"), который работает как щетка: упругие волокна эффективно счищают грязь, песок и снег из подошвы обуви, задерживая их внутри и не позволяя разноситься по квартире.  Он не скользит, не боится влаги и очень прост в уходе - чтобы очистить, достаточно просто вытряхнуть его или промыть под душем. Это идеальный выбор для владельцев домашних животных и людей с чувством юмора.  Характеристики придверного коврика и грязезащитного покрытия:   Тип изделия: коврик под дверь, грязезащитный; Материал: ПВХ (поливинилхлорид); Структура: ворсистая, "вермишель"; Размер (ДхШ): 60 х 40 см; Вес изделия: 0,600 кг; Декор: рисунок собаки (бультерьер), надпись "hello Welcome Home"; Цвет: мятный/бирюзовый с белым; Назначение: для прихожей, коридора, крыльца; Особенности: легко моется, задерживает грязь, водостойкий.]]></description>
+<quantity_in_stock>35</quantity_in_stock>
+<vendorCode>HP-47-6M</vendorCode>
+<param name="Материал">ПВХ</param>
+<param name="Подходит для пола с подогревом">Да</param>
+<param name="Ширина">40</param>
+<param name="Количество в наборе">1</param>
+<param name="Длина">60</param>
+<param name="Форма">Прямоугольная</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="28124303" available="true">
 <name>Декоративный новогодний домик из дерева 6*11*18 (см)  Серебро 28124303</name>
@@ -82213,28 +82213,6 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Форма">Прямоугольная</param>
 <param name="Гарантия">14 дней</param>
 </offer>
-<offer id="HP-42-8W" available="true">
-<name>Коврик для душа из поливинилхлорида на присосках 73×40 см Белый HP-42-8W</name>
-<price>599</price>
-<vendorprice>452</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>47</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-8W/HP-42-8W-1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-8W/HP-42-8W_1.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-8W/HP-42-8W_2.jpg</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-8W/HP-42-8W_4.jpg</picture>
-<vendor>Yiwu</vendor>
-<description><![CDATA[Коврик для кухни, ванной, туалета, душевой &mdash; практичный напольный аксессуар, защищающий пол и обеспечивающий комфорт при ежедневном использовании. Изготовлен из поливинилхлорида с прогумированной основой, коврик устойчив на гладких поверхностях и легко очищается. Оснащённый присосками, он надёжно фиксируется на поверхности, предотвращая скольжение и падения. Характеристики коврика на присосках: &bull; габариты &mdash; 73&times;40 см; &bull; материал &mdash; поливинилхлорид; &bull; влагопоглощающие свойства &mdash; нет; &bull; прогумированная основа &mdash; да; &bull; назначение &mdash; ванная, кухня, туалет. Преимущества коврика в ванну на присосках: &bull; устойчивость на поверхности &mdash; предотвращает скольжение; &bull; легкий уход &mdash; легко мыть и очищать; &bull; защита пола от загрязнений и воды; &bull; универсальность &mdash; подходит для ванной, кухни и туалета; &bull; компактные размеры &mdash; удобное размещение в любом помещении. Такой коврик станет удобным и практичным дополнением вашего дома, сочетая безопасность, комфорт и защиту поверхности.]]></description>
-<quantity_in_stock>27</quantity_in_stock>
-<vendorCode>HP-42-8W</vendorCode>
-<param name="Тип">Коврик для ванной</param>
-<param name="Основа">Резина</param>
-<param name="Подходит для пола с подогревом">Да</param>
-<param name="Ширина">40 см</param>
-<param name="Длина">73 см</param>
-<param name="Форма">Прямоугольная</param>
-<param name="Гарантия">14 дней</param>
-</offer>
 <offer id="HP-56-24GR" available="true">
 <name>Подушка-подголовник Minimal для путешествий, оливковый</name>
 <url>https://lugi.com.ua/ru/podushka-dlya-golovi-hp-56-24gr/</url>
@@ -82847,6 +82825,28 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Форма">Фигурная</param>
 <param name="Гарантия">14 дней</param>
 <param name="Тип подставки">Многоразовая</param>
+</offer>
+<offer id="HP-42-8W" available="true">
+<name>Коврик для душа из поливинилхлорида на присосках 73×40 см Белый HP-42-8W</name>
+<price>599</price>
+<vendorprice>452</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>47</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-8W/HP-42-8W-1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-8W/HP-42-8W_1.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-8W/HP-42-8W_2.jpg</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/0000/0.0/HP-42-8W/HP-42-8W_4.jpg</picture>
+<vendor>Yiwu</vendor>
+<description><![CDATA[Коврик для кухни, ванной, туалета, душевой &mdash; практичный напольный аксессуар, защищающий пол и обеспечивающий комфорт при ежедневном использовании. Изготовлен из поливинилхлорида с прогумированной основой, коврик устойчив на гладких поверхностях и легко очищается. Оснащённый присосками, он надёжно фиксируется на поверхности, предотвращая скольжение и падения. Характеристики коврика на присосках: &bull; габариты &mdash; 73&times;40 см; &bull; материал &mdash; поливинилхлорид; &bull; влагопоглощающие свойства &mdash; нет; &bull; прогумированная основа &mdash; да; &bull; назначение &mdash; ванная, кухня, туалет. Преимущества коврика в ванну на присосках: &bull; устойчивость на поверхности &mdash; предотвращает скольжение; &bull; легкий уход &mdash; легко мыть и очищать; &bull; защита пола от загрязнений и воды; &bull; универсальность &mdash; подходит для ванной, кухни и туалета; &bull; компактные размеры &mdash; удобное размещение в любом помещении. Такой коврик станет удобным и практичным дополнением вашего дома, сочетая безопасность, комфорт и защиту поверхности.]]></description>
+<quantity_in_stock>26</quantity_in_stock>
+<vendorCode>HP-42-8W</vendorCode>
+<param name="Тип">Коврик для ванной</param>
+<param name="Основа">Резина</param>
+<param name="Подходит для пола с подогревом">Да</param>
+<param name="Ширина">40 см</param>
+<param name="Длина">73 см</param>
+<param name="Форма">Прямоугольная</param>
+<param name="Гарантия">14 дней</param>
 </offer>
 <offer id="HP-19-156-2" available="true">
 <name>Стеклянная ваза сумочка с ручкой 16×8×18.5 (см) декоративная Серый HP-19-156-2</name>
@@ -87434,50 +87434,6 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Цвет корпуса">Черный</param>
 <param name="Форма">Прямоугольная</param>
 </offer>
-<offer id="509-33BE" available="true">
-<name>Игрушка-подушка Медведь с малышом и пледом 110×140 см, бежевый</name>
-<url>https://lugi.com.ua/ru/ru-cf-pled-igrashka-3v1-vedmid-z-malyam-110-140sm-509-33be/</url>
-<price>999</price>
-<vendorprice>812</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>107</categoryId>
-<picture>https://lugi.com.ua/image/cache/catalog/images/igrushki/509-33BR/509-33BE/509-33BE_7-600x600.jpg</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/igrushki/509-33BR/509-33BE/509-33BE_3-600x600.jpg</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/igrushki/509-33BR/509-33BE/509-33BE_2-600x600.jpg</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/igrushki/509-33BR/509-33BE/509-33BE_1-600x600.jpg</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/igrushki/509-33BR/509-33BE/509-33BE_5-600x600.jpg</picture>
-<picture>https://lugi.com.ua/image/cache/catalog/images/igrushki/509-33BR/509-33BE/509-33BE_4-600x600.jpg</picture>
-<description><![CDATA[<div class="opis-switch" role="tablist">
- <button type="button" class="opis-switch-btn active" data-pane="opis-pane-desc" role="tab" aria-selected="true">Описание</button>
- <button type="button" class="opis-switch-btn" data-pane="opis-pane-spec" role="tab" aria-selected="false">Характеристики</button>
- </div>
- <div class="opis-pane active" id="opis-pane-desc">
- <h2 class="opisanie-h2">Описание:</h2>
- <p>Мягкая игрушка в виде мишки изготовлена из приятного на ощупь плюша. 
-Медвежонок имеет округлую форму, аккуратные ушки, маленькие черные 
-глазки и более темный носик, что придает ему выразительность и уютный 
-вид. В лапках он держит маленького медвежонка, что подчеркивает 
-декоративность изделия и делает его особенно привлекательным для детской
- комнаты или в качестве подарка.</p><p>Конструкция игрушки позволяет 
-компактно хранить плед внутри игрушки, превращая ее в удобную подушку. 
-Плед изготовлен из кораллового плюша, имеет мягкую текстуру и 
-обеспечивает комфорт при использовании. Благодаря размеру 110×140 см его
- удобно использовать как для отдыха дома, так и брать с собой в дорогу 
-или на природу.</p><p>Такой формат экономит место и добавляет 
-функциональности: днем это декоративный элемент интерьера, а при 
-необходимости — теплый плед для отдыха. Изделие сочетает в себе 
-практичность и приятный внешний вид, что делает его универсальным в 
-использовании.</p><p><b>Характеристики:</b></p><ul><li> Тип: игрушка-подушка с пледом</li><li> Размер пледа: 110×140 см</li><li> Материал игрушки: плюш </li><li>Материал пледа: коралловый плюш</li></ul>]]></description>
-<quantity_in_stock>20</quantity_in_stock>
-<vendorCode>509-33BE</vendorCode>
-<param name="Гарантийный срок">14 дней</param>
-<param name="Комплектация">Игрушка/Подушка</param>
-<param name="Материал игрушки">Плюш</param>
-<param name="Материал подушки/пледа">Коралловый флис</param>
-<param name="Наполнитель игрушки/подушки">Синтепон</param>
-<param name="Размеры пледа">110*140 см</param>
-<param name="Цвет">Бежевый</param>
-</offer>
 <offer id="HP-7-15" available="true">
 <name>Декоративная фигурка Eagle-owl 12х11х28 см металлическая HP-7-15</name>
 <price>4299</price>
@@ -89186,6 +89142,50 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Форм-фактор">Переносной</param>
 <param name="Цвет корпуса">Черный</param>
 <param name="Форма">Прямоугольная</param>
+</offer>
+<offer id="509-33BE" available="true">
+<name>Игрушка-подушка Медведь с малышом и пледом 110×140 см, бежевый</name>
+<url>https://lugi.com.ua/ru/ru-cf-pled-igrashka-3v1-vedmid-z-malyam-110-140sm-509-33be/</url>
+<price>999</price>
+<vendorprice>812</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>107</categoryId>
+<picture>https://lugi.com.ua/image/cache/catalog/images/igrushki/509-33BR/509-33BE/509-33BE_7-600x600.jpg</picture>
+<picture>https://lugi.com.ua/image/cache/catalog/images/igrushki/509-33BR/509-33BE/509-33BE_3-600x600.jpg</picture>
+<picture>https://lugi.com.ua/image/cache/catalog/images/igrushki/509-33BR/509-33BE/509-33BE_2-600x600.jpg</picture>
+<picture>https://lugi.com.ua/image/cache/catalog/images/igrushki/509-33BR/509-33BE/509-33BE_1-600x600.jpg</picture>
+<picture>https://lugi.com.ua/image/cache/catalog/images/igrushki/509-33BR/509-33BE/509-33BE_5-600x600.jpg</picture>
+<picture>https://lugi.com.ua/image/cache/catalog/images/igrushki/509-33BR/509-33BE/509-33BE_4-600x600.jpg</picture>
+<description><![CDATA[<div class="opis-switch" role="tablist">
+ <button type="button" class="opis-switch-btn active" data-pane="opis-pane-desc" role="tab" aria-selected="true">Описание</button>
+ <button type="button" class="opis-switch-btn" data-pane="opis-pane-spec" role="tab" aria-selected="false">Характеристики</button>
+ </div>
+ <div class="opis-pane active" id="opis-pane-desc">
+ <h2 class="opisanie-h2">Описание:</h2>
+ <p>Мягкая игрушка в виде мишки изготовлена из приятного на ощупь плюша. 
+Медвежонок имеет округлую форму, аккуратные ушки, маленькие черные 
+глазки и более темный носик, что придает ему выразительность и уютный 
+вид. В лапках он держит маленького медвежонка, что подчеркивает 
+декоративность изделия и делает его особенно привлекательным для детской
+ комнаты или в качестве подарка.</p><p>Конструкция игрушки позволяет 
+компактно хранить плед внутри игрушки, превращая ее в удобную подушку. 
+Плед изготовлен из кораллового плюша, имеет мягкую текстуру и 
+обеспечивает комфорт при использовании. Благодаря размеру 110×140 см его
+ удобно использовать как для отдыха дома, так и брать с собой в дорогу 
+или на природу.</p><p>Такой формат экономит место и добавляет 
+функциональности: днем это декоративный элемент интерьера, а при 
+необходимости — теплый плед для отдыха. Изделие сочетает в себе 
+практичность и приятный внешний вид, что делает его универсальным в 
+использовании.</p><p><b>Характеристики:</b></p><ul><li> Тип: игрушка-подушка с пледом</li><li> Размер пледа: 110×140 см</li><li> Материал игрушки: плюш </li><li>Материал пледа: коралловый плюш</li></ul>]]></description>
+<quantity_in_stock>18</quantity_in_stock>
+<vendorCode>509-33BE</vendorCode>
+<param name="Гарантийный срок">14 дней</param>
+<param name="Комплектация">Игрушка/Подушка</param>
+<param name="Материал игрушки">Плюш</param>
+<param name="Материал подушки/пледа">Коралловый флис</param>
+<param name="Наполнитель игрушки/подушки">Синтепон</param>
+<param name="Размеры пледа">110*140 см</param>
+<param name="Цвет">Бежевый</param>
 </offer>
 <offer id="509-6GB" available="true">
 <name>Игрушка-подушка Пес Патрон с пледом 110×140 см, серый с коричневым</name>
@@ -92926,24 +92926,6 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Размеры">80*160 см</param>
 <param name="Тип упаковки">Пакет</param>
 </offer>
-<offer id="515-17-60W" available="true">
-<name>Салфетки в рулоне Виноград 20 штук 25×25 см из микрофибры Colorful Home 515-17-60W</name>
-<price>259</price>
-<vendorprice>218</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>60</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7341/salfetki_v_rulone_vinograd_20_shtuk_25_25_sm_iz_mikrofibry.jpg</picture>
-<vendor>Colorful Home</vendor>
-<description><![CDATA[Салфетки в рулоне по 20 штук, 25×25 см, из микрофибры — удобный и практичный вариант для повседневного использования дома или в быту. Мягкая микрофибра хорошо впитывает влагу, быстро высыхает и подходит для многократного использования. Формат в рулоне обеспечивает компактное хранение и легкое отрывание каждой салфетки. Преимущества ткани  Мягкая и приятная на ощупь микрофибра Хорошо впитывает влагу Быстро высыхает Подходит для многократного использования  Износостойкий материал Размер  25×25 см 20 штук в рулоне  Правила ухода  Стирать при температуре до 30°C Не использовать отбеливатели и агрессивные моющие средства Не гладить  Сушить естественным способом]]></description>
-<quantity_in_stock>13</quantity_in_stock>
-<vendorCode>515-17-60W</vendorCode>
-<param name="Тип">Салфетка</param>
-<param name="Материал">Микрофибра</param>
-<param name="Основное назначение">Универсальное</param>
-<param name="Ширина">25</param>
-<param name="Количество в упаковке">20</param>
-<param name="Длина">25</param>
-</offer>
 <offer id="85-210-126G" available="true">
 <name>Полотенце банное 70*140 см хлопковое, серый</name>
 <url>https://lugi.com.ua/ru/ru-rushnik-85-210-126g/</url>
@@ -93766,6 +93748,24 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Материал">Микрофибра</param>
 <param name="Размеры">25*50 см</param>
 <param name="Тип упаковки">Подарочная упаковка</param>
+</offer>
+<offer id="515-17-60W" available="true">
+<name>Салфетки в рулоне Виноград 20 штук 25×25 см из микрофибры Colorful Home 515-17-60W</name>
+<price>259</price>
+<vendorprice>218</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>60</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/75254/7341/salfetki_v_rulone_vinograd_20_shtuk_25_25_sm_iz_mikrofibry.jpg</picture>
+<vendor>Colorful Home</vendor>
+<description><![CDATA[Салфетки в рулоне по 20 штук, 25×25 см, из микрофибры — удобный и практичный вариант для повседневного использования дома или в быту. Мягкая микрофибра хорошо впитывает влагу, быстро высыхает и подходит для многократного использования. Формат в рулоне обеспечивает компактное хранение и легкое отрывание каждой салфетки. Преимущества ткани  Мягкая и приятная на ощупь микрофибра Хорошо впитывает влагу Быстро высыхает Подходит для многократного использования  Износостойкий материал Размер  25×25 см 20 штук в рулоне  Правила ухода  Стирать при температуре до 30°C Не использовать отбеливатели и агрессивные моющие средства Не гладить  Сушить естественным способом]]></description>
+<quantity_in_stock>12</quantity_in_stock>
+<vendorCode>515-17-60W</vendorCode>
+<param name="Тип">Салфетка</param>
+<param name="Материал">Микрофибра</param>
+<param name="Основное назначение">Универсальное</param>
+<param name="Ширина">25</param>
+<param name="Количество в упаковке">20</param>
+<param name="Длина">25</param>
 </offer>
 <offer id="HP-34-118" available="true">
 <name>Фруктовница стеклянная «Gold &amp;amp; Grey» 24 см на золотой ножке Yiwu HP-34-118</name>
@@ -95842,41 +95842,6 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
 <param name="Количество персон">4</param>
 <param name="Количество предметов">16</param>
 </offer>
-<offer id="SK-19023ML" available="true">
-<name>Весы кухонные до 5 кг электронные на батарейках SK-19023ML</name>
-<price>369</price>
-<vendorprice>289</vendorprice>
-<currencyId>UAH</currencyId>
-<categoryId>10</categoryId>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5978/vesy_kuhonnye_do_5_kg_elektronnye_dlya_vzveshivaniya_produktov_nastolnye_vesy_bez_chashi_na_batareykah.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5978/vesy_kuhonnye_do_5_kg_elektronnye_dlya_vzveshivaniya_produktov_nastolnye_vesy_bez_chashi_na_batareykah_1.png</picture>
-<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5978/vesy_kuhonnye_do_5_kg_elektronnye_dlya_vzveshivaniya_produktov_nastolnye_vesy_bez_chashi_na_batareykah_2.png</picture>
-<vendor>Sokany</vendor>
-<description><![CDATA[Кухонные весы Sokany &ndash; это неотъемлемый помощник в каждой кухне, который обеспечит точность и легкость при измерении ингредиентов. Удобные и стильные они станут неотъемлемой частью вашего кулинарного процесса.  Характеристики кухонных весов Sokany   размер: 18&times;18&times;1 см; материал: стекло + пластик; максимально допустимый вес: 5 кг; современный дизайн; дополнительная функция "тара"; автоматическое отключение.   Благодаря высокоточным сенсорам и системе автоматического отключения вы можете легко измерять вес ингредиентов от 1 г до 5 кг. Компактный дизайн и возможность использования 1 батарейки позволяют использовать эти весы в любом месте вашей кухни. Легкость очистки и хранения делают эти весы идеальным выбором для любой хозяйки, ценящей качество и комфорт в приготовлении блюд.]]></description>
-<quantity_in_stock>9</quantity_in_stock>
-<vendorCode>SK-19023ML</vendorCode>
-<param name="Высота">10</param>
-<param name="Вид кухонных весов">электронные</param>
-<param name="Вес">420</param>
-<param name="Глубина">18</param>
-<param name="Дисплей">Да</param>
-<param name="Единицы измерения">Грамм|Килограммы</param>
-<param name="Ширина">18</param>
-<param name="Компенсация тары">Да</param>
-<param name="Материал корпуса">Пластик/Стекло</param>
-<param name="Цвет">Бежевый</param>
-<param name="Конструкция тары">платформа</param>
-<param name="Крепление на стену">Нет</param>
-<param name="Максимальный вес">5</param>
-<param name="Состояние">Новое</param>
-<param name="Цвет корпуса">Белый</param>
-<param name="Таймер">Нет</param>
-<param name="Функция автоотключения">Да</param>
-<param name="Гарантия">14 дней</param>
-<param name="Точность измерения">1</param>
-<param name="Тип элементов питания">CR2032</param>
-<param name="Часы">Нет</param>
-</offer>
 <offer id="HP-4-417CO" available="true">
 <name>Алюминиевая сковорода 1,4 л, мраморное антипригарное покрытие, Ø 22 см, толстое дно, кофейный MGC HP-4-417CO</name>
 <price>1169</price>
@@ -97040,6 +97005,41 @@ Raiser 450 мл &mdash; это не просто практичный, но и �
  <h2 class="opisanie-h2">Описание:</h2>]]></description>
 <quantity_in_stock>9</quantity_in_stock>
 <vendorCode>503-145-A-54W</vendorCode>
+</offer>
+<offer id="SK-19023ML" available="true">
+<name>Весы кухонные до 5 кг электронные на батарейках SK-19023ML</name>
+<price>369</price>
+<vendorprice>289</vendorprice>
+<currencyId>UAH</currencyId>
+<categoryId>10</categoryId>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5978/vesy_kuhonnye_do_5_kg_elektronnye_dlya_vzveshivaniya_produktov_nastolnye_vesy_bez_chashi_na_batareykah.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5978/vesy_kuhonnye_do_5_kg_elektronnye_dlya_vzveshivaniya_produktov_nastolnye_vesy_bez_chashi_na_batareykah_1.png</picture>
+<picture>https://feed.lugi.com.ua/image/catalog/unixml/65809/5978/vesy_kuhonnye_do_5_kg_elektronnye_dlya_vzveshivaniya_produktov_nastolnye_vesy_bez_chashi_na_batareykah_2.png</picture>
+<vendor>Sokany</vendor>
+<description><![CDATA[Кухонные весы Sokany &ndash; это неотъемлемый помощник в каждой кухне, который обеспечит точность и легкость при измерении ингредиентов. Удобные и стильные они станут неотъемлемой частью вашего кулинарного процесса.  Характеристики кухонных весов Sokany   размер: 18&times;18&times;1 см; материал: стекло + пластик; максимально допустимый вес: 5 кг; современный дизайн; дополнительная функция "тара"; автоматическое отключение.   Благодаря высокоточным сенсорам и системе автоматического отключения вы можете легко измерять вес ингредиентов от 1 г до 5 кг. Компактный дизайн и возможность использования 1 батарейки позволяют использовать эти весы в любом месте вашей кухни. Легкость очистки и хранения делают эти весы идеальным выбором для любой хозяйки, ценящей качество и комфорт в приготовлении блюд.]]></description>
+<quantity_in_stock>8</quantity_in_stock>
+<vendorCode>SK-19023ML</vendorCode>
+<param name="Высота">10</param>
+<param name="Вид кухонных весов">электронные</param>
+<param name="Вес">420</param>
+<param name="Глубина">18</param>
+<param name="Дисплей">Да</param>
+<param name="Единицы измерения">Грамм|Килограммы</param>
+<param name="Ширина">18</param>
+<param name="Компенсация тары">Да</param>
+<param name="Материал корпуса">Пластик/Стекло</param>
+<param name="Цвет">Бежевый</param>
+<param name="Конструкция тары">платформа</param>
+<param name="Крепление на стену">Нет</param>
+<param name="Максимальный вес">5</param>
+<param name="Состояние">Новое</param>
+<param name="Цвет корпуса">Белый</param>
+<param name="Таймер">Нет</param>
+<param name="Функция автоотключения">Да</param>
+<param name="Гарантия">14 дней</param>
+<param name="Точность измерения">1</param>
+<param name="Тип элементов питания">CR2032</param>
+<param name="Часы">Нет</param>
 </offer>
 <offer id="C7W250350" available="true">
 <name>Кухонная разделочная доска деревянная 20×35 см с прямоугольной основой C7W250350</name>
